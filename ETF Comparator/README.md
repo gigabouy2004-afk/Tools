@@ -24,6 +24,23 @@ python ETF_ComparatorTool_v7.py --tickers SMH,SOXX,XLK
 
 If the configured input file is missing but `--tickers` is supplied, the script will continue with the terminal tickers.
 
+Build or refresh the classification mapping file:
+
+```powershell
+python ETF_ComparatorTool_v7.py --build-classification-map
+```
+
+Run by classification instead of changing input/output filenames:
+
+```powershell
+python ETF_ComparatorTool_v7.py --classification Semiconductor
+python ETF_ComparatorTool_v7.py --classification Bitcoin
+python ETF_ComparatorTool_v7.py --classification "South Korea"
+python ETF_ComparatorTool_v7.py --classification "Dividend/Income"
+```
+
+Classification filters match the generated mapping columns: `Asset Class`, `Strategy`, `Theme`, `Geography`, `Category Flags`, and `Security Name`.
+
 ## Dependencies
 
 - pandas
