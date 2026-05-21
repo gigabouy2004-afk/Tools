@@ -24,10 +24,16 @@ python ETF_ComparatorTool_v7.py --tickers SMH,SOXX,XLK
 
 If the configured input file is missing but `--tickers` is supplied, the script will continue with the terminal tickers.
 
-Build or refresh the classification mapping file:
+Build or refresh the classification mapping file with the standalone mapper:
 
 ```powershell
-python ETF_ComparatorTool_v7.py --build-classification-map
+python ETF_ClassificationMapper.py
+```
+
+For other ETF master files, pass the file and column names:
+
+```powershell
+python ETF_ClassificationMapper.py --input-file "D:\path\to\NSE_ETF_Master.csv" --output-file "D:\Tools\ETF_Comparator\INPUT\NSE_ETF_Classification_Mapping.csv" --ticker-column Symbol --name-column "Security Name" --default-geography India
 ```
 
 Run by classification instead of changing input/output filenames:
