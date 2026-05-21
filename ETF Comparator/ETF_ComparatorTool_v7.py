@@ -1,3 +1,4 @@
+import argparse
 import pandas as pd
 import yfinance as yf
 from pathlib import Path
@@ -9,9 +10,24 @@ INPUT_FILENAME = Path("D:/Tools/StockCodeMaster/ETF/01_INPUT_USA_Semiconductor_E
 OUTPUT_FILENAME = Path("D:/Tools/ETF_Comparator/OUTPUT/Theme_USA_Technology_Semiconductor_ETF_Comparator_Results_v2.xlsx")
 
 
-def load_tickers(input_path):
+def parse_ticker_codes(ticker_text):
+    if not ticker_text:
+        return []
+
+    tickers = [
+        ticker.strip().upper()
+        for ticker in ticker_text.split(",")
+        if ticker.strip()
+    ]
+    return sorted(set(tickers))
+
+
+def load_tickers(input_path, required=False):
     if not input_path.exists():
-        raise FileNotFoundError(f"Missing input file: {input_path}")
+        if required:
+            raise FileNotFoundError(f"Missing input file: {input_path}")
+        print(f"[WARN] Input file not found: {input_path}")
+        return []
 
     df = pd.read_csv(input_path, header=None, usecols=[0], dtype=str)
     tickers = (
@@ -26,6 +42,18 @@ def load_tickers(input_path):
     header_values = {"TICKER", "TICKERS", "SYMBOL", "SYMBOLS", "STOCK", "STOCK CODE", "STOCKCODE", "CODE"}
     tickers = [ticker for ticker in tickers if ticker and ticker not in header_values]
     return sorted(tickers)
+
+
+def collect_tickers(input_path, ticker_text=None):
+    file_tickers = load_tickers(input_path)
+    cli_tickers = parse_ticker_codes(ticker_text)
+    tickers = sorted(set(file_tickers + cli_tickers))
+
+    if not tickers:
+        raise ValueError("No ETF tickers found. Provide an input file or --tickers SMH,SOXX.")
+
+    print(f"[INFO] File tickers: {len(file_tickers)} | Terminal tickers: {len(cli_tickers)} | Unique tickers: {len(tickers)}")
+    return tickers
 
 
 def get_price_series(ticker):
@@ -144,17 +172,88 @@ def compute_returns(prices: pd.Series):
     return results
 
 
+def normalize_ratio(value):
+    if value is None or pd.isna(value):
+        return None
+
+    if isinstance(value, str):
+        cleaned = value.strip().replace("%", "")
+        if not cleaned:
+            return None
+        try:
+            value = float(cleaned)
+        except ValueError:
+            return None
+
+    try:
+        value = float(value)
+    except (TypeError, ValueError):
+        return None
+
+    if value > 1:
+        value = value / 100
+
+    return round(value, 6)
+
+
+def get_expense_ratio_from_funds_data(tk):
+    try:
+        funds_data = tk.get_funds_data()
+        fund_operations = funds_data.fund_operations
+    except Exception:
+        return None
+
+    if fund_operations is None or fund_operations.empty:
+        return None
+
+    possible_labels = [
+        "Annual Report Expense Ratio",
+        "Expense Ratio",
+        "Net Expense Ratio",
+        "Gross Expense Ratio",
+    ]
+
+    for label in possible_labels:
+        if label not in fund_operations.index:
+            continue
+
+        row = fund_operations.loc[label]
+        if isinstance(row, pd.Series):
+            for value in row.dropna():
+                ratio = normalize_ratio(value)
+                if ratio is not None:
+                    return ratio
+        else:
+            ratio = normalize_ratio(row)
+            if ratio is not None:
+                return ratio
+
+    return None
+
+
+def get_expense_ratio(info, tk):
+    possible_keys = [
+        "expenseRatio",
+        "annualReportExpenseRatio",
+        "netExpenseRatio",
+        "grossExpenseRatio",
+    ]
+
+    for key in possible_keys:
+        ratio = normalize_ratio(info.get(key))
+        if ratio is not None:
+            return ratio
+
+    return get_expense_ratio_from_funds_data(tk)
+
+
 def extract_fundamentals(tk):
     try:
         info = tk.info
     except Exception:
         info = {}
 
-    expense_ratio = (
-        info.get("expenseRatio")
-        or info.get("annualReportExpenseRatio")
-        or None
-    )
+    expense_ratio = get_expense_ratio(info, tk)
 
     aum = info.get("totalAssets") or info.get("marketCap")
     aum_m = aum / 1_000_000 if aum else None
@@ -167,7 +266,7 @@ def extract_fundamentals(tk):
     }
 
 
-def run():
+def run(ticker_text=None):
     base = Path(BASE_FOLDER)
     base.mkdir(parents=True, exist_ok=True)
 
@@ -175,7 +274,7 @@ def run():
     output_path = OUTPUT_FILENAME if OUTPUT_FILENAME.is_absolute() else base / OUTPUT_FILENAME
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
-    tickers = load_tickers(input_path)
+    tickers = collect_tickers(input_path, ticker_text)
 
     results = []
 
@@ -227,5 +326,15 @@ def run():
     print(f"\nSaved -> {output_path}")
 
 
+def parse_args():
+    parser = argparse.ArgumentParser(description="Compare ETF returns and fundamentals.")
+    parser.add_argument(
+        "--tickers",
+        help="Optional comma-separated ETF tickers to combine with INPUT_FILENAME, e.g. SMH,SOXX,XLK.",
+    )
+    return parser.parse_args()
+
+
 if __name__ == "__main__":
-    run()
+    args = parse_args()
+    run(args.tickers)
