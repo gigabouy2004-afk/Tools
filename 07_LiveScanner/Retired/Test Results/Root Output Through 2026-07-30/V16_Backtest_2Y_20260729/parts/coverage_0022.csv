@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+TTAM,US,Titan America SA Common Shares,Industrials,PROCESSED,,368,2025-02-07,2026-07-28,368,5
+BTE,US,Baytex Energy Corp Common Shares,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+UUUU,US,Energy Fuels Inc Ordinary Shares (Canada),Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+WK,US,Workiva Inc. Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+NVTS,US,Navitas Semiconductor Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+ADEA,US,Adeia Inc.  - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+AADX,US,"Applied Aerospace & Defense, Inc. Common Stock",Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,38,2026-06-03,2026-07-28,0,0
+UA,US,"Under Armour, Inc. Class C Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+USLM,US,"United States Lime & Minerals, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+HAYW,US,"Hayward Holdings, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+SEDG,US,"SolarEdge Technologies, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+DBD,US,Diebold Nixdorf Incorporated Common stock,Miscellaneous,PROCESSED,,741,2023-08-14,2026-07-28,501,18
+GRBK,US,"Green Brick Partners, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+BHE,US,"Benchmark Electronics, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+ARIS,US,Aris Mining Corporation Common Shares,,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+TRMD,US,TORM plc - Class A Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+UNFI,US,"United Natural Foods, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+WRBY,US,Warby Parker Inc. Class A Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+BELFA,US,Bel Fuse Inc. - Class A Common Stock,,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+FUL,US,H. B. Fuller Company Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+KC,US,Kingsoft Cloud Holdings Limited - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+HWKN,US,"Hawkins, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+ZIM,US,ZIM Integrated Shipping Services Ltd. Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+RGC,US,Regencell Bioscience Holdings Limited - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+PONY,US,Pony AI Inc. - American Depositary Shares,Technology,PROCESSED,,415,2024-11-27,2026-07-28,415,1
+HOG,US,"Harley-Davidson, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+ASO,US,"Academy Sports and Outdoors, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+NTCT,US,"NetScout Systems, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+PENG,US,"Penguin Solutions, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+MMS,US,"Maximus, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+BRZE,US,"Braze, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SBLK,US,Star Bulk Carriers Corp. - Common Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+DHT,US,"DHT Holdings, Inc.",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+DAN,US,Dana Incorporated Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+ATRO,US,Astronics Corporation - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+FRSH,US,Freshworks Inc. - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+HNI,US,HNI Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+EXPO,US,"Exponent, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+CXT,US,"Crane NXT, Co. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+TRN,US,"Trinity Industries, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+AD,US,"Array Digital Infrastructure, Inc. Common Shares",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,20
+PHIN,US,PHINIA Inc. Common Stock,Consumer Discretionary,PROCESSED,,773,2023-06-28,2026-07-28,501,17
+EFXT,US,Enerflex Ltd Common Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+EROC,US,"ERock, Inc. Class A Common Stock",Energy,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,33,2026-06-10,2026-07-28,0,0
+VGNT,US,Versigent PLC Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,84,2026-03-27,2026-07-28,0,0
+IRON,US,"Disc Medicine, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+NESR,US,National Energy Services Reunited Corp - Ordinary Shares,Energy,PROCESSED,,515,2024-07-09,2026-07-28,501,9
+MBX,US,"MBX Biosciences, Inc. - Common Stock",Health Care,PROCESSED,,468,2024-09-13,2026-07-28,468,5
+BKV,US,BKV Corporation Common Stock,Energy,PROCESSED,,459,2024-09-26,2026-07-28,459,5
+MGRC,US,McGrath RentCorp - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5

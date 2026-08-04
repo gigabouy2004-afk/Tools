@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+PTGX,US,"Protagonist Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+RRC,US,Range Resources Corporation Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+TTC,US,Toro Company (The) Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+FORM,US,"FormFactor, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+PRAX,US,"Praxis Precision Medicines, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+ACM,US,AECOM Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+CRNX,US,"Crinetics Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+LLYVA,US,"Liberty Live Holdings, Inc. - Series A Liberty Live Group Common Stock",Consumer Discretionary,PROCESSED,,747,2023-08-04,2026-07-28,501,18
+IONS,US,"Ionis Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+ALKS,US,Alkermes plc - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+TX,US,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+TEM,US,"Tempus AI, Inc. - Class A Common Stock",Technology,PROCESSED,,530,2024-06-14,2026-07-28,501,3
+FDS,US,FactSet Research Systems Inc. Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+IAG,US,Iamgold Corporation Ordinary Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,20
+AAON,US,"AAON, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+FLS,US,Flowserve Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+KT,US,KT Corporation Common Stock,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+ALV,US,"Autoliv, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+ESE,US,ESCO Technologies Inc. Common Stock,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+APLD,US,Applied Digital Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+TTD,US,"The Trade Desk, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+FRO,US,Frontline Plc Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+COMP,US,"Compass, Inc. Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+AGX,US,"Argan, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,26
+IBRX,US,"ImmunityBio, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+PCVX,US,"Vaxcyte, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SAIL,US,"SailPoint, Inc. - Common Stock",Technology,PROCESSED,,364,2025-02-13,2026-07-28,364,0
+QGEN,US,Qiagen N.V. Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+AG,US,First Majestic Silver Corp. Ordinary Shares (Canada),Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+TGTX,US,"TG Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1001,2022-07-29,2026-07-28,500,11
+ASR,US,"Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+MP,US,MP Materials Corp. Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+PL,US,Planet Labs PBC Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+ATR,US,"AptarGroup, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+HXL,US,Hexcel Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+HQY,US,"HealthEquity, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+IMVT,US,"Immunovant, Inc.  - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+AOS,US,A.O. Smith Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+AGCO,US,AGCO Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+BIO,US,"Bio-Rad Laboratories, Inc. Class A Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+KEX,US,Kirby Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+RAL,US,Ralliant Corporation Common Stock,Industrials,PROCESSED,,274,2025-06-25,2026-07-28,274,1
+BVN,US,Buenaventura Mining Company Inc.,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+SGHC,US,Super Group (SGHC) Limited Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+TTEK,US,"Tetra Tech, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+EMN,US,Eastman Chemical Company Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+ZWS,US,Zurn Elkay Water Solutions Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+CAE,US,CAE Inc. Ordinary Shares,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+QRVO,US,"Qorvo, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+LGN,US,Legence Corp. - Class A Common stock,Consumer Discretionary,PROCESSED,,219,2025-09-12,2026-07-28,219,0

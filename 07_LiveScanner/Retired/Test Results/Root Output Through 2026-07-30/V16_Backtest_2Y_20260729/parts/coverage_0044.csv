@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+IONR,US,ioneer Ltd - American Depositary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SIGA,US,SIGA Technologies Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+HCKT,US,"The Hackett Group, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+RAIL,US,"Freightcar America, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+UIS,US,Unisys Corporation New Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+NUS,US,"Nu Skin Enterprises, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+GALT,US,Galectin Therapeutics Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+CXDO,US,"Crexendo, Inc. - Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+IRD,US,"Opus Genetics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+HDSN,US,"Hudson Technologies, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+SLGL,US,Sol-Gel Technologies Ltd. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+PROF,US,Profound Medical Corp. - common stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+AZ,US,A2Z Cust2Mate Solutions Corp. - Common Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+TRDA,US,"Entrada Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+ORBS,US,Eightco Holdings Inc. - Common Stock,,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RELL,US,"Richardson Electronics, Ltd. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+TBI,US,"TrueBlue, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DUOT,US,"Duos Technologies Group, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+PDYN,US,Palladyne AI Corp. - Common stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+ARTV,US,"Artiva Biotherapeutics, Inc. - Common Stock",Health Care,PROCESSED,,507,2024-07-19,2026-07-28,501,1
+FOSL,US,"Fossil Group, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+VGZ,US,Vista Gold Corp Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+FULC,US,"Fulcrum Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+CMRC,US,"Commerce.com, Inc. - Series 1 Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GTE,US,Gran Tierra Energy Inc. Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+JILL,US,"J. Jill, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ADAG,US,"Adagene Inc. - ADS, each representing 1.25 ordinary shares",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+ANNA,US,"AleAnna, Inc. - Class A Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CNDT,US,Conduent Incorporated - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+GSIT,US,"GSI Technology, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+RNAC,US,"Cartesian Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+REA,US,"Rare Earths Americas, Inc. Common Stock",Basic Materials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,58,2026-05-05,2026-07-28,0,0
+EU,US,enCore Energy Corp. - Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AVXL,US,Anavex Life Sciences Corp. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+FRD,US,Friedman Industries Inc. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+CGEN,US,Compugen Ltd. - Ordinary Shares,Health Care,PROCESSED,,1001,2022-07-29,2026-07-28,500,2
+RDNW,US,"RideNow Group, Inc. - Class B Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ACIU,US,AC Immune SA - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SMTI,US,Sanara MedTech Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+UP,US,Wheels Up Experience Inc. Class A Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+USAU,US,U.S. Gold Corp. - Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+AGEN,US,Agenus Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SES,US,SES AI Corporation Class A Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+FC,US,Franklin Covey Company Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TARA,US,"Protara Therapeutics, Inc.  - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+PPHC,US,"Public Policy Holding Company, Inc. - Common Stock",,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,125,2026-01-28,2026-07-28,0,0
+LTRX,US,"Lantronix, Inc. - Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+VFF,US,"Village Farms International, Inc. - Common Shares",,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+GENC,US,"Gencor Industries, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+CHRS,US,"Coherus Oncology, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4

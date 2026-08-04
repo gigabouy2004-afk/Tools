@@ -1,0 +1,32 @@
+{
+  "Configuration_ID": "V8_BASIC_FOUNDATION_RSI_30_65_20260713",
+  "Schema_Version": "V8_BASIC_FOUNDATION_4",
+  "Purpose": "Evaluate EMA/MACD Foundation first, calculate indicators only for eligible stocks, and apply an inclusive configurable RSI continuation gate without scores, benchmarks, ETF, or external context",
+  "EMA_Period": 200,
+  "MACD": {
+    "Fast": 8,
+    "Slow": 21,
+    "Signal": 5
+  },
+  "Minimum_History_Bars": 300,
+  "Indicator_Set_ID": "V1_V3_RAW_INDICATORS_RSI_GATE_1",
+  "Indicator_Authority": "RSI_GATE_OTHER_CALCULATION_ONLY",
+  "Indicators": {
+    "RSI_Period": 14,
+    "ADX_Period": 14,
+    "ATR_Period": 14,
+    "OBV_EMA_Period": 20,
+    "Aroon_Period": 14
+  },
+  "Indicator_Rules": {
+    "RSI": {
+      "Lower_Limit": 30.0,
+      "Upper_Limit": 65.0,
+      "Boundary_Mode": "INCLUSIVE",
+      "Authority": "CONTINUATION_GATE"
+    }
+  },
+  "Price_Adjustment": "UNADJUSTED_OHLC",
+  "Eligibility_Rule": "CLOSE_ABOVE_EMA_AND_MACD_LINE_ABOVE_SIGNAL_AND_ZERO",
+  "Decision_Scope": "FOUNDATION_THEN_RSI_CONTINUATION_NO_SCORE"
+}

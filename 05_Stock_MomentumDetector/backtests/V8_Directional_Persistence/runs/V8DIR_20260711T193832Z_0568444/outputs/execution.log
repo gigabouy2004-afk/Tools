@@ -1,0 +1,17 @@
+Run_ID=V8DIR_20260711T193832Z_0568444
+Source_Run=V8FULL_20260711T192053Z_ffe1567_20260712
+Selection_Rule=MAXIMUM_ACTIVE_COUNT_THEN_EARLIEST_DATE_WITHOUT_FORWARD_OUTCOMES
+Selected_Date=2026-04-30 Active_Count=4
+Primary_D1_Rule=D1_CLOSE_GREATER_THAN_D_CLOSE
+DIRECTION ticker=NVDA decision=REJECT score=35.0 d1=-0.56% d5=5.98% d8=10.63%
+DIRECTION ticker=AAPL decision=REJECT score=35.0 d1=3.24% d5=5.93% d8=8.64%
+DIRECTION ticker=MSFT decision=REJECT score=10.0 d1=1.63% d5=3.19% d8=-0.00%
+DIRECTION ticker=TSLA decision=REJECT score=20.0 d1=2.41% d5=7.90% d8=13.58%
+DIRECTION ticker=AMZN decision=REJECT score=45.0 d1=1.21% d5=2.31% d8=0.29%
+DIRECTION ticker=META decision=REJECT score=20.0 d1=-0.52% d5=0.80% d8=-1.46%
+DIRECTION ticker=GOOGL decision=MOMENTUM_ACTIVE score=100.0 d1=0.23% d5=3.43% d8=0.66%
+DIRECTION ticker=COST decision=MOMENTUM_ACTIVE score=100.0 d1=-0.28% d5=-0.24% d8=0.72%
+DIRECTION ticker=WMT decision=MOMENTUM_ACTIVE score=98.0 d1=-0.25% d5=-1.31% d8=-1.20%
+DIRECTION ticker=XOM decision=MOMENTUM_ACTIVE score=89.0 d1=-1.02% d5=-5.02% d8=-2.40%
+VALIDATION_PASS
+RUN_COMPLETE run_dir=D:\Tools\Stock_MomentumDetector\backtests\V8_Directional_Persistence\runs\V8DIR_20260711T193832Z_0568444

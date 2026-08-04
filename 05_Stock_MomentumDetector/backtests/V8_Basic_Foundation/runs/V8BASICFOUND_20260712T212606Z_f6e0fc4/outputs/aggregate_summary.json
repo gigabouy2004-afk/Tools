@@ -1,0 +1,35 @@
+{
+  "Run_ID": "V8BASICFOUND_20260712T212606Z_f6e0fc4",
+  "Engine_Version": "V8_BASIC_FOUNDATION_4",
+  "Configuration_ID": "V8_BASIC_FOUNDATION_RSI_30_65_20260713",
+  "Indicator_Set_ID": "V1_V3_RAW_INDICATORS_RSI_GATE_1",
+  "Indicator_Authority": "RSI_GATE_OTHER_CALCULATION_ONLY",
+  "Stocks": 20,
+  "Dates": 4,
+  "Rows": 80,
+  "Eligible_Rows": 25,
+  "Indicator_Module_Executed_Rows": 25,
+  "Indicator_Module_Not_Run_Rows": 55,
+  "RSI_Allows_Further_Processing_Rows": 12,
+  "RSI_Stops_Further_Processing_Rows": 13,
+  "RSI_Status_Counts": {
+    "RSI_ABOVE_CONFIGURED_RANGE": 13,
+    "RSI_NOT_EVALUATED_FOUNDATION_INELIGIBLE": 55,
+    "RSI_WITHIN_CONFIGURED_RANGE": 12
+  },
+  "State_Counts": {
+    "FOUNDATION_ELIGIBLE_BULLISH_POSITIVE_MACD": 25,
+    "FOUNDATION_NOT_ELIGIBLE_BELOW_OR_AT_EMA": 27,
+    "FOUNDATION_NOT_ELIGIBLE_MACD_EARLY_RECOVERY_BELOW_ZERO": 3,
+    "FOUNDATION_NOT_ELIGIBLE_MACD_NEGATIVE_WEAKENING": 3,
+    "FOUNDATION_NOT_ELIGIBLE_MACD_POSITIVE_PULLBACK": 22
+  },
+  "Eligible_Directional": {
+    "D1_Positive": 19,
+    "D5_Positive": 23,
+    "D8_Positive": 18
+  },
+  "Forbidden_Output_Fields_Present": [],
+  "Foundation_Regression_Rows": 80,
+  "Foundation_Regression_Failures": 0
+}

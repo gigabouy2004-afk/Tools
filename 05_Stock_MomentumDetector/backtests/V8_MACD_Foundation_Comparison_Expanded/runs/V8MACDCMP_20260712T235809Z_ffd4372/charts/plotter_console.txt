@@ -1,0 +1,34 @@
+{
+  "Charts": [
+    "false_positive_rate_comparison.png",
+    "selection_count_comparison.png",
+    "macd_line_signal_disagreement_examples.png"
+  ],
+  "MACD_Example_Selection": "First chronological ticker/date for each sector and disagreement direction; outcomes were not used",
+  "MACD_Examples": [
+    {
+      "Sector": "Technology",
+      "Ticker": "CRM",
+      "As_Of_Date": "2023-03-15",
+      "Transition": "STANDARD_ONLY"
+    },
+    {
+      "Sector": "Technology",
+      "Ticker": "AAPL",
+      "As_Of_Date": "2023-03-15",
+      "Transition": "FIBONACCI_ONLY"
+    },
+    {
+      "Sector": "Industrials",
+      "Ticker": "KEYS",
+      "As_Of_Date": "2023-06-15",
+      "Transition": "STANDARD_ONLY"
+    },
+    {
+      "Sector": "Industrials",
+      "Ticker": "TER",
+      "As_Of_Date": "2023-03-15",
+      "Transition": "FIBONACCI_ONLY"
+    }
+  ]
+}

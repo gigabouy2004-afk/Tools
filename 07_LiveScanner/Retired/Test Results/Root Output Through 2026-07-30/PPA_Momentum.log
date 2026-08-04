@@ -1,0 +1,30 @@
+====================================================================================================
+LIVE SCANNER V10 - POST EXECUTION SUMMARY
+====================================================================================================
+Started              : 2026-07-18 01:15:21
+Completed            : 2026-07-18 01:15:40
+Elapsed              : 00m 19s
+Input file           : Direct command-line codes
+Codes read           : 10
+Codes selected       : 10
+Codes processed      : 10
+BUY SIGNAL           : 0
+WATCHLIST            : 0
+HOLD                 : 5
+DO NOT BUY           : 0
+IGNORE               : 4
+ERROR/SKIPPED        : 1
+BUY symbols          : None
+BUY breakup          : None
+Preset               : balanced
+MACD                 : 12,26,9
+Requested candle mode: auto
+Output file          : D:\Tools\07_LiveScanner\OUTPUT\PPA_Momentum.csv
+Error file           : D:\Tools\07_LiveScanner\OUTPUT\PPA_Momentum_errors.csv
+Log file             : D:\Tools\07_LiveScanner\OUTPUT\PPA_Momentum.log
+====================================================================================================
+
+OUTPUT SIGNAL BREAKUP
+Hold: 5
+Ignore_Daily_Trend: 4
+Error_Insufficient_History: 1

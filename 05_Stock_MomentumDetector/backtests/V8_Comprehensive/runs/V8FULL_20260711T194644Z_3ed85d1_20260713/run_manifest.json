@@ -1,0 +1,65 @@
+{
+  "Run_ID": "V8FULL_20260711T194644Z_3ed85d1_20260713",
+  "Quarter": "2026Q2",
+  "Random_Seed": 20260713,
+  "Stocks_Tested": 10,
+  "Stock_Dates_Replayed": 620,
+  "Random_Date_Rows": 10,
+  "ETF_Production_Requests": 10,
+  "ETF_Validation_Requests": 25,
+  "Same_Quarter_Verified_Mappings": 11,
+  "Score_Invariance_Failures": 0,
+  "Decision_Counts": {
+    "MOMENTUM_ACTIVE": 56,
+    "MOMENTUM_PRESENT_WAIT_CONFIRMATION": 97,
+    "REJECT": 467
+  },
+  "Primary_Active_Episodes": 4,
+  "Random_Sample_Mean_Stock_21D_Return_Pct": 3.1400114292529446,
+  "Random_Sample_Median_Stock_21D_Return_Pct": -2.237530426922685,
+  "Random_Sample_Mean_SPY_Adjusted_21D_Return_Pct": -1.0349079488522228,
+  "Random_ETF_Mean_21D_Return_Pct": 4.455831548366308,
+  "Random_ETF_Mean_Excess_SPY_21D_Pct": 0.16696478400126258,
+  "Active_Episode_Mean_21D_Return_Pct": 0.04753823744563205,
+  "Active_Episode_Mean_SPY_Adjusted_21D_Return_Pct": -4.411027661774043,
+  "Evidence_Classification": "TECHNICAL_SAMPLE_COMPLETE_INSUFFICIENT_FOR_BROAD_OPERATIONAL_SIGNOFF",
+  "Historical_Replay_Mode": "DAILY_EOD_NO_ARCHIVED_INTRADAY_OR_LIVE_QUOTE",
+  "ETF_Historical_Evidence_Mode": "SAME_CALENDAR_QUARTER_STABILITY_ASSUMPTION",
+  "Started_UTC": "2026-07-11T19:46:44.746558+00:00",
+  "Completed_UTC": "2026-07-11T19:48:19.767780+00:00",
+  "Git_Commit": "3ed85d12518802f7820a0b6a497a866416d172be",
+  "Git_Branch": "main",
+  "Git_Worktree_Dirty": true,
+  "Config_SHA256": "ce9eda169c0a1bbcb3d007a71ff3261f5324f464b32bb402b488fc0c9f6b5cb7",
+  "Source_Hashes": {
+    "Momentum_Detector_V8.py": "37493e4a97da1b3eb578fdddfe60b3ca96ba750e95703a14c7f5eb932a9b9ee2",
+    "ETF_Context_V8.py": "e2ff7ad493d72bdd804c2830fe7e4f539e0a416f2b952d9d483cf66ec6359db2",
+    "Backtest_Momentum_Detector_V8.py": "1062aeb7d8652379ae2a5576d08ceadf72f76defd8fd740c5e389d0af047a213"
+  },
+  "Selected_Stocks": [
+    "NVDA",
+    "AAPL",
+    "MSFT",
+    "TSLA",
+    "AMZN",
+    "META",
+    "GOOGL",
+    "COST",
+    "WMT",
+    "PANW"
+  ],
+  "Horizon_Sessions": [
+    5,
+    10,
+    21
+  ],
+  "Price_Start": "2023-01-01",
+  "Price_End_Inclusive": "2026-06-30",
+  "Known_Limitations": [
+    "Daily EOD replay cannot reconstruct V8 historical hourly timing or live/extended-hours quotes.",
+    "The current StockCodeMaster universe has survivorship and classification-history limitations.",
+    "TradingView reverse pages are public pages rather than a versioned developer API.",
+    "ETF mappings are associated under the user-approved same-calendar-quarter stability assumption, not strict signal-date point-in-time holdings evidence.",
+    "Ten stocks and one random date per stock are a technical sample and do not meet the broad evidence targets in the comprehensive plan."
+  ]
+}

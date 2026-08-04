@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+FORR,US,"Forrester Research, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ATGL,US,Alpha Technology Group Limited - Class A Ordinary Shares,Technology,PROCESSED,,686,2023-10-31,2026-07-28,501,2
+ESP,US,Espey Mfg. & Electronics Corp. Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+DHX,US,"DHI Group, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+HQI,US,"HireQuest, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+INSE,US,"Inspired Entertainment, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+LVWR,US,"LiveWire Group, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+INGN,US,"Inogen, Inc - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+LFCR,US,"Lifecore Biomedical, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+NUCL,US,Eagle Nuclear Energy Corp. - Common stock,Basic Materials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,106,2026-02-25,2026-07-28,0,0
+MRDN,US,Meridian Holdings Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+APYX,US,Apyx Medical Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NVA,US,Nova Minerals Corp Common Stock,Basic Materials,PROCESSED,,504,2024-07-24,2026-07-28,501,4
+KRRO,US,"Korro Bio, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ACOG,US,Alpha Cognition Inc. - Common Stock,,PROCESSED,,426,2024-11-12,2026-07-28,426,0
+EXFY,US,"Expensify, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+PLG,US,Platinum Group Metals Ltd. Ordinary Shares (Canada),Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+ALEC,US,"Alector, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AP,US,Ampco-Pittsburgh Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+EPSN,US,Epsilon Energy Ltd. - Common Shares,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+ARCT,US,Arcturus Therapeutics Holdings Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+EAF,US,GrafTech International Ltd. Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+OKUR,US,"OnKure Therapeutics, Inc. - Class A Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+YMT,US,Yimutian Inc. - American Depositary Shares; each representing 25 Class A ordinary shares,Technology,PROCESSED,,236,2025-08-19,2026-07-28,236,0
+CNTN,US,"Canton Strategic Holdings, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+JLHL,US,Julong Holding Limited - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,273,2025-06-26,2026-07-28,273,2
+AMPY,US,Amplify Energy Corp. Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+CRBP,US,"Corbus Pharmaceuticals Holdings, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EQ,US,"Equillium, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ACB,US,Aurora Cannabis Inc. - Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MOLN,US,Molecular Partners AG - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MINE,US,Mayfair Gold Corp. Common Shares,Energy,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,126,2026-01-27,2026-07-28,0,0
+SIDU,US,"Sidus Space, Inc. - Class A Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+DPRO,US,Draganfly Inc. - Common Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+CAMP,US,CAMP4 Therapeutics Corporation - Common Stock,,PROCESSED,,448,2024-10-11,2026-07-28,448,0
+IPHA,US,Innate Pharma S.A. - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+HTLM,US,HomesToLife Ltd - Ordinary Shares,Consumer Discretionary,PROCESSED,,456,2024-10-01,2026-07-28,456,0
+ORMP,US,Oramed Pharmaceuticals Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SKYX,US,SKYX Platforms Corp. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+CRBU,US,"Caribou Biosciences, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+LENZ,US,"LENZ Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+KZIA,US,Kazia Therapeutics Limited - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NRXP,US,"NRX Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+ADCT,US,ADC Therapeutics SA Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+IMDX,US,Insight Molecular Diagnostics Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ABOS,US,"Acumen Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+PED,US,Pedevco Corp. Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+YDES,US,YD Bio Limited - Ordinary Shares,Health Care,PROCESSED,,231,2025-08-26,2026-07-28,231,0
+OWLT,US,"Owlet, Inc. Class A Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+NINE,US,"Nine Energy Service, Inc. Common Stock",Energy,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,82,2026-03-31,2026-07-28,0,0

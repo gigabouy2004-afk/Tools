@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+RSVR,US,"Reservoir Media, Inc.. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+WHK,US,WhiteHawk Minerals Corp Class A Common Stock,Energy,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,34,2026-06-09,2026-07-28,0,0
+IMMX,US,"Immix Biopharma, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+ENRD,US,Einride AB - American Depositary Shares,Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,33,2026-06-10,2026-07-28,0,0
+ACHV,US,"Achieve Life Sciences, Inc.  - Common Shares",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+GROY,US,Gold Royalty Corp. Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+ASC,US,Ardmore Shipping Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+CCSI,US,"Consensus Cloud Solutions, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+VTS,US,"Vitesse Energy, Inc. Common Stock",Energy,PROCESSED,,889,2023-01-10,2026-07-28,501,7
+GPRK,US,Geopark Ltd Common Shares,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+PAR,US,PAR Technology Corporation Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+EVH,US,"Evolent Health, Inc Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PHR,US,"Phreesia, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+ASPI,US,ASP Isotopes Inc. - Common Stock,Industrials,PROCESSED,,929,2022-11-10,2026-07-28,501,11
+NEXN,US,Nexxen International Ltd. - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+ISOU,US,IsoEnergy Ltd. Common Shares,,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+NB,US,NioCorp Developments Ltd. - Common Stock,Basic Materials,PROCESSED,,841,2023-03-21,2026-07-28,501,11
+FET,US,"Forum Energy Technologies, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+BWAY,US,BrainsWay Ltd. - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+IRWD,US,"Ironwood Pharmaceuticals, Inc. - Class A Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+MDXG,US,"MiMedx Group, Inc - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CRMD,US,CorMedix Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+TCMD,US,"Tactile Systems Technology, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+ALLO,US,"Allogene Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+SHEN,US,Shenandoah Telecommunications Co - Common Stock,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+CCOI,US,"Cogent Communications Holdings, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1001,2022-07-29,2026-07-28,500,4
+HELE,US,Helen of Troy Limited - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GSM,US,Ferroglobe PLC - Ordinary Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+RMR,US,The RMR Group Inc. - Class A Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+SPRY,US,"ARS Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+NRGV,US,"Energy Vault Holdings, Inc. Common Stock",Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+LEGH,US,Legacy Housing Corporation - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+VRRM,US,Verra Mobility Corporation - Class A Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+CERS,US,Cerus Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+CGNT,US,Cognyte Software Ltd. - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+NCDL,US,Nuveen Churchill Direct Lending Corp. Common Stock,,PROCESSED,,628,2024-01-25,2026-07-28,501,5
+GRNT,US,"Granite Ridge Resources, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+MAKO,US,Mako Mining Corp - Common Stock,,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+ALOY,US,REalloys Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+TECX,US,"Tectonic Therapeutic, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+RGR,US,"Sturm, Ruger & Company, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MEC,US,"Mayville Engineering Company, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+NKLR,US,Terra Innovatum Global N.V. - Ordinary shares,Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,203,2025-10-06,2026-07-28,0,0
+IIIN,US,"Insteel Industries, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+SCZM,US,Santacruz Silver Mining Ltd. - Common Shares,,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+NVCT,US,"Nuvectis Pharma, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+NRDS,US,"NerdWallet, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+PUBM,US,"PubMatic, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+KLC,US,"KinderCare Learning Companies, Inc. Common Stock",Consumer Discretionary,PROCESSED,,450,2024-10-09,2026-07-28,450,0
+DC,US,Dakota Gold Corp. Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12

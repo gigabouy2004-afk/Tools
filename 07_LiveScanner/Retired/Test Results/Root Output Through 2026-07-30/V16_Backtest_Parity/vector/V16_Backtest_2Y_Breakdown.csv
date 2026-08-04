@@ -1,0 +1,4 @@
+market,signal_year,output_signal,trades,winning_trades,win_rate_pct,average_return_pct,median_return_pct,best_trade_pct,worst_trade_pct
+US,2025,Buy_Momentum_Extension,3,1,33.3333,-0.0999,-0.5667,2.0726,-1.8057
+US,2026,Buy_Early_Momentum,1,0,0.0,-2.9546,-2.9546,-2.9546,-2.9546
+US,2026,Buy_Momentum_Extension,3,1,33.3333,-0.3758,-1.4328,3.4139,-3.1086

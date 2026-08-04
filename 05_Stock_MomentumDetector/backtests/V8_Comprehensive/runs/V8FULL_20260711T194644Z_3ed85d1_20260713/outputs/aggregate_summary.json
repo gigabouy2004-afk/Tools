@@ -1,0 +1,28 @@
+{
+  "Run_ID": "V8FULL_20260711T194644Z_3ed85d1_20260713",
+  "Quarter": "2026Q2",
+  "Random_Seed": 20260713,
+  "Stocks_Tested": 10,
+  "Stock_Dates_Replayed": 620,
+  "Random_Date_Rows": 10,
+  "ETF_Production_Requests": 10,
+  "ETF_Validation_Requests": 25,
+  "Same_Quarter_Verified_Mappings": 11,
+  "Score_Invariance_Failures": 0,
+  "Decision_Counts": {
+    "MOMENTUM_ACTIVE": 56,
+    "MOMENTUM_PRESENT_WAIT_CONFIRMATION": 97,
+    "REJECT": 467
+  },
+  "Primary_Active_Episodes": 4,
+  "Random_Sample_Mean_Stock_21D_Return_Pct": 3.1400114292529446,
+  "Random_Sample_Median_Stock_21D_Return_Pct": -2.237530426922685,
+  "Random_Sample_Mean_SPY_Adjusted_21D_Return_Pct": -1.0349079488522228,
+  "Random_ETF_Mean_21D_Return_Pct": 4.455831548366308,
+  "Random_ETF_Mean_Excess_SPY_21D_Pct": 0.16696478400126258,
+  "Active_Episode_Mean_21D_Return_Pct": 0.04753823744563205,
+  "Active_Episode_Mean_SPY_Adjusted_21D_Return_Pct": -4.411027661774043,
+  "Evidence_Classification": "TECHNICAL_SAMPLE_COMPLETE_INSUFFICIENT_FOR_BROAD_OPERATIONAL_SIGNOFF",
+  "Historical_Replay_Mode": "DAILY_EOD_NO_ARCHIVED_INTRADAY_OR_LIVE_QUOTE",
+  "ETF_Historical_Evidence_Mode": "SAME_CALENDAR_QUARTER_STABILITY_ASSUMPTION"
+}

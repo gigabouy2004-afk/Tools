@@ -1,0 +1,18 @@
+{
+  "Research_Version": "V8_MACD_CONFIGURABLE_RELEASE1",
+  "Source_Run": "backtests/V8_Comprehensive/runs/V8FULL_20260711T194644Z_3ed85d1_20260713",
+  "Quarter": "2026Q2",
+  "Same_Date_Comparison": "2026-04-30",
+  "Signal_Rule": "CLOSE_GT_EMA200_AND_MACD_LINE_GT_SIGNAL_AND_MACD_LINE_GT_ZERO_EPISODE_START",
+  "Primary_Outcome": "D1_CLOSE_GREATER_THAN_D_CLOSE",
+  "Persistence_Horizons": [5, 8],
+  "Minimum_Comparable_Episodes": 10,
+  "Minimum_Comparable_Tickers": 5,
+  "Variants": [
+    {"Name": "STANDARD_12_26_9", "Fast": 12, "Slow": 26, "Signal": 9},
+    {"Name": "FIB_FAST_8_21_5", "Fast": 8, "Slow": 21, "Signal": 5},
+    {"Name": "FIB_SHORT_5_13_5", "Fast": 5, "Slow": 13, "Signal": 5},
+    {"Name": "FIB_BALANCED_8_21_8", "Fast": 8, "Slow": 21, "Signal": 8},
+    {"Name": "FIB_MEDIUM_13_34_8", "Fast": 13, "Slow": 34, "Signal": 8}
+  ]
+}

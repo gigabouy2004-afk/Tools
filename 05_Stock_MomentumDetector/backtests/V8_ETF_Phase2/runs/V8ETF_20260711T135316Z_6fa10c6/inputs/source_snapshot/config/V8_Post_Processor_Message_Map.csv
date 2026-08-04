@@ -1,0 +1,6 @@
+Processor,Rule_Code,Priority,Template,Enabled,Version
+ETF,ETF_TOP10_MAPPED,100,Active momentum confirmed. Verified top-10 ETF mappings: {mapped_etf_codes}.,TRUE,2
+ETF,ETF_NO_TOP10_MAPPING,90,Active momentum confirmed. No USA-listed ETF mapping could be conservatively verified as a top-ten holding.,TRUE,2
+ETF,ETF_MAPPING_PARTIAL,80,Active momentum confirmed. ETF mapping response could not be validated ({status_detail}); Score is unchanged.,TRUE,2
+ETF,ETF_API_UNAVAILABLE,70,Active momentum confirmed. ETF mapping is unavailable ({status_detail}); Score is unchanged.,TRUE,2
+ETF,ETF_RESPONSE_STALE,60,Active momentum confirmed. ETF mapping data is stale and was not displayed; Score is unchanged.,TRUE,2

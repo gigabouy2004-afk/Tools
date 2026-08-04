@@ -1,0 +1,25 @@
+{
+  "Run_ID": "V8MACD_20260712T072722Z_1f1ac52",
+  "Source_Run": "V8FULL_20260711T194644Z_3ed85d1_20260713",
+  "Quarter": "2026Q2",
+  "Same_Date_Comparison": "2026-04-30",
+  "Variants_Tested": 5,
+  "Total_Episodes": 122,
+  "Signal_Rule": "CLOSE_GT_EMA200_AND_MACD_LINE_GT_SIGNAL_AND_MACD_LINE_GT_ZERO_EPISODE_START",
+  "Primary_Outcome": "D1_CLOSE_GREATER_THAN_D_CLOSE",
+  "Descriptive_Leader": "FIB_FAST_8_21_5",
+  "Production_Score_Changed": false,
+  "Conclusion_Limit": "SAME_QUARTER_RESEARCH_NOT_OUT_OF_SAMPLE_PROOF",
+  "Started_UTC": "2026-07-12T07:27:22.146943+00:00",
+  "Completed_UTC": "2026-07-12T07:27:23.011659+00:00",
+  "Git_Commit": "1f1ac524598244b62f9b49101f7ac05daac8c1ed",
+  "Git_Worktree_Dirty": true,
+  "Config_SHA256": "38b772ef53570c3c55b2cbabbee2495a88694b25d1f82f92dd4d452d27e17d06",
+  "Engine_SHA256": "87a950b592ea81a2fb15bd201a51be88e8c743dc8b8e89dbe351a2f23e83b0e4",
+  "Known_Limitations": [
+    "The five variants and ranking are evaluated on one quarter and ten stocks.",
+    "The MACD episode rule is research-only and does not alter V8 Score or Final_Decision.",
+    "Repeated variant comparisons create selection risk; an untouched holdout is required.",
+    "MACD is derived only from price and cannot prove a fundamental corporate change."
+  ]
+}

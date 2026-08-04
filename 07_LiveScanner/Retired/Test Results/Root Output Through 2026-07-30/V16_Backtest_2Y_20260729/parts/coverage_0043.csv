@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+ASLE,US,AerSale Corporation - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+MGNX,US,"MacroGenics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+IMRX,US,Immuneering Corporation - Class A Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+SVCO,US,"Silvaco Group, Inc. - Common Stock",Technology,PROCESSED,,555,2024-05-09,2026-07-28,501,4
+NEGG,US,"Newegg Commerce, Inc. - Common Shares",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+TKNO,US,"Alpha Teknova, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+LCTX,US,"Lineage Cell Therapeutics, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+NL,US,"NLI Holdings, Inc. Common Stock",Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EDIT,US,"Editas Medicine, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+LTBR,US,Lightbridge Corporation - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+ZH,US,"Zhihu Inc. American Depositary Shares, each representing three (3) Class A Ordinary Shares",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SABS,US,"SAB Biotherapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+NAGE,US,"Niagen Bioscience, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+MASS,US,908 Devices Inc. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+DSC,US,DSC Holdings Ltd. - American Depositary Shares,Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,23,2026-06-25,2026-07-28,0,0
+ALXO,US,ALX Oncology Holdings Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+TSSI,US,"TSS, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+TMCI,US,"Treace Medical Concepts, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DSX,US,Diana Shipping inc. common stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+AIRJ,US,AirJoule Technologies Corporation - Class A Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+REI,US,"Ring Energy, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+LZM,US,Lifezone Metals Limited Ordinary Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CLW,US,Clearwater Paper Corporation Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GLOO,US,"Gloo Holdings, Inc. - Common Stock",Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,172,2025-11-18,2026-07-28,0,0
+CLLS,US,Cellectis S.A. - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TG,US,Tredegar Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+MPAA,US,"Motorcar Parts of America, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+FLWS,US,"1-800-FLOWERS.COM, Inc. - Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SILC,US,Silicom Ltd - Ordinary Shares,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+AVNW,US,"Aviat Networks, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+EGHT,US,8x8 Inc - Common stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+TRX,US,TRX Gold Corporation Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+SGHT,US,"Sight Sciences, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SSTK,US,"Shutterstock, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SRZN,US,"Surrozen, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+APC,US,ARKO Petroleum Corp. - Class A Common Stock,Energy,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,114,2026-02-12,2026-07-28,0,0
+TLSI,US,"TriSalus Life Sciences, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+OTLK,US,"Outlook Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PRQR,US,ProQR Therapeutics N.V. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+NNBR,US,"NN, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ACH,US,"Accendra Health, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ASYS,US,"Amtech Systems, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+OSUR,US,"OraSure Technologies, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+TTGT,US,"TechTarget, Inc. - Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+POWW,US,Outdoor Holding Company - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+LAW,US,"CS Disco, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+CNXU,US,Conexeu Sciences Inc. - Common Stock,Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,46,2026-05-21,2026-07-28,0,0
+TBCH,US,Turtle Beach Corporation - Common Stock,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+QUIK,US,QuickLogic Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+LOVE,US,The Lovesac Company - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2

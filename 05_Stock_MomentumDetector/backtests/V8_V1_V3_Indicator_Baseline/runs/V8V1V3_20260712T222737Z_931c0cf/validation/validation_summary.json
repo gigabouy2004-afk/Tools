@@ -1,0 +1,10 @@
+{
+  "Validation_Status": "PASS",
+  "Independent_Formula_Recalculation": true,
+  "Rows_Checked": 240,
+  "Expected_Rows": 240,
+  "Checksums_Checked": 36,
+  "V1_V2_Technical_Identity_Checked": true,
+  "Research_Only_Guard_Checked": true,
+  "Failures": []
+}

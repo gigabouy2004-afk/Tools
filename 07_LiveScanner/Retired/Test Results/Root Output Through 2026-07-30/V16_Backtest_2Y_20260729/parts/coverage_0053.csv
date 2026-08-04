@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+YIBO,US,Planet Image International Limited - Class A Ordinary Shares,Industrials,PROCESSED,,628,2024-01-25,2026-07-28,501,0
+RSSS,US,"Research Solutions, Inc - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BNAI,US,Brand Engagement Network Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+ASPS,US,Altisource Portfolio Solutions S.A. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PEW,US,GrabAGun Digital Holdings Inc. Common Stock,Consumer Discretionary,PROCESSED,,637,2024-01-11,2026-07-28,501,6
+BSIN,US,Big Sky Industrial Inc. - Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GIBO,US,GIBO Holdings Limited - Class A Ordinary Shares,Technology,PROCESSED,,736,2023-08-21,2026-07-28,501,0
+PYPD,US,PolyPid Ltd. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+AISP,US,"Airship AI Holdings, Inc - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+ELTX,US,"Elicio Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+LNSR,US,"LENSAR, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+XPL,US,Solitario Resources Corp. Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+IBIO,US,"iBio, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PMVP,US,"PMV Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EDRY,US,EuroDry Ltd. - Common Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+OSTX,US,OS Therapies Incorporated Common Stock,Health Care,PROCESSED,,498,2024-08-01,2026-07-28,498,0
+IPWR,US,Ideal Power Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SPCB,US,"SuperCom, Ltd. - Ordinary Shares",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+HMR,US,Heidmar Maritime Holdings Corp. - Common Stock,Consumer Discretionary,PROCESSED,,360,2025-02-20,2026-07-28,360,0
+GDHG,US,Golden Heaven Group Holdings Ltd.  - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,826,2023-04-12,2026-07-28,501,0
+XBIT,US,XBiotech Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+HYFT,US,MindWalk Holdings Corp. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+TLPH,US,"Talphera, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SEV,US,Aptera Motors Corp. - Class B Common Stock,Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,195,2025-10-16,2026-07-28,0,0
+IMA,US,"ImageneBio, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PLRX,US,"Pliant Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GEG,US,"Great Elm Group, Inc.  - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NYXH,US,Nyxoah SA - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MOB,US,Mobilicom Limited - Ordinary Shares,Industrials,PROCESSED,,983,2022-08-25,2026-07-28,501,12
+INVE,US,"Identiv, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SCLX,US,Scilex Holding Company - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FSI,US,Flexible Solutions International Inc. Common Stock (CDA),Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+GLBS,US,Globus Maritime Limited - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MWC,US,"Micware Co., Ltd. - American Depositary Shares",Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,51,2026-05-14,2026-07-28,0,0
+WETO,US,Wetour Robotics Limited - Ordinary Shares,Industrials,PROCESSED,,355,2025-02-27,2026-07-28,355,0
+MNOV,US,"MediciNova, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CRDF,US,"Cardiff Oncology, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+GAMB,US,Gambling.com Group Limited - Ordinary Shares,Consumer Discretionary,PROCESSED,,998,2022-07-29,2026-07-27,497,5
+ZTEK,US,Zentek Ltd. - common stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CIRC,US,"Circle8 Group, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CING,US,Cingulate Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DOMH,US,Dominari Holdings Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+QXL,US,Quantum X Labs Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+NIPG,US,NIP Group Inc. - American Depositary Shares,Consumer Discretionary,PROCESSED,,502,2024-07-26,2026-07-28,501,0
+UPXI,US,"Upexi, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FATN,US,"FatPipe, Inc. - common stock",Technology,PROCESSED,,327,2025-04-08,2026-07-28,327,0
+BGSF,US,"BGSF, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PTLE,US,PTL LTD - Class A Ordinary Shares,Energy,PROCESSED,,445,2024-10-16,2026-07-28,445,0
+NXTT,US,Next Technology Holding Inc. - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LGO,US,Largo Inc. - Common Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0

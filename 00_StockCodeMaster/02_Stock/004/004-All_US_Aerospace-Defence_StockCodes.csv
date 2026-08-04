@@ -1,0 +1,42 @@
+Ticker,Company,Description / Asset Type,ARKX,DFEN,EUAD,FITE,IDEF,ITA,JEDI,MISL,NATO,ORBX,PPA,SHLD,UFO,WAR,XAR
+GE,GE Aerospace,Equity (Large Cap Industrial),,,,,,X,,,,,X,,,,X
+RTX,RTX Corporation,Equity (Systems & Defense),,,,,,X,,,,,X,,,,
+BA,Boeing Company,Equity (Commercial & Defense),,,,,,X,,,,,X,,,,X
+RKLB,Rocket Lab USA,Equity (Space Launch / Systems),X,,,,,X,,,,,X,,,,X
+LMT,Lockheed Martin Corp.,Equity (Defense Prime),,,,,,X,,,,,X,,,,
+NOC,Northrop Grumman Corp.,Equity (Defense Prime),,,,,,X,,,,,X,,,,
+GD,General Dynamics Corp.,Equity (Defense Prime),,,,,,X,,,,,X,,,,X
+HWM,Howmet Aerospace Inc.,Equity (Advanced Components),,,,,,X,,,,,,,,,X
+TDG,TransDigm Group Inc.,Equity (Aviation Component Mfg),,,,,,X,,,,,X,,,,X
+LHX,L3Harris Technologies,Equity (Defense C4ISR),X,,,,,X,,,,,X,,,,
+AMD,Advanced Micro Devices,Equity (Semiconductors),X,,,,,,,,,,,,,,
+TER,"Teradyne, Inc.",Equity (Automated Test Equip),X,,,,,,,,,,,,,,
+KTOS,Kratos Defense & Security,Equity (Unmied Systems/Drones),X,,,,,X,,,,,,,,,
+DE,Deere & Company,Equity (Agri & Heavy Tech),X,,,,,,,,,,,,,,
+AVAV,"AeroVironment, Inc.",Equity (Unmanned Aircraft),X,,,,,,,,,,,,,,
+AMZN,"Amazon.com, Inc.",Equity (Cloud Infrastructure / Tech),X,,,,,,,,,,,,,,
+IRDM,Iridium Communications,Equity (Satellite Network),X,,,,,,,,,,,,,,
+ACHR,Archer Aviation Inc.,Equity (eVTOL Aerospace),X,,,,,,,,,,,,,,X
+GOOG,Alphabet Inc.,Equity (Enterprise & AI Software),X,,,,,,,,,,,,,,
+LUNR,Intuitive Machines Inc.,Equity (Lunar Infrastructure),X,,,,,,,,,,,,,,
+TRMB,Trimble Inc.,Equity (Positioning & Navigation),X,,,,,,,,,,,,,,
+JOBY,"Joby Aviation, Inc.",Equity (eVTOL Aerospace),X,,,,,,,,,,,,,,
+PLTR,Palantir Technologies,Equity (Defense Analytics Software),ABCD,,,,,,,,,,,,,,
+AXON,Axon Enterprise Inc.,Equity (Tactical Operations/Tech),,,,,,X,,,,,,,,,
+CW,Curtiss-Wright Corp.,Equity (Nuclear & Aero Subsystems),,,,,,X,,,,,,,,,X
+FTAI,FTAI Aviation Ltd.,Equity (Engine Leasing & Service),,,,,,X,,,,,,,,,X
+ATI,ATI Inc.,Equity (High-Performance Materials),,,,,,X,,,,,,,,,X
+WWD,"Woodward, Inc.",Equity (Control Systems Engines),,,,,,X,,,,,,,,,X
+CRS,Carpenter Technology,Equity (Specialty Alloys & Metals),,,,,,X,,,,,,,,,X
+BWXT,BWX Technologies Inc.,Equity (Nuclear Components),,,,,,X,,,,,,,,,X
+HXL,Hexcel Corporation,Equity (Advanced Composites),,,,,,X,,,,,,,,,X
+TXT,Textron Inc.,Equity (Aviation & Rotorcraft),,,,,,X,,,,,,,,,X
+HII,Huntington Ingalls Ind.,Equity (Defense Shipbuilding),,,,,,X,,,,,,,,,
+HEI,Heico Corporation,Equity (Aerospace Parts Supply),,,,,,X,,,,,,,,,
+MOG.A,Moog Inc.,Equity (Precision Motion Control),,,,,,X,,,,,,,,,
+VSEC,VSE Corporation,Equity (Fleet Maintenance/Logistics),,,,,,X,,,,,,,,,
+PH,Parker-Hannifin Corp.,Equity (Motion & Fluid Systems),,,,,,,,,,,X,,,,
+ESLT,Elbit Systems Ltd.,Equity (International Defense),,,,,,,,,,,X,,,,
+ETN,Eaton Corp. Plc,Equity (Power Management/Aero),,,,,,,,,,,X,,,,
+APH,Amphenol Corp.,Equity (Electronic Connectors),,,,,,,,,,,X,,,,
+,,,0,,,,,,,,,,,,,,

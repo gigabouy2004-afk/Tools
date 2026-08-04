@@ -1,0 +1,99 @@
+Ticker,Symbol,Security Name,Listing Exchange,Market Category,ETF,Test Issue,MarketCap,Sector,Industry
+NVDA,NVDA,NVIDIA Corporation - Common Stock,NASDAQ,Q,N,N,4.86493E+12,Technology,Semiconductors
+AVGO,AVGO,Broadcom Inc. - Common Stock,NASDAQ,Q,N,N,1.83393E+12,Technology,Semiconductors
+MU,MU,"Micron Technology, Inc. - Common Stock",NASDAQ,Q,N,N,1.17982E+12,Technology,Semiconductors
+AMD,AMD,"Advanced Micro Devices, Inc. - Common Stock",NASDAQ,Q,N,N,8.47627E+11,Technology,Semiconductors
+INTC,INTC,Intel Corporation - Common Stock,NASDAQ,Q,N,N,6.75721E+11,Technology,Semiconductors
+AMAT,AMAT,"Applied Materials, Inc. - Common Stock",NASDAQ,Q,N,N,4.66824E+11,Technology,Semiconductors
+ARM,ARM,Arm Holdings plc - American Depositary Shares,NASDAQ,Q,N,N,3.8024E+11,Technology,Semiconductors
+TXN,TXN,Texas Instruments Incorporated - Common Stock,NASDAQ,Q,N,N,2.76964E+11,Technology,Semiconductors
+MRVL,MRVL,"Marvell Technology, Inc. - Common Stock",NASDAQ,Q,N,N,2.37425E+11,Technology,Semiconductors
+ADI,ADI,"Analog Devices, Inc. - Common Stock",NASDAQ,Q,N,N,2.01001E+11,Technology,Semiconductors
+ASX,ASX,"ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ",NYSE, ,N,N,92683527681,Technology,Semiconductors
+NXPI,NXPI,NXP Semiconductors N.V. - Common Stock,NASDAQ,Q,N,N,74699880499,Technology,Semiconductors
+UMC,UMC,United Microelectronics Corporation (NEW) Common Stock,NYSE, ,N,N,71349670163,Technology,Semiconductors
+MPWR,MPWR,"Monolithic Power Systems, Inc. - Common Stock",NASDAQ,Q,N,N,70565419000,Technology,Semiconductors
+ALAB,ALAB,"Astera Labs, Inc. - Common Stock",NASDAQ,Q,N,N,69272804467,Technology,Semiconductors
+STM,STM,STMicroelectronics N.V. Common Stock,NYSE, ,N,N,63813553314,Technology,Semiconductors
+CRDO,CRDO,Credo Technology Group Holding Ltd - Ordinary Shares,NASDAQ,Q,N,N,50475837431,Technology,Semiconductors
+MCHP,MCHP,Microchip Technology Incorporated - Common Stock,NASDAQ,Q,N,N,50353744412,Technology,Semiconductors
+GFS,GFS,GlobalFoundries Inc. - Ordinary Share,NASDAQ,Q,N,N,46844768783,Technology,Semiconductors
+ON,ON,ON Semiconductor Corporation - Common Stock,NASDAQ,Q,N,N,45111976316,Technology,Semiconductors
+CBRS,CBRS,Cerebras Systems Inc. - Class A Common Stock,NASDAQ,Q,N,N,39957178637,Technology,Semiconductors
+Q,Q,"Qnity Electronics, Inc. Common Stock",NYSE, ,N,N,33368669596,Technology,Semiconductors
+TSEM,TSEM,Tower Semiconductor Ltd. - Ordinary Shares,NASDAQ,Q,N,N,31486057122,Technology,Semiconductors
+MTSI,MTSI,"MACOM Technology Solutions Holdings, Inc. - Common Stock",NASDAQ,Q,N,N,28427042435,Technology,Semiconductors
+FSLR,FSLR,"First Solar, Inc. - Common Stock",NASDAQ,Q,N,N,27278647998,Technology,Semiconductors
+AMKR,AMKR,"Amkor Technology, Inc. - Common Stock",NASDAQ,Q,N,N,20579615807,Technology,Semiconductors
+LSCC,LSCC,Lattice Semiconductor Corporation - Common Stock,NASDAQ,Q,N,N,19853808558,Technology,Semiconductors
+SITM,SITM,SiTime Corporation - Common Stock,NASDAQ,G,N,N,18985390602,Technology,Semiconductors
+SMTC,SMTC,Semtech Corporation - Common Stock,NASDAQ,Q,N,N,15027146422,Technology,Semiconductors
+RMBS,RMBS,"Rambus, Inc. - Common Stock",NASDAQ,Q,N,N,13678244956,Technology,Semiconductors
+VIAV,VIAV,Viavi Solutions Inc. - Common Stock,NASDAQ,Q,N,N,11672002713,Technology,Semiconductors
+AAOI,AAOI,"Applied Optoelectronics, Inc. - Common Stock",NASDAQ,G,N,N,11657669190,Technology,Semiconductors
+FORM,FORM,"FormFactor, Inc. - Common Stock",NASDAQ,Q,N,N,11044632097,Technology,Semiconductors
+SWKS,SWKS,"Skyworks Solutions, Inc. - Common Stock",NASDAQ,Q,N,N,10856302409,Technology,Semiconductors
+SIMO,SIMO,"Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares",NASDAQ,Q,N,N,10794728811,Technology,Semiconductors
+ALGM,ALGM,"Allegro MicroSystems, Inc. - Common Stock",NASDAQ,Q,N,N,10486183682,Technology,Semiconductors
+QRVO,QRVO,"Qorvo, Inc. - Common Stock",NASDAQ,Q,N,N,8658785150,Technology,Semiconductors
+CRUS,CRUS,"Cirrus Logic, Inc. - Common Stock",NASDAQ,Q,N,N,7956898156,Technology,Semiconductors
+MXL,MXL,"MaxLinear, Inc - Common Stock",NASDAQ,Q,N,N,7633076637,Technology,Semiconductors
+SLAB,SLAB,"Silicon Laboratories, Inc. - Common Stock",NASDAQ,Q,N,N,7218401782,Technology,Semiconductors
+KLIC,KLIC,"Kulicke and Soffa Industries, Inc. - Common Stock",NASDAQ,Q,N,N,6644182064,Technology,Semiconductors
+ENPH,ENPH,"Enphase Energy, Inc. - Common Stock",NASDAQ,G,N,N,6510845248,Technology,Semiconductors
+DIOD,DIOD,Diodes Incorporated - Common Stock,NASDAQ,Q,N,N,5259063977,Technology,Semiconductors
+SYNA,SYNA,Synaptics Incorporated - Common Stock,NASDAQ,Q,N,N,5086264853,Technology,Semiconductors
+UCTT,UCTT,"Ultra Clean Holdings, Inc. - Common Stock",NASDAQ,Q,N,N,4919911632,Technology,Semiconductors
+AXTI,AXTI,AXT Inc - Common Stock,NASDAQ,Q,N,N,4641774905,Technology,Semiconductors
+IPGP,IPGP,IPG Photonics Corporation - Common Stock,NASDAQ,Q,N,N,4578392858,Technology,Semiconductors
+POWI,POWI,"Power Integrations, Inc. - Common Stock",NASDAQ,Q,N,N,4527527300,Technology,Semiconductors
+NVTS,NVTS,Navitas Semiconductor Corporation - Common Stock,NASDAQ,G,N,N,4427044782,Technology,Semiconductors
+LASR,LASR,"nLIGHT, Inc. - Common Stock",NASDAQ,Q,N,N,3731492509,Technology,Semiconductors
+OSIS,OSIS,"OSI Systems, Inc. - Common Stock",NASDAQ,Q,N,N,3565249107,Technology,Semiconductors
+PENG,PENG,"Penguin Solutions, Inc. - Common Stock",NASDAQ,Q,N,N,3303662771,Technology,Semiconductors
+SEDG,SEDG,"SolarEdge Technologies, Inc. - Common Stock",NASDAQ,Q,N,N,3182002247,Technology,Semiconductors
+ICHR,ICHR,Ichor Holdings - Ordinary Shares,NASDAQ,Q,N,N,3157211649,Technology,Semiconductors
+AMBA,AMBA,"Ambarella, Inc. - Ordinary Shares",NASDAQ,Q,N,N,2833446069,Technology,Semiconductors
+HIMX,HIMX,"Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.",NASDAQ,Q,N,N,2779651366,Technology,Semiconductors
+WOLF,WOLF,"Wolfspeed, Inc. Common Stock New",NYSE, ,N,N,2415403394,Technology,Semiconductors
+IMOS,IMOS,ChipMOS TECHNOLOGIES INC. - American Depositary Shares,NASDAQ,Q,N,N,2209496718,Technology,Semiconductors
+AIP,AIP,"Arteris, Inc.  - Common Stock",NASDAQ,G,N,N,1906902857,Technology,Semiconductors
+PLAB,PLAB,"Photronics, Inc. - Common Stock",NASDAQ,Q,N,N,1874455959,Technology,Semiconductors
+AMBQ,AMBQ,"Ambiq Micro, Inc. Common Stock",NYSE, ,N,N,1764782250,Technology,Semiconductors
+SHLS,SHLS,"Shoals Technologies Group, Inc. - Class A Common Stock",NASDAQ,G,N,N,1751537769,Technology,Semiconductors
+SKYT,SKYT,"SkyWater Technology, Inc. - Common Stock",NASDAQ,S,N,N,1732001990,Technology,Semiconductors
+POET,POET,POET Technologies Inc. - Common Shares,NASDAQ,S,N,N,1718524109,Technology,Semiconductors
+AOSL,AOSL,Alpha and Omega Semiconductor Limited - Common Shares,NASDAQ,Q,N,N,1278741220,Technology,Semiconductors
+CSIQ,CSIQ,Canadian Solar Inc. - Common Shares,NASDAQ,Q,N,N,1038274044,Technology,Semiconductors
+DQ,DQ,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares",NYSE, ,N,N,918229479,Technology,Semiconductors
+JKS,JKS,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),NYSE, ,N,N,916478290,Technology,Semiconductors
+LPTH,LPTH,"LightPath Technologies, Inc. - Class A Common Stock",NASDAQ,S,N,N,826936490,Technology,Semiconductors
+INDI,INDI,"indie Semiconductor, Inc. - Class A Common Stock",NASDAQ,S,N,N,814584419,Technology,Semiconductors
+KOPN,KOPN,Kopin Corporation - Common Stock,NASDAQ,S,N,N,717962217,Technology,Semiconductors
+LAES,LAES,SEALSQ Corp - Ordinary Shares,NASDAQ,Q,N,N,713990667,Technology,Semiconductors
+MRAM,MRAM,"Everspin Technologies, Inc. - Common Stock",NASDAQ,G,N,N,508108994,Technology,Semiconductors
+NVEC,NVEC,NVE Corporation - Common Stock,NASDAQ,S,N,N,451501074,Technology,Semiconductors
+ALMU,ALMU,"Aeluma, Inc. - Common Stock",NASDAQ,S,N,N,388073102,Technology,Semiconductors
+QUIK,QUIK,QuickLogic Corporation - Common Stock,NASDAQ,S,N,N,325312787,Technology,Semiconductors
+DVLT,DVLT,Datavault AI Inc. - Common Stock,NASDAQ,S,N,N,298248911,Technology,Semiconductors
+ATOM,ATOM,Atomera Incorporated - Common Stock,NASDAQ,S,N,N,291922410,Technology,Semiconductors
+CAN,CAN,Canaan Inc. - American Depositary Shares,NASDAQ,G,N,N,250856168,Technology,Semiconductors
+GSIT,GSIT,"GSI Technology, Inc. - Common Stock",NASDAQ,Q,N,N,249941355,Technology,Semiconductors
+GCTS,GCTS,"GCT Semiconductor Holding, Inc. Common Stock",NYSE, ,N,N,244690500,Technology,Semiconductors
+VLN,VLN,Valens Semiconductor Ltd. Ordinary Shares,NYSE, ,N,N,217955889,Technology,Semiconductors
+TYGO,TYGO,"Tigo Energy, Inc. - Common Stock",NASDAQ,S,N,N,195849849,Technology,Semiconductors
+MX,MX,Magnachip Semiconductor Corporation Common Stock,NYSE, ,N,N,179835614,Technology,Semiconductors
+SPWR,SPWR,SunPower Inc. - Common Stock,NASDAQ,G,N,N,97755641,Technology,Semiconductors
+ICG,ICG,Intchains Group Limited - American Depositary Shares,NASDAQ,S,N,N,90575098,Technology,Semiconductors
+FTCI,FTCI,"FTC Solar, Inc. - Common Stock",NASDAQ,S,N,N,80346576,Technology,Semiconductors
+IPWR,IPWR,Ideal Power Inc. - Common Stock,NASDAQ,S,N,N,68410948,Technology,Semiconductors
+SPCB,SPCB,"SuperCom, Ltd. - Ordinary Shares",NASDAQ,S,N,N,61284731,Technology,Semiconductors
+ASTI,ASTI,"Ascent Solar Technologies, Inc - Common Stock",NASDAQ,S,N,N,49012575,Technology,Semiconductors
+SQNS,SQNS,Sequans Communications S.A. American Depositary Shares (each representing one hundred (100) Ordinary Shares),NYSE, ,N,N,47179645,Technology,Semiconductors
+PXLW,PXLW,"Pixelworks, Inc. - Common Stock",NASDAQ,S,N,N,36620550,Technology,Semiconductors
+MOBX,MOBX,"Mobix Labs, Inc. - Class A Common Stock",NASDAQ,S,N,N,29865402,Technology,Semiconductors
+BEEM,BEEM,Beam Global - Common Stock,NASDAQ,S,N,N,26854537,Technology,Semiconductors
+EBON,EBON,Ebang International Holdings Inc. - Class A Ordinary Shares,NASDAQ,Q,N,N,15181936,Technology,Semiconductors
+LEDS,LEDS,SemiLEDS Corporation - Common Stock,NASDAQ,S,N,N,14533469,Technology,Semiconductors
+PRSO,PRSO,Peraso Inc. - Common Stock,NASDAQ,S,N,N,12740641,Technology,Semiconductors
+SMTK,SMTK,"SmartKem, Inc. - Common Stock",NASDAQ,S,N,N,5803345,Technology,Semiconductors

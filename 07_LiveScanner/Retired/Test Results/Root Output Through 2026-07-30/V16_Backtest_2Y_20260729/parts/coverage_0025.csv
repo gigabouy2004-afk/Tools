@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+HIMX,US,"Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+PAYO,US,Payoneer Global Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+WHR,US,Whirlpool Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+VCEL,US,Vericel Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+CTOS,US,"Custom Truck One Source, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+BHVN,US,Biohaven Ltd. Common Shares,Health Care,PROCESSED,,963,2022-09-23,2026-07-28,501,3
+YSS,US,York Space Systems Inc. Common Stock,Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,124,2026-01-29,2026-07-28,0,0
+PPTA,US,Perpetua Resources Corp. - Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+PBH,US,Prestige Consumer Healthcare Inc. Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+NKTR,US,Nektar Therapeutics - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+NOG,US,"Northern Oil and Gas, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+IMOS,US,ChipMOS TECHNOLOGIES INC. - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+ZLAB,US,Zai Lab Limited - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+LMAT,US,"LeMaitre Vascular, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+MTX,US,Minerals Technologies Inc. Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+RAMP,US,"LiveRamp Holdings, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+SPSC,US,"SPS Commerce, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+MLYS,US,"Mineralys Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,867,2023-02-10,2026-07-28,501,6
+COAG,US,"Hemab Therapeutics Holdings, Inc. - Common Stock",Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,60,2026-05-01,2026-07-28,0,0
+BAND,US,Bandwidth Inc. - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+RDW,US,Redwire Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+NUVB,US,Nuvation Bio Inc. Class A Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+ECO,US,Okeanis Eco Tankers Corp. Common Stock,Consumer Discretionary,PROCESSED,,741,2023-08-14,2026-07-28,501,14
+AGIO,US,"Agios Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+NWL,US,Newell Brands Inc. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+HUN,US,Huntsman Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+CBZ,US,"CBIZ, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+VNET,US,"VNET Group, Inc. - American Depositary Shares",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+SIND,US,Sinda Ltd. Common Stock,Basic Materials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,22,2026-06-26,2026-07-28,0,0
+HTFL,US,"Heartflow, Inc. - Common Stock",Health Care,PROCESSED,,242,2025-08-11,2026-07-28,242,0
+PRKS,US,United Parks & Resorts Inc. Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+PSNY,US,Polestar Automotive Holding UK Limited - Class A ADS,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PDFS,US,"PDF Solutions, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+INTA,US,"Intapp, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+NEOG,US,Neogen Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+INFQ,US,"Infleqtion, Inc. Common Stock",Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,112,2026-02-17,2026-07-28,0,0
+AXGN,US,"Axogen, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+URGN,US,UroGen Pharma Ltd. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+HRMY,US,"Harmony Biosciences Holdings, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+SION,US,"Sionna Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,368,2025-02-07,2026-07-28,368,5
+FLYW,US,Flywire Corporation - Voting Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+GRC,US,Gorman-Rupp Company (The) Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+MESO,US,Mesoblast Limited - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+VSTS,US,Vestis Corporation Common Stock,Consumer Discretionary,PROCESSED,,710,2023-09-27,2026-07-28,501,4
+SLBT,US,SL Science Holding Limited - Ordinary Shares,Health Care,PROCESSED,,370,2025-02-05,2026-07-28,370,0
+SVM,US,Silvercorp Metals Inc. Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+AGL,US,"agilon health, inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PLSE,US,"Pulse Biosciences, Inc - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+GT,US,The Goodyear Tire & Rubber Company - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+IOSP,US,Innospec Inc. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0

@@ -1,0 +1,21 @@
+{
+  "Validation_Status": "PASS",
+  "Checks": {
+    "Exactly_20_Stocks": true,
+    "Exactly_4_Dates": true,
+    "Exactly_80_Rows": true,
+    "Complete_Stock_Date_Grid": true,
+    "MACD_8_21_5": true,
+    "Foundation_Policy_Enforced": true,
+    "Independent_Foundation_And_Outcome_Recompute": true,
+    "Valid_Row_Regression": true,
+    "Invalid_Row_Short_Circuit": true,
+    "ETF_Same_Quarter_Acceptance_Strict": true,
+    "Score_Invariance": true,
+    "Manifest_Counts_Match": true,
+    "Checksums": true
+  },
+  "Recomputed_Rows": 80,
+  "Recompute_Failures": [],
+  "Checksum_Validation_Skipped": false
+}

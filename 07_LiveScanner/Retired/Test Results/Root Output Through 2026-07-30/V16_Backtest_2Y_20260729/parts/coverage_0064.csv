@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+XWEL,US,"XWELL, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CXAI,US,CXApp Inc. - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FEBO,US,Fenbo Holdings Limited - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,665,2023-11-30,2026-07-28,501,0
+HTOO,US,Fusion Fuel Green PLC - Ordinary Shares,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MTEX,US,"Mannatech, Incorporated - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FGI,US,FGI Industries Ltd. - Ordinary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+IFBD,US,"Infobird Co., Ltd - Ordinary Shares",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+QNRX,US,"Quoin Pharmaceuticals, Ltd. - American Depositary Shares",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BGL,US,Blue Gold Limited - Class A ordinary shares,Basic Materials,PROCESSED,,273,2025-06-26,2026-07-28,273,0
+CENN,US,Cenntro Inc. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BIYA,US,Baiya International Group Inc.  - Ordinary Shares,Consumer Discretionary,PROCESSED,,339,2025-03-21,2026-07-28,339,0
+GITS,US,"Global Interactive Technologies, Inc. Common Stock - Common Stock",Technology,PROCESSED,,750,2023-08-01,2026-07-28,501,0
+FBGL,US,FBS Global Limited - Ordinary Shares,Consumer Discretionary,PROCESSED,,369,2025-02-06,2026-07-28,369,0
+VRME,US,"VerifyMe, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BRTX,US,"BioRestorative Therapies, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RAY,US,Raytech Holding Limited - Ordinary Shares,Consumer Discretionary,PROCESSED,,551,2024-05-15,2026-07-28,501,0
+JUNS,US,"Jupiter Neurosciences, Inc. - Common Stock",Health Care,PROCESSED,,412,2024-12-03,2026-07-28,412,0
+MTVA,US,MetaVia Inc.  - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CJMB,US,Callan JMB Inc. - Common Stock,Consumer Discretionary,PROCESSED,,370,2025-02-05,2026-07-28,370,0
+MGRX,US,"Mangoceuticals, Inc. - Common Stock",Health Care,PROCESSED,,841,2023-03-21,2026-07-28,501,0
+APRE,US,"Aprea Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+YHGJ,US,Yunhong Green CTI Ltd. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LIMN,US,"Liminatus Pharma, Inc. - Class A Common Stock",Health Care,PROCESSED,,310,2025-05-02,2026-07-28,310,0
+RNAZ,US,"TransCode Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DTST,US,Data Storage Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CNSP,US,"CNS Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SNGX,US,"Soligenix, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+XELB,US,"Xcel Brands, Inc - Common Stock",Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+HSCS,US,HeartSciences Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MRM,US,MEDIROM Healthcare Technologies Inc. - American Depositary Share,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CHAI,US,"Core AI Holdings, Inc. - Common Shares",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+OLOX,US,Olenox Industries Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NIKI,US,"Niki BioSolutions, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BOLT,US,"Bolt Biotherapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+VS,US,Versus Systems Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+KAPA,US,"Kairos Pharma, Ltd. Common Stock",Health Care,PROCESSED,,467,2024-09-16,2026-07-28,467,0
+CGTL,US,Creative Global Technology Holdings Limited - Class A Ordinary Shares,Technology,PROCESSED,,416,2024-11-26,2026-07-28,416,0
+LHSW,US,Lianhe Sowell International Group Ltd - Class A Ordinary Shares,Technology,PROCESSED,,330,2025-04-03,2026-07-28,330,0
+MTEN,US,Mingteng International Corporation Inc. - Class A Ordinary Shares,Industrials,PROCESSED,,569,2024-04-19,2026-07-28,501,3
+ARBB,US,ARB IOT Group Limited - Ordinary Shares,Technology,PROCESSED,,830,2023-04-05,2026-07-28,501,0
+ADXN,US,Addex Therapeutics Ltd - American Depositary Shares,Health Care,PROCESSED,,1001,2022-07-29,2026-07-27,500,0
+SNES,US,"SenesTech, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+JCSE,US,JE Cleantech Holdings Limited - Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GLE,US,Global Engine Group Holding Limited - Class A Ordinary Shares,Technology,PROCESSED,,463,2024-09-20,2026-07-28,463,0
+TRIB,US,Trinity Biotech plc - American Depositary Shares,Health Care,PROCESSED,,999,2022-07-29,2026-07-28,498,0
+POAS,US,Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares,Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,175,2025-11-13,2026-07-28,0,0
+DLXY,US,Delixy Holdings Limited - Class A Ordinary Shares,Energy,PROCESSED,,265,2025-07-09,2026-07-28,265,0
+CANF,US,"Can-Fite Biopharma Ltd American Depositary Shares, each representing two (2) Ordinary Shares",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MBAI,US,Check-Cap Ltd. - Ordinary Share,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+XTLB,US,XTL Biopharmaceuticals Ltd. - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0

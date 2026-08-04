@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+HLF,US,Herbalife Ltd. Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+CDRE,US,"Cadre Holdings, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+GPRE,US,"Green Plains, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+TTI,US,"Tetra Technologies, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+NPKI,US,NPK International Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+DFIN,US,"Donnelley Financial Solutions, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+AZTA,US,"Azenta, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AMRC,US,"Ameresco, Inc. Class A Common Stock",Consumer Discretionary,PROCESSED,,1001,2022-07-29,2026-07-28,500,1
+CRVS,US,"Corvus Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+SPH,US,"Suburban Propane Partners, L.P. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+IRMD,US,iRadimed Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,20
+TEN,US,Tsakos Energy Navigation Ltd Common Shares,Consumer Discretionary,PROCESSED,,1001,2022-07-29,2026-07-28,500,12
+LQDT,US,"Liquidity Services, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+AORT,US,"Artivion, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+STAA,US,STAAR Surgical Company - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+IQ,US,"iQIYI, Inc. - American Depositary Shares",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TNDM,US,"Tandem Diabetes Care, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+CNL,US,Collective Mining Ltd. Common Shares,,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+SVRA,US,"Savara, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+ETON,US,"Eton Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,21
+MGRT,US,Mega Fortune Company Limited - Ordinary Shares,Technology,PROCESSED,,260,2025-07-16,2026-07-28,260,0
+XPEL,US,"XPEL, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SGML,US,Sigma Lithium Corporation - common shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+DRTS,US,Alpha Tau Medical Ltd. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+AVNS,US,"Avanos Medical, Inc. Common Stock",Health Care,PROCESSED,,995,2022-07-29,2026-07-17,494,2
+IAUX,US,i-80 Gold Corp. Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+VZLA,US,Vizsla Silver Corp. Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+COLL,US,"Collegium Pharmaceutical, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+MGTX,US,MeiraGTx Holdings plc - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+GOLD,US,"Gold.com, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+NUTX,US,Nutex Health Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+MYE,US,"Myers Industries, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+BRAI,US,Braiin Limited - Common Stock,Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,114,2026-02-12,2026-07-28,0,0
+CAPR,US,"Capricor Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+ITRN,US,Ituran Location and Control Ltd. - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,24
+LNN,US,Lindsay Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+UPWK,US,Upwork Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+CEVA,US,"CEVA, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+ENHA,US,Enhanced Group Inc. Class A Common Stock,Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,55,2026-05-08,2026-07-28,0,0
+SDGR,US,"Schrodinger, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+SCSC,US,"ScanSource, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+TRUP,US,"Trupanion, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+SPTX,US,"Seaport Therapeutics, Inc. - Common Stock",Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,60,2026-05-01,2026-07-28,0,0
+THRM,US,Gentherm Inc - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ORIC,US,"Oric Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+QDEL,US,QuidelOrtho Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AEVA,US,"Aeva Technologies, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+RXT,US,"Rackspace Technology, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+WVE,US,Wave Life Sciences Ltd. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+APPS,US,"Digital Turbine, Inc. - Common Stock",Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,4

@@ -1,0 +1,10 @@
+{
+  "Research_Version": "V8_D1_DIRECTION_D5_D8_PERSISTENCE_2026Q2_ALT_CODES",
+  "Source_Run": "backtests/V8_Comprehensive/runs/V8FULL_20260711T194644Z_3ed85d1_20260713",
+  "Selection_Month": "2026-04",
+  "Signal_Date_Selection_Rule": "MAXIMUM_ACTIVE_COUNT_THEN_EARLIEST_DATE_WITHOUT_FORWARD_OUTCOMES",
+  "Primary_D1_Rule": "D1_CLOSE_GREATER_THAN_D_CLOSE",
+  "Persistence_Horizons": [5, 8],
+  "ETF_Evidence_Mode": "SAME_CALENDAR_QUARTER_STABILITY_ASSUMPTION",
+  "Focus_Ticker_First_Active": "PANW"
+}

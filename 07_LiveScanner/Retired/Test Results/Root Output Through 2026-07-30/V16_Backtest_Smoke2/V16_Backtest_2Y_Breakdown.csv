@@ -1,0 +1,8 @@
+market,signal_year,output_signal,trades,winning_trades,win_rate_pct,average_return_pct,median_return_pct,best_trade_pct,worst_trade_pct
+INDIA,2025,Buy_Momentum_Extension,2,1,50.0,-0.1212,-0.1212,0.8918,-1.1342
+US,2024,Buy_Early_Momentum,3,1,33.3333,-1.0507,-0.3586,0.9003,-3.6937
+US,2024,Buy_Momentum_Extension,31,23,74.1935,1.894,1.6202,17.9128,-9.5188
+US,2025,Buy_Early_Momentum,12,7,58.3333,2.1162,1.1084,11.6456,-2.3116
+US,2025,Buy_Momentum_Extension,40,20,50.0,0.4094,-0.022,12.3821,-6.0462
+US,2026,Buy_Early_Momentum,7,3,42.8571,0.2253,-0.3063,5.2701,-3.1808
+US,2026,Buy_Momentum_Extension,18,9,50.0,-0.5642,-0.4424,6.5937,-8.9631

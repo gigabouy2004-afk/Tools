@@ -1,0 +1,42 @@
+{
+  "Run_ID": "V8FOUND_20260712T182945Z_cf0c908",
+  "Stocks_Tested": 20,
+  "Dates_Tested": 4,
+  "Total_Rows": 80,
+  "Quarter": "2026Q2",
+  "MACD": {
+    "Fast": 8,
+    "Slow": 21,
+    "Signal": 5
+  },
+  "Foundation_Status_Counts": {
+    "FOUNDATION_VALID": 25,
+    "FOUNDATION_TREND_VALID_MACD_RESET": 28,
+    "FOUNDATION_INVALID_BELOW_EMA200": 27,
+    "FOUNDATION_INSUFFICIENT_DATA": 0
+  },
+  "Decision_Counts": {
+    "MOMENTUM_ACTIVE": 5,
+    "MOMENTUM_PRESENT_WAIT_CONFIRMATION": 30,
+    "REJECT": 45
+  },
+  "Foundation_Qualified_Directional": {
+    "D1_Positive": 19,
+    "D5_Positive": 23,
+    "D8_Positive": 18
+  },
+  "Foundation_Qualified_Rows": 25,
+  "Active_Directional": {
+    "D1_Positive": 4,
+    "D5_Positive": 5,
+    "D8_Positive": 4
+  },
+  "Active_Rows": 5,
+  "Valid_Row_Regression_Failures": 0,
+  "Invalid_Row_Short_Circuit_Failures": 0,
+  "ETF_Stocks_Queried": 20,
+  "ETF_Returned_Mappings": 21,
+  "ETF_Accepted_Same_Quarter_Mappings": 7,
+  "Active_ETF_Outcome_Rows": 2,
+  "Score_Invariance_Failures": 0
+}

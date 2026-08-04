@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+XNCR,US,"Xencor, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+XERS,US,"Xeris Biopharma Holdings, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+INSP,US,"Inspire Medical Systems, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GSL,US,Global Ship Lease Inc New Class A Common Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+GIII,US,"G-III Apparel Group, LTD. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+WLFC,US,Willis Lease Finance Corporation - Common Stock,Consumer Discretionary,PROCESSED,,1001,2022-07-29,2026-07-28,500,9
+IE,US,Ivanhoe Electric Inc. Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+EOSE,US,"Eos Energy Enterprises, Inc. - Common Stock",Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+VPG,US,"Vishay Precision Group, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+SLVM,US,Sylvamo Corporation Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+IART,US,Integra LifeSciences Holdings Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ITG,US,"ITG, Inc. - Class A Common Stock",Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,19,2026-07-01,2026-07-28,0,0
+MLTX,US,MoonLake Immunotherapeutics - Class A Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+SVV,US,"Savers Value Village, Inc. Common Stock",Consumer Discretionary,PROCESSED,,772,2023-06-29,2026-07-28,501,2
+TNC,US,Tennant Company Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+VIA,US,"Via Transportation, Inc. Class A Common Stock",Technology,PROCESSED,,219,2025-09-12,2026-07-28,219,0
+FCEL,US,"FuelCell Energy, Inc. - Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+LEG,US,"Leggett & Platt, Incorporated Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+TRS,US,TriMas Corporation - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+CNXC,US,Concentrix Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PRGO,US,Perrigo Company plc Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BLKB,US,"Blackbaud, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+MLKN,US,"MillerKnoll, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+CLVT,US,Clarivate Plc Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+REAL,US,"The RealReal, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+KOS,US,Kosmos Energy Ltd. Common Shares (DE),Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+STDN,US,"Standard Nuclear, Inc. Class A Common Stock",Basic Materials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,9,2026-07-16,2026-07-28,0,0
+PRSU,US,"Pursuit Attractions and Hospitality, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+HLX,US,"Helix Energy Solutions Group, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+CRI,US,"Carter's, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+BLFS,US,"BioLife Solutions, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+FMC,US,FMC Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SBH,US,"Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+YELP,US,Yelp Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BBAI,US,"BigBear.ai, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+PSNL,US,"Personalis, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+TSAT,US,Telesat Corporation - Class A Common Shares and Class B Variable Voting Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+NVGS,US,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+TBLA,US,Taboola.com Ltd. - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+DFH,US,"Dream Finders Homes, Inc. Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+USAS,US,"Americas Gold and Silver Corporation Common Shares, no par value",Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+GLOB,US,Globant S.A. Common Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+ACVA,US,ACV Auctions Inc. Class A Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ECVT,US,Ecovyst Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+ENR,US,"Energizer Holdings, Inc. Common Stock",Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+PAHC,US,Phibro Animal Health Corporation - Class A Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+ODC,US,Oil-Dri Corporation Of America Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+NAT,US,Nordic American Tankers Limited Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+NNNN,US,Anbio Biotechnology - Class A Ordinary Shares,Health Care,PROCESSED,,361,2025-02-19,2026-07-28,361,0
+LSPD,US,Lightspeed Commerce Inc. Subordinate Voting Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1

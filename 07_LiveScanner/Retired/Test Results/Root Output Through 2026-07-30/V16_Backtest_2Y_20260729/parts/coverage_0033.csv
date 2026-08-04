@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+ACEL,US,"Accel Entertainment, Inc.",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+FTK,US,"Flotek Industries, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+TK,US,Teekay Corporation Ltd. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+LUCK,US,Lucky Strike Entertainment Corporation Class A Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BBSI,US,"Barrett Business Services, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+HPK,US,"HighPeak Energy, Inc. - Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+INMD,US,InMode Ltd.  - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NAK,US,"Northern Dynasty Minerals, Ltd. Common Stock",Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+KURA,US,"Kura Oncology, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+PSUS,US,"Pershing Square USA, Ltd. Common Shares",,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,62,2026-04-29,2026-07-28,0,0
+ELVR,US,Elevra Lithium Limited - American Depository Shares,Industrials,PROCESSED,,227,2025-09-02,2026-07-28,227,0
+RZLV,US,Rezolve AI PLC - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EVER,US,"EverQuote, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+GOOS,US,Canada Goose Holdings Inc. Subordinate Voting Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+ANL,US,Adlai Nortye Ltd. - American Depositary Shares,Health Care,PROCESSED,,708,2023-09-29,2026-07-28,501,2
+DAKT,US,"Daktronics, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+CRCT,US,"Cricut, Inc. - Class A common stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+TBN,US,Tamboran Resources Corporation Common stock,Energy,PROCESSED,,522,2024-06-27,2026-07-28,501,5
+RDVT,US,"Red Violet, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+UMAC,US,"Unusual Machines, Inc. Common Stock",Technology,PROCESSED,,614,2024-02-14,2026-07-28,501,8
+QNST,US,"QuinStreet, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+CRML,US,Critical Metals Corp. - Ordinary Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+ARRY,US,"Array Technologies, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+PHAR,US,"Pharming Group N.V. - ADS, each representing 10 ordinary shares",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LBRX,US,LB Pharmaceuticals Inc - Common Stock,Health Care,PROCESSED,,220,2025-09-11,2026-07-28,220,0
+BAK,US,Braskem SA ADR,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GERN,US,Geron Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+REPL,US,"Replimune Group, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ASA,US,ASA  Gold and Precious Metals Limited,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+OPK,US,"Opko Health, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+NXDR,US,"Nextdoor Holdings, Inc. Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+COUR,US,"Coursera, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+KBDC,US,"Kayne Anderson BDC, Inc. Common Stock",,PROCESSED,,546,2024-05-22,2026-07-28,501,3
+HSLV,US,Highlander Silver Corp. Common Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,96,2026-03-11,2026-07-28,0,0
+PHAT,US,"Phathom Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+BZH,US,"Beazer Homes USA, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+ABUS,US,Arbutus Biopharma Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+BLDP,US,"Ballard Power Systems, Inc. - Common Shares",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+MOMO,US,Hello Group Inc.  - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+GTM,US,ZoomInfo Technologies Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MAX,US,"MediaAlpha, Inc. Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NABL,US,"N-able, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ANNX,US,"Annexon, Inc. - common stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+AHG,US,Akso Health Group - American Depositary Shares,Consumer Discretionary,PROCESSED,,1001,2022-07-29,2026-07-27,500,0
+ACDC,US,ProFrac Holding Corp. - Class A Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+LMB,US,"Limbach Holdings, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+SANA,US,"Sana Biotechnology, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+GILT,US,Gilat Satellite Networks Ltd. - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+BKSY,US,BlackSky Technology Inc. Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+INDI,US,"indie Semiconductor, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0

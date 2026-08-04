@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+LIND,US,Lindblad Expeditions Holdings Inc.  - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+ALKT,US,"Alkami Technology, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+APPN,US,Appian Corporation - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+QUBT,US,Quantum Computing Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+NVCR,US,NovoCure Limited - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+XNET,US,Xunlei Limited - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+EVTC,US,"Evertec, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+BCAX,US,Bicara Therapeutics Inc. - Common Stock,Health Care,PROCESSED,,468,2024-09-13,2026-07-28,468,5
+MQ,US,"Marqeta, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PLAB,US,"Photronics, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+CMRE,US,Costamare Inc. Common Stock $0.0001 par value,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+GENB,US,"Generate Biomedicines, Inc. - Common Stock",Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,104,2026-02-27,2026-07-28,0,0
+INVX,US,"Innovex International, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+CCS,US,"Century Communities, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+CPRI,US,Capri Holdings Limited Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+XPRO,US,Expro Ltd Ordinary Shares,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+MRVI,US,"Maravai LifeSciences Holdings, Inc. - Class A common stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+WGS,US,GeneDx Holdings Corp. - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+FLOC,US,Flowco Holdings Inc. Class A Common Stock,Consumer Discretionary,PROCESSED,,383,2025-01-16,2026-07-28,383,2
+NN,US,NextNav Inc. - Common stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+WS,US,"Worthington Steel, Inc. Common Shares",Industrials,PROCESSED,,667,2023-11-28,2026-07-28,501,9
+PRG,US,"PROG Holdings, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+AMR,US,"Alpha Metallurgical Resources, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+HAWK,US,"HawkEye 360, Inc. Common Stock",Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,56,2026-05-07,2026-07-28,0,0
+FUN,US,Six Flags Entertainment Corporation Common Stock New,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+HURN,US,Huron Consulting Group Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+STOK,US,"Stoke Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+BVC,US,BitVentures Limited - Ordinary Share,,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DRD,US,DRDGOLD Limited American Depositary Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+AAPG,US,Ascentage Pharma Group International - American Depository Shares,Health Care,PROCESSED,,378,2025-01-24,2026-07-28,378,0
+BFLY,US,"Butterfly Network, Inc. Class A Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+AESI,US,Atlas Energy Solutions Inc. Common Stock,Industrials,PROCESSED,,849,2023-03-09,2026-07-28,501,5
+ANIP,US,"ANI Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+OPRA,US,Opera Limited - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+ABCL,US,AbCellera Biologics Inc. - Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+ZYME,US,Zymeworks Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+CTS,US,CTS Corporation Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+ATRC,US,"AtriCure, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+ALMR,US,"Alamar Biosciences, Inc. - Class A common stock",Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,70,2026-04-17,2026-07-28,0,0
+TMC,US,TMC the metals company Inc. - Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+SHLS,US,"Shoals Technologies Group, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+DV,US,"DoubleVerify Holdings, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EPAC,US,Enerpac Tool Group Corp. Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+TRLV,US,Trulieve Cannabis Corp. Subordinate Voting Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+BL,US,"BlackLine, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+FIGS,US,"FIGS, Inc. Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+SRPT,US,"Sarepta Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GENI,US,Genius Sports Limited Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+TE,US,T1 Energy Inc. Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+ASAN,US,"Asana, Inc. Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1

@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+WMG,US,Warner Music Group Corp. - Class A Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+QXO,US,"QXO, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NVMI,US,Nova Ltd. - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+GRAB,US,Grab Holdings Limited - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+DOCN,US,"DigitalOcean Holdings, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+RRX,US,Regal Rexnord Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+EXEL,US,"Exelixis, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+GIB,US,CGI Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+ALB,US,Albemarle Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+PTC,US,PTC Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+COO,US,"The Cooper Companies, Inc.  - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+FMS,US,Fresenius Medical Care AG American Depositary Shares (Each representing 1/2 of an Ordinary Share),Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+MLI,US,"Mueller Industries, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+CHKP,US,Check Point Software Technologies Ltd. - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+TOL,US,"Toll Brothers, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+SWK,US,"Stanley Black & Decker, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+LECO,US,"Lincoln Electric Holdings, Inc. - Common Shares",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+SOLV,US,Solventum Corporation Common Stock,Health Care,PROCESSED,,586,2024-03-26,2026-07-28,501,6
+IONQ,US,"IonQ, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+LDOS,US,"Leidos Holdings, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+CCK,US,"Crown Holdings, Inc.",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+MOD,US,Modine Manufacturing Company Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+CSL,US,Carlisle Companies Incorporated Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+BWA,US,BorgWarner Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+LI,US,Li Auto Inc. - American Depositary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+U,US,Unity Software Inc. Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+PAC,US,"Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+IESC,US,"IES Holdings, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,25
+SMTC,US,Semtech Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+SNN,US,"Smith & Nephew SNATS, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+CNH,US,CNH Industrial N.V. Common Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+PINS,US,"Pinterest, Inc. Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+ICLR,US,ICON plc - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+XPEV,US,"XPeng Inc. American depositary shares, each representing two Class A ordinary shares",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+ELAN,US,Elanco Animal Health Incorporated Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+ALGN,US,"Align Technology, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+DY,US,"Dycom Industries, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+GNRC,US,Generac Holdlings Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+LULU,US,lululemon athletica inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+APA,US,APA Corporation - Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+TYL,US,"Tyler Technologies, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+AIT,US,"Applied Industrial Technologies, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+MDGL,US,"Madrigal Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+CR,US,Crane Company Common Stock,Industrials,PROCESSED,,835,2023-03-29,2026-07-28,501,11
+ZBRA,US,Zebra Technologies Corporation - Class A Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+DT,US,"Dynatrace, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+PEN,US,"Penumbra, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+AGI,US,Alamos Gold Inc. Class A Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,20
+AUR,US,"Aurora Innovation, Inc.  - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+RVTY,US,"Revvity, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1

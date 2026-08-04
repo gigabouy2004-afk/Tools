@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local outputs
+*.log
+*.tmp
+*.bak
+
+# Validation outputs can be large; keep summaries intentionally when needed.
+validation/runs/**/*.csv
+validation/runs/**/*.html
+validation/uploads/
+
+# Market data dumps
+data/raw/
+data/cache/

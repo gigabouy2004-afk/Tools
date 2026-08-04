@@ -1,0 +1,6 @@
+Stock_Code,ETF_Status,Source_URL,HTTP_Status,Production_Latency_Ms,Source_HTML_SHA256,Raw_Candidate_Count,Eligible_Top10_Before_Limit_Count,Verified_Top10_Count,Rejected_Candidate_Count,Mapped_ETFs,Holdings_Validation_Count,Holdings_Validation_Pass_Count,All_Returned_Mappings_Validated
+NVDA,OK,https://www.tradingview.com/symbols/NASDAQ-NVDA/etfs/,200,226.15529999893624,c058466d64f3dc8f1fd3b0560817e18afa3bbb00349e1a436f966562281e1714,100,19,3,97,SMH 19.20%; VGT 16.77%; FTEC 16.60%,3,3,True
+AAPL,OK,https://www.tradingview.com/symbols/NASDAQ-AAPL/etfs/,200,155.66609999223147,b6b8ba6452c68469b9d43875bff77c4c57c6430dd8e9a088f0b9d0fc08e730fb,100,11,3,97,FTEC 15.94%; VGT 15.25%; IYW 12.78%,3,3,True
+MSFT,OK,https://www.tradingview.com/symbols/NASDAQ-MSFT/etfs/,200,157.91660000104457,d55d5b33f8f4a411dfc5eacdc0d1a7b5a35ef8e2045407f94fd8702c67bcd77f,100,2,2,98,VGT 9.87%; VOOG 9.28%,2,2,True
+TSLA,OK,https://www.tradingview.com/symbols/NASDAQ-TSLA/etfs/,200,150.81010000722017,d00d63b35a14e32691d18aaaa6a1b9ffa6d356355cd085d11ad1d5701d0d3190,100,3,3,97,XLY 19.05%; VCR 17.67%; ARKK 10.37%,3,3,True
+AMZN,OK,https://www.tradingview.com/symbols/NASDAQ-AMZN/etfs/,200,149.80369999830145,560a72984f2c92cab4cd5ece5bb84b5af1c619fea7da27933498707beca809ea,100,2,2,98,XLY 23.11%; VCR 22.14%,2,2,True

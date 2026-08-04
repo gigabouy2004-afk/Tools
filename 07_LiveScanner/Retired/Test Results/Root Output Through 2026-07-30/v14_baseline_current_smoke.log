@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------
+LIVE SCANNER - POST EXECUTION SUMMARY
+----------------------------------------------------------------------------------------------------
+Started              : 2026-07-25 05:22:14
+Completed            : 2026-07-25 05:22:20
+Elapsed              : 00m 05s
+Input file           : Direct command-line codes
+Codes read           : 3
+Codes selected       : 3
+Codes processed      : 3
+BUY SIGNAL           : 0
+HOLD                 : 0
+IGNORE               : 2
+REJECT               : 1
+ERROR                : 0
+BUY symbols          : None
+BUY breakup          : None
+Preset               : balanced
+MACD                 : 12,26,9
+Requested candle mode: completed
+Output file          : D:\Tools\07_LiveScanner\output\v14_baseline_current_smoke.xlsx
+Log file             : D:\Tools\07_LiveScanner\output\v14_baseline_current_smoke.log
+----------------------------------------------------------------------------------------------------

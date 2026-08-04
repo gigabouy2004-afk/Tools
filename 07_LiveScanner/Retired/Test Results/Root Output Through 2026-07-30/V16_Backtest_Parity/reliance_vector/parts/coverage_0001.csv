@@ -1,0 +1,2 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+RELIANCE.NS,INDIA,Reliance Industries Limited,,PROCESSED,,498,2024-07-29,2026-07-27,498,1

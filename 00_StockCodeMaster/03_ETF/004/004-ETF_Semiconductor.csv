@@ -1,0 +1,15 @@
+Ticker,Symbol,Security Name,Listing Exchange,Market Category,ETF,Test Issue,MarketCap,Sector,Industry,Asset Class,Strategy,Theme,Geography,Category Flags
+CHPS,CHPS,Xtrackers Semiconductor Select Equity ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Semiconductor,United States,Equity; Plain; Semiconductor; United States
+EUV,EUV,Corgi Lithography & Semiconductor Photonics ETF,BATS, ,Y,N,,,ETF,Equity,Plain,Semiconductor,United States,Equity; Plain; Semiconductor; United States
+MBCE,MBCE,Monarch Blue Chips Elite Index ETF,BATS, ,Y,N,,,ETF,Equity,Plain,Semiconductor,United States,Equity; Plain; Semiconductor; United States
+PSI,PSI,Invesco Semiconductors ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Semiconductor,United States,Equity; Plain; Semiconductor; United States
+SEMY,SEMY,GraniteShares YieldBOOST Semiconductor ETF,NASDAQ,G,Y,N,,,ETF,Equity,Dividend/Income,Semiconductor,United States,Dividend/Income; Equity; Semiconductor; United States
+SHOC,SHOC,Strive U.S. Semiconductor ETF,NYSE, ,Y,N,,,ETF,Equity,Plain,Semiconductor,United States,Equity; Plain; Semiconductor; United States
+SMH,SMH,VanEck Semiconductor ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Semiconductor,United States,Equity; Plain; Semiconductor; United States
+SMHC,SMHC,VanEck China Semiconductor ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Semiconductor,China,China; Equity; Plain; Semiconductor
+SMHX,SMHX,VanEck Fabless Semiconductor ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Semiconductor,United States,Equity; Plain; Semiconductor; United States
+SOXQ,SOXQ,Invesco PHLX Semiconductor ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Semiconductor,United States,Equity; Plain; Semiconductor; United States
+SOXX,SOXX,iShares PHLX SOX Semiconductor Sector Index Fund,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Semiconductor,United States,Equity; Plain; Semiconductor; United States
+XSD,XSD,State Street SPDR S&P Semiconductor ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Semiconductor,United States,Equity; Plain; Semiconductor; United States
+CHPX,CHPX,Global X AI Semiconductor & Quantum ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Semiconductor; AI & Machine Learning; Quantum Computing,Global,AI & Machine Learning; Equity; Global; Plain; Quantum Computing; Semiconductor
+FTXL,FTXL,First Trust Nasdaq Semiconductor ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Semiconductor; Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; Semiconductor; United States

@@ -1,0 +1,124 @@
+Ticker,Symbol,Security Name,Listing Exchange,Market Category,ETF, MarketCap ,TrailingPE,ForwardPE,Sector,Industry
+SO,SO,Southern Company (The) Common Stock,N, ,N,"1,05,30,60,89,267.00",,,Utilities,Electric Utilities: Central
+CEG,CEG,Constellation Energy Corporation - Common Stock When-Issued,Q,Q,N,"99,98,10,21,339.00",,,Utilities,Electric Utilities: Central
+DUK,DUK,Duke Energy Corporation (Holding Company) Common Stock,N, ,N,"96,38,14,80,308.00",,,Utilities,Power Generation
+WMB,WMB,"Williams Companies, Inc. (The) Common Stock",N, ,N,"94,35,43,16,145.00",,,Utilities,Natural Gas Distribution
+WM,WM,"Waste Management, Inc. Common Stock",N, ,N,"87,72,02,07,267.00",,,Utilities,Environmental Services
+NGG,NGG,"National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares",N, ,N,"86,82,70,35,488.00",,,Utilities,Natural Gas Distribution
+EPD,EPD,Enterprise Products Partners L.P. Common Stock,N, ,N,"84,34,00,00,055.00",,,Utilities,Natural Gas Distribution
+CIEN,CIEN,Ciena Corporation Common Stock,N, ,N,"82,28,61,07,601.00",,,Utilities,Telecommunications Equipment
+KMI,KMI,"Kinder Morgan, Inc. Common Stock",N, ,N,"74,18,68,14,867.00",,,Utilities,Natural Gas Distribution
+AEP,AEP,"American Electric Power Company, Inc. - Common Stock",Q,Q,N,"69,68,35,31,448.00",,,Utilities,Electric Utilities: Central
+TRP,TRP,TC Energy Corporation Common Stock,N, ,N,"68,22,50,00,000.00",,,Utilities,Natural Gas Distribution
+RSG,RSG,"Republic Services, Inc. Common Stock",N, ,N,"63,96,49,02,008.00",,,Utilities,Environmental Services
+SRE,SRE,DBA Sempra Common Stock,N, ,N,"60,47,28,66,155.00",,,Utilities,Natural Gas Distribution
+TRGP,TRGP,"Targa Resources, Inc. Common Stock",N, ,N,"57,03,30,31,466.00",,,Utilities,Natural Gas Distribution
+OKE,OKE,"ONEOK, Inc. Common Stock",N, ,N,"56,95,49,69,821.00",,,Utilities,Oil & Gas Production
+D,D,"Dominion Energy, Inc. Common Stock",N, ,N,"55,15,06,48,322.00",,,Utilities,Electric Utilities: Central
+ETR,ETR,Entergy Corporation Common Stock,N, ,N,"51,36,80,35,931.00",,,Utilities,Electric Utilities: Central
+LNG,LNG,"Cheniere Energy, Inc. Common Stock",N, ,N,"50,34,48,36,287.00",,,Utilities,Oil/Gas Transmission
+XEL,XEL,Xcel Energy Inc. - Common Stock,Q,Q,N,"49,89,78,65,931.00",,,Utilities,Power Generation
+VST,VST,Vistra Corp. Common Stock,N, ,N,"47,39,43,67,702.00",,,Utilities,Electric Utilities: Central
+EXC,EXC,Exelon Corporation - Common Stock,Q,Q,N,"45,51,74,14,197.00",,,Utilities,Power Generation
+PCG,PCG,Pacific Gas & Electric Co. Common Stock,N, ,N,"44,66,16,72,019.00",,,Utilities,Power Generation
+WCN,WCN,"Waste Connections, Inc. Common Shares",N, ,N,"39,64,01,80,348.00",,,Utilities,Environmental Services
+ED,ED,"Consolidated Edison, Inc. Common Stock",N, ,N,"39,42,53,07,841.00",,,Utilities,Power Generation
+PEG,PEG,Public Service Enterprise Group Incorporated Common Stock,N, ,N,"38,58,50,26,157.00",,,Utilities,Power Generation
+WEC,WEC,"WEC Energy Group, Inc. Common Stock",N, ,N,"36,17,34,65,170.00",,,Utilities,Power Generation
+VG,VG,"Venture Global, Inc. Class A common stock",N, ,N,"32,58,23,55,563.00",,,Utilities,Oil/Gas Transmission
+AXIA,AXIA,AXIA Energia American Depositary Shares (Each representing one Common Share),N, ,N,"31,45,52,95,134.00",,,Utilities,Electric Utilities: Central
+AEE,AEE,Ameren Corporation Common Stock,N, ,N,"30,18,25,31,241.00",,,Utilities,Power Generation
+ATO,ATO,Atmos Energy Corporation Common Stock,N, ,N,"30,10,73,28,294.00",,,Utilities,Oil/Gas Transmission
+DTE,DTE,DTE Energy Company Common Stock,N, ,N,"29,81,66,98,102.00",,,Utilities,Electric Utilities: Central
+FTS,FTS,Fortis Inc. Common Shares,N, ,N,"28,78,96,05,000.00",,,Utilities,Electric Utilities: Central
+NRG,NRG,"NRG Energy, Inc. Common Stock",N, ,N,"27,81,96,21,002.00",,,Utilities,Electric Utilities: Central
+CNP,CNP,"CenterPoint Energy, Inc (Holding Co) Common Stock",N, ,N,"27,57,32,43,582.00",,,Utilities,Electric Utilities: Central
+EIX,EIX,Edison International Common Stock,N, ,N,"27,08,56,45,507.00",,,Utilities,Electric Utilities: Central
+PPL,PPL,PPL Corporation Common Stock,N, ,N,"26,88,52,40,186.00",,,Utilities,Electric Utilities: Central
+ES,ES,Eversource Energy (D/B/A) Common Stock,N, ,N,"25,72,76,34,510.00",,,Utilities,Electric Utilities: Central
+FE,FE,FirstEnergy Corp. Common Stock,N, ,N,"25,69,96,97,105.00",,,Utilities,Electric Utilities: Central
+FN,FN,Fabrinet Ordinary Shares,N, ,N,"25,32,05,18,961.00",,,Utilities,Telecommunications Equipment
+AWK,AWK,"American Water Works Company, Inc. Common Stock",N, ,N,"24,66,88,11,815.00",,,Utilities,Water Supply
+CMS,CMS,CMS Energy Corporation Common Stock,N, ,N,"22,54,64,97,152.00",,,Utilities,Power Generation
+NI,NI,NiSource Inc Common Stock,N, ,N,"22,53,79,44,835.00",,,Utilities,Power Generation
+SBS,SBS,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depositary Shares (Each repstg 250 Common Shares),N, ,N,"20,90,04,86,768.00",,,Utilities,Water Supply
+EVRG,EVRG,"Evergy, Inc. - Common Stock",Q,Q,N,"18,98,39,00,174.00",,,Utilities,Power Generation
+LNT,LNT,Alliant Energy Corporation - Common Stock,Q,Q,N,"18,63,98,53,760.00",,,Utilities,Power Generation
+KEP,KEP,Korea Electric Power Corporation Common Stock,N, ,N,"16,94,78,51,633.00",,,Utilities,Electric Utilities: Central
+EMA,EMA,Emera Incorporated Common Shares,N, ,N,"16,05,97,28,990.00",,,Utilities,Electric Utilities: Central
+TLN,TLN,Talen Energy Corporation - Common Stock,Q,Q,N,"16,03,78,28,998.00",,,Utilities,Electric Utilities: Central
+DTM,DTM,"DT Midstream, Inc. Common Stock ",N, ,N,"15,02,97,40,005.00",,,Utilities,Natural Gas Distribution
+BEPC,BEPC,Brookfield Renewable Corporation Brookfield Renewable Corporation Class A Subordinate Voting Shares,N, ,N,"13,89,20,26,585.00",,,Utilities,Electric Utilities: Central
+GFL,GFL,"GFL Environmental Inc. Subordinate voting shares, no par value",N, ,N,"13,33,24,70,130.00",,,Utilities,Environmental Services
+ENLT,ENLT,Enlight Renewable Energy Ltd. - Ordinary Shares,Q,Q,N,"12,76,05,25,931.00",,,Utilities,Electric Utilities: Central
+PNW,PNW,Pinnacle West Capital Corporation Common Stock,N, ,N,"12,02,41,90,611.00",,,Utilities,Electric Utilities: Central
+OKLO,OKLO,Oklo Inc. Class A common stock,N, ,N,"11,54,77,81,807.00",,,Utilities,Electric Utilities: Central
+FRVO,FRVO,Fervo Energy Company - Class A common stock,Q,Q,N,"10,88,31,22,341.00",,,Utilities,Electric Utilities: Central
+WTRG,WTRG,"Essential Utilities, Inc. Common Stock",N, ,N,"10,67,87,81,810.00",,,Utilities,Water Supply
+AM,AM,Antero Midstream Corporation Common Stock,N, ,N,"10,33,31,89,900.00",,,Utilities,Natural Gas Distribution
+AES,AES,The AES Corporation Common Stock,N, ,N,"10,30,15,63,164.00",,,Utilities,Electric Utilities: Central
+OGE,OGE,OGE Energy Corp Common Stock,N, ,N,"9,77,80,15,329.00",,,Utilities,Electric Utilities: Central
+ELPC,ELPC,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares),N, ,N,"8,93,35,17,723.00",,,Utilities,Electric Utilities: Central
+KNTK,KNTK,Kinetik Holdings Inc. Class A Common Stock,N, ,N,"8,18,13,17,276.00",,,Utilities,Natural Gas Distribution
+ORA,ORA,"Ormat Technologies, Inc. Common Stock",N, ,N,"8,16,69,37,841.00",,,Utilities,Electric Utilities: Central
+IDA,IDA,"IDACORP, Inc. Common Stock",N, ,N,"7,85,79,95,888.00",,,Utilities,Electric Utilities: Central
+NFG,NFG,National Fuel Gas Company Common Stock,N, ,N,"7,74,91,83,417.00",,,Utilities,Oil/Gas Transmission
+UGI,UGI,UGI Corporation Common Stock,N, ,N,"7,31,51,13,453.00",,,Utilities,Natural Gas Distribution
+UGP,UGP,Ultrapar Participacoes S.A. (New) American Depositary Shares (Each representing one Common Share),N, ,N,"6,61,56,56,591.00",,,Utilities,Oil/Gas Transmission
+KGS,KGS,"Kodiak Gas Services, Inc. Common Stock",N, ,N,"6,58,85,85,624.00",,,Utilities,Natural Gas Distribution
+TXNM,TXNM,"TXNM Energy, Inc. Common Stock",N, ,N,"6,57,65,64,602.00",,,Utilities,Electric Utilities: Central
+AROC,AROC,"Archrock, Inc. Common Stock",N, ,N,"6,46,18,95,045.00",,,Utilities,Natural Gas Distribution
+SWX,SWX,"Southwest Gas Holdings, Inc. Common Stock (DE)",N, ,N,"6,44,35,34,943.00",,,Utilities,Oil & Gas Production
+CIG,CIG,Comp En De Mn Cemig ADS American Depositary Shares,N, ,N,"6,42,47,00,354.00",,,Utilities,Electric Utilities: Central
+ENIC,ENIC,Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock),N, ,N,"5,98,29,07,198.00",,,Utilities,Electric Utilities: Central
+NJR,NJR,NewJersey Resources Corporation Common Stock,N, ,N,"5,80,14,76,624.00",,,Utilities,Oil/Gas Transmission
+BKH,BKH,Black Hills Corporation Common Stock,N, ,N,"5,65,33,09,242.00",,,Utilities,Electric Utilities: Central
+POR,POR,Portland General Electric Co Common Stock,N, ,N,"5,56,89,39,702.00",,,Utilities,Electric Utilities: Central
+CWST,CWST,"Casella Waste Systems, Inc. - Class A Common Stock",Q,Q,N,"5,48,57,21,312.00",,,Utilities,Environmental Services
+OGS,OGS,"ONE Gas, Inc. Common Stock",N, ,N,"5,28,71,15,780.00",,,Utilities,Oil/Gas Transmission
+SR,SR,Spire Inc. Common Stock,N, ,N,"5,09,52,76,302.00",,,Utilities,Oil/Gas Transmission
+KEN,KEN,Kenon Holdings Ltd. Ordinary Shares,N, ,N,"4,76,79,13,115.00",,,Utilities,Electric Utilities: Central
+AQN,AQN,Algonquin Power & Utilities Corp. Common Shares,N, ,N,"4,54,89,64,464.00",,,Utilities,Electric Utilities: Central
+CWEN,CWEN,"Clearway Energy, Inc. Class C Common Stock",N, ,N,"4,54,35,50,000.00",,,Utilities,Electric Utilities: Central
+TGS,TGS,Transportadora de Gas del Sur SA TGS Common Stock,N, ,N,"4,52,71,05,015.00",,,Utilities,Natural Gas Distribution
+NWE,NWE,"NorthWestern Energy Group, Inc.  - Common Stock",Q,Q,N,"4,40,45,89,026.00",,,Utilities,Power Generation
+EE,EE,"Excelerate Energy, Inc. Class A Common Stock",N, ,N,"4,14,56,14,127.00",,,Utilities,Oil/Gas Transmission
+TAC,TAC,TransAlta Corporation Ordinary Shares,N, ,N,"3,86,99,11,000.00",,,Utilities,Electric Utilities: Central
+OTTR,OTTR,Otter Tail Corporation - Common Stock,Q,Q,N,"3,78,19,32,232.00",,,Utilities,Electric Utilities: Central
+AVA,AVA,Avista Corporation Common Stock,N, ,N,"3,38,73,49,246.00",,,Utilities,Power Generation
+CTRI,CTRI,"Centuri Holdings, Inc. Common Stock",N, ,N,"3,28,18,90,535.00",,,Utilities,Oil & Gas Production
+CPK,CPK,Chesapeake Utilities Corporation Common Stock,N, ,N,"3,05,02,84,980.00",,,Utilities,Oil & Gas Production
+AWR,AWR,American States Water Company Common Stock,N, ,N,"3,03,11,59,783.00",,,Utilities,Water Supply
+CWT,CWT,California Water Service Group Common Stock,N, ,N,"2,59,76,31,571.00",,,Utilities,Water Supply
+NEXT,NEXT,NextDecade Corporation - Common Stock,Q,S,N,"2,33,85,63,110.00",,,Utilities,Oil & Gas Production
+HTO,HTO,H2O America  - Common Stock,Q,Q,N,"2,33,42,67,380.00",,,Utilities,Water Supply
+HE,HE,"Hawaiian Electric Industries, Inc. Common Stock",N, ,N,"2,32,62,65,033.00",,,Utilities,Electric Utilities: Central
+CEPU,CEPU,Central Puerto S.A. American Depositary Shares (each represents ten Common Shares),N, ,N,"2,17,83,15,347.00",,,Utilities,Electric Utilities: Central
+NWN,NWN,Northwest Natural Holding Company Common Stock,N, ,N,"2,09,56,01,530.00",,,Utilities,Oil/Gas Transmission
+NNE,NNE,Nano Nuclear Energy Inc. - common stock,Q,S,N,"1,42,85,43,053.00",,,Utilities,Electric Utilities: Central
+ADTN,ADTN,"ADTRAN Holdings, Inc. - Common Stock",Q,Q,N,"1,23,19,81,101.00",,,Utilities,Telecommunications Equipment
+EDN,EDN,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) American Depositary Shares,N, ,N,"1,06,90,90,247.00",,,Utilities,Electric Utilities: Central
+MSEX,MSEX,Middlesex Water Company - Common Stock,Q,Q,N,"96,60,43,945.00",,,Utilities,Water Supply
+UTL,UTL,UNITIL Corporation Common Stock,N, ,N,"91,21,34,118.00",,,Utilities,Power Generation
+NTGR,NTGR,"NETGEAR, Inc. - Common Stock",Q,Q,N,"68,99,19,707.00",,,Utilities,Telecommunications Equipment
+OIO,OIO,OIO Group - Ordinary Shares,Q,S,N,"64,38,40,900.00",,,Utilities,Environmental Services
+SMC,SMC,Summit Midstream Corporation Common Stock,N, ,N,"63,37,55,543.00",,,Utilities,Natural Gas Distribution
+CLFD,CLFD,"Clearfield, Inc. - Common Stock",Q,G,N,"56,96,70,163.00",,,Utilities,Telecommunications Equipment
+YORW,YORW,The York Water Company - Common Stock,Q,Q,N,"47,69,59,800.00",,,Utilities,Water Supply
+CWCO,CWCO,Consolidated Water Co. Ltd. - Ordinary Shares,Q,Q,N,"47,20,05,605.00",,,Utilities,Water Supply
+CLNE,CLNE,Clean Energy Fuels Corp. - Common Stock,Q,Q,N,"45,36,84,769.00",,,Utilities,Natural Gas Distribution
+WAVE,WAVE,Eco Wave Power Global AB (publ) - American Depositary Shares,Q,S,N,"40,87,76,445.00",,,Utilities,Electric Utilities: Central
+CDZI,CDZI,"Cadiz, Inc. - Common Stock",Q,G,N,"38,83,73,967.00",,,Utilities,Water Supply
+OPAL,OPAL,OPAL Fuels Inc. - Class A Common Stock,Q,S,N,"35,84,08,272.00",,,Utilities,Natural Gas Distribution
+GNE,GNE,Genie Energy Ltd. Class B Common Stock Stock,N, ,N,"34,41,20,192.00",,,Utilities,Power Generation
+ARTNA,ARTNA,Artesian Resources Corporation - Class A Non-Voting Common Stock,Q,Q,N,"33,25,50,148.00",,,Utilities,Water Supply
+ELLO,ELLO,Ellomay Capital Ltd Ordinary Shares (Israel),A, ,N,"32,44,57,234.00",,,Utilities,Electric Utilities: Central
+PCYO,PCYO,Pure Cycle Corporation - Common Stock,Q,S,N,"26,77,94,418.00",,,Utilities,Water Supply
+RGCO,RGCO,RGC Resources Inc. - Common Stock,Q,G,N,"24,35,27,450.00",,,Utilities,Oil & Gas Production
+MNTK,MNTK,"Montauk Renewables, Inc. - Common Stock",Q,S,N,"23,84,21,408.00",,,Utilities,Natural Gas Distribution
+AUDC,AUDC,AudioCodes Ltd. - Ordinary Shares,Q,Q,N,"21,83,57,722.00",,,Utilities,Telecommunications Equipment
+NFE,NFE,New Fortress Energy Inc. - Class A Common Stock,Q,Q,N,"20,08,01,159.00",,,Utilities,Oil/Gas Transmission
+GWRS,GWRS,"Global Water Resources, Inc. - common stock",Q,G,N,"20,07,70,165.00",,,Utilities,Water Supply
+VIVO,VIVO,VivoPower PLC - Ordinary Shares,Q,S,N,"13,71,69,747.00",,,Utilities,Power Generation
+MCGA,MCGA,Yorkville Acquisition Corp. - Class A Ordinary Share,Q,G,N, -   ,,,Utilities,Electric Utilities: Central
+TVC,TVC,Tennessee Valley Authority Common Stock,N, ,N, -   ,,,Utilities,Electric Utilities: Central

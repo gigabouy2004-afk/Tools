@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+BHP,US,BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares),Energy,PROCESSED,,1001,2022-07-29,2026-07-28,500,13
+TMUS,US,"T-Mobile US, Inc. - Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+STX,US,Seagate Technology Holdings PLC - Ordinary Shares (Ireland),Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,21
+IBM,US,International Business Machines Corporation Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+AMGN,US,Amgen Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+CRWD,US,"CrowdStrike Holdings, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+TMO,US,Thermo Fisher Scientific Inc Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+APH,US,Amphenol Corporation Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+SAP,US,SAP  SE ADS,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+WDC,US,Western Digital Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+ADI,US,"Analog Devices, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+NEE,US,"NextEra Energy, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+QCOM,US,QUALCOMM Incorporated - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+VZ,US,Verizon Communications Inc. Common Stock,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+TTE,US,TotalEnergies SE Ordinary Shares,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+MRVL,US,"Marvell Technology, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+UNP,US,Union Pacific Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+ABT,US,Abbott Laboratories Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+DIS,US,Walt Disney Company (The) Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+GILD,US,"Gilead Sciences, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+BA,US,Boeing Company (The) Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+SHOP,US,Shopify Inc. - Class A Subordinate Voting Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+DE,US,Deere & Company Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+SCCO,US,Southern Copper Corporation Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+ETN,US,"Eaton Corporation, PLC Ordinary Shares",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+T,US,AT&T Inc.,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+UBER,US,"Uber Technologies, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+APP,US,Applovin Corporation - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+COP,US,ConocoPhillips Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+PFE,US,"Pfizer, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+GLW,US,Corning Incorporated Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,22
+CRM,US,"Salesforce, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+BKNG,US,Booking Holdings Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+BTI,US,"British American Tobacco  Industries, p.l.c. Common Stock ADR",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+DHR,US,Danaher Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+BMY,US,Bristol-Myers Squibb Company Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+ISRG,US,"Intuitive Surgical, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+VRTX,US,Vertex Pharmaceuticals Incorporated - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+MO,US,"Altria Group, Inc.",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,22
+ENB,US,Enbridge Inc Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+PH,US,Parker-Hannifin Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+PDD,US,PDD Holdings Inc. - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+SYK,US,Stryker Corporation Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+PBR,US,Petroleo Brasileiro S.A. Petrobras ADS,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+VRT,US,"Vertiv Holdings, LLC Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+LMT,US,Lockheed Martin Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+FTNT,US,"Fortinet, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+LOW,US,"Lowe's Companies, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+RIO,US,Rio Tinto Plc Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+BP,US,BP p.l.c. Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,7

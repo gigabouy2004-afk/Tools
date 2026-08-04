@@ -1,0 +1,45 @@
+{
+  "Purpose": "V8 enforced EMA200 plus configurable MACD foundation validation",
+  "Benchmark": "SPY",
+  "Quarter": "2026Q2",
+  "Signal_Dates": [
+    "2026-04-08",
+    "2026-04-30",
+    "2026-05-07",
+    "2026-06-09"
+  ],
+  "Seed_Stocks": [
+    "NVDA",
+    "AAPL",
+    "MSFT",
+    "GOOGL",
+    "META",
+    "AMD",
+    "AVGO",
+    "ORCL",
+    "CRM",
+    "NOW",
+    "PANW",
+    "CRWD",
+    "ANET",
+    "MU",
+    "QCOM",
+    "AMAT",
+    "LRCX",
+    "KLAC",
+    "PLTR",
+    "APP"
+  ],
+  "MACD": {
+    "Fast": 8,
+    "Slow": 21,
+    "Signal": 5
+  },
+  "Foundation_Policy": "enforce",
+  "Regression_Baseline_Policy": "audit",
+  "Forward_Horizons_Sessions": [1, 5, 8],
+  "Price_Start": "2023-01-01",
+  "Price_End_Exclusive": "2026-07-01",
+  "ETF_Historical_Evidence_Rule": "VALIDATED_HOLDINGS_DATE_MUST_MATCH_SIGNAL_CALENDAR_QUARTER",
+  "Historical_Replay_Mode": "DAILY_EOD_WITHOUT_HISTORICAL_INTRADAY_OR_EXTENDED_HOURS"
+}

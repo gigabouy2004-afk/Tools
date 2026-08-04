@@ -1,0 +1,21 @@
+Stock_Code,ETF_Status,Source_URL,HTTP_Status,Production_Latency_Ms,Source_HTML_SHA256,Raw_Candidate_Count,Eligible_Top10_Before_Limit_Count,Verified_Top10_Count,Rejected_Candidate_Count,Mapped_ETFs,Holdings_Validation_Count,Holdings_Validation_Pass_Count,All_Returned_Mappings_Validated
+NVDA,OK,https://www.tradingview.com/symbols/NASDAQ-NVDA/etfs/,200,661.8123999942327,26ceff4d2c02b49290e3b0c21869d9acd1baa87a74d711c529798bdcd30ec635,100,19,3,97,SMH 19.20%; VGT 16.77%; FTEC 16.60%,3,3,True
+AAPL,OK,https://www.tradingview.com/symbols/NASDAQ-AAPL/etfs/,200,667.9869999934454,42d6c06eaa0cad9193b4e2ea1c794c378ecf5eec1b23adb5f0a96f4d4ade63bb,100,11,3,97,FTEC 15.94%; VGT 15.25%; IYW 12.78%,3,3,True
+MSFT,OK,https://www.tradingview.com/symbols/NASDAQ-MSFT/etfs/,200,522.2259000001941,bd4f4db78d618e8f464b6866b4dffef0968cb975c3518266d5fba614ccdbdb7f,100,2,2,98,VGT 9.87%; VOOG 9.28%,2,2,True
+TSLA,OK,https://www.tradingview.com/symbols/NASDAQ-TSLA/etfs/,200,529.1687999997521,f37cbf82a77de119257461cc139e89743e0fc9ea2533e19f900143ed8d173100,100,3,3,97,XLY 19.05%; VCR 17.67%; ARKK 10.37%,3,3,True
+AMZN,OK,https://www.tradingview.com/symbols/NASDAQ-AMZN/etfs/,200,533.9115000097081,f4ef5b006e165588a512e063ae39283db8c824dff8aacba92e3240c86db9e1cd,100,2,2,98,XLY 23.11%; VCR 22.14%,2,2,True
+META,OK,https://www.tradingview.com/symbols/NASDAQ-META/etfs/,200,684.5961000071838,b2d5aa724ed34a1d1686189bb0a17888b90953272cfe71ddee4d403ddeb69576,100,3,3,97,VOX 22.12%; XLC 18.38%; FDN 11.19%,3,3,True
+GOOGL,OK,https://www.tradingview.com/symbols/NASDAQ-GOOGL/etfs/,200,745.2374999993481,27dd4c950f7d6b6e6ef4e202eb030ac86d4d90ef1aec2729e0a8faedee8db2a5,100,2,2,98,VOX 14.10%; XLC 10.82%,2,2,True
+GOOG,OK,https://www.tradingview.com/symbols/NASDAQ-GOOG/etfs/,200,599.7502999962308,eeaa6718c995e282b84c962c6cdff54a4a34f330b25d37cc8f57502ad7480c59,100,1,1,99,JGRO 10.80%,1,1,True
+AVGO,OK,https://www.tradingview.com/symbols/NASDAQ-AVGO/etfs/,200,549.6791000041412,aff486c736e2df369836e79290f87ea61b3bc9020eedc34c7d8102feec85a75b,100,1,1,99,SMH 9.96%,1,1,True
+NFLX,NO_VERIFIED_TOP10_MAPPING,https://www.tradingview.com/symbols/NASDAQ-NFLX/etfs/,200,526.3130999956047,eafd5dec201660972bf8efe47b73e940770fd7a1638f4686f86d26e93b1b683d,100,0,0,100,,0,0,False
+COST,OK,https://www.tradingview.com/symbols/NASDAQ-COST/etfs/,200,1803.527199997916,d06f2466fe5e85713559fd80a979977065f33cdcda00fc9c4c36fb9ea4402ae8,100,2,2,98,VDC 11.81%; FSTA 11.15%,2,2,True
+WMT,OK,https://www.tradingview.com/symbols/NASDAQ-WMT/etfs/,200,1631.4261999941664,b98364226fc7dd815b8ec23bc5299bed42d9c4fdcfc5e38d60a241ec3cb81f80,100,3,3,97,VDC 14.46%; FSTA 13.87%; XLP 10.71%,3,3,True
+JPM,OK,https://www.tradingview.com/symbols/NYSE-JPM/etfs/,200,828.5346000047866,695231aa2337522738b246d94aa1e1a770421e548d4838ebf343e8327e59fe2f,100,4,3,97,IYG 12.71%; XLF 11.46%; IYF 10.89%,3,3,True
+BAC,NO_VERIFIED_TOP10_MAPPING,https://www.tradingview.com/symbols/NYSE-BAC/etfs/,200,769.6101000037743,88641483ca5d03f767120ce9f1c7aad4028df986766d279e93a50d6eed92488c,100,0,0,100,,0,0,False
+XOM,OK,https://www.tradingview.com/symbols/NYSE-XOM/etfs/,200,616.6334000008646,4a16311217e1eddccc2fa71a51149e2447c851f397a14e74ee9e948cf1e6ac9f,100,5,3,97,IYE 21.88%; VDE 21.86%; FENY 21.11%,3,3,True
+LLY,OK,https://www.tradingview.com/symbols/NYSE-LLY/etfs/,200,667.5837999937357,f98dc192cc5f5c3486efa576f6397a6df3c30f92d98c77ed8a4fab90f287a241,100,6,3,97,IHE 21.71%; XLV 16.42%; IYH 15.73%,3,3,True
+UNH,OK,https://www.tradingview.com/symbols/NYSE-UNH/etfs/,200,713.2676000037463,b6b86177b638bbaa4b818809ba4c62e277864e126c71cfa371ed51a44a686fff,100,1,1,99,IHF 21.80%,1,1,True
+HD,NO_VERIFIED_TOP10_MAPPING,https://www.tradingview.com/symbols/NYSE-HD/etfs/,200,779.5794999983627,36772994e7436a71edccc583197db9bacb60dcaecf1f85ed54d29d4e37cc61d0,100,0,0,100,,0,0,False
+MA,OK,https://www.tradingview.com/symbols/NYSE-MA/etfs/,200,1238.4748000040418,61e4a464fe9264ce6374a782044748262de7a8452ac8d3876a395906a5e709d7,100,1,1,99,AKRE 13.69%,1,1,True
+V,UNAVAILABLE,,,,,0,0,0,0,,0,0,False

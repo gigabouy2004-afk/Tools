@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+GRVY,US,"GRAVITY Co., Ltd. - American depositary shares, each representing one common share.",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SI,US,"Shoulder Innovations, Inc. Common Stock",Health Care,PROCESSED,,249,2025-07-31,2026-07-28,249,0
+BNED,US,"Barnes & Noble Education, Inc Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CMCO,US,Columbus McKinnon Corporation - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NVEC,US,NVE Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+SGU,US,Star Group L.P. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CCCC,US,"C4 Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+CDRO,US,"Codere Online Luxembourg, S.A. - Ordinary Shares",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GEVO,US,"Gevo, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+ASMB,US,"Assembly Biosciences, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+MFI,US,mF International Limited - Class A Ordinary Shares,Technology,PROCESSED,,567,2024-04-22,2026-07-27,500,3
+KMDA,US,Kamada Ltd. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+RMNI,US,"Rimini Street, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+GORO,US,Goldgroup Mining Inc. Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TENX,US,"Tenax Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+EPRX,US,Eupraxia Pharmaceuticals Inc. - Common Stock,Health Care,PROCESSED,,579,2024-04-05,2026-07-28,501,2
+PSNYW,US,Polestar Automotive Holding UK Limited - Class C-1 ADS (ADW),Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,199,2025-10-10,2026-07-28,0,0
+SERV,US,Serve Robotics Inc. - Common Stock,Consumer Discretionary,PROCESSED,,598,2024-03-08,2026-07-28,501,1
+CRNC,US,Cerence Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+WILC,US,"G. Willi-Food International,  Ltd. - Ordinary Shares",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ARQQ,US,Arqit Quantum Inc. - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+CINT,US,CI&T Inc Class A Common Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+HVT,US,"Haverty Furniture Companies, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+DDD,US,3D Systems Corporation Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+BNTC,US,Benitec Biopharma Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+USNA,US,"USANA Health Sciences, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LRMR,US,"Larimar Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+OEC,US,Orion S.A. Common Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ASTL,US,Algoma Steel Group Inc. - Common Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+IPSC,US,"Century Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+MCFT,US,"MasterCraft Boat Holdings, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+CGC,US,Canopy Growth Corporation - Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FLXS,US,"Flexsteel Industries, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+RBBN,US,Ribbon Communications Inc.  - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+MOBI,US,"Mobia Medical, Inc. - Common Stock",Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,55,2026-05-08,2026-07-28,0,0
+FVRR,US,"Fiverr International Ltd. Ordinary Shares, no par value",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+ECX,US,ECARX Holdings Inc. - Class A Ordinary shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ALLT,US,Allot Ltd. - Ordinary Shares,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+EBS,US,Emergent BioSolutions Inc. Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+IMXI,US,"International Money Express, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+TRVG,US,trivago N.V. - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ENTA,US,"Enanta Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+AUTL,US,Autolus Therapeutics plc - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MTLS,US,Materialise NV - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+AVIR,US,"Atea Pharmaceuticals, Inc. - common stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+VHI,US,"Valhi, Inc. Common Stock",Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ALTO,US,"Alto Ingredients, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+CURR,US,Currenc Group Inc. - Ordinary Shares,Consumer Discretionary,PROCESSED,,476,2024-09-03,2026-07-28,476,0
+RNGR,US,"Ranger Energy Services, Inc. Class A Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+NOA,US,North American Construction Group Ltd. Common Shares (no par),Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,1

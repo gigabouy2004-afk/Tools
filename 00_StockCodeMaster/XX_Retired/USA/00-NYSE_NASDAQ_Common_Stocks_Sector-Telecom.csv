@@ -1,0 +1,65 @@
+Ticker,Symbol,Security Name,Listing Exchange,Market Category,ETF, MarketCap ,TrailingPE,ForwardPE,Sector,Industry
+CSCO,CSCO,"Cisco Systems, Inc. - Common Stock",Q,Q,N,"4,52,83,54,87,800.00",,,Telecommunications,Computer Communications Equipment
+TMUS,TMUS,"T-Mobile US, Inc. - Common Stock",Q,Q,N,"2,04,12,54,53,721.00",,,Telecommunications,Telecommunications Equipment
+VZ,VZ,Verizon Communications Inc. Common Stock,N, ,N,"1,96,85,67,24,812.00",,,Telecommunications,Telecommunications Equipment
+ANET,ANET,"Arista Networks, Inc. Common Stock",N, ,N,"1,84,12,06,03,148.00",,,Telecommunications,Computer Communications Equipment
+CMCSA,CMCSA,Comcast Corporation - Class A Common Stock,Q,Q,N,"90,25,68,61,225.00",,,Telecommunications,Cable & Other Pay Television Services
+LITE,LITE,Lumentum Holdings Inc. - Common Stock,Q,Q,N,"78,40,56,73,000.00",,,Telecommunications,Telecommunications Equipment
+VIV,VIV,Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share),N, ,N,"45,43,67,28,916.00",,,Telecommunications,Telecommunications Equipment
+VOD,VOD,Vodafone Group Plc - American Depositary Shares each representing ten Ordinary Shares,Q,Q,N,"37,02,84,14,560.00",,,Telecommunications,Telecommunications Equipment
+BCE,BCE,"BCE, Inc. Common Stock",N, ,N,"22,77,69,43,080.00",,,Telecommunications,Telecommunications Equipment
+CHTR,CHTR,"Charter Communications, Inc. - Class A Common Stock",Q,Q,N,"20,48,70,15,676.00",,,Telecommunications,Cable & Other Pay Television Services
+FFIV,FFIV,"F5, Inc. - Common Stock",Q,Q,N,"20,27,36,92,217.00",,,Telecommunications,Computer Communications Equipment
+RCI,RCI,"Rogers Communication, Inc. Common Stock",N, ,N,"19,42,10,62,794.00",,,Telecommunications,Cable & Other Pay Television Services
+TU,TU,Telus Corporation Ordinary Shares,N, ,N,"19,06,86,05,000.00",,,Telecommunications,Telecommunications Equipment
+ROKU,ROKU,"Roku, Inc. - Class A Common Stock",Q,Q,N,"18,57,78,21,680.00",,,Telecommunications,Cable & Other Pay Television Services
+SKM,SKM,"SK Telecom Co., Ltd. Common Stock",N, ,N,"14,99,03,06,400.00",,,Telecommunications,Telecommunications Equipment
+TIGO,TIGO,Millicom International Cellular S.A. - Common Stock,Q,Q,N,"13,65,62,52,972.00",,,Telecommunications,Telecommunications Equipment
+LUMN,LUMN,"Lumen Technologies, Inc. Common Stock",N, ,N,"10,98,82,67,562.00",,,Telecommunications,Telecommunications Equipment
+TIMB,TIMB,TIM S.A. American Depositary Shares (Each representing 5 Common Shares) ,N, ,N,"10,83,15,46,030.00",,,Telecommunications,Telecommunications Equipment
+KT,KT,KT Corporation Common Stock,N, ,N,"9,59,31,72,557.00",,,Telecommunications,Telecommunications Equipment
+ESE,ESE,ESCO Technologies Inc. Common Stock,N, ,N,"7,66,85,22,912.00",,,Telecommunications,Telecommunications Equipment
+TKC,TKC,Turkcell Iletisim Hizmetleri AS Common Stock,N, ,N,"5,54,30,32,000.00",,,Telecommunications,Telecommunications Equipment
+LBTYB,LBTYB,Liberty Global Ltd. - Class B Common Shares,Q,Q,N,"5,34,19,24,684.00",,,Telecommunications,Cable & Other Pay Television Services
+LBRDA,LBRDA,Liberty Broadband Corporation - Class A Common Stock,Q,Q,N,"4,94,78,01,730.00",,,Telecommunications,Cable & Other Pay Television Services
+LBRDK,LBRDK,Liberty Broadband Corporation - Class C Common Stock,Q,Q,N,"4,93,91,91,867.00",,,Telecommunications,Cable & Other Pay Television Services
+TDS,TDS,"Telephone and Data Systems, Inc. Common Shares",N, ,N,"4,76,13,92,000.00",,,Telecommunications,Telecommunications Equipment
+IRDM,IRDM,Iridium Communications Inc - Common Stock,Q,Q,N,"4,61,29,01,471.00",,,Telecommunications,Telecommunications Equipment
+AD,AD,"Array Digital Infrastructure, Inc. Common Shares",N, ,N,"4,42,97,28,000.00",,,Telecommunications,Telecommunications Equipment
+PHI,PHI,PLDT Inc. Sponsored ADR,N, ,N,"4,22,17,29,844.00",,,Telecommunications,Telecommunications Equipment
+VEON,VEON,VEON Ltd. - American Depositary Shares,Q,Q,N,"4,06,15,62,399.00",,,Telecommunications,Telecommunications Equipment
+LBTYA,LBTYA,Liberty Global Ltd. - Class A Common Shares,Q,Q,N,"3,92,69,90,836.00",,,Telecommunications,Cable & Other Pay Television Services
+LBTYK,LBTYK,Liberty Global Ltd. - Class C Common Shares,Q,Q,N,"3,84,58,47,676.00",,,Telecommunications,Cable & Other Pay Television Services
+EXTR,EXTR,"Extreme Networks, Inc. - Common Stock",Q,Q,N,"3,22,49,87,650.00",,,Telecommunications,Computer Communications Equipment
+KYIV,KYIV,Kyivstar Group Ltd. - Common Shares,Q,Q,N,"3,15,12,88,468.00",,,Telecommunications,Telecommunications Equipment
+IHS,IHS,IHS Holding Limited Ordinary Shares,N, ,N,"2,76,46,94,869.00",,,Telecommunications,Telecommunications Equipment
+DGII,DGII,Digi International Inc. - Common Stock,Q,Q,N,"2,48,08,04,694.00",,,Telecommunications,Computer Communications Equipment
+ATEN,ATEN,"A10 Networks, Inc. Common Stock",N, ,N,"2,00,44,29,192.00",,,Telecommunications,Computer Communications Equipment
+LILAK,LILAK,Liberty Latin America Ltd. - Class C Common Stock,Q,Q,N,"1,55,27,94,000.00",,,Telecommunications,Cable & Other Pay Television Services
+LILA,LILA,Liberty Latin America Ltd. - Class A Common Stock,Q,Q,N,"1,51,75,49,000.00",,,Telecommunications,Cable & Other Pay Television Services
+ZD,ZD,"Ziff Davis, Inc. - Common Stock",Q,Q,N,"1,49,42,31,685.00",,,Telecommunications,Telecommunications Equipment
+NSSC,NSSC,"NAPCO Security Technologies, Inc. - Common Stock",Q,Q,N,"1,34,94,21,518.00",,,Telecommunications,Telecommunications Equipment
+IDT,IDT,IDT Corporation Class B Common Stock,N, ,N,"1,31,82,57,411.00",,,Telecommunications,Telecommunications Equipment
+GLIBA,GLIBA,"GCI Liberty, Inc. - Series A GCI Group Common Stock",Q,Q,N,"1,06,84,56,214.00",,,Telecommunications,Cable & Other Pay Television Services
+GLIBK,GLIBK,"GCI Liberty, Inc. - Series C GCI Group Common Stock",Q,Q,N,"1,05,54,87,091.00",,,Telecommunications,Cable & Other Pay Television Services
+ATEX,ATEX,Anterix Inc. - Common Stock,Q,S,N,"1,04,62,31,851.00",,,Telecommunications,Telecommunications Equipment
+SHEN,SHEN,Shenandoah Telecommunications Co - Common Stock,Q,Q,N,"89,78,76,076.00",,,Telecommunications,Telecommunications Equipment
+MATW,MATW,Matthews International Corporation - Class A Common Stock,Q,Q,N,"85,68,18,947.00",,,Telecommunications,Metal Fabrications
+AIOT,AIOT,"PowerFleet, Inc. - Common Stock",Q,G,N,"44,20,15,278.00",,,Telecommunications,Telecommunications Equipment
+OPTU,OPTU,"Optimum Communications, Inc. Class A common stock",N, ,N,"43,82,08,217.00",,,Telecommunications,Cable & Other Pay Television Services
+ATNI,ATNI,"ATN International, Inc. - Common Stock",Q,Q,N,"41,78,97,776.00",,,Telecommunications,Telecommunications Equipment
+TTGT,TTGT,"TechTarget, Inc. - Common Stock",Q,Q,N,"38,10,18,065.00",,,Telecommunications,Telecommunications Equipment
+AMCX,AMCX,AMC Global Media Inc. - Class A Common Stock,Q,Q,N,"37,11,89,166.00",,,Telecommunications,Cable & Other Pay Television Services
+ALLT,ALLT,Allot Ltd. - Ordinary Shares,Q,Q,N,"35,90,95,547.00",,,Telecommunications,Computer Communications Equipment
+CXDO,CXDO,"Crexendo, Inc. - Common Stock",Q,S,N,"31,41,04,964.00",,,Telecommunications,Telecommunications Equipment
+CABO,CABO,"Cable One, Inc. Common Stock",N, ,N,"29,64,06,569.00",,,Telecommunications,Cable & Other Pay Television Services
+SIDU,SIDU,"Sidus Space, Inc. - Class A Common Stock",Q,S,N,"29,59,65,366.00",,,Telecommunications,Telecommunications Equipment
+SILC,SILC,Silicom Ltd - Ordinary Shares,Q,Q,N,"28,52,50,039.00",,,Telecommunications,Computer Communications Equipment
+LTRX,LTRX,"Lantronix, Inc. - Common Stock",Q,S,N,"25,54,25,606.00",,,Telecommunications,Computer Communications Equipment
+HUHU,HUHU,HUHUTECH International Group Inc. - Ordinary Shares,Q,S,N,"23,70,91,866.00",,,Telecommunications,Metal Fabrications
+TBCH,TBCH,Turtle Beach Corporation - Common Stock,Q,G,N,"22,96,34,661.00",,,Telecommunications,Telecommunications Equipment
+INSG,INSG,Inseego Corp. - Common Stock,Q,Q,N,"22,93,38,802.00",,,Telecommunications,Telecommunications Equipment
+SPOK,SPOK,"Spok Holdings, Inc. - Common Stock",Q,Q,N,"22,91,30,500.00",,,Telecommunications,Telecommunications Equipment
+KORE,KORE,"KORE Group Holdings, Inc. Common Stock",N, ,N,"16,11,92,654.00",,,Telecommunications,Telecommunications Equipment
+REKR,REKR,"Rekor Systems, Inc. - Common Stock",Q,S,N,"11,21,64,375.00",,,Telecommunications,Telecommunications Equipment
+VACI,VACI,Viking Acquisition Corp. I Class A Ordinary Shares,N, ,N, -   ,,,Telecommunications,Telecommunications Equipment

@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+NVDA,US,NVIDIA Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+AAPL,US,Apple Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+GOOGL,US,Alphabet Inc. - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+GOOG,US,Alphabet Inc. - Class C Capital Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+MSFT,US,Microsoft Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+TSM,US,Taiwan Semiconductor Manufacturing Company Ltd.,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,23
+AVGO,US,Broadcom Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+META,US,"Meta Platforms, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+SPCX,US,Space Exploration Technologies Corp. - Class A Common Stock,Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,31,2026-06-12,2026-07-28,0,0
+TSLA,US,"Tesla, Inc.  - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+SKHY,US,SK hynix Inc. - American Depositary Shares,Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,13,2026-07-10,2026-07-28,0,0
+LLY,US,Eli Lilly and Company Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+MU,US,"Micron Technology, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+AMD,US,"Advanced Micro Devices, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+ASML,US,ASML Holding N.V. - New York Registry Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+V,US,Visa Inc.,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+XOM,US,ExxonMobil Holdings Corporation Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+JNJ,US,Johnson & Johnson Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+INTC,US,Intel Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+MA,US,Mastercard Incorporated Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+ABBV,US,AbbVie Inc. Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+AMAT,US,"Applied Materials, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+CSCO,US,"Cisco Systems, Inc. - Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,22
+CAT,US,"Caterpillar, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+LRCX,US,Lam Research Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+UNH,US,UnitedHealth Group Incorporated Common Stock (DE),Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+CVX,US,Chevron Corporation Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+ORCL,US,Oracle Corporation Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+GE,US,GE Aerospace Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+HD,US,"Home Depot, Inc. (The) Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+PLTR,US,Palantir Technologies Inc. - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+MRK,US,"Merck & Company, Inc. Common Stock (new)",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+ARM,US,Arm Holdings plc - American Depositary Shares,Technology,PROCESSED,,719,2023-09-14,2026-07-28,501,12
+NVS,US,Novartis AG Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+PM,US,Philip Morris International Inc Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+GEV,US,GE Vernova Inc. Common Stock,,PROCESSED,,585,2024-03-27,2026-07-28,501,12
+NFLX,US,"Netflix, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+TM,US,Toyota Motor Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+KLAC,US,KLA Corporation  - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+PANW,US,"Palo Alto Networks, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+BABA,US,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+TXN,US,Texas Instruments Incorporated - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+AZN,US,AstraZeneca PLC Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+DELL,US,Dell Technologies Inc. Class C Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+RTX,US,RTX Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+SHEL,US,Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares),Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+SNDK,US,Sandisk Corporation - Common Stock When-Issued,Technology,PROCESSED,,364,2025-02-13,2026-07-28,364,6
+LIN,US,Linde plc - Ordinary Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+ANET,US,"Arista Networks, Inc. Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+NVO,US,Novo Nordisk A/S Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1

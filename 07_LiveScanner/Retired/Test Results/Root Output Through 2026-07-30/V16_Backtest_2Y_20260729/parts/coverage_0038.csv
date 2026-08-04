@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+ZURA,US,Zura Bio Limited - Class A Ordinary shares,Health Care,PROCESSED,,841,2023-03-21,2026-07-28,501,6
+MLAB,US,"Mesa Laboratories, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+PRTH,US,"Priority Technology Holdings, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+EBF,US,"Ennis, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+EIKN,US,"Eikon Therapeutics, Inc. - Common Stock",Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,119,2026-02-05,2026-07-28,0,0
+TASK,US,"TaskUs, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+RGNX,US,REGENXBIO Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+HUYA,US,"HUYA Inc. American depositary shares, each  representing one Class A ordinary share",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+MNRO,US,"Monro, Inc.  - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ARVN,US,"Arvinas, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+KELYA,US,"Kelly Services, Inc. - Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SLDP,US,"Solid Power, Inc. - Class A Common Stock",Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+TATT,US,TAT Technologies Ltd. - Ordinary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+VSTM,US,"Verastem, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+BBCP,US,"Concrete Pumping Holdings, Inc.  - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+NPCE,US,"Neuropace, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+CLB,US,Core Laboratories Inc. Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+URG,US,Ur Energy Inc Common Shares (Canada),Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+YEXT,US,"Yext, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+CTNM,US,"Contineum Therapeutics, Inc. - Common stock",Health Care,PROCESSED,,579,2024-04-05,2026-07-28,501,2
+SWMR,US,"Swarmer, Inc - common stock",Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,92,2026-03-17,2026-07-28,0,0
+PSFE,US,Paysafe Limited Common Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+OIS,US,"Oil States International, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+ESEA,US,Euroseas Ltd. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+CPS,US,Cooper-Standard Holdings Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+SD,US,"SandRidge Energy, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+FIP,US,FTAI Infrastructure Inc. - Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+SLN,US,Silence Therapeutics Plc - American Depository Share,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+AQST,US,"Aquestive Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+ADUR,US,Aduro Clean Technologies Inc. - Common Stock,Industrials,PROCESSED,,488,2024-08-15,2026-07-28,488,7
+METCB,US,"Ramaco Resources, Inc. - Class B Common Stock",Energy,PROCESSED,,780,2023-06-16,2026-07-28,501,2
+ELVA,US,Electrovaya Inc. - Common Shares,,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+ALIT,US,"Alight, Inc. Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EVGO,US,EVgo Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+HELP,US,Cybin Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PAYS,US,"Paysign, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+KIDS,US,OrthoPediatrics Corp. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MG,US,Mistras Group Inc Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+TWI,US,"Titan International, Inc. (DE) Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+DCBO,US,Docebo Inc. - Common Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+NGS,US,"Natural Gas Services Group, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+WRN,US,Western Copper and Gold Corporation Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+CTGO,US,Contango Silver & Gold Inc. Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+SPT,US,"Sprout Social, Inc - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TLRY,US,"Tilray Brands, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ADV,US,Advantage Solutions Inc.  - Class A Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PANL,US,Pangaea Logistics Solutions Ltd. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+DNA,US,"Ginkgo Bioworks Holdings, Inc. Class A Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RZLT,US,"Rezolute, Inc. - Common Stock (NV)",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+GDYN,US,"Grid Dynamics Holdings, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8

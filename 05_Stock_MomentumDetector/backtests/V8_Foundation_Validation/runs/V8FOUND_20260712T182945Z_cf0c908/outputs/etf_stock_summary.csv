@@ -1,0 +1,21 @@
+Stock_Code,ETF_Status,ETF_Status_Detail,Raw_Candidate_Count,Verified_Top10_Count,Returned_Mapping_Count,Accepted_Same_Quarter_Mapping_Count
+NVDA,OK,,100,3,3,1
+AAPL,OK,,100,3,3,1
+MSFT,OK,,100,2,2,2
+GOOGL,OK,,100,2,2,1
+META,OK,,100,3,3,1
+AMD,OK,,100,1,1,0
+AVGO,OK,,100,1,1,0
+ORCL,NO_VERIFIED_TOP10_MAPPING,no conservative top-ten mapping passed,100,0,0,0
+CRM,NO_VERIFIED_TOP10_MAPPING,no conservative top-ten mapping passed,100,0,0,0
+NOW,NO_VERIFIED_TOP10_MAPPING,no conservative top-ten mapping passed,100,0,0,0
+PANW,OK,,100,2,2,1
+CRWD,NO_VERIFIED_TOP10_MAPPING,no conservative top-ten mapping passed,100,0,0,0
+ANET,OK,,100,1,1,0
+MU,OK,,100,3,3,0
+QCOM,NO_VERIFIED_TOP10_MAPPING,no conservative top-ten mapping passed,100,0,0,0
+AMAT,NO_VERIFIED_TOP10_MAPPING,no conservative top-ten mapping passed,100,0,0,0
+LRCX,NO_VERIFIED_TOP10_MAPPING,no conservative top-ten mapping passed,100,0,0,0
+KLAC,NO_VERIFIED_TOP10_MAPPING,no conservative top-ten mapping passed,100,0,0,0
+PLTR,NO_VERIFIED_TOP10_MAPPING,no conservative top-ten mapping passed,100,0,0,0
+APP,NO_VERIFIED_TOP10_MAPPING,no conservative top-ten mapping passed,100,0,0,0

@@ -1,0 +1,11 @@
+{
+  "Validation_Status": "PASS",
+  "Rows_Checked": 2400,
+  "Expected_Rows": 2400,
+  "Independent_Dual_MACD_Foundation_Recalculation": true,
+  "Independent_DMI_Component_Score_And_Outcome_Recalculation": true,
+  "D1_D3_Outcomes_Checked": true,
+  "Chart_Evidence_Checked": true,
+  "Checksums_Checked": 127,
+  "Failures": []
+}

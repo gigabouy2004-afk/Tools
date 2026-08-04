@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+EMBC,US,Embecta Corp. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+PAL,US,"Proficient Auto Logistics, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,555,2024-05-09,2026-07-28,501,1
+EGG,US,Enigmatig Limited Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,278,2025-06-18,2026-07-28,278,0
+TONX,US,TON Strategy Company - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GCTS,US,"GCT Semiconductor Holding, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DTIL,US,"Precision BioSciences, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+PERF,US,Perfect Corp. Class A Ordinary Share,Technology,PROCESSED,,937,2022-10-31,2026-07-28,501,0
+RCMT,US,"RCM Technologies, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+LUCD,US,Lucid Diagnostics Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+MENS,US,Jyong Biotech Ltd. - Ordinary shares,Health Care,PROCESSED,,279,2025-06-17,2026-07-28,279,0
+SBMT,US,Silver Bow Mining Corp. Common Shares,Basic Materials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,61,2026-04-30,2026-07-28,0,0
+SLNH,US,"Soluna Holdings, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LCUT,US,"Lifetime Brands, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+HITI,US,High Tide Inc. - Common Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+TOYO,US,"TOYO Co., Ltd - Ordinary Shares",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+EVI,US,"EVI Industries, Inc.  Common Stock",Consumer Discretionary,PROCESSED,,1001,2022-07-29,2026-07-28,500,0
+COOK,US,"Traeger, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+III,US,"Information Services Group, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+PLX,US,"Protalix BioTherapeutics, Inc. (DE) Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+TPVG,US,TriplePoint Venture Growth BDC Corp. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+VYGR,US,"Voyager Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ARMP,US,"Armata Pharmaceuticals, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+KGEI,US,Kolibri Global Energy Inc. - Common stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+QTRX,US,Quanterix Corporation - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+VLN,US,Valens Semiconductor Ltd. Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+AREC,US,American Resources Corporation - Class A Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+SMRT,US,"SmartRent, Inc. Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+KRMD,US,"KORU Medical Systems, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+INFU,US,"InfuSystems Holdings, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+NKTX,US,"Nkarta, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+TNXP,US,Tonix Pharmaceuticals Holding Corp. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GLDG,US,GoldMining Inc. Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+SY,US,So-Young International Inc. - American Depository Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+MDWD,US,MediWound Ltd. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+CANG,US,Cango Inc. Class A Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+QSI,US,Quantum-Si Incorporated - Class A Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+INTT,US,inTest Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+TAYD,US,"Taylor Devices, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+KVHI,US,"KVH Industries, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BSET,US,"Bassett Furniture Industries, Incorporated - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ANTX,US,"AN2 Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+EGAN,US,eGain Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+TNYA,US,"Tenaya Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PDEX,US,"Pro-Dex, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+OMSE,US,OMS Energy Technologies Inc. - Ordinary Shares,Consumer Discretionary,PROCESSED,,303,2025-05-13,2026-07-28,303,0
+KPTI,US,Karyopharm Therapeutics Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+CVGI,US,"Commercial Vehicle Group, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ACU,US,Acme United Corporation. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+MSLE,US,Satellos Bioscience Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EVO,US,Evotec SE - American Depositary Shares each representing 1/2 of one ordinary share,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0

@@ -1,0 +1,73 @@
+{
+  "Run_ID": "V8HEALTH_20260712T232546Z_9a1689f",
+  "Configuration_ID": "V8_BASIC_V1_HEALTH_SCORE_RESEARCH_20260713",
+  "Engine_Version": "V8_BASIC_HEALTH_SCORE_1",
+  "Decision_Scope": "FOUNDATION_THEN_DMI_THEN_V1_COMPOSITE_HEALTH_SCORE",
+  "Stocks": 100,
+  "Dates": 12,
+  "Rows": 1200,
+  "Health_Score_Maximum": 30,
+  "Research_Qualification_Threshold": 20,
+  "Operational_Use_Approved": false,
+  "Sector_Summary": [
+    {
+      "Sector": "ALL",
+      "Rows": 1200,
+      "Foundation_Eligible": 301,
+      "DMI_Eligible": 292,
+      "Health_Qualified": 87,
+      "Qualified_D1_Positive": 53,
+      "Qualified_D1_Positive_Rate_Pct": 60.91954022988506,
+      "Qualified_D1_Mean_Return_Pct": 0.5483936076301796,
+      "Qualified_D5_Positive": 60,
+      "Qualified_D5_Positive_Rate_Pct": 68.96551724137932,
+      "Qualified_D5_Mean_Return_Pct": 1.5753557003792589,
+      "Qualified_D8_Positive": 56,
+      "Qualified_D8_Positive_Rate_Pct": 64.36781609195403,
+      "Qualified_D8_Mean_Return_Pct": 1.6194542985601654
+    },
+    {
+      "Sector": "Technology",
+      "Rows": 600,
+      "Foundation_Eligible": 146,
+      "DMI_Eligible": 142,
+      "Health_Qualified": 42,
+      "Qualified_D1_Positive": 30,
+      "Qualified_D1_Positive_Rate_Pct": 71.42857142857143,
+      "Qualified_D1_Mean_Return_Pct": 1.0706764222122067,
+      "Qualified_D5_Positive": 32,
+      "Qualified_D5_Positive_Rate_Pct": 76.19047619047619,
+      "Qualified_D5_Mean_Return_Pct": 1.9324554723197631,
+      "Qualified_D8_Positive": 29,
+      "Qualified_D8_Positive_Rate_Pct": 69.04761904761905,
+      "Qualified_D8_Mean_Return_Pct": 2.0907411141376158
+    },
+    {
+      "Sector": "Industrials",
+      "Rows": 600,
+      "Foundation_Eligible": 155,
+      "DMI_Eligible": 150,
+      "Health_Qualified": 45,
+      "Qualified_D1_Positive": 23,
+      "Qualified_D1_Positive_Rate_Pct": 51.111111111111114,
+      "Qualified_D1_Mean_Return_Pct": 0.06092964735362102,
+      "Qualified_D5_Positive": 28,
+      "Qualified_D5_Positive_Rate_Pct": 62.22222222222222,
+      "Qualified_D5_Mean_Return_Pct": 1.2420625799014549,
+      "Qualified_D8_Positive": 27,
+      "Qualified_D8_Positive_Rate_Pct": 60.0,
+      "Qualified_D8_Mean_Return_Pct": 1.1795866040212117
+    }
+  ],
+  "Started_UTC": "2026-07-12T23:25:46.468938+00:00",
+  "Completed_UTC": "2026-07-12T23:26:29.793769+00:00",
+  "Git_Commit": "9a1689ff368964c16a61954a048b4ec7b5a803c7",
+  "Git_Worktree_Dirty": true,
+  "Validated_Reference_Run": "D:\\Tools\\Stock_MomentumDetector\\backtests\\V8_V1_V3_Composite_Score_Expanded\\runs\\V8SCORE_20260712T230552Z_2fcd424",
+  "Known_Limitations": [
+    "Research qualification only; no operational trade authority.",
+    "The Health Score is not a calibrated probability or linear rank.",
+    "Purposeful current-universe sample retains survivorship and selection limitations.",
+    "MACD 12/26/9 is used because that is the integrated configuration validated with the V1 Score."
+  ]
+}

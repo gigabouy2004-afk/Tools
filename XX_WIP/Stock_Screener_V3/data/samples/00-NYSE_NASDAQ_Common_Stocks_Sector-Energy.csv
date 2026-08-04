@@ -1,0 +1,140 @@
+Ticker,Symbol,Security Name,Listing Exchange,Market Category,ETF, MarketCap ,TrailingPE,ForwardPE,Sector,Industry
+XOM,XOM,Exxon Mobil Corporation Common Stock,N, ,N,"6,32,47,74,87,450.00",,,Energy,Integrated oil Companies
+CVX,CVX,Chevron Corporation Common Stock,N, ,N,"3,71,52,25,98,916.00",,,Energy,Integrated oil Companies
+SHEL,SHEL,Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ,N, ,N,"2,46,66,62,50,255.00",,,Energy,Oil & Gas Production
+BHP,BHP,BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares),N, ,N,"2,26,81,15,65,157.00",,,Energy,Coal Mining
+TTE,TTE,TotalEnergies SE Ordinary Shares,N, ,N,"2,00,27,30,94,989.00",,,Energy,Oil & Gas Production
+COP,COP,ConocoPhillips Common Stock,N, ,N,"1,45,35,46,57,975.00",,,Energy,Integrated oil Companies
+PBR,PBR,Petroleo Brasileiro S.A. Petrobras ADS,N, ,N,"1,28,69,39,96,629.00",,,Energy,Oil & Gas Production
+ENB,ENB,Enbridge Inc Common Stock,N, ,N,"1,22,49,45,66,492.00",,,Energy,Natural Gas Distribution
+BP,BP,BP p.l.c. Common Stock,N, ,N,"1,15,50,10,97,702.00",,,Energy,Integrated oil Companies
+CNQ,CNQ,Canadian Natural Resources Limited Common Stock,N, ,N,"99,73,03,21,320.00",,,Energy,Oil & Gas Production
+E,E,ENI S.p.A. Common Stock,N, ,N,"87,52,69,56,969.00",,,Energy,Oil & Gas Production
+BE,BE,Bloom Energy Corporation Class A Common Stock,N, ,N,"86,31,44,91,745.00",,,Energy,Industrial Machinery/Components
+SLB,SLB,SLB Limited Common Shares,N, ,N,"83,40,92,66,907.00",,,Energy,Oilfield Services/Equipment
+SU,SU,Suncor Energy  Inc. Common Stock,N, ,N,"78,93,87,19,611.00",,,Energy,Integrated oil Companies
+MPC,MPC,Marathon Petroleum Corporation Common Stock,N, ,N,"73,05,13,04,176.00",,,Energy,Integrated oil Companies
+EOG,EOG,"EOG Resources, Inc. Common Stock",N, ,N,"72,79,43,41,195.00",,,Energy,Oil & Gas Production
+VLO,VLO,Valero Energy Corporation Common Stock,N, ,N,"72,30,90,71,073.00",,,Energy,Integrated oil Companies
+PSX,PSX,Phillips 66 Common Stock,N, ,N,"69,06,70,71,220.00",,,Energy,Integrated oil Companies
+IMO,IMO,Imperial Oil Limited Common Stock,A, ,N,"63,98,41,89,830.00",,,Energy,Integrated oil Companies
+OXY,OXY,Occidental Petroleum Corporation Common Stock,N, ,N,"56,81,35,34,121.00",,,Energy,Oil & Gas Production
+CVE,CVE,Cenovus Energy Inc Common Stock,N, ,N,"56,47,50,00,000.00",,,Energy,Oil & Gas Production
+FANG,FANG,"Diamondback Energy, Inc. - Common Stock",Q,Q,N,"56,44,83,26,176.00",,,Energy,Oil & Gas Production
+WDS,WDS,"Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share",N, ,N,"42,65,11,81,708.00",,,Energy,Oil & Gas Production
+EQT,EQT,EQT Corporation Common Stock,N, ,N,"35,52,08,95,620.00",,,Energy,Oil & Gas Production
+HAL,HAL,Halliburton Company Common Stock,N, ,N,"34,48,93,95,489.00",,,Energy,Oilfield Services/Equipment
+DVN,DVN,Devon Energy Corporation Common Stock,N, ,N,"29,37,61,86,737.00",,,Energy,Oil & Gas Production
+PBA,PBA,Pembina Pipeline Corp. Ordinary Shares (Canada),N, ,N,"28,11,18,88,473.00",,,Energy,Oil & Gas Production
+EC,EC,Ecopetrol S.A. American Depositary Shares,N, ,N,"27,19,86,93,544.00",,,Energy,Oil & Gas Production
+TPL,TPL,Texas Pacific Land Corporation Common Stock,N, ,N,"27,04,28,04,378.00",,,Energy,Oil & Gas Production
+EXE,EXE,Expand Energy Corporation - Common Stock,Q,Q,N,"23,22,43,36,661.00",,,Energy,Oil & Gas Production
+WWD,WWD,"Woodward, Inc. - Common Stock",Q,Q,N,"21,77,06,83,666.00",,,Energy,Industrial Machinery/Components
+YPF,YPF,YPF Sociedad Anonima Common Stock,N, ,N,"17,43,32,35,568.00",,,Energy,Integrated oil Companies
+VNOM,VNOM,"Viper Energy, Inc.  - Class A Common Stock",Q,Q,N,"17,18,83,48,781.00",,,Energy,Oil & Gas Production
+PR,PR,Permian Resources Corporation Class A Common Stock,N, ,N,"17,00,95,08,239.00",,,Energy,Oil & Gas Production
+FPS,FPS,"Forgent Power Solutions, Inc. Class A Common Stock",N, ,N,"15,06,00,97,139.00",,,Energy,Industrial Machinery/Components
+APA,APA,APA Corporation - Common Stock,Q,Q,N,"13,15,43,94,498.00",,,Energy,Oil & Gas Production
+DINO,DINO,HF Sinclair Corporation Common Stock,N, ,N,"12,43,90,05,153.00",,,Energy,Natural Gas Distribution
+AR,AR,Antero Resources Corporation Common Stock,N, ,N,"11,57,54,72,960.00",,,Energy,Oil & Gas Production
+LFUS,LFUS,"Littelfuse, Inc. - Common Stock",Q,Q,N,"11,48,11,62,416.00",,,Energy,Electrical Products
+POWL,POWL,"Powell Industries, Inc. - Common Stock",Q,Q,N,"10,75,28,01,202.00",,,Energy,Electrical Products
+RRC,RRC,Range Resources Corporation Common Stock,N, ,N,"9,85,72,56,829.00",,,Energy,Oil & Gas Production
+SSL,SSL,Sasol Ltd. American Depositary Shares,N, ,N,"8,57,17,51,373.00",,,Energy,Oil & Gas Production
+NE,NE,Noble Corporation plc A Ordinary Shares,N, ,N,"8,31,07,48,223.00",,,Energy,Oil & Gas Production
+CHRD,CHRD,Chord Energy Corporation - Common Stock,Q,Q,N,"8,03,27,67,430.00",,,Energy,Oil & Gas Production
+RIG,RIG,Transocean Ltd (Switzerland) Common Stock,N, ,N,"7,67,55,33,085.00",,,Energy,Oil & Gas Production
+SOBO,SOBO,South Bow Corporation Common Shares,N, ,N,"7,63,18,03,110.00",,,Energy,Natural Gas Distribution
+SM,SM,SM Energy Company Common Stock,N, ,N,"7,57,00,65,234.00",,,Energy,Oil & Gas Production
+VIST,VIST,"Vista Energy S.A.B. de C.V. American Depositary Shares, each representing one series A share, with no par value",N, ,N,"7,42,66,60,352.00",,,Energy,Oil & Gas Production
+MTDR,MTDR,Matador Resources Company Common Stock,N, ,N,"7,19,73,70,037.00",,,Energy,Oil & Gas Production
+VAL,VAL,Valaris Limited Common Shares,N, ,N,"7,11,28,50,324.00",,,Energy,Oil & Gas Production
+MUR,MUR,Murphy Oil Corporation Common Stock,N, ,N,"5,58,20,32,489.00",,,Energy,Oil & Gas Production
+LBRT,LBRT,Liberty Energy Inc. Class A common stock,N, ,N,"5,41,30,59,269.00",,,Energy,Oilfield Services/Equipment
+CRC,CRC,California Resources Corporation Common Stock,N, ,N,"5,33,30,21,754.00",,,Energy,Oil & Gas Production
+MGY,MGY,Magnolia Oil & Gas Corporation Class A Common Stock,N, ,N,"5,33,11,23,477.00",,,Energy,Oil & Gas Production
+PLUG,PLUG,"Plug Power, Inc. - Common Stock",Q,S,N,"5,32,21,88,548.00",,,Energy,Industrial Machinery/Components
+CNX,CNX,CNX Resources Corporation Common Stock,N, ,N,"5,15,61,50,913.00",,,Energy,Oil & Gas Production
+PBF,PBF,PBF Energy Inc. Class A Common Stock,N, ,N,"4,80,92,39,306.00",,,Energy,Integrated oil Companies
+HCC,HCC,"Warrior Met Coal, Inc. Common Stock",N, ,N,"4,63,54,84,420.00",,,Energy,Coal Mining
+PTEN,PTEN,"Patterson-UTI Energy, Inc. - Common Stock",Q,Q,N,"4,56,11,06,101.00",,,Energy,Oil & Gas Production
+CRK,CRK,"Comstock Resources, Inc. Common Stock",N, ,N,"4,37,60,67,897.00",,,Energy,Oil & Gas Production
+CNR,CNR,"Core Natural Resources, Inc. Common Stock",N, ,N,"4,24,83,53,371.00",,,Energy,Coal Mining
+CRGY,CRGY,Crescent Energy Company Class A Common Stock,N, ,N,"4,15,62,16,738.00",,,Energy,Oil & Gas Production
+HP,HP,"Helmerich & Payne, Inc. Common Stock",N, ,N,"3,92,87,85,378.00",,,Energy,Oil & Gas Production
+OII,OII,"Oceaneering International, Inc. Common Stock",N, ,N,"3,85,85,45,212.00",,,Energy,Oilfield Services/Equipment
+BTE,BTE,Baytex Energy Corp Common Shares,N, ,N,"3,65,90,08,498.00",,,Energy,Oil & Gas Production
+CVI,CVI,CVR Energy Inc. Common Stock,N, ,N,"3,38,48,65,268.00",,,Energy,Integrated oil Companies
+GPOR,GPOR,Gulfport Energy Corporation Common Shares,N, ,N,"3,26,82,28,457.00",,,Energy,Oil & Gas Production
+SDRL,SDRL,Seadrill Limited Common Shares,N, ,N,"3,18,12,39,595.00",,,Energy,Oil & Gas Production
+BKV,BKV,BKV Corporation Common Stock,N, ,N,"3,15,90,85,326.00",,,Energy,Oil & Gas Production
+PARR,PARR,"Par Pacific Holdings, Inc.  Common Stock",N, ,N,"3,03,24,75,152.00",,,Energy,Oil & Gas Production
+BTU,BTU,Peabody Energy Corporation Common Stock ,N, ,N,"2,95,08,20,182.00",,,Energy,Coal Mining
+MGEE,MGEE,MGE Energy Inc. - Common Stock,Q,Q,N,"2,76,92,28,833.00",,,Energy,Electric Utilities: Central
+CLMT,CLMT,"Calumet, Inc - Common Stock",Q,Q,N,"2,75,47,21,317.00",,,Energy,Integrated oil Companies
+DK,DK,"Delek US Holdings, Inc. Common Stock",N, ,N,"2,68,89,90,905.00",,,Energy,Integrated oil Companies
+NESR,NESR,National Energy Services Reunited Corp - Ordinary Shares,Q,S,N,"2,65,02,65,861.00",,,Energy,Oilfield Services/Equipment
+TALO,TALO,"Talos Energy, Inc. Common Stock",N, ,N,"2,57,14,92,226.00",,,Energy,Oil & Gas Production
+WTTR,WTTR,"Select Water Solutions, Inc. Class A common stock",N, ,N,"2,56,25,86,263.00",,,Energy,Oilfield Services/Equipment
+NOG,NOG,"Northern Oil and Gas, Inc. Common Stock",N, ,N,"2,47,55,12,278.00",,,Energy,Oil & Gas Production
+AMR,AMR,"Alpha Metallurgical Resources, Inc. Common Stock",N, ,N,"2,30,54,15,624.00",,,Energy,Coal Mining
+THR,THR,"Thermon Group Holdings, Inc. Common Stock",N, ,N,"2,24,05,87,454.00",,,Energy,Industrial Machinery/Components
+SOC,SOC,Sable Offshore Corp. Common Stock,N, ,N,"2,13,02,08,158.00",,,Energy,Oil & Gas Production
+PUMP,PUMP,ProPetro Holding Corp. Common Stock,N, ,N,"2,05,01,55,839.00",,,Energy,Oilfield Services/Equipment
+BORR,BORR,Borr Drilling Limited Common Shares,N, ,N,"1,90,62,08,160.00",,,Energy,Oil & Gas Production
+XPRO,XPRO,Expro Group Holdings N.V. Common Stock,N, ,N,"1,80,52,52,905.00",,,Energy,Oilfield Services/Equipment
+KOS,KOS,Kosmos Energy Ltd. Common Shares (DE),N, ,N,"1,74,99,08,358.00",,,Energy,Oil & Gas Production
+RES,RES,"RPC, Inc. Common Stock",N, ,N,"1,57,25,21,149.00",,,Energy,Oilfield Services/Equipment
+HLX,HLX,"Helix Energy Solutions Group, Inc. Common Stock",N, ,N,"1,49,06,36,451.00",,,Energy,Oilfield Services/Equipment
+TTI,TTI,"Tetra Technologies, Inc. Common Stock",N, ,N,"1,45,27,34,550.00",,,Energy,Oil & Gas Production
+WKC,WKC,World Kinect Corporation Common Stock,N, ,N,"1,43,82,09,405.00",,,Energy,Oil Refining/Marketing
+ACDC,ACDC,ProFrac Holding Corp. - Class A Common Stock,Q,Q,N,"1,29,08,69,573.00",,,Energy,Oilfield Services/Equipment
+PBT,PBT,Permian Basin Royalty Trust Common Stock,N, ,N,"1,28,68,68,858.00",,,Energy,Oil & Gas Production
+BLDP,BLDP,"Ballard Power Systems, Inc. - Common Shares",Q,G,N,"1,22,85,14,085.00",,,Energy,Industrial Machinery/Components
+PDS,PDS,Precision Drilling Corporation Common Stock,N, ,N,"1,20,90,35,440.00",,,Energy,Oil & Gas Production
+SBR,SBR,Sabine Royalty Trust Common Stock,N, ,N,"1,11,98,38,032.00",,,Energy,Oil & Gas Production
+FCEL,FCEL,"FuelCell Energy, Inc. - Common Stock",Q,G,N,"1,07,78,34,684.00",,,Energy,Industrial Machinery/Components
+METC,METC,"Ramaco Resources, Inc. - Class A Common Stock",Q,Q,N,"98,87,02,672.00",,,Energy,Coal Mining
+INR,INR,"Infinity Natural Resources, Inc. Class A Common Stock",N, ,N,"96,79,07,537.00",,,Energy,Oil & Gas Production
+TBN,TBN,Tamboran Resources Corporation Common stock,N, ,N,"91,56,69,745.00",,,Energy,Oil & Gas Production
+HNRG,HNRG,Hallador Energy Company - Common Stock,Q,S,N,"90,20,75,703.00",,,Energy,Coal Mining
+OBE,OBE,Obsidian Energy Ltd. Common Shares,A, ,N,"88,99,26,533.00",,,Energy,Oil & Gas Production
+HPK,HPK,"HighPeak Energy, Inc. - Common Stock",Q,G,N,"85,67,07,945.00",,,Energy,Oil & Gas Production
+REPX,REPX,"Riley Exploration Permian, Inc. Common Stock",A, ,N,"79,06,00,309.00",,,Energy,Oil & Gas Production
+GFR,GFR,Greenfire Resources Ltd. Common Shares,N, ,N,"76,00,99,740.00",,,Energy,Oil & Gas Production
+VTS,VTS,"Vitesse Energy, Inc. Common Stock",N, ,N,"75,97,91,803.00",,,Energy,Oil & Gas Production
+GRNT,GRNT,"Granite Ridge Resources, Inc. Common Stock",N, ,N,"69,70,70,307.00",,,Energy,Oil & Gas Production
+METCB,METCB,"Ramaco Resources, Inc. - Class B Common Stock",Q,Q,N,"67,65,15,078.00",,,Energy,Coal Mining
+WTI,WTI,"W&T Offshore, Inc. Common Stock",N, ,N,"66,42,92,422.00",,,Energy,Oil & Gas Production
+EGY,EGY,"VAALCO Energy, Inc.  Common Stock",N, ,N,"63,38,90,178.00",,,Energy,Oil & Gas Production
+CLB,CLB,Core Laboratories Inc. Common Stock,N, ,N,"62,23,05,207.00",,,Energy,Oilfield Services/Equipment
+SD,SD,"SandRidge Energy, Inc. Common Stock",N, ,N,"55,98,65,398.00",,,Energy,Oil & Gas Production
+FIP,FIP,FTAI Infrastructure Inc. - Common Stock,Q,Q,N,"55,18,23,802.00",,,Energy,Oil Refining/Marketing
+NGS,NGS,"Natural Gas Services Group, Inc. Common Stock",N, ,N,"52,90,05,346.00",,,Energy,Oilfield Services/Equipment
+GPRK,GPRK,Geopark Ltd Common Shares,N, ,N,"50,33,69,573.00",,,Energy,Oil & Gas Production
+NUAI,NUAI,"New Era Energy & Digital, Inc. - Common Stock",Q,G,N,"50,02,31,922.00",,,Energy,Oil & Gas Production
+NPWR,NPWR,NET Power Inc. Class A Common Stock,N, ,N,"49,55,99,507.00",,,Energy,Industrial Machinery/Components
+NOA,NOA,North American Construction Group Ltd. Common Shares (no par),N, ,N,"45,58,50,080.00",,,Energy,Oilfield Services/Equipment
+NINE,NINE,"Nine Energy Service, Inc. Common Stock",A, ,N,"45,47,63,159.00",,,Energy,Oilfield Services/Equipment
+PNRG,PNRG,PrimeEnergy Resources Corporation - Common Stock,Q,S,N,"40,82,21,400.00",,,Energy,Oil & Gas Production
+FTW,FTW,Presidio Production Company Class A Common Stock,N, ,N,"40,62,47,079.00",,,Energy,Oil & Gas Production
+RNGR,RNGR,"Ranger Energy Services, Inc. Class A Common Stock",N, ,N,"38,86,21,344.00",,,Energy,Oilfield Services/Equipment
+NC,NC,"NACCO Industries, Inc. Common Stock",N, ,N,"37,98,77,080.00",,,Energy,Coal Mining
+GTE,GTE,Gran Tierra Energy Inc. Common Stock,A, ,N,"32,22,77,807.00",,,Energy,Oil & Gas Production
+REI,REI,"Ring Energy, Inc. Common Stock",A, ,N,"28,27,02,393.00",,,Energy,Oil & Gas Production
+APC,APC,ARKO Petroleum Corp. - Class A Common Stock,Q,S,N,"26,46,03,194.00",,,Energy,Oil Refining/Marketing
+AREC,AREC,American Resources Corporation - Class A Common Stock,Q,S,N,"24,86,02,529.00",,,Energy,Coal Mining
+ANNA,ANNA,"AleAnna, Inc. - Class A Common Stock",Q,S,N,"24,40,21,323.00",,,Energy,Oil & Gas Production
+EAF,EAF,GrafTech International Ltd. Common Stock,N, ,N,"24,38,07,736.00",,,Energy,Industrial Machinery/Components
+AMPY,AMPY,Amplify Energy Corp. Common Stock,N, ,N,"21,15,98,115.00",,,Energy,Oil & Gas Production
+MINE,MINE,Mayfair Gold Corp. Common Shares,A, ,N,"20,52,66,318.00",,,Energy,Oil & Gas Production
+SJT,SJT,San Juan Basin Royalty Trust Common Stock,N, ,N,"19,99,51,735.00",,,Energy,Oil & Gas Production
+PED,PED,Pedevco Corp. Common Stock,A, ,N,"19,46,54,588.00",,,Energy,Oil & Gas Production
+EPSN,EPSN,Epsilon Energy Ltd. - Common Shares,Q,G,N,"19,05,66,287.00",,,Energy,Oil & Gas Production
+KGEI,KGEI,Kolibri Global Energy Inc. - Common stock,Q,S,N,"18,97,87,537.00",,,Energy,Oil & Gas Production
+TUSK,TUSK,"Mammoth Energy Services, Inc. - Common Stock",Q,Q,N,"16,08,89,961.00",,,Energy,Oilfield Services/Equipment
+EPM,EPM,"Evolution Petroleum Corporation, Inc. Common Stock",A, ,N,"15,73,42,279.00",,,Energy,Oil & Gas Production
+GLND,GLND,Greenland Energy Company - Common Stock,Q,G,N,"13,20,57,077.00",,,Energy,Oil & Gas Production
+DWSN,DWSN,Dawson Geophysical Company - Common Stock,Q,Q,N,"11,86,21,849.00",,,Energy,Oil & Gas Production
+NCSM,NCSM,"NCS Multistage Holdings, Inc. - Common Stock",Q,S,N,"11,37,20,582.00",,,Energy,Oilfield Services/Equipment
+EP,EP,Empire Petroleum Corporation Common Stock,A, ,N,"11,05,94,527.00",,,Energy,Oil & Gas Production

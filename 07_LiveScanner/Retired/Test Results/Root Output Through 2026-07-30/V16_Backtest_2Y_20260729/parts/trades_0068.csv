@@ -1,0 +1,2 @@
+ticker,market,security_name,sector,signal_date,signal_close,entry_date,entry_price,exit_date,exit_price,holding_sessions,return_pct,output_signal,setup_type,stoch_k,stoch_d,effective_buy_stoch_max,relative_volume_ratio,volume_history_percentile,average_daily_turnover_20,ema50_distance_atr,extreme_extension_review
+RAYA,US,Erayak Power Solution Group Inc. - Class A Ordinary Shares,Consumer Discretionary,2025-07-16,6776.0,2025-07-17,6886.0,2025-07-23,393.8,5,-94.2812,Buy_Momentum_Extension,MOMENTUM_CONTINUATION,82.9114,60.869,100.0,3.5028,,2532191.2,2.1769,False

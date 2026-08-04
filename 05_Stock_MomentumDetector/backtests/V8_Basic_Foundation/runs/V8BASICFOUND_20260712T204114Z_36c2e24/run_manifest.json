@@ -1,0 +1,34 @@
+{
+  "Run_ID": "V8BASICFOUND_20260712T204114Z_36c2e24",
+  "Engine_Version": "V8_BASIC_FOUNDATION_1",
+  "Configuration_ID": "V8_BASIC_FOUNDATION_8_21_5_20260713",
+  "Stocks": 20,
+  "Dates": 4,
+  "Rows": 80,
+  "Eligible_Rows": 25,
+  "State_Counts": {
+    "FOUNDATION_ELIGIBLE_BULLISH_POSITIVE_MACD": 25,
+    "FOUNDATION_NOT_ELIGIBLE_BELOW_OR_AT_EMA": 27,
+    "FOUNDATION_NOT_ELIGIBLE_MACD_EARLY_RECOVERY_BELOW_ZERO": 3,
+    "FOUNDATION_NOT_ELIGIBLE_MACD_NEGATIVE_WEAKENING": 3,
+    "FOUNDATION_NOT_ELIGIBLE_MACD_POSITIVE_PULLBACK": 22
+  },
+  "Eligible_Directional": {
+    "D1_Positive": 19,
+    "D5_Positive": 23,
+    "D8_Positive": 18
+  },
+  "Forbidden_Output_Fields_Present": [],
+  "Started_UTC": "2026-07-12T20:41:14.256492+00:00",
+  "Completed_UTC": "2026-07-12T20:41:15.538386+00:00",
+  "Git_Commit": "36c2e2478777f445c4dafc6a6583ec3f51601192",
+  "Git_Worktree_Dirty": true,
+  "Source_Run": "D:\\Tools\\Stock_MomentumDetector\\backtests\\V8_Foundation_Validation\\runs\\V8FOUND_20260712T182945Z_cf0c908",
+  "Source_Run_Checksums_SHA256": "be7ba6e0f85f53d2681ddaf128ee6b86211c9344fac280ac05fe6f017f376259",
+  "Decision_Scope": "FOUNDATION_ONLY_NO_SCORE",
+  "Known_Limitations": [
+    "Purposeful 20-stock technology sample in one calendar quarter.",
+    "No transaction costs, stops, position sizing, or intraday evidence.",
+    "This run validates the basic Foundation baseline and does not approve later indicators."
+  ]
+}

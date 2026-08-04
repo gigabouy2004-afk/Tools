@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+CGEM,US,"Cullinan Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+LAC,US,Lithium Americas Corp. Common Shares,Basic Materials,PROCESSED,,707,2023-10-02,2026-07-28,501,2
+GNK,US,Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands),Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+WLDN,US,"Willdan Group, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+ALVO,US,Alvotech - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PDS,US,Precision Drilling Corporation Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+VYX,US,NCR Voyix Corporation Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EYPT,US,"EyePoint, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+VOR,US,Vor Biopharma Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CRAI,US,"CRA International,Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+ASST,US,"Strive, Inc. - Class A Common Stock",Technology,PROCESSED,,872,2023-02-03,2026-07-28,501,2
+SIFY,US,Sify Technologies Limited - American Depository Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+LMRI,US,"Lumexa Imaging Holdings, Inc. - Common Stock",Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,156,2025-12-11,2026-07-28,0,0
+MBC,US,"MasterBrand, Inc. Common Stock",Consumer Discretionary,PROCESSED,,909,2022-12-09,2026-07-28,501,1
+ARHS,US,"Arhaus, Inc. - Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TUYA,US,"Tuya Inc. American Depositary Shares, each representing one Class A Ordinary Share",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+SBR,US,Sabine Royalty Trust Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+MUX,US,McEwen Inc. Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+CERT,US,"Certara, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LWLG,US,"Lightwave Logic, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+IVA,US,Inventiva S.A. - American Depository Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+LXRX,US,"Lexicon Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+PLOW,US,"Douglas Dynamics, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+CRSR,US,"Corsair Gaming, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RCAT,US,"Red Cat Holdings, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+PRCT,US,PROCEPT BioRobotics Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CRON,US,Cronos Group Inc. - Common Share,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+ENVX,US,Enovix Corporation - Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ANRO,US,"Alto Neuroscience, Inc. Common Stock",Health Care,PROCESSED,,622,2024-02-02,2026-07-28,501,4
+AOSL,US,Alpha and Omega Semiconductor Limited - Common Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+CSIQ,US,Canadian Solar Inc. - Common Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+FBRX,US,"Forte Biosciences, Inc.  - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+TROX,US,Tronox Holdings plc Ordinary Shares (UK),Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+VMET,US,Versamet Royalties Corporation - Common Stock,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,103,2026-03-02,2026-07-28,0,0
+LAR,US,Lithium Argentina AG Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+ASM,US,Avino Silver & Gold Mines Ltd. Common Shares (Canada),Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+KFRC,US,"Kforce, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+GDRX,US,"GoodRx Holdings, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DEC,US,Diversified Energy Company Common Stock,,PROCESSED,,986,2022-07-29,2026-07-28,501,14
+ELE,US,Elemental Royalty Corporation - Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+PCRX,US,"Pacira BioSciences, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+JBIO,US,"Jade Biosciences, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EVLV,US,"Evolv Technologies Holdings, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+OLMA,US,"Olema Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+AEBI,US,Aebi Schmidt Holding AG - Common Stock,Industrials,PROCESSED,,269,2025-07-02,2026-07-28,269,0
+BIOA,US,"BioAge Labs, Inc. - Common Stock",Health Care,PROCESSED,,459,2024-09-26,2026-07-28,459,3
+AVTX,US,"Avalo Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BVS,US,Bioventus Inc. - Class A Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+JANX,US,"Janux Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+KOP,US,Koppers Holdings Inc. Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5

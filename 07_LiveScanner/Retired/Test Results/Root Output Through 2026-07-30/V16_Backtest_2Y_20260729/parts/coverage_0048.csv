@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+RGP,US,"Resources Connection, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LANV,US,Lanvin Group Holdings Limited Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RCEL,US,"Avita Medical, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+UNCY,US,"Unicycive Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+DOMO,US,"Domo, Inc. - Class B Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+HCAT,US,"Health Catalyst, Inc - Common stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+WW,US,"WW International, Inc.  - Common Stock",Consumer Discretionary,PROCESSED,,272,2025-06-27,2026-07-28,272,0
+AMPG,US,"Amplitech Group, Inc. - Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+HOFT,US,Hooker Furnishings Corporation - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+MIST,US,Milestone Pharmaceuticals Inc. - Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+TRAK,US,"ReposiTrak, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+SIF,US,"SIFCO Industries, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+OCC,US,Optical Cable Corporation - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+CTW,US,CTW - Class A Ordinary Shares,Technology,PROCESSED,,245,2025-08-06,2026-07-28,245,0
+EML,US,Eastern Company (The) - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+HUMA,US,"Humacyte, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RFIL,US,"RF Industries, Ltd. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+CHPT,US,"ChargePoint Holdings, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DAVA,US,Endava plc American Depositary Shares (each representing one Class A Ordinary Share),Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PEPG,US,PepGen Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+NGEN,US,NervGen Pharma Corp. - Common stock,,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DWSN,US,Dawson Geophysical Company - Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+DMRC,US,Digimarc Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+SAFX,US,"XCF Global, Inc. - Class A Common Stock",Industrials,PROCESSED,,392,2025-01-02,2026-07-28,392,0
+PAAC,US,Proem Acquisition Corp I - Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,79,2026-04-06,2026-07-28,0,0
+TORO,US,Toro Corp. - Common stock,Consumer Discretionary,PROCESSED,,853,2023-03-03,2026-07-28,501,1
+STXS,US,"Stereotaxis, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+ZONE,US,CleanCore Solutions Inc. Class B Common Stock,Industrials,PROCESSED,,564,2024-04-26,2026-07-28,501,0
+CRDL,US,Cardiol Therapeutics Inc. - Class A Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PLBY,US,"Playboy, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+INVZ,US,Innoviz Technologies Ltd. - Ordinary shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+CBUS,US,"Cibus, Inc. - Class A Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PYXS,US,"Pyxis Oncology, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+SHIM,US,Shimmick Corporation - Common Stock,Industrials,PROCESSED,,676,2023-11-14,2026-07-28,501,1
+HURA,US,"TuHURA Biosciences, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CUE,US,"Cue Biopharma, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+DOYU,US,DouYu International Holdings Limited - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+USBC,US,"USBC, Inc. Common Stock",Industrials,PROCESSED,,1001,2022-07-29,2026-07-28,500,0
+EPM,US,"Evolution Petroleum Corporation, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+CNTB,US,Connect Biopharma Holdings Limited - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+VENU,US,Venu Holding Corporation Common Stock,Consumer Discretionary,PROCESSED,,415,2024-11-27,2026-07-28,415,0
+HURC,US,"Hurco Companies, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FIRY,US,Firy Inc. Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ACNT,US,Ascent Industries Co. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+MX,US,Magnachip Semiconductor Corporation Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+KULR,US,"KULR Technology Group, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+SANG,US,Sangoma Technologies Corporation - Common Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TUSK,US,"Mammoth Energy Services, Inc. - Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ZYBT,US,Zhengye Biotechnology Holding Limited - Class A Ordinary Shares,Health Care,PROCESSED,,389,2025-01-07,2026-07-28,389,0
+SMJF,US,SMJ International Holdings Inc. Class A Ordinary Shares,Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,161,2025-12-04,2026-07-28,0,0

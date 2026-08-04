@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+VMC,US,Vulcan Materials Company (Holding Company) Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+KMB,US,Kimberly-Clark Corporation - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+CCL,US,Carnival Corporation Ltd. Common Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+RDDT,US,"Reddit, Inc. Class A Common Stock",Technology,PROCESSED,,589,2024-03-21,2026-07-28,501,6
+MSTR,US,Strategy Inc - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+ON,US,ON Semiconductor Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+ONC,US,BeOne Medicines Ltd. - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+ROP,US,"Roper Technologies, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+WDAY,US,"Workday, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+TKO,US,"TKO Group Holdings, Inc. Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+EC,US,Ecopetrol S.A. American Depositary Shares,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+EME,US,"EMCOR Group, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+STLD,US,"Steel Dynamics, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+ALC,US,Alcon Inc. Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+IQV,US,"IQVIA Holdings, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+RPRX,US,Royalty Pharma plc - Class A Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+JBL,US,Jabil Inc. Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+CNC,US,Centene Corporation Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CHT,US,"Chunghwa Telecom Co., Ltd.",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+GFS,US,GlobalFoundries Inc. - Ordinary Share,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+MLM,US,"Martin Marietta Materials, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+NTAP,US,"NetApp, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+UI,US,Ubiquiti Inc. Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+ERIC,US,Ericsson - American Depositary Shares each representing 1 underlying Class B share,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+NTR,US,Nutrien Ltd. Common Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+EXPE,US,"Expedia Group, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+IR,US,Ingersoll Rand Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ZTS,US,Zoetis Inc. Class A Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+EQT,US,EQT Corporation Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+VEEV,US,Veeva Systems Inc. Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+TS,US,Tenaris S.A. American Depositary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+TDY,US,Teledyne Technologies Incorporated Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+BIIB,US,Biogen Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+TWLO,US,Twilio Inc. Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+FTI,US,TechnipFMC plc Ordinary Share,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+SUNB,US,"Sunbelt Rentals Holdings, Inc. Common Stock",Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,103,2026-03-02,2026-07-28,0,0
+PBA,US,Pembina Pipeline Corp. Ordinary Shares (Canada),Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+CRS,US,Carpenter Technology Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+ILMN,US,"Illumina, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+Q,US,"Qnity Electronics, Inc. Common Stock",Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,188,2025-10-27,2026-07-28,0,0
+GFI,US,Gold Fields Limited American Depositary Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+TPL,US,Texas Pacific Land Corporation Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+DXCM,US,"DexCom, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TPR,US,"Tapestry, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+DOV,US,Dover Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+FICO,US,Fair Isaac Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+RMD,US,ResMed Inc. Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+TSEM,US,Tower Semiconductor Ltd. - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+GEHC,US,GE HealthCare Technologies Inc. - Common Stock,Health Care,PROCESSED,,905,2022-12-15,2026-07-28,501,5
+KGC,US,Kinross Gold Corporation Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,19

@@ -1,0 +1,85 @@
+{
+  "Configuration_ID": "V8_BASIC_V1_HEALTH_SCORE_RESEARCH_20260713",
+  "Schema_Version": "V8_BASIC_HEALTH_SCORE_1",
+  "Purpose": "User-approved research implementation of EMA200/MACD Foundation, DMI eligibility, and the combined V1 RSI/ADX/OBV Health Score",
+  "EMA_Period": 200,
+  "MACD": {
+    "Fast": 12,
+    "Slow": 26,
+    "Signal": 9
+  },
+  "Minimum_History_Bars": 300,
+  "Indicator_Set_ID": "V1_COMPOSITE_HEALTH_SCORE_1",
+  "Indicator_Authority": "USER_APPROVED_RESEARCH_COMPOSITE_SCORE",
+  "Indicators": {
+    "RSI_Period": 14,
+    "ADX_Period": 14,
+    "ATR_Period": 14,
+    "OBV_EMA_Period": 20,
+    "Aroon_Period": 14
+  },
+  "Indicator_Rules": {
+    "DMI": {
+      "Rule": "DMI_POSITIVE_GREATER_THAN_DMI_NEGATIVE",
+      "Required_For_Health_Score": true,
+      "Authority": "USER_APPROVED_RESEARCH_ELIGIBILITY",
+      "Limit_Status": "USER_APPROVED_RESEARCH_NOT_OPERATIONAL",
+      "Operational_Use_Approved": false
+    },
+    "RSI": {
+      "Minimum": 55.0,
+      "Preferred_Lower": 56.0,
+      "Preferred_Upper": 68.0,
+      "Maximum": 75.0,
+      "Score_Below_Minimum": 0,
+      "Score_Minimum_To_Preferred": 5,
+      "Score_Preferred_Range": 10,
+      "Score_Preferred_To_Maximum": 5,
+      "Score_Above_Maximum": -10,
+      "Authority": "USER_APPROVED_RESEARCH_SCORE_COMPONENT",
+      "Limit_Status": "USER_APPROVED_RESEARCH_NOT_OPERATIONAL",
+      "Operational_Use_Approved": false
+    },
+    "ADX": {
+      "Minimum": 20.0,
+      "Preferred_Lower": 26.0,
+      "Preferred_Upper": 40.0,
+      "High_Upper": 60.0,
+      "Score_Below_Minimum": 0,
+      "Score_Minimum_Or_High": 5,
+      "Score_Preferred_Range": 10,
+      "Score_Above_High": -5,
+      "Authority": "USER_APPROVED_RESEARCH_SCORE_COMPONENT",
+      "Limit_Status": "USER_APPROVED_RESEARCH_NOT_OPERATIONAL",
+      "Operational_Use_Approved": false
+    },
+    "OBV": {
+      "EMA_Period": 20,
+      "Cross_Lookback_Sessions": 3,
+      "Score_Fresh_Cross": 10,
+      "Score_Price_Up_OBV_Down": -5,
+      "Score_Otherwise": 0,
+      "Authority": "USER_APPROVED_RESEARCH_SCORE_COMPONENT",
+      "Limit_Status": "USER_APPROVED_RESEARCH_NOT_OPERATIONAL",
+      "Operational_Use_Approved": false
+    },
+    "ATR": {
+      "Authority": "CALCULATION_ONLY_NO_SCORE"
+    },
+    "Aroon": {
+      "Authority": "CALCULATION_ONLY_EXCLUDED_FROM_V1_SCORE"
+    }
+  },
+  "Health_Score": {
+    "Maximum_Positive_Score": 30,
+    "Research_Qualification_Threshold": 20,
+    "Components": ["RSI", "ADX", "OBV"],
+    "Authority": "USER_APPROVED_RESEARCH_QUALIFICATION",
+    "Limit_Status": "USER_APPROVED_RESEARCH_NOT_OPERATIONAL",
+    "Operational_Use_Approved": false,
+    "Probability_Calibrated": false
+  },
+  "Price_Adjustment": "UNADJUSTED_OHLC",
+  "Eligibility_Rule": "CLOSE_ABOVE_EMA_AND_MACD_LINE_ABOVE_SIGNAL_AND_ZERO",
+  "Decision_Scope": "FOUNDATION_THEN_DMI_THEN_V1_COMPOSITE_HEALTH_SCORE"
+}

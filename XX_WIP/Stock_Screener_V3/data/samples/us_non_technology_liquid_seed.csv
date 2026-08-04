@@ -1,0 +1,75 @@
+Symbol,Security Name,Listing Exchange,ETF,MarketCap,Sector,Industry
+XOM,Exxon Mobil Corporation Common Stock,N,N,,Energy,Integrated Oil
+CVX,Chevron Corporation Common Stock,N,N,,Energy,Integrated Oil
+COP,ConocoPhillips Common Stock,N,N,,Energy,Oil and Gas Exploration
+SLB,Schlumberger Limited Common Stock,N,N,,Energy,Oilfield Services
+EOG,EOG Resources Inc. Common Stock,N,N,,Energy,Oil and Gas Exploration
+MPC,Marathon Petroleum Corporation Common Stock,N,N,,Energy,Oil Refining
+PSX,Phillips 66 Common Stock,N,N,,Energy,Oil Refining
+JPM,JPMorgan Chase & Co. Common Stock,N,N,,Financials,Banks
+BAC,Bank of America Corporation Common Stock,N,N,,Financials,Banks
+WFC,Wells Fargo & Company Common Stock,N,N,,Financials,Banks
+GS,Goldman Sachs Group Inc. Common Stock,N,N,,Financials,Investment Banking
+MS,Morgan Stanley Common Stock,N,N,,Financials,Investment Banking
+C,Citigroup Inc. Common Stock,N,N,,Financials,Banks
+BLK,BlackRock Inc. Common Stock,N,N,,Financials,Asset Management
+AXP,American Express Company Common Stock,N,N,,Financials,Credit Services
+UNH,UnitedHealth Group Incorporated Common Stock,N,N,,Health Care,Managed Care
+JNJ,Johnson & Johnson Common Stock,N,N,,Health Care,Pharmaceuticals
+LLY,Eli Lilly and Company Common Stock,N,N,,Health Care,Pharmaceuticals
+PFE,Pfizer Inc. Common Stock,N,N,,Health Care,Pharmaceuticals
+MRK,Merck & Co. Inc. Common Stock,N,N,,Health Care,Pharmaceuticals
+ABBV,AbbVie Inc. Common Stock,N,N,,Health Care,Pharmaceuticals
+TMO,Thermo Fisher Scientific Inc. Common Stock,N,N,,Health Care,Life Sciences Tools
+ABT,Abbott Laboratories Common Stock,N,N,,Health Care,Medical Devices
+AMGN,Amgen Inc. Common Stock,Q,N,,Health Care,Biotechnology
+GILD,Gilead Sciences Inc. Common Stock,Q,N,,Health Care,Biotechnology
+CAT,Caterpillar Inc. Common Stock,N,N,,Industrials,Industrial Machinery
+DE,Deere & Company Common Stock,N,N,,Industrials,Agricultural Machinery
+GE,GE Aerospace Common Stock,N,N,,Industrials,Aerospace
+HON,Honeywell International Inc. Common Stock,Q,N,,Industrials,Industrial Conglomerates
+UPS,United Parcel Service Inc. Common Stock,N,N,,Industrials,Air Freight
+UNP,Union Pacific Corporation Common Stock,N,N,,Industrials,Railroads
+BA,Boeing Company Common Stock,N,N,,Industrials,Aerospace
+RTX,RTX Corporation Common Stock,N,N,,Industrials,Aerospace and Defense
+LMT,Lockheed Martin Corporation Common Stock,N,N,,Industrials,Aerospace and Defense
+ETN,Eaton Corporation plc Ordinary Shares,N,N,,Industrials,Electrical Equipment
+WMT,Walmart Inc. Common Stock,N,N,,Consumer Staples,Discount Stores
+PG,Procter & Gamble Company Common Stock,N,N,,Consumer Staples,Household Products
+KO,Coca-Cola Company Common Stock,N,N,,Consumer Staples,Beverages
+PEP,PepsiCo Inc. Common Stock,Q,N,,Consumer Staples,Beverages
+COST,Costco Wholesale Corporation Common Stock,Q,N,,Consumer Staples,Warehouse Clubs
+PM,Philip Morris International Inc. Common Stock,N,N,,Consumer Staples,Tobacco
+MO,Altria Group Inc. Common Stock,N,N,,Consumer Staples,Tobacco
+CL,Colgate-Palmolive Company Common Stock,N,N,,Consumer Staples,Household Products
+MDLZ,Mondelez International Inc. Common Stock,Q,N,,Consumer Staples,Packaged Foods
+AMZN,Amazon.com Inc. Common Stock,Q,N,,Consumer Discretionary,Internet Retail
+TSLA,Tesla Inc. Common Stock,Q,N,,Consumer Discretionary,Auto Manufacturers
+HD,Home Depot Inc. Common Stock,N,N,,Consumer Discretionary,Home Improvement Retail
+MCD,McDonald's Corporation Common Stock,N,N,,Consumer Discretionary,Restaurants
+NKE,Nike Inc. Common Stock,N,N,,Consumer Discretionary,Footwear
+SBUX,Starbucks Corporation Common Stock,Q,N,,Consumer Discretionary,Restaurants
+LOW,Lowe's Companies Inc. Common Stock,N,N,,Consumer Discretionary,Home Improvement Retail
+BKNG,Booking Holdings Inc. Common Stock,Q,N,,Consumer Discretionary,Travel Services
+TJX,TJX Companies Inc. Common Stock,N,N,,Consumer Discretionary,Apparel Retail
+VZ,Verizon Communications Inc. Common Stock,N,N,,Communication Services,Telecom
+T,AT&T Inc. Common Stock,N,N,,Communication Services,Telecom
+CMCSA,Comcast Corporation Class A Common Stock,Q,N,,Communication Services,Cable and Media
+DIS,Walt Disney Company Common Stock,N,N,,Communication Services,Entertainment
+NFLX,Netflix Inc. Common Stock,Q,N,,Communication Services,Entertainment
+NEE,NextEra Energy Inc. Common Stock,N,N,,Utilities,Electric Utilities
+DUK,Duke Energy Corporation Common Stock,N,N,,Utilities,Electric Utilities
+SO,Southern Company Common Stock,N,N,,Utilities,Electric Utilities
+AEP,American Electric Power Company Inc. Common Stock,Q,N,,Utilities,Electric Utilities
+EXC,Exelon Corporation Common Stock,Q,N,,Utilities,Electric Utilities
+LIN,Linde plc Ordinary Shares,Q,N,,Materials,Specialty Chemicals
+SHW,Sherwin-Williams Company Common Stock,N,N,,Materials,Specialty Chemicals
+ECL,Ecolab Inc. Common Stock,N,N,,Materials,Specialty Chemicals
+FCX,Freeport-McMoRan Inc. Common Stock,N,N,,Materials,Copper
+NEM,Newmont Corporation Common Stock,N,N,,Materials,Gold
+APD,Air Products and Chemicals Inc. Common Stock,N,N,,Materials,Industrial Gases
+PLD,Prologis Inc. Common Stock,N,N,,Real Estate,Industrial REIT
+AMT,American Tower Corporation Common Stock,N,N,,Real Estate,Telecom REIT
+EQIX,Equinix Inc. Common Stock,Q,N,,Real Estate,Data Center REIT
+SPG,Simon Property Group Inc. Common Stock,N,N,,Real Estate,Retail REIT
+O,Realty Income Corporation Common Stock,N,N,,Real Estate,Retail REIT

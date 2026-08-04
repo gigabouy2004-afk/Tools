@@ -1,0 +1,2431 @@
+Ticker,Symbol,Security Name,Listing Exchange,Market Category,ETF,ETF_Type,ETF_Category,MarketCap,TrailingPE,ForwardPE,Sector,Industry
+TKNS,TKNS,21Shares Active Crypto ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TCAN,TCAN,21Shares Canton Network ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TDOG,TDOG,21shares Dogecoin ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TXBC,TXBC,21Shares FTSE Crypto 10 ex-BTC Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TTOP,TTOP,21Shares FTSE Crypto 10 Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+THYP,THYP,21shares Hyperliquid ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TDOT,TDOT,21shares Polkadot ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TSUI,TSUI,21Shares Sui ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EDGH,EDGH,3EDGE Dynamic Hard Assets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EDGI,EDGI,3EDGE Dynamic International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EDGU,EDGU,3EDGE Dynamic US Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BDIV,BDIV,AAM Brentview Dividend Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPDV,SPDV,AAM S&P 500 High Dividend Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SAWG,SAWG,AAM Sawgrass US Large Cap Quality Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SAWS,SAWS,AAM Sawgrass US Small Cap Quality Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TIIV,TIIV,AAM Todd International Intrinsic Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TRFM,TRFM,AAM Transformers ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BUFC,BUFC,AB Conservative Buffer ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FWD,FWD,AB Disruptors ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EMOP,EMOP,AB Emerging Markets Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BUFI,BUFI,AB International Buffer ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IGGY,IGGY,AB International Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ILOW,ILOW,AB International Low Volatility Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BUFM,BUFM,AB Moderate Buffer ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+XCHG,XCHG,AB US Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HIDV,HIDV,AB US High Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LRGC,LRGC,AB US Large Cap Strategic Equities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LOWV,LOWV,AB US Low Volatility Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BCD,BCD,abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BCI,BCI,abrdn Bloomberg All Commodity Strategy K-1 Free ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AGEM,AGEM,abrdn Emerging Markets Dividend Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+AFSC,AFSC,abrdn Focused U.S. Small Cap Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ASCI,ASCI,abrdn International Small Cap Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SGOL,SGOL,abrdn Physical Gold Shares ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PALL,PALL,abrdn Physical Palladium Shares ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PPLT,PPLT,abrdn Physical Platinum Shares ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GLTR,GLTR,abrdn Physical Precious Metals Basket Shares ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SIVR,SIVR,abrdn Physical Silver Shares ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ABEQ,ABEQ,Absolute Select Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DEEP,DEEP,Acquirers Small and Micro Deep Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+APIE,APIE,ActivePassive International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+APUE,APUE,ActivePassive U.S. Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AIMS,AIMS,Acuitas Small Cap Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ADPV,ADPV,Adaptiv Select ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AGOX,AGOX,Adaptive Alpha Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JSTC,JSTC,Adasina Social Justice All Cap Global ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AADR,AADR,AdvisorShares Dorsey Wright ADR ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DWAW,DWAW,AdvisorShares Dorsey Wright FSM All Cap World ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DWUS,DWUS,AdvisorShares Dorsey Wright FSM US Core ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CWS,CWS,AdvisorShares Focused Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GK,GK,AdvisorShares Gerber Kawasaki ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BEDZ,BEDZ,AdvisorShares Hotel ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HVAC,HVAC,AdvisorShares HVAC and Industrials ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SURE,SURE,AdvisorShares Insider Advantage ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PSIL,PSIL,AdvisorShares Psychedelics ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+YOLO,YOLO,AdvisorShares Pure Cannabis ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MSOS,MSOS,AdvisorShares Pure US Cannabis ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QPX,QPX,AdvisorShares Q Dynamic Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VEGA,VEGA,AdvisorShares STAR Global Buy-Write ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VICE,VICE,AdvisorShares Vice ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BTAL,BTAL,AGF U.S. Market Neutral Anti-Beta Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AHLT,AHLT,AHL Trend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AKRE,AKRE,Akre Focus ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ENFR,ENFR,Alerian Energy Infrastructure ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AMLP,AMLP,Alerian MLP ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AMJB,AMJB,Alerian MLP Index ETN,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LEXI,LEXI,Alexis Practical Tactical ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ATFV,ATFV,Alger 35 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ALAI,ALAI,Alger AI Enablers & Adopters ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CNEQ,CNEQ,Alger Concentrated Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FRTY,FRTY,Alger Mid Cap 40 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+INVN,INVN,Alger Russell Innovation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+APLU,APLU,Allspring Core Plus ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ALRG,ALRG,Allspring LT Large Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AGRW,AGRW,Allspring LT Large Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ASCE,ASCE,Allspring SMID Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ASLV,ASLV,Allspring Special Large Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AAVM,AAVM,Alpha Architect Global Factor Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+HIDE,HIDE,Alpha Architect High Inflation and Deflation ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IMOM,IMOM,Alpha Architect International Quantitative Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IVAL,IVAL,Alpha Architect International Quantitative Value ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QMOM,QMOM,Alpha Architect U.S. Quantitative Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QVAL,QVAL,Alpha Architect U.S. Quantitative Value ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+AAEQ,AAEQ,Alpha Architect US Equity 2 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+AAUS,AAUS,Alpha Architect US Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ABCS,ABCS,Alpha Blue Capital US Small-Mid Cap Dynamic ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LOGO,LOGO,Alpha Brands Consumption Leaders ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EZMO,EZMO,AlphaDroid Broad Markets Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EZRO,EZRO,AlphaDroid Defensive Sector Rotation ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RFFC,RFFC,ALPS Active Equity Opportunity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+REIT,REIT,ALPS Active REIT ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ACES,ACES,ALPS Clean Energy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DTEC,DTEC,ALPS Disruptive Technologies ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RFDA,RFDA,ALPS Dynamic US Dividend Advantage ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ELFY,ELFY,ALPS Electrification Infrastructure ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EDOG,EDOG,ALPS Emerging Sector Dividend Dogs ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EQL,EQL,ALPS Equal Sector Weight ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IDOG,IDOG,ALPS International Sector Dividend Dogs ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SBIO,SBIO,ALPS Medical Breakthroughs ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SMRF,SMRF,"ALPS Nautilus SMR, Nuclear & Technology ETF",P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OGIG,OGIG,ALPS O'Shares Global Internet Giants ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OEFA,OEFA,ALPS O'Shares International Developed Quality Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OUSA,OUSA,ALPS O'Shares U.S. Quality Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OUSM,OUSM,ALPS O'Shares U.S. Small-Cap Quality Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RDOG,RDOG,ALPS REIT Dividend Dogs ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SDOG,SDOG,ALPS Sector Dividend Dogs ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CCNR,CCNR,ALPS/CoreCommodity Natural Resources ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DIVD,DIVD,Altrius Global Dividend ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EVNT,EVNT,AltShares Event-Driven ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ARB,ARB,AltShares Merger Arbitrage ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPII,CPII,American Beacon Ionic Inflation Protection ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MGNR,MGNR,American Beacon Select Funds American Beacon GLG Natural Resources ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FDG,FDG,American Century Focused Dynamic Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLV,FLV,American Century Focused Large Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ACLC,ACLC,American Century Large Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ACGR,ACGR,American Century Large Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MID,MID,American Century Mid Cap Growth Impact ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QINT,QINT,American Century Quality Diversified International ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QGRO,QGRO,American Century U.S. Quality Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VALQ,VALQ,American Century U.S. Quality Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ACVF,ACVF,American Conservative Values ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AIEQ,AIEQ,Amplify AI Powered Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MJ,MJ,Amplify Alternative Harvest ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ISWN,ISWN,Amplify BlackSwan ISWN ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BLOK,BLOK,Amplify Blockchain Technology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AIVC,AIVC,Amplify Bloomberg AI Value Chain ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ITEQ,ITEQ,Amplify BlueStar Israel Technology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+COWS,COWS,Amplify Cash Flow Dividend Leaders ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+HCOW,HCOW,Amplify COWS Covered Call ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+HACK,HACK,Amplify Cybersecurity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IPAY,IPAY,Amplify Digital Payments ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NDIV,NDIV,Amplify Energy & Natural Resources Covered Call ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ETHO,ETHO,Amplify Etho Climate Leadership U.S. ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HAKY,HAKY,Amplify HACK Cybersecurity Covered Call ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SILJ,SILJ,Amplify Junior Silver Miners ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BATT,BATT,Amplify Lithium & Battery Technology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IBUY,IBUY,Amplify Online Retail ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SOFR,SOFR,Amplify Samsung SOFR ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+USNG,USNG,Amplify Samsung U.S. Natural Gas Infrastructure ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CNBS,CNBS,Amplify Seymour Cannabis ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SLJY,SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SMAP,SMAP,Amplify Small-Mid Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+STBQ,STBQ,Amplify Stablecoin Technology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TKNQ,TKNQ,Amplify Tokenization Technology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AWAY,AWAY,Amplify Travel Tech ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GAMR,GAMR,Amplify Video Game Leaders ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+THNR,THNR,Amplify Weight Loss Drug & Treatment ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TRBF,TRBF,Angel Oak Total Return ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+AOTG,AOTG,AOT Growth and Innovation ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+AOTS,AOTS,AOT Software Platform ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IVSI,IVSI,Applied Finance IVS International Large ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IVSX,IVSX,Applied Finance IVS International SMID ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IVSS,IVSS,Applied Finance IVS US SMID ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VSLU,VSLU,Applied Finance Valuation Large Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ALIL,ALIL,Argent Focused Small Cap ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ABIG,ABIG,Argent Large Cap ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+AMID,AMID,Argent Mid Cap ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ARMH,ARMH,Arm Holdings PLC ADRhedged,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RMRC,RMRC,ARMOR Core Risk-Managed ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ACEP,ACEP,ARS Core Equity Portfolio ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+AFOS,AFOS,ARS Focused Opportunity Strategy ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ASMH,ASMH,ASML Holding NV ADRhedged,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PPI,PPI,Astoria Real Assets ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ROE,ROE,Astoria US Equal Weight Quality Kings ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GQQQ,GQQQ,Astoria US Quality Growth Kings ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+JOJO,JOJO,ATAC Credit Rotation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+USAF,USAF,Atlas America Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+AVGE,AVGE,Avantis All Equity Markets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVGV,AVGV,Avantis All Equity Markets Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVNM,AVNM,Avantis All International Markets Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVNV,AVNV,Avantis All International Markets Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVGB,AVGB,Avantis Credit ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+AVEM,AVEM,Avantis Emerging Markets Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVXC,AVXC,Avantis Emerging Markets ex-China Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+AVEE,AVEE,Avantis Emerging Markets Small Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVES,AVES,Avantis Emerging Markets Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVIE,AVIE,Avantis Inflation Focused Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVDE,AVDE,Avantis International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVIV,AVIV,Avantis International Large Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVDS,AVDS,Avantis International Small Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVDV,AVDV,Avantis International Small Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVMA,AVMA,Avantis Moderate Allocation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVRE,AVRE,Avantis Real Estate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVSE,AVSE,Avantis Responsible Emerging Markets Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVSD,AVSD,Avantis Responsible International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVSU,AVSU,Avantis Responsible U.S. Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVTM,AVTM,Avantis Total Equity Markets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVSC,AVSC,Avantis U.S Small Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVUS,AVUS,Avantis U.S. Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVLC,AVLC,Avantis U.S. Large Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVLV,AVLV,Avantis U.S. Large Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVMC,AVMC,Avantis U.S. Mid Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVMV,AVMV,Avantis U.S. Mid Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVUQ,AVUQ,Avantis U.S. Quality ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+AVUV,AVUV,Avantis U.S. Small Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AVOS,AVOS,Avos Global Equities ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+NXTE,NXTE,AXS Green Alpha ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KNO,KNO,AXS Knowledge Leaders ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AZTD,AZTD,Aztlan Global Stock Selection DM SMID ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NRSH,NRSH,Aztlan North America Nearshoring Stock Selection ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BGDV,BGDV,Bahl & Gaynor Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SCDV,SCDV,Bahl & Gaynor Small Cap Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MGMT,MGMT,Ballast Small/Mid Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BCGS,BCGS,Bancreek Global Select ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BCIL,BCIL,Bancreek International Large Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BCUS,BCUS,Bancreek U.S. Large Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BCEM,BCEM,Baron Emerging Markets Select ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BCFN,BCFN,Baron Financials ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RONB,RONB,Baron First Principles ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BCGD,BCGD,Baron Global Durable Advantage ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BCSM,BCSM,Baron SMID Cap ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BCTK,BCTK,Baron Technology ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BFOR,BFOR,Barron's 400 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BBHL,BBHL,BBH Select Large Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BBHM,BBHM,BBH Select Mid Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BSR,BSR,Beacon Selective Risk ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BTR,BTR,Beacon Tactical Risk ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CLUB,CLUB,Billionaires Club ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BITB,BITB,Bitwise Bitcoin ETF ,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OWNB,OWNB,Bitwise Bitcoin Standard Corporations ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BITQ,BITQ,Bitwise Crypto Industry Innovators ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BWOW,BWOW,Bitwise Dogecoin ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ETHW,ETHW,Bitwise Ethereum ETF ,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BPRO,BPRO,Bitwise Proficio Currency Debasement ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BSOL,BSOL,Bitwise Solana Staking ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BWEB,BWEB,Bitwise Web3 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XRP,XRP,Bitwise XRP ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BLUX,BLUX,Bluemonte Dynamic Total Market ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BINT,BINT,Bluemonte Global Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BLUC,BLUC,Bluemonte Large Cap Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BLGR,BLGR,Bluemonte Large Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BVAL,BVAL,Bluemonte Large Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TFPN,TFPN,Blueprint Chesapeake Multi-Asset Trend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BKCG,BKCG,BNY Mellon Concentrated Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BKCI,BKCI,BNY Mellon Concentrated International ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BCPL,BCPL,BNY Mellon Core Plus ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BKDV,BKDV,BNY Mellon Dynamic Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BKEM,BKEM,BNY Mellon Emerging Markets Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BKIE,BKIE,BNY Mellon International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BKLC,BKLC,BNY Mellon US Large Cap Core Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BKMC,BKMC,BNY Mellon US Mid Cap Core Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BKSE,BKSE,BNY Mellon US Small Cap Core Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TAXM,TAXM,BondBloxx IR+M Tax-Aware ETF for Massachusetts Residents,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TXXI,TXXI,BondBloxx IR+M Tax-Aware Intermediate Duration ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BPH,BPH,BP plc ADRhedged,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DVAL,DVAL,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BDRY,BDRY,Breakwave Dry Bulk Shipping ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BWET,BWET,Breakwave Tanker Shipping ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BDGS,BDGS,Bridges Capital Tactical ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BAFE,BAFE,Brown Advisory Flexible Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BAIV,BAIV,Brown Advisory International Value Select ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BASG,BASG,Brown Advisory Sustainable Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BASV,BASV,Brown Advisory Sustainable Value ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BRES,BRES,Burney U.S. Equity Select ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BRNY,BRNY,Burney U.S. Factor Rotation ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SMRI,SMRI,Bushido Capital US Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RNIN,RNIN,Bushido Capital US SMID Cap Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SROI,SROI,Calamos Antetokounmpo Global Sustainable Equities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CAGE,CAGE,Calamos Autocallable Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CVRT,CVRT,Calamos Convertible Equity Alternative ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPNJ,CPNJ,Calamos Nasdaq - 100 Structured Alt Protection ETF -June,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPNM,CPNM,Calamos Nasdaq-100 Structured Alt Protection ETF - March,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPNS,CPNS,Calamos Nasdaq-100 Structured Alt Protection ETF  September,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPNQ,CPNQ,Calamos Nasdaq-100 Structured Alt Protection ETF December,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPRA,CPRA,Calamos Russell 2000 Structured Alt Protection ETF - April,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPRJ,CPRJ,Calamos Russell 2000 Structured Alt Protection ETF  July,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPRO,CPRO,Calamos Russell 2000 Structured Alt Protection ETF - October,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPRY,CPRY,Calamos Russell 2000 Structured Alt Protection ETF January,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPSP,CPSP,Calamos S&P 500 Structured Alt Protection ETF - April,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPSA,CPSA,Calamos S&P 500 Structured Alt Protection ETF  August,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPSJ,CPSJ,Calamos S&P 500 Structured Alt Protection ETF  July,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPSR,CPSR,Calamos S&P 500 Structured Alt Protection ETF - March,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPSM,CPSM,Calamos S&P 500 Structured Alt Protection ETF  May,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPSO,CPSO,Calamos S&P 500 Structured Alt Protection ETF - October,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPST,CPST,Calamos S&P 500 Structured Alt Protection ETF  September,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPSD,CPSD,Calamos S&P 500 Structured Alt Protection ETF December,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPSF,CPSF,Calamos S&P 500 Structured Alt Protection ETF February,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPSY,CPSY,Calamos S&P 500 Structured Alt Protection ETF January,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPSU,CPSU,Calamos S&P 500 Structured Alt Protection ETF June,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPSN,CPSN,Calamos S&P 500 Structured Alt Protection ETF November,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CVIE,CVIE,Calvert International Responsible Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CVLC,CVLC,Calvert US Large-Cap Core Responsible Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CDEI,CDEI,"Calvert US Large-Cap Diversity, Equity and Inclusion Index ETF",P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CVMC,CVMC,Calvert US Mid-Cap Core Responsible Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CAMX,CAMX,Cambiar Aggressive Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ENDW,ENDW,Cambria Endowment Style ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GEW,GEW,Cambria Global EW ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TAX,TAX,Cambria Tax Aware ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+HBR,HBR,Canary HBAR ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LTCC,LTCC,Canary Litecoin ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SOLC,SOLC,Canary Marinade Solana ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SUIS,SUIS,Canary Staked SUI ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+XRPC,XRPC,Canary XRP ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FFTY,FFTY,CapForce IBD 50 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BOUT,BOUT,CapForce IBD Breakout Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CGCV,CGCV,Capital Group Conservative Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CGBL,CGBL,Capital Group Core Balanced ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CGUS,CGUS,Capital Group Core Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CGDG,CGDG,Capital Group Dividend Growers ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CGDV,CGDV,Capital Group Dividend Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CGGE,CGGE,Capital Group Global Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CGGO,CGGO,Capital Group Global Growth Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CGGR,CGGR,Capital Group Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CGIC,CGIC,Capital Group International Core Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CGIE,CGIE,Capital Group International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CGXU,CGXU,Capital Group International Focus Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CGNG,CGNG,Capital Group New Geography Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CGGG,CGGG,Capital Group U.S. Large Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CGVV,CGVV,Capital Group U.S. Large Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CGMM,CGMM,Capital Group U.S. Small and Mid Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CCSO,CCSO,Carbon Collective Climate Solutions U.S. Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CARK,CARK,CastleArk Large Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CDIG,CDIG,City Different Investments Global Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LRGE,LRGE,ClearBridge Large Cap Growth Select ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+OCIO,OCIO,ClearShares OCIO ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CLIM,CLIM,Climate Global - Climate Resilient REIT Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TIME,TIME,Clockwise U.S. Core Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CBLS,CBLS,Clough Hedged Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CBSE,CBSE,Clough Select Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ROPE,ROPE,Coastal Compass 100 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CSIO,CSIO,Cohen & Steers Infrastructure Opportunities Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CSNR,CSNR,Cohen & Steers Natural Resources Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CSRE,CSRE,Cohen & Steers Real Estate Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DIME,DIME,CoinShares Altcoins ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BTF,BTF,CoinShares Bitcoin and Ether ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BRRR,BRRR,Coinshares Bitcoin ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+WGMI,WGMI,CoinShares Bitcoin Mining ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+NETL,NETL,Colterpoint Net Lease Real Estate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XCEM,XCEM,Columbia EM Core ex-China ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+INCO,INCO,Columbia India Consumer ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+REGS,REGS,Columbia Large Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RECS,RECS,Columbia Research Enhanced Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ECON,ECON,Columbia Research Enhanced Emerging Economies ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+REFA,REFA,Columbia Research Enhanced International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+REMC,REMC,Columbia Research Enhanced Mid Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CRED,CRED,Columbia Research Enhanced Real Estate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RESM,RESM,Columbia Research Enhanced Small Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+REVS,REVS,Columbia Research Enhanced Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SEMI,SEMI,Columbia Select Technology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BITW,BITW,Common Shares of Beneficial Interest,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BAVA,BAVA,Common Shares of Beneficial Interest of Bitwise Avalanche ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CLNK,CLNK,Common Shares of Beneficial Interest of Bitwise Chainlink ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CTWO,CTWO,Common units,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MSBT,MSBT,Common Units of Beneficial Interest of Morgan Stanley Bitcoin Trust,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CCFE,CCFE,Concourse Capital Focused Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CGV,CGV,Conductor Global Equity Value ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CAML,CAML,Congress Large Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CSMD,CSMD,Congress SMid Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CCOR,CCOR,Core Alternative ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BOBP,BOBP,CORE16 Best of Breed Premier Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CGRO,CGRO,CoreValues Alpha Greater China Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+USMD,USMD,CoreValues America First Technology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPAI,CPAI,Counterpoint Quantitative Equity ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CLCG,CLCG,Crossmark Large Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CLCV,CLCV,Crossmark Large Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BBB,BBB,CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EEE,EEE,CYBER HORNET S&P 500 and Ethereum 75/25 Strategy ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SSS,SSS,CYBER HORNET S&P 500 and Solana 75/25 Strategy ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+XXX,XXX,CYBER HORNET S&P 500 and XRP 75/25 Strategy ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DVGR,DVGR,DAC 3D Dividend Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DAK,DAK,Dakota Active Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IVEP,IVEP,Dan IVES Wedbush AI Power & Infrastructure ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IVES,IVES,Dan IVES Wedbush AI Revolution ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DIVE,DIVE,Dana Concentrated Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DANA,DANA,Dana Limited Volatility ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DUNK,DUNK,Dana Unconstrained Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DHSB,DHSB,Day Hagan Smart Buffer ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SSUS,SSUS,Day Hagan Smart Sector ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SSXU,SSXU,Day Hagan Smart Sector International ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AIPO,AIPO,Defiance AI & Power Infrastructure ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+UFOX,UFOX,Defiance Connective Technologies ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+JEDI,JEDI,Defiance Drone and Modern Warfare ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XMAG,XMAG,Defiance Large Cap ex-Mag 7 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QQQY,QQQY,Defiance Nasdaq 100 Weekly Distribution ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QTUM,QTUM,Defiance Quantum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IWMY,IWMY,Defiance R2000 Weekly Distribution ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RKNG,RKNG,Defiance Retail Kings ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+WDTE,WDTE,Defiance S&P 500 Weekly Distribution ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DEMZ,DEMZ,Democratic Large Cap Core ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DFTT,DFTT,DF Tactical 30 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HF,HF,DGA Core Plus Absolute Return ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DHLX,DHLX,Diamond Hill Large Cap Concentrated ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFAE,DFAE,Dimensional Emerging Core Equity Market ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFEM,DFEM,Dimensional Emerging Markets Core Equity 2 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DEXC,DEXC,Dimensional Emerging Markets ex China Core Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DEHP,DEHP,Dimensional Emerging Markets High Profitability ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFSE,DFSE,Dimensional Emerging Markets Sustainability Core 1 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFEV,DFEV,Dimensional Emerging Markets Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DGCB,DGCB,Dimensional Global Credit ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DFGR,DFGR,Dimensional Global Real Estate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFIP,DFIP,Dimensional Inflation-Protected Securities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFAI,DFAI,Dimensional International Core Equity Market ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFSI,DFSI,Dimensional International Sustainability Core 1 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFIV,DFIV,Dimensional International Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DXIV,DXIV,Dimensional International Vector Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFAC,DFAC,Dimensional U.S. Core Equity 2 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFUS,DFUS,Dimensional U.S. Equity Market ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFAS,DFAS,Dimensional U.S. Small Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFAT,DFAT,Dimensional U.S. Targeted Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DCOR,DCOR,Dimensional US Core Equity 1 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFAU,DFAU,Dimensional US Core Equity Market ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DUHP,DUHP,Dimensional US High Profitability ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFLV,DFLV,Dimensional US Large Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFVX,DFVX,Dimensional US Large Cap Vector ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFUV,DFUV,Dimensional US Marketwide Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFAR,DFAR,Dimensional US Real Estate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFSV,DFSV,Dimensional US Small Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFSU,DFSU,Dimensional US Sustainability Core 1 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DXUV,DXUV,Dimensional US Vector Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFAW,DFAW,Dimensional World Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFAX,DFAX,Dimensional World ex U.S. Core Equity 2 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+COM,COM,Direxion Auspice Broad Commodity Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HCMT,HCMT,Direxion HCM Tactical Enhanced US ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QQQE,QQQE,Direxion NASDAQ-100 Equal Weighted Index ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DSTX,DSTX,Distillate International Fundamental Stability & Value ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DSMC,DSMC,Distillate Small/Mid Cash Flow ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DSTL,DSTL,Distillate U.S. Fundamental Stability & Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DABS,DABS,DoubleLine Asset-Backed Securities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DCMT,DCMT,DoubleLine Commodity Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFVE,DFVE,DoubleLine Fortune 500 Equal Weight ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DSCO,DSCO,DoubleLine Securitized Credit ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CAPE,CAPE,DoubleLine Shiller CAPE U.S. Equities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DRAI,DRAI,Draco Evolution AI ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BBLU,BBLU,EA Bridgeway Blue Chip ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BSVO,BSVO,EA Bridgeway Omni Small-Cap Value ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EAGL,EAGL,Eagle Capital Select Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EVLN,EVLN,Eaton Vance Floating-Rate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EMPB,EMPB,Efficient Market Portfolio Plus ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ELM,ELM,Elm Market Navigator ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RNEM,RNEM,Emerging Markets Equity Select ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EMQQ,EMQQ,EMQQ The Emerging Markets Internet ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HEDG,HEDG,Equable Shares Hedged Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XOVR,XOVR,ERShares Private-Public Crossover ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ESN,ESN,Essential 40 Stock ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SIXH,SIXH,ETC 6 Meridian Hedged Equity Index Option ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SIXL,SIXL,ETC 6 Meridian Low Beta Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SIXA,SIXA,ETC 6 Meridian Mega Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SXQG,SXQG,ETC 6 Meridian Quality Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SIXS,SIXS,ETC 6 Meridian Small Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TDSB,TDSB,ETC Cabana Target Beta ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TDSC,TDSC,ETC Cabana Target Drawdown 10 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CLSM,CLSM,ETC Cabana Target Leading Sector Moderate ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RITA,RITA,ETFB Green SRI REITs ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+USOI,USOI,"ETRACS Crude Oil Shares Covered Call ETNs due April 24, 2037",Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GLDI,GLDI,"ETRACS Gold Shares Covered Call ETNs due February 2, 2033",Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IFED,IFED,ETRACS IFED Invest with the Fed TR Index ETN,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HDLB,HDLB,"ETRACS Monthly Pay 2xLeveraged US High Dividend Low Volatility ETN Series B due September 30, 2044",P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SLVO,SLVO,"ETRACS Silver Shares Covered Call ETNs due April 21, 2033",Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ECML,ECML,Euclidean Fundamental Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ESIM,ESIM,Eventide International ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ESLG,ESLG,Eventide Large Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ESLV,ESLV,Eventide Large Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ESSC,ESSC,Eventide Small Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ESUM,ESUM,Eventide US Market ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LFSC,LFSC,F/m Emerald Life Sciences Innovation ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SPIT,SPIT,F/m Emerald Special Situations ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TACK,TACK,Fairlead Tactical Sector ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLCC,FLCC,Federated Hermes MDT Large Cap Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLCG,FLCG,Federated Hermes MDT Large Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLCV,FLCV,Federated Hermes MDT Large Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MKTN,MKTN,Federated Hermes MDT Market Neutral ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FSCC,FSCC,Federated Hermes MDT Small Cap Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FDV,FDV,Federated Hermes U.S. Strategic Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FDIG,FDIG,Fidelity Crypto Industry and Digital Payments ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FBOT,FBOT,Fidelity Disruptive Automation ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FDCF,FDCF,Fidelity Disruptive Communications ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FDFF,FDFF,Fidelity Disruptive Finance ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FMED,FMED,Fidelity Disruptive Medicine ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FDTX,FDTX,Fidelity Disruptive Technology ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FDIF,FDIF,Fidelity Disruptors ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FDRR,FDRR,Fidelity Dividend ETF for Rising Rates,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FEMR,FEMR,Fidelity Enhanced Emerging Markets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FENI,FENI,Fidelity Enhanced International ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FELC,FELC,Fidelity Enhanced Large Cap Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FELG,FELG,Fidelity Enhanced Large Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FELV,FELV,Fidelity Enhanced Large Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FMDE,FMDE,Fidelity Enhanced Mid Cap Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FEMG,FEMG,Fidelity Enhanced Mid Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FEMV,FEMV,Fidelity Enhanced Mid Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FESM,FESM,Fidelity Enhanced Small Cap Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FSEG,FSEG,Fidelity Enhanced Small Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FSEV,FSEV,Fidelity Enhanced Small Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FEAC,FEAC,Fidelity Enhanced U.S. All-Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FDVV,FDVV,Fidelity High Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FIDI,FIDI,Fidelity International High Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FIVA,FIVA,Fidelity International Value Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FSEC,FSEC,Fidelity Investment Grade Securitized ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FDLO,FDLO,Fidelity Low Volatility Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FFUT,FFUT,Fidelity Managed Futures ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FMET,FMET,Fidelity Metaverse ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FDMO,FDMO,Fidelity Momentum Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FCOM,FCOM,Fidelity MSCI Communication Services Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FDIS,FDIS,Fidelity MSCI Consumer Discretionary Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FSTA,FSTA,Fidelity MSCI Consumer Staples Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FENY,FENY,Fidelity MSCI Energy Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FNCL,FNCL,Fidelity MSCI Financials Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FHLC,FHLC,Fidelity MSCI Health Care Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FIDU,FIDU,Fidelity MSCI Industrials Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FTEC,FTEC,Fidelity MSCI Information Technology Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FMAT,FMAT,Fidelity MSCI Materials Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FREL,FREL,Fidelity MSCI Real Estate Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FUTY,FUTY,Fidelity MSCI Utilities Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ONEQ,ONEQ,Fidelity Nasdaq Composite Index ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FQAL,FQAL,Fidelity Quality Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FSMD,FSMD,Fidelity Small-Mid Multifactor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FSOL,FSOL,Fidelity Solana Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLRG,FLRG,Fidelity U.S. Multifactor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FVAL,FVAL,Fidelity Value Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AINT,AINT,FINQ DOLLAR NEUTRAL U.S. Large Cap AI-Managed Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AIUP,AIUP,FINQ FIRST U.S. Large Cap AI-Managed Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FEGE,FEGE,First Eagle Global Equity ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FEMD,FEMD,First Eagle Mid Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FEOE,FEOE,First Eagle Overseas Equity ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+USFE,USFE,First Eagle US Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CAAA,CAAA,First Trust AAA CMBS ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AFLG,AFLG,First Trust Active Factor Large Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AFMC,AFMC,First Trust Active Factor Mid Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AFSM,AFSM,First Trust Active Factor Small Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DTRE,DTRE,First Trust Alerian Disruptive Technology Real Estate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RBLD,RBLD,First Trust Alerian US NextGen Infrastructure ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FAAR,FAAR,First Trust Alternative Absolute Return Strategy ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FBT,FBT,First Trust Amex Biotech Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FPA,FPA,First Trust Asia Pacific Ex-Japan AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FAI,FAI,First Trust Bloomberg Artificial Intelligence ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EMDM,EMDM,First Trust Bloomberg Emerging Market Democracies ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FTIF,FTIF,First Trust Bloomberg Inflation Sensitive Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RCTR,RCTR,First Trust Bloomberg Nuclear Power ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RND,RND,First Trust Bloomberg R&D Leaders ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FTCS,FTCS,First Trust Capital Strength ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FCA,FCA,First Trust China AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SKYY,SKYY,First Trust Cloud Computing ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FXD,FXD,First Trust Cons. Discret. AlphaDEX,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FXG,FXG,First Trust Cons. Staples AlphaDEX,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FTCB,FTCB,First Trust Core Investment Grade ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FDT,FDT,First Trust Developed Markets Ex-US AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FDTS,FDTS,First Trust Developed Markets ex-US Small Cap AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FTDS,FTDS,First Trust Dividend Strength ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FGD,FGD,First Trust DJ Global Select Dividend,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FDN,FDN,First Trust DJ Internet Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FDM,FDM,First Trust DJ Select MicroCap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DALI,DALI,First Trust Dorsey Wright DALI Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FVC,FVC,First Trust Dorsey Wright Dynamic Focus 5 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FV,FV,First Trust Dorsey Wright Focus 5 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IFV,IFV,First Trust Dorsey Wright International Focus 5 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DDIV,DDIV,First Trust Dorsey Wright Momentum & Dividend ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DVOL,DVOL,First Trust Dorsey Wright Momentum & Low Volatility ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DVLU,DVLU,First Trust Dorsey Wright Momentum & Value ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EDOW,EDOW,First Trust Dow 30 Equal Weight ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FDNI,FDNI,First Trust Dow Jones International Internet ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FPWR,FPWR,First Trust EIP Power Solutions ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FEM,FEM,First Trust Emerging Markets AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FTHF,FTHF,First Trust Emerging Markets Human Flourishing ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FEMS,FEMS,First Trust Emerging Markets Small Cap AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FXN,FXN,First Trust Energy AlphaDEX Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FEP,FEP,First Trust Europe AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FEUZ,FEUZ,First Trust Eurozone AlphaDEX ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+XPND,XPND,First Trust Expanded Technology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FXO,FXO,First Trust Financials AlphaDEX,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FGM,FGM,First Trust Germany AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FTGC,FTGC,First Trust Global Tactical Commodity Strategy Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FAN,FAN,First Trust Global Wind Energy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FTGS,FTGS,First Trust Growth Strength ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FXH,FXH,First Trust Health Care AlphaDEX,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HDMV,HDMV,First Trust Horizon Managed Volatility Developed International ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HUSV,HUSV,First Trust Horizon Managed Volatility Domestic ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HSMV,HSMV,First Trust Horizon Managed Volatility Small/Mid ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NFTY,NFTY,First Trust India Nifty 50 Equal Weight ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FXR,FXR,First Trust Industrials AlphaDEX,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MISL,MISL,First Trust Indxx Aerospace & Defense ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FMTL,FMTL,First Trust Indxx Critical Metals ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FTAG,FTAG,First Trust Indxx Global Agriculture ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LEGR,LEGR,First Trust Indxx Innovative Transaction & Process ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ARVR,ARVR,First Trust Indxx Metaverse ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+NXTG,NXTG,First Trust Indxx NextG ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ILDR,ILDR,First Trust Innovation Leaders ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FIIG,FIIG,First Trust Intermediate Duration Investment Grade Corporate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MGOV,MGOV,First Trust Intermediate Government Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FICS,FICS,First Trust International Developed Capital Strength ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FPXI,FPXI,First Trust International Equity Opportunities ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IDVY,IDVY,First Trust International Rising Dividend Achievers ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FPXE,FPXE,First Trust IPOX Europe Equity Opportunities ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FJP,FJP,First Trust Japan AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FEX,FEX,First Trust Large Cap Core AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FTC,FTC,First Trust Large Cap Growth AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FTA,FTA,First Trust Large Cap Value AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FLN,FLN,First Trust Latin America AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FSIG,FSIG,First Trust Limited Duration Investment Grade Corporate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LMBS,LMBS,First Trust Low Duration Opportunities ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LDSF,LDSF,First Trust Low Duration Strategic Focus ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FMF,FMF,First Trust Managed Futures Strategy Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FXZ,FXZ,First Trust Materials AlphaDEX Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MARB,MARB,First Trust Merger Arbitrage ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FNX,FNX,First Trust Mid Cap Core AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FNY,FNY,First Trust Mid Cap Growth AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FNK,FNK,First Trust Mid Cap Value AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FDL,FDL,First Trust Morningstar ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FAD,FAD,First Trust Multi Cap Growth AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FAB,FAB,First Trust Multi Cap Value AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+MMLG,MMLG,First Trust Multi-Manager Large Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MMSC,MMSC,First Trust Multi-Manager Small Cap Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LALT,LALT,First Trust Multi-Strategy Alternative ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QABA,QABA,First Trust NASDAQ ABA Community Bank Index Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ROBT,ROBT,First Trust Nasdaq Artificial Intelligence and Robotics ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FTXO,FTXO,First Trust Nasdaq Bank ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QCLN,QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GRID,GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CIBR,CIBR,First Trust NASDAQ Cybersecurity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FTXG,FTXG,First Trust Nasdaq Food & Beverage ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EKG,EKG,First Trust Nasdaq Lux Digital Health Solutions ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FTXN,FTXN,First Trust Nasdaq Oil & Gas ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FTXH,FTXH,First Trust Nasdaq Pharmaceuticals ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FTXL,FTXL,First Trust Nasdaq Semiconductor ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TDIV,TDIV,First Trust NASDAQ Technology Dividend Index Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FTXR,FTXR,First Trust Nasdaq Transportation ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QQXT,QQXT,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QQEW,QQEW,First Trust Nasdaq-100 Select Equal Weight ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QTEC,QTEC,First Trust NASDAQ-100-Technology Sector Index Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FCG,FCG,First Trust Natural Gas ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FTCE,FTCE,First Trust New Constructs Core Earnings Leaders ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EMLP,EMLP,First Trust North American Energy Infrastructure Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AIRR,AIRR,First Trust RBA American Industrial Renaissance ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DGLO,DGLO,First Trust RBA Deglobalization ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RDVY,RDVY,First Trust Rising Dividend Achievers ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RFDI,RFDI,First Trust RiverFront Dynamic Developed International ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RFEM,RFEM,First Trust RiverFront Dynamic Emerging Markets ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+KNGZ,KNGZ,First Trust S&P 500 Diversified Dividend Aristocrats ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FCFY,FCFY,First Trust S&P 500 Diversified Free Cash Flow ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EMOT,EMOT,First Trust S&P 500 Economic Moat ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FID,FID,First Trust S&P International Dividend Aristocrats ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FRI,FRI,First Trust S&P REIT Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DEED,DEED,First Trust Securitized Plus ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CRPT,CRPT,First Trust SkyBridge Crypto Industry and Digital Economy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FYX,FYX,First Trust Small Cap Core AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FYC,FYC,First Trust Small Cap Growth AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FYT,FYT,First Trust Small Cap Value AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SDVY,SDVY,First Trust SMID Cap Rising Dividend Achievers ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FSCS,FSCS,First Trust SMID Capital Strength ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FSGS,FSGS,First Trust SMID Growth Strength ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ISHP,ISHP,First Trust S-Network E-Commerce ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CARZ,CARZ,First Trust S-Network Future Vehicles & Technology ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BNGE,BNGE,First Trust S-Network Streaming and Gaming ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FCVT,FCVT,First Trust SSI Strategic Convertible Securities ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FDD,FDD,First Trust STOXX European Select Dividend Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FSZ,FSZ,First Trust Switzerland AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FXL,FXL,First Trust Technology AlphaDEX,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FKU,FKU,First Trust United Kingdom AlphaDEX Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FPX,FPX,First Trust US Equity Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FXU,FXU,First Trust Utilities AlphaDEX Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FVD,FVD,First Trust VL Dividend,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FIW,FIW,First Trust Water ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WCME,WCME,First Trust WCM Developing World Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WCMG,WCMG,First Trust WCM Global Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WCMI,WCMI,First Trust WCM International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BRIF,BRIF,FIS Bright Portfolios Focused Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PRAY,PRAY,FIS Christian Stock Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ACTS,ACTS,FIS Tactical Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QLVD,QLVD,FlexShares Developed Markets ex-US Quality Low Volatility Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MBSD,MBSD,FlexShares Disciplined Duration MBS Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QLVE,QLVE,FlexShares Emerging Markets  Quality Low Volatility Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FEDM,FEDM,FlexShares ESG & Climate Developed Markets ex-US Core Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FEIG,FEIG,FlexShares ESG & Climate Investment Grade Corporate Core Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FEUS,FEUS,FlexShares ESG & Climate US Large Cap Core Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GQRE,GQRE,FlexShares Global Quality Real Estate Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GUNR,GUNR,FlexShares Global Upstream Natural Resources Index Fund ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TDTT,TDTT,FlexShares iBoxx 3 Year Target Duration TIPS Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TDTF,TDTF,FlexShares iBoxx 5 Year Target Duration TIPS Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IQDY,IQDY,FlexShares International Quality Dividend Dynamic Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IQDF,IQDF,FlexShares International Quality Dividend Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TLTD,TLTD,FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TLTE,TLTE,FlexShares Morningstar Emerging Markets Factor Tilt Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QDEF,QDEF,FlexShares Quality Dividend Defensive Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QDF,QDF,FlexShares Quality Dividend Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NFRA,NFRA,FlexShares STOXX Global Broad Infrastructure Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QLV,QLV,FlexShares US Quality Low Volatility Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FMCE,FMCE,FM Compounders Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FMCX,FMCX,FM Focus Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FMQQ,FMQQ,FMQQ The Next Frontier Internet ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FDRS,FDRS,Founder-Led ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FRIZ,FRIZ,Franklin Dividend Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DIEM,DIEM,Franklin Emerging Market Core Dividend Tilt Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLAX,FLAX,Franklin FTSE Asia ex Japan ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLAU,FLAU,Franklin FTSE Australia ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLBR,FLBR,Franklin FTSE Brazil ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLCA,FLCA,Franklin FTSE Canada ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLCH,FLCH,Franklin FTSE China ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLEE,FLEE,Franklin FTSE Europe ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLEU,FLEU,Franklin FTSE Eurozone ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLGR,FLGR,Franklin FTSE Germany ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLIN,FLIN,Franklin FTSE India ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLJP,FLJP,Franklin FTSE Japan ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLJH,FLJH,Franklin FTSE Japan Hedged ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLLA,FLLA,Franklin FTSE Latin America ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLMX,FLMX,Franklin FTSE Mexico ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLSA,FLSA,Franklin FTSE Saudi Arabia ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLKR,FLKR,Franklin FTSE South Korea ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLSW,FLSW,Franklin FTSE Switzerland ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLTW,FLTW,Franklin FTSE Taiwan ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLGB,FLGB,Franklin FTSE United Kingdom ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DIVI,DIVI,Franklin International Core Dividend Tilt Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XIDV,XIDV,Franklin International Dividend Booster Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLCO,FLCO,Franklin Investment Grade Corporate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FGDL,FGDL,Franklin Responsibly Sourced Gold ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FSML,FSML,Franklin Small Cap Enhanced ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SOEZ,SOEZ,Franklin Solana ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLSP,FLSP,Franklin Systematic Style Premia ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+UDIV,UDIV,Franklin U.S. Core Dividend Tilt Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XUDV,XUDV,Franklin U.S. Dividend Booster Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+USPX,USPX,Franklin U.S. Equity Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LVHD,LVHD,Franklin U.S. Low Volatility High Dividend Index ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+XRPZ,XRPZ,Franklin XRP ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MBOX,MBOX,Freedom Day Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FARX,FARX,Frontier Asset Absolute Return ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FGSM,FGSM,Frontier Asset Global Small Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FOPC,FOPC,Frontier Asset Opportunistic Credit ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FINT,FINT,Frontier Asset Total International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLCE,FLCE,Frontier Asset U.S. Large Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BFJA,BFJA,FT Vest Bitcoin Strategy Floor15 ETF - January,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BFOC,BFOC,FT Vest Bitcoin Strategy Floor15 ETF - October,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BFAP,BFAP,FT Vest Bitcoin Strategy Floor15 ETF April,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BFJL,BFJL,FT Vest Bitcoin Strategy Floor15 ETF July,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RSDE,RSDE,FT Vest U.S. Equity Equal Weight Buffer ETF - December,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RSJN,RSJN,FT Vest U.S. Equity Equal Weight Buffer ETF - June,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RSMR,RSMR,FT Vest U.S. Equity Equal Weight Buffer ETF - March,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RSSE,RSSE,FT Vest U.S. Equity Equal Weight Buffer ETF  September,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ETFT,ETFT,Fundsmith Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GRNY,GRNY,Fundstrat Granny Shots US Large Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GRNJ,GRNJ,Fundstrat Granny Shots US Small- & Mid-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XNAV,XNAV,FundX Aggressive ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XRLX,XRLX,FundX Conservative ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XCOR,XCOR,FundX ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XFLX,XFLX,FundX Flexible ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FFOX,FFOX,FundX Future Fund Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GCAD,GCAD,Gabelli Commercial Aerospace and Defense ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GABF,GABF,Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GGTL,GGTL,Gabelli Global Technology Leaders ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GGRW,GGRW,Gabelli Growth Innovators ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LOPP,LOPP,Gabelli Love Our Planet & People ETF Gabelli Love Our Planet & People ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GOLS,GOLS,Gabelli Opportunities in Live and Sports ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GMMA,GMMA,GammaRoad Market Navigation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GENW,GENW,Genter Capital International Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GENT,GENT,Genter Capital Taxable Quality Intermediate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GGM,GGM,GGM Macro Alignment ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GLCR,GLCR,GlacierShares Nasdaq Iceland ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CLIP,CLIP,Global X 1-3 Month T-Bill ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AUSF,AUSF,Global X Adaptive U.S. Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ONOF,ONOF,Global X Adaptive U.S. Risk Management ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AGNG,AGNG,Global X Aging Population ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+KROP,KROP,Global X AgTech & Food Innovation ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CHPX,CHPX,Global X AI Semiconductor & Quantum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+AIQ,AIQ,Global X Artificial Intelligence & Technology ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DRIV,DRIV,Global X Autonomous & Electric Vehicles ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BTRN,BTRN,Global X Bitcoin Trend Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BITS,BITS,Global X Blockchain & Bitcoin Strategy ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BKCH,BKCH,Global X Blockchain ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BRAZ,BRAZ,Global X Brazil Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AQWA,AQWA,Global X Clean Water ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CTEC,CTEC,Global X ClimateTech ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CLOU,CLOU,Global X Cloud Computing ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+KRMA,KRMA,Global X Conscious Companies ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+COPX,COPX,Global X Copper Miners ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BUG,BUG,Global X Cybersecurity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DTCR,DTCR,Global X Data Center & Digital Infrastructure ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DAX,DAX,Global X DAX Germany ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SHLD,SHLD,Global X Defense Tech ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GXDW,GXDW,Global X Dorsey Wright Thematic ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DYLG,DYLG,Global X Dow 30 Covered Call & Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DJIA,DJIA,Global X Dow 30 Covered Call ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EBIZ,EBIZ,Global X E-commerce ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EMM,EMM,Global X Emerging Markets ex-China ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EMC,EMC,Global X Emerging Markets Great Consumer ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FINX,FINX,Global X FinTech ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ASEA,ASEA,Global X FTSE Southeast Asia ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GNOM,GNOM,Global X Genomics & Biotechnology ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GOEX,GOEX,Global X Gold Explorers ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AUAU,AUAU,Global X Gold Miners ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GURU,GURU,Global X Guru Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HEAL,HEAL,Global X HealthTech ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+HYDR,HYDR,Global X Hydrogen ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+NDIA,NDIA,Global X India Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TYLG,TYLG,Global X Information Technology Covered Call & Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IRVH,IRVH,Global X Interest Rate Volatility & Inflation Hedge ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SNSR,SNSR,Global X Internet of Things ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LIT,LIT,Global X Lithium & Battery Tech ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MILN,MILN,Global X Millennial Consumer ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+MLPD,MLPD,Global X MLP & Energy Infrastructure Covered Call ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MLPX,MLPX,Global X MLP & Energy Infrastructure ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MLPA,MLPA,Global X MLP ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ARGT,ARGT,Global X MSCI Argentina ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CHIQ,CHIQ,Global X MSCI China Consumer Discretionary ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+COLO,COLO,Global X MSCI Colombia ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GREK,GREK,Global X MSCI Greece ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NORW,NORW,Global X MSCI Norway ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EFAS,EFAS,Global X MSCI SuperDividend EAFE ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SDEM,SDEM,Global X MSCI SuperDividend Emerging Markets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VNAM,VNAM,Global X MSCI Vietnam ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QCLR,QCLR,Global X NASDAQ 100 Collar 95-110 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QYLG,QYLG,Global X Nasdaq 100 Covered Call & Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QYLD,QYLD,Global X NASDAQ 100 Covered Call ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QTR,QTR,Global X NASDAQ 100 Tail Risk ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+NYSX,NYSX,Global X NYSE 100 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GXPC,GXPC,Global X PureCap MSCI Communication Services ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GXPD,GXPD,Global X PureCap MSCI Consumer Discretionary ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GXPS,GXPS,Global X PureCap MSCI Consumer Staples ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GXPE,GXPE,Global X PureCap MSCI Energy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GXPT,GXPT,Global X PureCap MSCI Information Technology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EART,EART,Global X Rare Earth & Critical Materials ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RNRG,RNRG,Global X Renewable Energy Producers ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BOTZ,BOTZ,Global X Robotics & Artificial Intelligence ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RYLG,RYLG,Global X Russell 2000 Covered Call & Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RYLD,RYLD,Global X Russell 2000 Covered Call ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RSSL,RSSL,Global X Russell 2000 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CATH,CATH,Global X S&P 500 Catholic Values ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CHRI,CHRI,Global X S&P 500 Christian Values ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+XCLR,XCLR,Global X S&P 500 Collar 95-110 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XYLG,XYLG,Global X S&P 500 Covered Call & Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XYLD,XYLD,Global X S&P 500 Covered Call ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QDIV,QDIV,Global X S&P 500 Quality Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XTR,XTR,Global X S&P 500 Tail Risk ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLAG,FLAG,Global X S&P 500 U.S. Market Leaders Top 50 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EGLE,EGLE,Global X S&P 500 U.S. Revenue Leaders ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CEFA,CEFA,Global X S&P Catholic Values Developed ex-U.S. ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SIL,SIL,Global X Silver Miners ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SOCL,SOCL,Global X Social Media ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ORBX,ORBX,Global X Space Tech ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DIV,DIV,Global X Super Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SDIV,SDIV,Global X SuperDividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SRET,SRET,Global X SuperDividend REIT ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SPFF,SPFF,Global X SuperIncome Preferred ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GXLC,GXLC,Global X U.S. 500 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLOW,FLOW,Global X U.S. Cash Flow Kings 100 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ZAP,ZAP,Global X U.S. Electrification ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LNGX,LNGX,Global X U.S. Natural Gas ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PFFD,PFFD,Global X U.S. Preferred ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+URA,URA,Global X Uranium ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PFFV,PFFV,Global X Variable Rate Preferred ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HERO,HERO,Global X Video Games & Esports ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BCHI,BCHI,GMO Beyond China ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DRES,DRES,GMO Domestic Resilience ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GMOD,GMOD,GMO Dynamic Allocation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QLTI,QLTI,GMO International Quality ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GMOI,GMOI,GMO International Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+INVG,INVG,GMO Systematic Investment Grade Credit ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QLTY,QLTY,GMO U.S. Quality ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GMOV,GMOV,GMO US Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GTND,GTND,Goaltender ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+YALL,YALL,God Bless America ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HYP,HYP,Golden Eagle Dynamic Hypergrowth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GPRF,GPRF,Goldman Sachs Access U.S. Preferred Stock and Hybrid Securities ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GEM,GEM,Goldman Sachs ActiveBeta Emerging Markets Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GSEU,GSEU,Goldman Sachs ActiveBeta Europe Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GSIE,GSIE,Goldman Sachs ActiveBeta International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GSJY,GSJY,Goldman Sachs ActiveBeta Japan Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GSLC,GSLC,Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GUSE,GUSE,Goldman Sachs Enhanced U.S. Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GDOC,GDOC,Goldman Sachs Future Health Care Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GTEK,GTEK,Goldman Sachs Future Tech Leaders Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GSGO,GSGO,Goldman Sachs Growth Opportunities ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GVIP,GVIP,Goldman Sachs Hedge Industry VIP ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GIND,GIND,Goldman Sachs India Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GINN,GINN,Goldman Sachs Innovate Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JUST,JUST,Goldman Sachs JUST U.S. Large Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GGUS,GGUS,Goldman Sachs MarketBeta Russell 1000 Growth Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GVUS,GVUS,Goldman Sachs MarketBeta Russell 1000 Value Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GXUS,GXUS,Goldman Sachs MarketBeta Total International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GUSA,GUSA,Goldman Sachs MarketBeta U.S. 1000 Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GTPE,GTPE,Goldman Sachs MSCI World Private Equity Return Tracker ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GSC,GSC,Goldman Sachs Small Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GTOP,GTOP,Goldman Sachs Technology Opportunities ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GVLE,GVLE,Goldman Sachs Value Opportunities ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GVLU,GVLU,Gotham 1000 Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GSPY,GSPY,Gotham Enhanced 500 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GQGU,GQGU,GQG US Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GAVA,GAVA,Grayscale Avalanche Staking ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BCOR,BCOR,Grayscale Bitcoin Adopters ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BTCC,BTCC,Grayscale Bitcoin Covered Call ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MNRS,MNRS,Grayscale Bitcoin Miners ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BTC,BTC,Grayscale Bitcoin Mini Trust (BTC),P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GBTC,GBTC,Grayscale Bitcoin Trust (BTC),P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GLNK,GLNK,Grayscale Chainlink Trust ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GDLC,GDLC,Grayscale CoinDesk Crypto 5 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GDOG,GDOG,Grayscale Dogecoin Trust ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ETCO,ETCO,Grayscale Ethereum Covered Call ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ETHE,ETHE,Grayscale Ethereum Staking ETF Shares,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ETH,ETH,Grayscale Ethereum Staking Mini ETF Shares,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GSOL,GSOL,Grayscale Solana Staking ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GSUI,GSUI,Grayscale Sui Staking ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GXRP,GXRP,Grayscale XRP Trust ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DARP,DARP,Grizzle Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GSSC,GSSC,GS ActiveBeta U.S. Small Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GSKH,GSKH,GSK plc ADRhedged,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BESO,BESO,GSR Crypto Core3 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ADIV,ADIV,Guinness Atkinson Asia Pacific Dividend Builder ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DIVS,DIVS,Guinness Atkinson Dividend Builder ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GAID,GAID,Guinness Atkinson International Dividend Builder ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MOTO,MOTO,Guinness Atkinson Smart Transportation & Technology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SOLR,SOLR,Guinness Atkinson Sustainable Energy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GAUD,GAUD,Guinness Atkinson US Dividend Builder ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GFGF,GFGF,Guru Favorite Stocks ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SMLL,SMLL,Harbor Active Small Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SGRW,SGRW,Harbor Active Small Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EPAI,EPAI,Harbor AI Inflection Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HOLD,HOLD,Harbor Alpha Layering ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VLLU,VLLU,Harbor AlphaEdge Large Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EBIT,EBIT,Harbor AlphaEdge Small Cap Earners ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HGER,HGER,Harbor Commodity All-Weather Strategy ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GDIV,GDIV,Harbor Dividend Growth Leaders ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EPEM,EPEM,Harbor Emerging Markets Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EMES,EMES,Harbor Emerging Markets Select ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MEDI,MEDI,Harbor Health Care ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HAPI,HAPI,Harbor Human Capital Factor US Large Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HAPS,HAPS,Harbor Human Capital Factor US Small Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OSEA,OSEA,Harbor International Compounders ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EPIN,EPIN,Harbor International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EPMB,EPMB,Harbor Mid Cap Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EPMV,EPMV,Harbor Mid Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MAPP,MAPP,Harbor Multi-Asset Explorer ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EFFE,EFFE,Harbor Osmosis Emerging Markets Resource Efficient ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EFFI,EFFI,Harbor Osmosis International Resource Efficient ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+INFO,INFO,Harbor PanAgora Dynamic Large Cap Core ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EPSB,EPSB,Harbor SMID Cap Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EPSV,EPSV,Harbor SMID Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TEC,TEC,Harbor Transformative Technologies ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NFRX,NFRX,Harrison Street Infrastructure Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+HDUS,HDUS,Hartford Disciplined US Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RODM,RODM,Hartford Multifactor Developed Markets (ex-US) ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ROAM,ROAM,Hartford Multifactor Emerging Markets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ROSC,ROSC,Hartford Multifactor Small Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ROUS,ROUS,Hartford Multifactor U.S. Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HQGO,HQGO,Hartford US Quality Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DEFI,DEFI,Hashdex Bitcoin ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NCIQ,NCIQ,Hashdex Nasdaq CME Crypto Index ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QQH,QQH,HCM Defender 100 Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LGH,LGH,HCM Defender 500 Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HELS,HELS,Hedgeye 130/30 Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HECA,HECA,Hedgeye Capital Allocation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HEFT,HEFT,Hedgeye Fourth Turning ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HGRO,HGRO,Hedgeye Quality Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+STNC,STNC,Hennessy Sustainable ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+NICO,NICO,Hexis Active Nicotine Engagement ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SMCO,SMCO,Hilton Small-MidCap Opportunity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BEEZ,BEEZ,Honeytree U.S. Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+YNOT,YNOT,Horizon Digital Frontier ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+HBTA,HBTA,Horizon Expedition Plus ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FRGN,FRGN,Horizon International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SFTX,SFTX,Horizon International Managed Risk ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BCDF,BCDF,Horizon Kinetics Blockchain Development ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NVIR,NVIR,Horizon Kinetics Energy and Remediation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+INFL,INFL,Horizon Kinetics Inflation Beneficiaries ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JAPN,JAPN,Horizon Kinetics Japan Owner Operator ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+MEDX,MEDX,Horizon Kinetics Medical ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SPAQ,SPAQ,Horizon Kinetics SPAC Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TEXX,TEXX,Horizon Kinetics Texas ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BENJ,BENJ,Horizon Landmark ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QGRD,QGRD,Horizon Nasdaq-100 Defined Risk ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SMOX,SMOX,Horizon Small/Mid Cap Core Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HWSM,HWSM,Hotchkis & Wiley SMID Cap Diversified Value Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+HOMZ,HOMZ,Hoya Capital Housing ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HSBH,HSBH,HSBC Holdings plc ADRhedged,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WCEO,WCEO,Hypatia Women CEO ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GLDB,GLDB,IDX Alternative FIAT ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BDVG,BDVG,IMGP Berkshire Dividend Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DBMF,DBMF,iMGP DBi Managed Futures Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NACP,NACP,Impact Shares NAACP Minority Empowerment ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WOMN,WOMN,Impact Shares Women's Empowerment ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BLDX,BLDX,Impax Global Sustainable Infrastructure ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RILA,RILA,Indexperts Gorilla Aggressive Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QIDX,QIDX,Indexperts Quality Earnings Focused ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AMZA,AMZA,InfraCap MLP ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PFFR,PFFR,InfraCap REIT Preferred ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BSTP,BSTP,Innovator Buffer Step-Up Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LOUP,LOUP,Innovator Deepwater Frontier Tech ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EBUF,EBUF,Innovator Emerging Markets 10 Buffer ETF - Quarterly,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EOCT,EOCT,Innovator Emerging Markets Power Buffer ETF - October,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EAPR,EAPR,Innovator Emerging Markets Power Buffer ETF April,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EJAN,EJAN,Innovator Emerging Markets Power Buffer ETF January,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EJUL,EJUL,Innovator Emerging Markets Power Buffer ETF July,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XBFR,XBFR,Innovator Equity Managed 10 Buffer ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BFRZ,BFRZ,Innovator Equity Managed 100 Buffer ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SFLR,SFLR,Innovator Equity Managed Floor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IGTR,IGTR,Innovator Gradient Tactical Rotation Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QHDG,QHDG,Innovator Hedged Nasdaq-100 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IBUF,IBUF,Innovator International Developed 10 Buffer ETF - Quarterly,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IBFR,IBFR,Innovator International Developed Managed 10 Buffer ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IFLR,IFLR,Innovator International Developed Managed Floor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IAPR,IAPR,Innovator International Developed Power Buffer ETF  April,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IAUG,IAUG,Innovator International Developed Power Buffer ETF  August,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IDEC,IDEC,Innovator International Developed Power Buffer ETF  December,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IFEB,IFEB,Innovator International Developed Power Buffer ETF  February,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IJUL,IJUL,Innovator International Developed Power Buffer ETF  July,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IMAR,IMAR,Innovator International Developed Power Buffer ETF  March,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IMAY,IMAY,Innovator International Developed Power Buffer ETF - May,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+INOV,INOV,Innovator International Developed Power Buffer ETF  November,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IOCT,IOCT,Innovator International Developed Power Buffer ETF - October,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ISEP,ISEP,Innovator International Developed Power Buffer ETF  September,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IJAN,IJAN,Innovator International Developed Power Buffer ETF January,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IJUN,IJUN,Innovator International Developed Power Buffer ETF June,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QBUF,QBUF,Innovator Nasdaq-100 10 Buffer ETF Quarterly,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+NBFR,NBFR,Innovator Nasdaq-100 Managed 10 Buffer ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QFLR,QFLR,Innovator Nasdaq-100 Managed Floor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PSTP,PSTP,Innovator Power Buffer Step-Up Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KBFR,KBFR,Innovator U.S. Small Cap Managed 10 Buffer ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RFLR,RFLR,Innovator U.S. Small Cap Managed Floor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+INQQ,INQQ,INQQ The India Internet ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BIBL,BIBL,Inspire 100 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PTL,PTL,Inspire 500 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RISN,RISN,Inspire Capital Appreciation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FDLS,FDLS,Inspire Fidelis Multi Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BLES,BLES,Inspire Global Hope ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GLRY,GLRY,Inspire Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WWJD,WWJD,Inspire International ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ISMD,ISMD,Inspire Small/Mid Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LGDX,LGDX,Intech S&P Large Cap Diversified Alpha ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SMDX,SMDX,Intech S&P Small-Mid Cap Diversified Alpha ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GPT,GPT,Intelligent Alpha Atlas ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+REAI,REAI,Intelligent Real Estate ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PSR,PSR,Invesco Active U.S. Real Estate Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PPA,PPA,Invesco Aerospace & Defense ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PDBA,PDBA,Invesco Agriculture Commodity Strategy No K-1 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IGPT,IGPT,Invesco AI and Next Gen Software ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PBE,PBE,Invesco Biotechnology & Genome ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+UPGD,UPGD,Invesco Bloomberg Analyst Rating Improvers ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IFLN,IFLN,Invesco Bloomberg Enhanced Fallen Angels ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FDIQ,FDIQ,Invesco Bloomberg Financial Data Providers ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BMVP,BMVP,Invesco Bloomberg MVP Multi-factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+POWA,POWA,Invesco Bloomberg Pricing Power ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PKB,PKB,Invesco Building & Construction ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PKW,PKW,Invesco BuyBack Achievers ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CQQQ,CQQQ,Invesco China Technology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FXA,FXA,Invesco CurrencyShares Australian Dollar Trust,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FXB,FXB,Invesco CurrencyShares British Pound Sterling Trust,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FXC,FXC,Invesco CurrencyShares Canadian Dollar Trust,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FXE,FXE,Invesco CurrencyShares Euro Currency Trust,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FXY,FXY,Invesco CurrencyShares Japanese Yen Trust,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FXF,FXF,Invesco CurrencyShares Swiss Franc Trust,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DBA,DBA,Invesco DB Agriculture Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DBB,DBB,Invesco DB Base Metals Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DBC,DBC,Invesco DB Commodity Index Tracking Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DBE,DBE,Invesco DB Energy Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DBO,DBO,Invesco DB Oil Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DBP,DBP,Invesco DB Precious Metals Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+UDN,UDN,Invesco DB USD Index Bearish ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+UUP,UUP,Invesco DB USD Index Bullish Fund ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PFM,PFM,Invesco Dividend Achievers ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PYZ,PYZ,Invesco Dorsey Wright Basic Materials Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PEZ,PEZ,Invesco Dorsey Wright Consumer Cyclicals Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PSL,PSL,Invesco Dorsey Wright Consumer Staples Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PIZ,PIZ,Invesco Dorsey Wright Developed Markets Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PIE,PIE,Invesco Dorsey Wright Emerging Markets Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PXI,PXI,Invesco Dorsey Wright Energy Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PFI,PFI,Invesco Dorsey Wright Financial Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PTH,PTH,Invesco Dorsey Wright Healthcare Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PRN,PRN,Invesco Dorsey Wright Industrials Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PDP,PDP,Invesco Dorsey Wright Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DWAS,DWAS,Invesco Dorsey Wright SmallCap Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PTF,PTF,Invesco Dorsey Wright Technology Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PUI,PUI,Invesco Dorsey Wright Utilities Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DJD,DJD,Invesco Dow Jones Industrial Average Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EVMT,EVMT,Invesco Electric Vehicle Metals Commodity Strategy No K-1 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PXE,PXE,Invesco Energy Exploration & Production ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QQMG,QQMG,Invesco ESG NASDAQ 100 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RSPE,RSPE,Invesco ESG S&P 500 Equal Weight ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PGF,PGF,Invesco Financial Preferred ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PBJ,PBJ,Invesco Food & Beverage ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PBD,PBD,Invesco Global Clean Energy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IQSZ,IQSZ,Invesco Global Equity Net Zero ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PSP,PSP,Invesco Global Listed Private Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PIO,PIO,Invesco Global Water ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PGJ,PGJ,Invesco Golden Dragon China ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IMVP,IMVP,Invesco India ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IPKW,IPKW,Invesco International BuyBack Achievers ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PID,PID,Invesco International Dividend Achievers ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IIGD,IIGD,Invesco Investment Grade Defensive ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KBWB,KBWB,Invesco KBW Bank ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+KBWP,KBWP,Invesco KBW Property & Casualty Insurance ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PWB,PWB,Invesco Large Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PWV,PWV,Invesco Large Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PEJ,PEJ,Invesco Leisure and Entertainment ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KLMT,KLMT,Invesco MSCI Global Climate 500 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CUT,CUT,Invesco MSCI Global Timber ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KLMN,KLMN,Invesco MSCI North America Climate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ERTH,ERTH,Invesco MSCI Sustainable Future ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QQQM,QQQM,Invesco NASDAQ 100 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IBBQ,IBBQ,Invesco Nasdaq Biotechnology ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QOWZ,QOWZ,Invesco Nasdaq Free Cash Flow Achievers ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QQQS,QQQS,Invesco NASDAQ Future Gen 200 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PNQI,PNQI,Invesco Nasdaq Internet ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QQQJ,QQQJ,Invesco NASDAQ Next Gen 100 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+KNCT,KNCT,Invesco Next Gen Connectivity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GGME,GGME,Invesco Next Gen Media and Gaming ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PXJ,PXJ,Invesco Oil & Gas Services ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PJP,PJP,Invesco Pharmaceuticals ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SOXQ,SOXQ,Invesco PHLX Semiconductor ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PGX,PGX,Invesco Preferred ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QEW,QEW,Invesco QQQ Equal Weight ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QQHG,QQHG,Invesco QQQ Hedged Advantage ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QQLV,QQLV,Invesco QQQ Low Volatility ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QQQ,QQQ,"Invesco QQQ Trust, Series 1",Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PXF,PXF,Invesco RAFI Developed Markets ex-U.S. ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PDN,PDN,Invesco RAFI Developed Markets ex-U.S. Small-Mid ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PXH,PXH,Invesco RAFI Emerging Markets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IUS,IUS,Invesco RAFI Strategic US ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PRF,PRF,Invesco RAFI US 1000 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PRFZ,PRFZ,Invesco RAFI US 1500 Small-Mid ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EQAL,EQAL,Invesco Russell 1000 Equal Weight ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EQWL,EQWL,Invesco S&P 100 Equal Weight ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QVMT,QVMT,Invesco S&P 500 Concentrated QVM ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PHDG,PHDG,Invesco S&P 500 Downside Hedged ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RSPC,RSPC,Invesco S&P 500 Equal Weight Communication Services ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RSPD,RSPD,Invesco S&P 500 Equal Weight Consumer Discretionary ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RSPS,RSPS,Invesco S&P 500 Equal Weight Consumer Staples ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RSPG,RSPG,Invesco S&P 500 Equal Weight Energy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RSP,RSP,Invesco S&P 500 Equal Weight ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RSPF,RSPF,Invesco S&P 500 Equal Weight Financial ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RSPH,RSPH,Invesco S&P 500 Equal Weight Health Care ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RSPN,RSPN,Invesco S&P 500 Equal Weight Industrials Portfolio,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RSPM,RSPM,Invesco S&P 500 Equal Weight Materials ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RSPR,RSPR,Invesco S&P 500 Equal Weight Real Estate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RSPT,RSPT,Invesco S&P 500 Equal Weight Technology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RSPU,RSPU,Invesco S&P 500 Equal Weight Utilities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPGP,SPGP,Invesco S&P 500 GARP ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPHB,SPHB,Invesco S&P 500 High Beta ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DIVG,DIVG,Invesco S&P 500 High Dividend Growers ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPHD,SPHD,Invesco S&P 500 High Dividend Low Volatility ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPLV,SPLV,Invesco S&P 500 Low Volatility ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPMO,SPMO,Invesco S&P 500 Momentum ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RPG,RPG,Invesco S&P 500 Pure Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RPV,RPV,Invesco S&P 500 Pure Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPHQ,SPHQ,Invesco S&P 500 Quality ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QVML,QVML,Invesco S&P 500 QVM Multi-factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RWL,RWL,Invesco S&P 500 Revenue ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XLG,XLG,Invesco S&P 500 Top 50 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPVM,SPVM,Invesco S&P 500 Value with Momentum ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EELV,EELV,Invesco S&P Emerging Markets Low Volatility ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EEMO,EEMO,Invesco S&P Emerging Markets Momentum ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CGW,CGW,Invesco S&P Global Water Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IDLV,IDLV,Invesco S&P International Developed Low Volatility ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IDMO,IDMO,Invesco S&P International Developed Momentum ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IDHQ,IDHQ,Invesco S&P International Developed Quality ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GRPM,GRPM,Invesco S&P MidCap 400 GARP ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RFG,RFG,Invesco S&P MidCap 400 Pure Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RFV,RFV,Invesco S&P MidCap 400 Pure Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QVMM,QVMM,Invesco S&P MidCap 400 QVM Multi-factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RWK,RWK,Invesco S&P MidCap 400 Revenue ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XMLV,XMLV,Invesco S&P MidCap Low Volatility ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XMMO,XMMO,Invesco S&P MidCap Momentum ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XMHQ,XMHQ,Invesco S&P MidCap Quality ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XMVM,XMVM,Invesco S&P MidCap Value with Momentum ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GRPZ,GRPZ,Invesco S&P SmallCap 600 GARP ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RZG,RZG,Invesco S&P SmallCap 600 Pure Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RZV,RZV,Invesco S&P SmallCap 600 Pure Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QVMS,QVMS,Invesco S&P SmallCap 600 QVM Multi-factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RWJ,RWJ,Invesco S&P SmallCap 600 Revenue ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PSCD,PSCD,Invesco S&P SmallCap Consumer Discretionary ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PSCC,PSCC,Invesco S&P SmallCap Consumer Staples ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PSCE,PSCE,Invesco S&P SmallCap Energy ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PSCF,PSCF,Invesco S&P SmallCap Financials ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PSCH,PSCH,Invesco S&P SmallCap Health Care ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PSCI,PSCI,Invesco S&P SmallCap Industrials ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PSCT,PSCT,Invesco S&P SmallCap Information Technology ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+XSLV,XSLV,Invesco S&P SmallCap Low Volatility ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PSCM,PSCM,Invesco S&P SmallCap Materials ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+XSMO,XSMO,Invesco S&P SmallCap Momentum ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PSCU,PSCU,Invesco S&P SmallCap Utilities & Communication Services ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+XSVM,XSVM,Invesco S&P SmallCap Value with Momentum ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CSD,CSD,Invesco S&P Spin-Off ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PSI,PSI,Invesco Semiconductors ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TAN,TAN,Invesco Solar ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QBIG,QBIG,Invesco Top QQQ ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VRIG,VRIG,Invesco Variable Rate Investment Grade ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VRP,VRP,Invesco Variable Rate Preferred ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PHO,PHO,Invesco Water Resources ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PBW,PBW,Invesco WilderHill Clean Energy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CZA,CZA,Invesco Zacks Mid-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BAI,BAI,iShares A.I. Innovation and Tech Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DVYA,DVYA,iShares Asia / Pacific Dividend 30 Index Fund Exchange Traded Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AIA,AIA,iShares Asia 50 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IBB,IBB,iShares Biotechnology ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IBIT,IBIT,iShares Bitcoin Trust ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IBLC,IBLC,iShares Blockchain and Tech ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CMDY,CMDY,iShares Bloomberg Roll Select Commodity Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ETEC,ETEC,iShares Breakthrough Environmental Solutions ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FXI,FXI,iShares China Large-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+USCL,USCL,iShares Climate Conscious & Transition MSCI USA ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ICOP,ICOP,iShares Copper and Metals Mining ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+AOK,AOK,iShares Core 30/70 Conservative Allocation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AOM,AOM,iShares Core 40/60 Moderate Allocation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AOR,AOR,iShares Core 60/40 Balanced Allocation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AOA,AOA,iShares Core 80/20 Aggressive Allocation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DGRO,DGRO,iShares Core Dividend Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HDV,HDV,iShares Core High Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IEMG,IEMG,iShares Core MSCI Emerging Markets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IEUR,IEUR,iShares Core MSCI Europe ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IDEV,IDEV,iShares Core MSCI International Developed Markets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IPAC,IPAC,iShares Core MSCI Pacific ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IXUS,IXUS,iShares Core MSCI Total International Stock ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IVV,IVV,iShares Core S&P 500 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IJH,IJH,iShares Core S&P Mid-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IJR,IJR,iShares Core S&P Small-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ITOT,ITOT,iShares Core S&P Total U.S. Stock Market ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IUSG,IUSG,iShares Core S&P U.S. Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IUSV,IUSV,iShares Core S&P U.S. Value ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+USRT,USRT,iShares Core U.S. REIT ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HAWX,HAWX,iShares Currency Hedged MSCI ACWI ex U.S. ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HSCZ,HSCZ,iShares Currency Hedged MSCI EAFE Small-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HEZU,HEZU,iShares Currency Hedged MSCI Eurozone ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HEWJ,HEWJ,iShares Currency Hedged MSCI Japan ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IHAK,IHAK,iShares Cybersecurity and Tech ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IDEF,IDEF,iShares Defense Industrials Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BDVL,BDVL,iShares Disciplined Volatility Equity Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IYY,IYY,iShares Dow Jones U.S. ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BDYN,BDYN,iShares Dynamic Equity Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DVYE,DVYE,iShares Emerging Markets Dividend Index Fund Exchange Traded Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EMIF,EMIF,iShares Emerging Markets Infrastructure ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IBAT,IBAT,iShares Energy Storage & Materials ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ENHI,ENHI,iShares Enhanced International Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ENHU,ENHU,iShares Enhanced Large Cap Core Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EFRA,EFRA,iShares Environmental Infrastructure and Industrials ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ERET,ERET,iShares Environmentally Aware Real Estate ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DMXF,DMXF,iShares ESG Advanced MSCI EAFE ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EMXF,EMXF,iShares ESG Advanced MSCI EM ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+USXF,USXF,iShares ESG Advanced MSCI USA ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ESGD,ESGD,iShares ESG Aware MSCI EAFE ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ESGE,ESGE,iShares ESG Aware MSCI EM ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ESGU,ESGU,iShares ESG Aware MSCI USA ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LDEM,LDEM,iShares ESG MSCI EM Leaders ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DSI,DSI,iShares ESG MSCI KLD 400 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SUSL,SUSL,iShares ESG MSCI USA Leaders ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SUSA,SUSA,iShares ESG Optimized MSCI USA ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ESMV,ESMV,iShares ESG Optimized MSCI USA Min Vol Factor ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ETHA,ETHA,iShares Ethereum Trust ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IEV,IEV,iShares Europe ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IGM,IGM,iShares Expanded Tech Sector ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BPAY,BPAY,iShares FinTech Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ARTY,ARTY,iShares Future AI & Tech ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XT,XT,iShares Future Exponential Technologies ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IVRS,IVRS,iShares Future Metaverse Tech and Communications ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IDNA,IDNA,iShares Genomics Immunology and Healthcare ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IOO,IOO,iShares Global 100 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ICLN,ICLN,iShares Global Clean Energy ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IXP,IXP,iShares Global Comm Services ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RXI,RXI,iShares Global Consumer Discretionary ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KXI,KXI,iShares Global Consumer Staples ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IXC,IXC,iShares Global Energy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GLOF,GLOF,iShares Global Equity Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IXG,IXG,iShares Global Financial ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IXJ,IXJ,iShares Global Healthcare ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EXI,EXI,iShares Global Industrials ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IGF,IGF,iShares Global Infrastructure ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+MXI,MXI,iShares Global Materials ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+REET,REET,iShares Global REIT ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IXN,IXN,iShares Global Tech ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WOOD,WOOD,iShares Global Timber & Forestry ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+JXI,JXI,iShares Global Utilities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IAUM,IAUM,iShares Gold Trust Micro Shares,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IAU,IAU,iShares Gold Trust Shares,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GMMF,GMMF,iShares Government Money Market ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+COMT,COMT,iShares GSCI Commodity Dynamic Roll Strategy ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GSG,GSG,iShares GSCI Commodity-Indexed Trust Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BMED,BMED,iShares Health Innovation Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+INDY,INDY,iShares India 50 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CORO,CORO,iShares International Country Rotation Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IFGL,IFGL,iShares International Developed Real Estate ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BIDD,BIDD,iShares International Dividend Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+INTF,INTF,iShares International Equity Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IDYN,IDYN,iShares International Equity Factor Rotation Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ISCF,ISCF,iShares International Small-Cap Equity Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JPXN,JPXN,iShares JPX-Nikkei 400 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BLCR,BLCR,iShares Large Cap Core Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BGRO,BGRO,iShares Large Cap Growth Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BLCV,BLCV,iShares Large Cap Value Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ILF,ILF,iShares Latin America 40 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IRTR,IRTR,iShares LifePath Retirement ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ILIT,ILIT,iShares Lithium Miners and Producers ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CRBN,CRBN,iShares Low Carbon Optimized MSCI ACWI ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MBB,MBB,iShares MBS ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IWC,IWC,iShares Microcap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ILCV,ILCV,iShares Morningstar Large-Cap  Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ILCB,ILCB,iShares Morningstar Large-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ILCG,ILCG,iShares Morningstar Large-Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IMCB,IMCB,iShares Morningstar Mid-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IMCG,IMCG,iShares Morningstar Mid-Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IMCV,IMCV,iShares Morningstar Mid-Cap Value ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ISCB,ISCB,iShares Morningstar Small-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ISCG,ISCG,iShares Morningstar Small-Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ISCV,ISCV,iShares Morningstar Small-Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ACWI,ACWI,iShares MSCI ACWI ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ACWX,ACWX,iShares MSCI ACWI ex U.S. ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VEGI,VEGI,iShares MSCI Agriculture Producers ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AAXJ,AAXJ,iShares MSCI All Country Asia ex Japan ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EWA,EWA,iShares MSCI Australia Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EWO,EWO,iShares MSCI Austria ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EWK,EWK,iShares MSCI Belgium ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BKF,BKF,iShares MSCI BIC ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EWZ,EWZ,iShares MSCI Brazil ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EWZS,EWZS,iShares MSCI Brazil Small-Cap ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EWC,EWC,iShares MSCI Canada Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MCHI,MCHI,iShares MSCI China ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TCHI,TCHI,iShares MSCI China Multisector Tech ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ECNS,ECNS,iShares MSCI China Small-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EFA,EFA,iShares MSCI EAFE ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SCZ,SCZ,iShares MSCI EAFE Small-Cap ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EEM,EEM,iShares MSCI Emerging Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EEMA,EEMA,iShares MSCI Emerging Markets Asia ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EMXC,EMXC,iShares MSCI Emerging Markets ex China ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EEMS,EEMS,iShares MSCI Emerging Markets Small Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EUFN,EUFN,iShares MSCI Europe Financials ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IEUS,IEUS,iShares MSCI Europe Small-Cap ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EWQ,EWQ,iShares MSCI France Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EWG,EWG,iShares MSCI Germany Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RING,RING,iShares MSCI Global Gold Miners ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SDG,SDG,iShares MSCI Global Sustainable Development Goals ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EWH,EWH,iShares MSCI Hong Kong Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EIDO,EIDO,iShares MSCI Indonesia ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IMTM,IMTM,iShares MSCI Intl Momentum Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IQLT,IQLT,iShares MSCI Intl Quality Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IVLU,IVLU,iShares MSCI Intl Value Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EIRL,EIRL,iShares MSCI Ireland ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EIS,EIS,iShares MSCI Israel ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EWI,EWI,iShares MSCI Italy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EWJ,EWJ,iShares MSCI Japan Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SCJ,SCJ,iShares MSCI Japan Sm Cap,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EWJV,EWJV,iShares MSCI Japan Value ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TOK,TOK,iShares MSCI Kokusai ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EWM,EWM,iShares MSCI Malaysia Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EWW,EWW,iShares MSCI Mexico ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EWN,EWN,iShares MSCI Netherlands Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ENZL,ENZL,iShares MSCI New Zealand ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EPP,EPP,iShares MSCI Pacific Ex-Japan Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EPU,EPU,iShares MSCI Peru and Global Exposure ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EPHE,EPHE,iShares MSCI Philippines ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EPOL,EPOL,iShares MSCI Poland ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QAT,QAT,iShares MSCI Qatar ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+KSA,KSA,iShares MSCI Saudi Arabia ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EWS,EWS,iShares MSCI Singapore ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EZA,EZA,iShares MSCI South Africa Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EWY,EWY,iShares MSCI South Korea ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EWP,EWP,iShares MSCI Spain ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EWD,EWD,iShares MSCI Sweden ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EWL,EWL,iShares MSCI Switzerland ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EWT,EWT,iShares MSCI Taiwan ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+THD,THD,iShares MSCI Thailand ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TUR,TUR,iShares MSCI Turkey ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+UAE,UAE,iShares MSCI UAE ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EWU,EWU,iShares MSCI United Kingdom ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EUSA,EUSA,iShares MSCI USA Equal Weighted ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SIZE,SIZE,iShares MSCI USA Size Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+URTH,URTH,iShares MSCI World ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WSML,WSML,iShares MSCI World Small-Cap ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QTOP,QTOP,iShares Nasdaq Top 30 Stocks ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QNXT,QNXT,iShares Nasdaq-100 ex Top 30 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IBRN,IBRN,iShares Neuroscience and Healthcare ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PABU,PABU,iShares Paris-Aligned Climate Optimized MSCI USA ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PABD,PABD,iShares Paris-Aligned Climate Optimized MSCI World ex USA ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SOXX,SOXX,iShares PHLX SOX Semiconductor Sector Index Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PMMF,PMMF,iShares Prime Money Market ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+REZ,REZ,iShares Residential and Multisector Real Estate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IWB,IWB,iShares Russell 1000 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IWF,IWF,iShares Russell 1000 Growth Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IWD,IWD,iShares Russell 1000 Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IWO,IWO,iShares Russell 2000 Growth Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IWM,IWM,iShares Russell 2000 Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IWN,IWN,iShares Russell 2000 Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IWV,IWV,iShares Russell 3000 Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IWR,IWR,iShares Russell Mid-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IWP,IWP,iShares Russell Midcap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IWS,IWS,iShares Russell Mid-Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IWL,IWL,iShares Russell Top 200 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IWY,IWY,iShares Russell Top 200 Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IWX,IWX,iShares Russell Top 200 Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OEF,OEF,iShares S&P 100 Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TOPC,TOPC,iShares S&P 500 3% Capped ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XOEF,XOEF,iShares S&P 500 ex S&P 100 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IVW,IVW,iShares S&P 500 Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IVE,IVE,iShares S&P 500 Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IJK,IJK,iShares S&P Mid-Cap 400 Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IJJ,IJJ,iShares S&P Mid-Cap 400 Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IJT,IJT,iShares S&P SmallCap 600 Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IJS,IJS,iShares S&P SmallCap 600 Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DVY,DVY,iShares Select Dividend ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IDRV,IDRV,iShares Self-Driving EV and Tech ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SLV,SLV,iShares Silver Trust,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ETHB,ETHB,iShares Staked Ethereum Trust ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IALT,IALT,iShares Systematic Alternatives Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TEK,TEK,iShares Technology Opportunities Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TEXN,TEXN,iShares Texas Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TOPT,TOPT,iShares Top 20 U.S. Stocks ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BRTR,BRTR,iShares Total Return Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TMET,TMET,iShares Transition-Enabling Metals ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IYM,IYM,iShares U.S. Basic Materials ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IAI,IAI,iShares U.S. Broker-Dealers & Securities Exchanges ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LCTU,LCTU,iShares U.S. Carbon Transition Readiness Aware Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IYC,IYC,iShares U.S. Consumer Discretionary ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IYK,IYK,iShares U.S. Consumer Staples ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IDGT,IDGT,iShares U.S. Digital Infrastructure and Real Estate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IYE,IYE,iShares U.S. Energy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LRGF,LRGF,iShares U.S. Equity Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DYNF,DYNF,iShares U.S. Equity Factor Rotation Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IYF,IYF,iShares U.S. Financial ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IYG,IYG,iShares U.S. Financial Services ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IHF,IHF,iShares U.S. Health Care Providers ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IYH,IYH,iShares U.S. Healthcare ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+INRO,INRO,iShares U.S. Industry Rotation Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IAK,IAK,iShares U.S. Insurance ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MADE,MADE,iShares U.S. Manufacturing ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IHI,IHI,iShares U.S. Medical Devices ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IEZ,IEZ,iShares U.S. Oil Equipment & Services ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IHE,IHE,iShares U.S. Pharmaceutical ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+POWR,POWR,iShares U.S. Power Infrastructure ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IYR,IYR,iShares U.S. Real Estate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IAT,IAT,iShares U.S. Regional Banks ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BELT,BELT,iShares U.S. Select Equity Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SMLF,SMLF,iShares U.S. Small-Cap Equity Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TECB,TECB,iShares U.S. Tech Breakthrough Multisector ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IYW,IYW,iShares U.S. Technology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+THRO,THRO,iShares U.S. Thematic Rotation Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IDU,IDU,iShares U.S. Utilities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LCTD,LCTD,iShares World ex U.S. Carbon Transition Readiness Aware Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JABS,JABS,Janus Henderson Asset-Backed Securities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JHAI,JHAI,Janus Henderson Global Artificial Intelligence ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+JMID,JMID,Janus Henderson Mid Cap Growth Alpha ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+JSML,JSML,Janus Henderson Small Cap Growth Alpha ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+JSMD,JSMD,Janus Henderson Small/Mid Cap Growth Alpha ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+JRE,JRE,Janus Henderson U.S. Real Estate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JGRW,JGRW,Jensen Quality Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TOV,TOV,JLens 500 Jewish Advocacy U.S. ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JDVI,JDVI,John Hancock Disciplined Value International Select ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JDVL,JDVL,John Hancock Disciplined Value Select ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JHAC,JHAC,John Hancock Fundamental All Cap Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JHDG,JHDG,John Hancock Hedged Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JHID,JHID,John Hancock International High Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JHMD,JHMD,John Hancock Multifactor Developed International ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JHEM,JHEM,John Hancock Multifactor Emerging Markets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JHML,JHML,John Hancock Multifactor Large Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JHMM,JHMM,John Hancock Multifactor Mid Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JHSC,JHSC,John Hancock Multifactor Small Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JHDV,JHDV,John Hancock U.S. High Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JCHI,JCHI,JPMorgan Active China ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JADE,JADE,JPMorgan Active Developing Markets Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JGRO,JGRO,JPMorgan Active Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JPSV,JPSV,JPMorgan Active Small Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JAVA,JAVA,JPMorgan Active Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JEMA,JEMA,JPMorgan ActiveBuilders Emerging Markets Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+JPEM,JPEM,JPMorgan Diversified Return Emerging Markets Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JPIN,JPIN,JPMorgan Diversified Return International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JPUS,JPUS,JPMorgan Diversified Return U.S. Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JPME,JPME,JPMorgan Diversified Return U.S. Mid Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JPSE,JPSE,JPMorgan Diversified Return U.S. Small Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JDIV,JDIV,JPMorgan Dividend Leaders ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JOYT,JOYT,JPMorgan Equity and Options Total Return ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+JPEF,JPEF,JPMorgan Equity Focus ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LCDS,LCDS,JPMorgan Fundamental Data Science Large Core ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LVDS,LVDS,JPMorgan Fundamental Data Science Large Value ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+MCDS,MCDS,JPMorgan Fundamental Data Science Mid Core ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SCDS,SCDS,JPMorgan Fundamental Data Science Small Core ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+JGLO,JGLO,JPMorgan Global Select Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+JDOC,JDOC,JPMorgan Healthcare Leaders ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+HELO,HELO,JPMorgan Hedged Equity Laddered Overlay ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JIDE,JIDE,JPMorgan International Dynamic ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JIG,JIG,JPMorgan International Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HOLA,HOLA,JPMorgan International Hedged Equity Laddered Overlay ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JIRE,JIRE,JPMorgan International Research Enhanced Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JIVE,JIVE,JPMorgan International Value ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+HEQQ,HEQQ,JPMorgan Nasdaq Hedged Equity Laddered Overlay ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+JMEE,JMEE,JPMorgan Small & Mid Cap Enhanced Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JMOM,JMOM,JPMorgan U.S. Momentum Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JQUA,JQUA,JPMorgan U.S. Quality Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JUSA,JUSA,JPMorgan U.S. Research Enhanced Large Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JTEK,JTEK,JPMorgan U.S. Tech Leaders ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+JVAL,JVAL,JPMorgan U.S. Value Factor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KEAT,KEAT,Keating Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+KDVD,KDVD,Keeley Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DVDN,DVDN,Kingsbarn Dividend Opportunity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EQTY,EQTY,Kovitz Core Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KPRO,KPRO,KraneShares 100% KWEB Defined Outcome January 2027 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KBUF,KBUF,KraneShares 90% KWEB Defined Outcome January 2027 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AGIX,AGIX,KraneShares Artificial Intelligence & Technology ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+KBA,KBA,KraneShares Bosera MSCI China A 50 Connect Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KCCA,KCCA,KraneShares California Carbon Allowance Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KCAI,KCAI,KraneShares China Alpha Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KWEB,KWEB,KraneShares CSI China Internet ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KPHO,KPHO,KraneShares Dragon Capital Vietnam Growth Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KARS,KARS,KraneShares Electric Vehicles and Future Mobility Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KEMQ,KEMQ,KraneShares Emerging Markets Consumer Technology Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KRBN,KRBN,KraneShares Global Carbon Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KOID,KOID,KraneShares Global Humanoid Robotics and Physical AI Index ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+KTEC,KTEC,KraneShares Hang Seng TECH Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KSPY,KSPY,KraneShares Hedgeye Hedged Equity Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KLIP,KLIP,KraneShares KWEB Covered Call Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BUYO,BUYO,KraneShares Man Buyout Beta Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KMLM,KMLM,KraneShares Mount Lucas Managed Futures Index Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KURE,KURE,KraneShares MSCI All China Health Care Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KGRN,KGRN,KraneShares MSCI China Clean Technology Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KEMX,KEMX,KraneShares MSCI Emerging Markets ex China Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OBOR,OBOR,KraneShares MSCI One Belt One Road Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KSTR,KSTR,KraneShares SSE STAR Market 50 Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KVLE,KVLE,KraneShares Value Line Dynamic Dividend Equity Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KQQQ,KQQQ,Kurv Technology Titans Select ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LGHT,LGHT,Langar Global HealthTech ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EMKT,EMKT,Lazard Emerging Markets Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+THMZ,THMZ,Lazard Equity Megatrends ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IDEQ,IDEQ,Lazard International Dynamic Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JPY,JPY,Lazard Japanese Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GLIX,GLIX,Lazard Listed Infrastructure ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TEKY,TEKY,Lazard Next Gen Technologies ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SYZ,SYZ,Lazard US Systematic Small Cap Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LSAT,LSAT,LeaderShares AlphaFactor Tactical Focused ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LSAF,LSAF,LeaderShares AlphaFactor US Core Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LCR,LCR,Leuthold Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LST,LST,Leuthold Select Industries ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LGRO,LGRO,Level Four Large Cap Growth Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LQAI,LQAI,LG QRAFT AI-Powered U.S. Large Cap Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EASY,EASY,Liberty One Defensive Dividend Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SPCT,SPCT,Liberty One Spectrum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TOT,TOT,LionShares U.S. Equity Total Return ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LCLG,LCLG,Logan Capital Broad Innovative Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LCO,LCO,LOGIQ Contrarian Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EBI,EBI,Longview Advantage ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LSVD,LSVD,LSV Disciplined Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SASS,SASS,M.D. Sass Concentrated Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CVRD,CVRD,Madison Covered Call ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DIVL,DIVL,Madison Dividend Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MEMA,MEMA,Man Active Emerging Markets Alternative ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+MATE,MATE,Man Active Trend Enhanced ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TOGA,TOGA,Managed Portfolio Series Tremblant Global ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GARY,GARY,Mango Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+MNZL,MNZL,Manzil Russell Halal USA Broad Market ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FDIV,FDIV,MarketDesk Focused U.S. Dividend ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FMTM,FMTM,MarketDesk Focused U.S. Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+MAVF,MAVF,Matrix Advisors Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ADVE,ADVE,Matthews Asia Dividend Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MINV,MINV,Matthews Asia Innovators Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MCH,MCH,Matthews China Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MCHS,MCHS,Matthews China Innovators Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+MEMS,MEMS,Matthews Emerging Markets Discovery Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+MEM,MEM,Matthews Emerging Markets Equity Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MEMX,MEMX,Matthews Emerging Markets ex China Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EMSF,EMSF,Matthews Emerging Markets Sustainable Future Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+INDE,INDE,Matthews India Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JPAN,JPAN,Matthews Japan Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MKOR,MKOR,Matthews Korea Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ASIA,ASIA,Matthews Pacific Tiger Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IPB,IPB,"Merrill Lynch & Co., Inc. 6.0518% Index Plus Trust Certificates Series 2003-1",N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MFSG,MFSG,MFS Active Growth ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MFSI,MFSI,MFS Active International ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MMID,MMID,MFS Active Mid Cap ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MFSV,MFSV,MFS Active Value ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BRCE,BRCE,MFS Blended Research Core Equity ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BREE,BREE,MFS Blended Research Emerging Markets Equity ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BRIE,BRIE,MFS Blended Research International Equity ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FNGS,FNGS,"MicroSectors FANG  ETNs due January 8, 2038",P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MIGO,MIGO,MIG Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MCVT,MCVT,Miller Convertible Total Return ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MVPA,MVPA,Miller Value Partners Appreciation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MHIG,MHIG,Milliman Healthcare Inflation Guard ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MHIP,MHIP,Milliman Healthcare Inflation Plus ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MKAM,MKAM,MKAM ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+MNVT,MNVT,Moonvest ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+MSLC,MSLC,Morgan Stanley Pathway Large Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MSSM,MSSM,Morgan Stanley Pathway Small-Mid Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MFIG,MFIG,Motley Fool Innovative Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+MFMO,MFMO,Motley Fool Momentum Factor ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+MFVL,MFVL,Motley Fool Value Factor ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SNTH,SNTH,MRP SynthEquity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MJSC,MJSC,MUFG Japan Small Cap Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MUSQ,MUSQ,MUSQ Global Music Industry Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MDAA,MDAA,Myriad Dynamic Asset Allocation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NSI,NSI,National Security Emerging Markets Index ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LSGR,LSGR,Natixis Loomis Sayles Focused Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VNSE,VNSE,Natixis Vaughan Nelson Select ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NDAA,NDAA,Ned Davis Research 360 Dynamic Allocation ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EGGS,EGGS,NestYield Total Return Guard ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EGGQ,EGGQ,NestYield Visionary ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+NBCE,NBCE,Neuberger China Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NBCM,NBCM,Neuberger Commodity Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NBCR,NBCR,Neuberger Core Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NBDS,NBDS,Neuberger Disrupters ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NBET,NBET,Neuberger Energy Transition & Infrastructure ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NBGX,NBGX,Neuberger Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NBIE,NBIE,Neuberger International Core Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NBJP,NBJP,Neuberger Japan Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NBOS,NBOS,Neuberger Option Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NBSM,NBSM,Neuberger Small-Mid Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BHDG,BHDG,Nicholas Bitcoin Tail ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PWER,PWER,Nomura Energy Transition ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EMEQ,EMEQ,Nomura Focused Emerging Markets Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EXUS,EXUS,Nomura Focused International Core ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LRGG,LRGG,Nomura Focused Large Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BILD,BILD,Nomura Global Listed Infrastructure ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LTAX,LTAX,Nomura Tax-Free USA ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FRWD,FRWD,Nomura Transformational Technologies ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+KOOL,KOOL,North Shore Equity Rotation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NOEQ,NOEQ,Northern Trust US Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NMBL,NMBL,NovaTide Flexible Allocation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NVOH,NVOH,Novo Nordisk A/S B Shares ADRhedged,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NUGO,NUGO,Nuveen Growth Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IQSI,IQSI,NYLI Candriam International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IQSU,IQSU,NYLI Candriam U.S. Large Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IQSM,IQSM,NYLI Candriam U.S. Mid Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IQRA,IQRA,NYLI CBRE Real Assets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HFXI,HFXI,NYLI FTSE International Equity Currency Neutral ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WRND,WRND,NYLI Global Equity R&D Leaders ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QAI,QAI,NYLI Hedge Multi-Strategy Tracker ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NISM,NISM,NYLI International Small-Mid Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MNA,MNA,NYLI Merger Arbitrage ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LRND,LRND,NYLI U.S. Large Cap R&D Leaders ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IWFG,IWFG,NYLI Winslow Focused Large Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IWLG,IWLG,NYLI Winslow Large Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OAKG,OAKG,Oakmark Global Large Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OAKI,OAKI,Oakmark International Large Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OAKM,OAKM,Oakmark U.S. Large Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OGSP,OGSP,Obra High Grade Structured Products ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OOSP,OOSP,Obra Opportunistic Structured Products ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DUKQ,DUKQ,Ocean Park Domestic ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DUKX,DUKX,Ocean Park International ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FFND,FFND,One Global ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OAEM,OAEM,OneAscent Emerging Markets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OASC,OASC,OneAscent Enhanced Small and Mid Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OAIM,OAIM,OneAscent International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OALC,OALC,OneAscent Large Cap Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OPTZ,OPTZ,Optimize Strategy Index ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+OBTC,OBTC,Osprey Bitcoin Trust,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+OTGL,OTGL,OTG Latin America ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+WAGN,WAGN,Pabrai Wagons ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+INDQ,INDQ,Pacer ActiveAlpha India Quality ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+USAI,USAI,Pacer American Energy Infrastructure ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ODDS,ODDS,Pacer BlueStar Digital Entertainment ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BULD,BULD,Pacer BlueStar Engineering the Future ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+HERD,HERD,Pacer Cash Cows Fund of Funds ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QQWZ,QQWZ,Pacer Cash COWZ 100-Nasdaq 100 Rotator ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SZNE,SZNE,Pacer CFRA-Stovall Equal Weight Seasonal Rotation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SRVR,SRVR,Pacer Data & Infrastructure Real Estate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TRFK,TRFK,Pacer Data and Digital Revolution ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EAFG,EAFG,Pacer Developed Markets Cash Cows Growth Leaders ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ECOW,ECOW,Pacer Emerging Markets Cash Cows 100 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+INDS,INDS,Pacer Industrial Real Estate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SHPP,SHPP,Pacer Industrials and Logistics ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ALTL,ALTL,Pacer Lunt Large Cap Alternator ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PALC,PALC,Pacer Lunt Large Cap Multi-Factor Alternator ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PAMC,PAMC,Pacer Lunt MidCap Multi-Factor Alternator ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QSIX,QSIX,Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QDPL,QDPL,Pacer Metaurus US Large Cap Dividend Multiplier 400 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QQQG,QQQG,Pacer Nasdaq 100 Top 50 Cash Cows Growth Leaders ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PATN,PATN,Pacer Nasdaq International Patent Leaders ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PEVC,PEVC,Pacer PE/VC ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PTNQ,PTNQ,Pacer Trendpilot 100 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TRND,TRND,Pacer Trendpilot Fund of Funds ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PTIN,PTIN,Pacer Trendpilot International ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BUL,BUL,Pacer US Cash Cows Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PEXL,PEXL,Pacer US Export Leaders ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+COWG,COWG,Pacer US Large Cap Cash Cows Growth Leaders ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CAFG,CAFG,Pacer US Small Cap Cash Cows Growth Leaders ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GEME,GEME,Pacific North of South EM Equity Active ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PSQO,PSQO,Palmer Square Credit Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PEPS,PEPS,Parametric Equity Plus ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PHEQ,PHEQ,Parametric Hedged Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PRCS,PRCS,Parnassus Core Select ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PRVS,PRVS,Parnassus Value Select ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PFDE,PFDE,Pathfinder Disciplined US Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PFOE,PFOE,Pathfinder Focused Opportunities ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PRMR,PRMR,PeakShares RMR Prime Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PSTR,PSTR,PeakShares Sector Rotation ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PJFG,PJFG,PGIM Jennison Focused Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PJFV,PJFV,PGIM Jennison Focused Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PJIO,PJIO,PGIM Jennison International Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PBQQ,PBQQ,PGIM Laddered Nasdaq-100 Buffer 12 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PQAP,PQAP,PGIM Nasdaq-100 Buffer 12 ETF - April,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PQJA,PQJA,PGIM Nasdaq-100 Buffer 12 ETF - January,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PQJL,PQJL,PGIM Nasdaq-100 Buffer 12 ETF - July,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PQOC,PQOC,PGIM Nasdaq-100 Buffer 12 ETF - October,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PBOT,PBOT,Pictet AI & Automation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PQNT,PQNT,Pictet AI Enhanced International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PQUS,PQUS,Pictet AI Enhanced US Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PCLN,PCLN,Pictet Cleaner Planet ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RISE,RISE,Pictet Emerging Markets Rising Economies ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LTPZ,LTPZ,Pimco 15  Year U.S. TIPS Index Exchange-Traded Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+STPZ,STPZ,PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TIPZ,TIPZ,PIMCO Broad U.S. TIPS Index Exchange-Traded Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CMDT,CMDT,PIMCO Commodity Strategy Active Exchange-Traded Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LDUR,LDUR,PIMCO Enhanced Low Duration Active Exchange-Traded Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PCPI,PCPI,PIMCO Inflation PLUS Active Exchange-Traded Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PRFD,PRFD,PIMCO Preferred and Capital Securities Active Exchange-Traded Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MFEM,MFEM,PIMCO RAFI Dynamic Multi-Factor Emerging Markets Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MFDX,MFDX,PIMCO RAFI Dynamic Multi-Factor International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MFUS,MFUS,PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RAFE,RAFE,PIMCO RAFI ESG U.S. ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FCUS,FCUS,Pinnacle Focused Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PRAE,PRAE,PlanRock Alternative Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KDEF,KDEF,PLUS Korea Defense Industry Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KMCA,KMCA,PLUS Korea Manufacturing Core Alliance Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ARP,ARP,PMV Adaptive Risk Parity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PCCE,PCCE,Polen Capital China Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PCGG,PCGG,Polen Capital Global Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PCIG,PCIG,Polen Capital International Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PCLG,PCLG,Polen Focus Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PBEU,PBEU,Portfolio Building Block European Banks Index ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PBOG,PBOG,Portfolio Building Block Integrated Oil and Gas and Exploration and Production Index ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PBPH,PBPH,Portfolio Building Block World Pharma and Biotech Index ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PRXG,PRXG,Praxis Impact Large Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PRXV,PRXV,Praxis Impact Large Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PSET,PSET,Principal Quality ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BYRE,BYRE,Principal Real Estate Active Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PREF,PREF,Principal Spectrum Preferred Securities Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+USMC,USMC,Principal U.S. Mega-Cap ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PSC,PSC,Principal U.S. Small-Cap ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PY,PY,Principal Value ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+UFO,UFO,Procure Space ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DAT,DAT,ProShares Big Data Refiners ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BETE,BETE,ProShares Bitcoin & Ether Equal Weight ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BETH,BETH,ProShares Bitcoin & Ether Market Cap Weight ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BITO,BITO,ProShares Bitcoin ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KRYP,KRYP,ProShares CoinDesk 20 Crypto ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EMTY,EMTY,ProShares Decline of the Retail Store ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TOLZ,TOLZ,ProShares DJ Brookfield Global Infrastructure ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EQRR,EQRR,ProShares Equities for Rising Rates ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EETH,EETH,ProShares Ether ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IQMM,IQMM,ProShares GENIUS Money Market ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HDG,HDG,ProShares Hedge Replication ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RINF,RINF,ProShares Inflation Expectations ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VERS,VERS,ProShares Metaverse ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ANEW,ANEW,ProShares MSCI Transformational Changes ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TINY,TINY,ProShares Nanotechnology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QQQA,QQQA,ProShares Nasdaq-100 Dorsey Wright Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QB,QB,ProShares Nasdaq-100 Dynamic Buffer ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+OND,OND,ProShares On-Demand ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ONLN,ONLN,ProShares Online Retail ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BUYB,BUYB,ProShares S&P 500 Buyback Aristocrats ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPXE,SPXE,ProShares S&P 500 Ex-Energy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPXN,SPXN,ProShares S&P 500 Ex-Financials ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPXV,SPXV,ProShares S&P 500 Ex-Health Care ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPXT,SPXT,ProShares S&P 500 Ex-Technology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ION,ION,ProShares S&P Global Core Battery Metals ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CTEX,CTEX,ProShares S&P Kensho Cleantech ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MAKX,MAKX,ProShares S&P Kensho Smart Factories ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TINT,TINT,ProShares Smart Materials ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SUPL,SUPL,ProShares Supply Chain Logistics ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PEMX,PEMX,Putnam Emerging Markets ex-China ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PGRO,PGRO,Putnam Focused Large Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PVAL,PVAL,Putnam Focused Large Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PGRI,PGRI,Putnam International Stock ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PPEM,PPEM,Putnam PanAgora ESG Emerging Markets Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PPIE,PPIE,Putnam PanAgora ESG International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PFUT,PFUT,Putnam Sustainable Future ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PLDR,PLDR,Putnam Sustainable Leaders ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PZIV,PZIV,Pzena International Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PZLV,PZLV,Pzena U.S. Large Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QRFT,QRFT,QRAFT AI-Enhanced U.S. Large Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AMOM,AMOM,QRAFT AI-Enhanced U.S. Large Cap Momentum ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BNDD,BNDD,Quadratic Deflation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IVOL,IVOL,Quadratic Interest Rate Volatility and Inflation Hedge ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OWNS,OWNS,Quaker Investment Trust CCM Affordable Housing MBS ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RAUS,RAUS,RACWI US ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RW,RW,Rainwater Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+COAL,COAL,Range Global Coal Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NUKZ,NUKZ,Range Nuclear Renaissance Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RWIN,RWIN,Rayliant NxtGen Multifactor International Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RAYJ,RAYJ,Rayliant SMDAM Japan Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RWEM,RWEM,Rayliant Wilshire NxtGen Emerging Markets Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RWLC,RWLC,Rayliant Wilshire NxtGen US Large Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CNQQ,CNQQ,Rayliant-ChinaAMC Transformative China Tech ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PRTO,PRTO,RCN Pareto Strategic Allocation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MBSX,MBSX,Regan Fixed Rate MBS ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MBSF,MBSF,Regan Floating Rate MBS ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MOOD,MOOD,Relative Sentiment Tactical Allocation ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RSMV,RSMV,Relative Strength Managed Volatility Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IPOS,IPOS,Renaissance Capital Greenwich Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IPO,IPO,Renaissance IPO ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NIXT,NIXT,Research Affiliates Deletions ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DRNZ,DRNZ,REX Drone ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ULTI,ULTI,REX IncomeMax Option Strategy ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RHTX,RHTX,RH Tactical Outlook ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RHRX,RHRX,RH Tactical Rotation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+THNQ,THNQ,ROBO Global Artificial Intelligence ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HTEC,HTEC,ROBO Global Healthcare Technology and Innovation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ROBO,ROBO,ROBO Global Robotics and Automation Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RCGE,RCGE,RockCreek Global Equality ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RGEF,RGEF,Rockefeller Global Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RSMC,RSMC,Rockefeller U.S. Small-Mid Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+METV,METV,Roundhill Ball Metaverse ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CHAT,CHAT,Roundhill Generative AI & Technology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OZEM,OZEM,Roundhill GLP-1 & Weight Loss ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+MEME,MEME,Roundhill Meme Stock ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XPAY,XPAY,Roundhill S&P 500 Target 20 Managed Distribution ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BETZ,BETZ,Roundhill Sports Betting & iGaming ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SQLV,SQLV,Royce Quant Small-Cap Quality Value ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RPAR,RPAR,RPAR Risk Parity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RKSG,RKSG,Ruk Strategic Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RUNN,RUNN,Running Oak Efficient Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+REMG,REMG,Russell Investments Emerging Markets Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RGLO,RGLO,Russell Investments Global Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RIFR,RIFR,Russell Investments Global Infrastructure ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RINT,RINT,Russell Investments International Developed Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RUSC,RUSC,Russell Investments U.S. Small Cap Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SJLD,SJLD,SanJac Alpha Low Duration ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SAPH,SAPH,SAP SE ADRhedged,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SQS,SQS,Sapient Quality Select ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+KAT,KAT,Scharf ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GKAT,GKAT,Scharf Global Opportunity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SCHK,SCHK,Schwab 1000 Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SAEF,SAEF,Schwab Ariel Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+STCE,STCE,Schwab Crypto Thematic ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SCHE,SCHE,Schwab Emerging Markets Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FNDE,FNDE,Schwab Fundamental Emerging Markets Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FNDF,FNDF,Schwab Fundamental International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FNDC,FNDC,Schwab Fundamental International Small Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FNDB,FNDB,Schwab Fundamental U.S. Broad Market ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FNDX,FNDX,Schwab Fundamental U.S. Large Company ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FNDA,FNDA,Schwab Fundamental U.S. Small Company ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SGVT,SGVT,Schwab Government Money Market ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SCHY,SCHY,Schwab International Dividend Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SCHF,SCHF,Schwab International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SCHC,SCHC,Schwab International Small-Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SCHB,SCHB,Schwab U.S. Broad Market ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SCHX,SCHX,Schwab U.S. Large-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SCHG,SCHG,Schwab U.S. Large-Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SCHV,SCHV,Schwab U.S. Large-Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SCHM,SCHM,Schwab U.S. Mid Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SCHH,SCHH,Schwab U.S. REIT ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SCHA,SCHA,Schwab U.S. Small-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SCHP,SCHP,Schwab U.S. TIPS ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SCHD,SCHD,Schwab US Dividend Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+USSE,USSE,Segall Bryant & Hamill Trust Segall Bryant & Hamill Select Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QALT,QALT,SEI DBi Multi-Strategy Alternative ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SEEM,SEEM,SEI Select Emerging Markets Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SEIE,SEIE,SEI Select International Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SEIS,SEIS,SEI Select Small Cap ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SFGV,SFGV,Sequoia Global Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DYTA,DYTA,SGI Dynamic Tactical ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+USDX,USDX,SGI Enhanced Core ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LDRX,LDRX,SGI Enhanced Market Leaders ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QXQ,QXQ,SGI Enhanced Nasdaq-100 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SGLC,SGLC,SGI U.S. Large Cap Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SHEH,SHEH,Shell plc ADRhedged,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XXV,XXV,Simplify Ancorato Target 25 Distribution ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CCOM,CCOM,Simplify Chinese Commodities Strategy No K-1 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HARD,HARD,Simplify Commodities Strategy No K-1 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FOXY,FOXY,Simplify Currency Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SDMF,SDMF,Simplify DBi CTA Managed Futures Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SBIL,SBIL,Simplify Government Money Market ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PINK,PINK,Simplify Health Care ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HEQT,HEQT,Simplify Hedged Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PFIX,PFIX,Simplify Interest Rate Hedge ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KNRG,KNRG,Simplify Kayne Anderson Energy and Infrastructure Credit ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CTA,CTA,Simplify Managed Futures Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MTBA,MTBA,Simplify MBS ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QIS,QIS,Simplify Multi-QIS Alternative ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SURI,SURI,Simplify Propel Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IOPP,IOPP,Simplify Tara India Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XV,XV,Simplify Target 15 Distribution ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LQ,LQ,Simplify Tax Aware Alternatives ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SPBC,SPBC,Simplify US Equity PLUS Bitcoin Strategy ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SPYC,SPYC,Simplify US Equity PLUS Convexity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPD,SPD,Simplify US Equity PLUS Downside Convexity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CTAP,CTAP,Simplify US Equity PLUS Managed Futures Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPUC,SPUC,Simplify US Equity PLUS Upside Convexity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PCR,PCR,Simplify VettaFi Private Credit Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SVOL,SVOL,Simplify Volatility Premium ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TESL,TESL,Simplify Volt TSLA Revolution ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BLCN,BLCN,Siren NexGen Economy ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SGRT,SGRT,SMART Earnings Growth 30 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SMCP,SMCP,SMART Mid Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SSCP,SSCP,SMART Small Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+STRN,STRN,SMART Trend 25 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FCTE,FCTE,SMI 3Fourteen Full-Cycle Trend ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RAA,RAA,SMI 3Fourteen REAL Asset Allocation ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+AGIQ,AGIQ,SoFi Agentic AI ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SFY,SFY,SoFi Select 500 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SFYF,SFYF,SoFi Social 50 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SOLZ,SOLZ,Solana ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BOAT,BOAT,SonicShares Global Shipping ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SOVF,SOVF,Sovereign's Capital Flourish Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPSK,SPSK,SP Funds Dow Jones Global Sukuk ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPUS,SPUS,SP Funds S&P 500 Sharia Industry Exclusions ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPRE,SPRE,SP Funds S&P Global REIT Sharia ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPTE,SPTE,SP Funds S&P Global Technology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPWO,SPWO,SP Funds S&P World (ex-US) ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPCK,SPCK,SPAC and New Issue ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ITAN,ITAN,Sparkline Intangible Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DTAN,DTAN,Sparkline International Intangible Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GLDM,GLDM,SPDR Gold MiniShares Trust,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GLD,GLD,SPDR Gold Shares,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPRX,SPRX,Spear Alpha ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GBUG,GBUG,Sprott Active Gold & Silver Miners ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+METL,METL,Sprott Active Metals & Miners ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+COPP,COPP,Sprott Copper Miners ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SETM,SETM,Sprott Critical Materials ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SGDM,SGDM,Sprott Gold Miners ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+COPJ,COPJ,Sprott Junior Copper Miners ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SGDJ,SGDJ,Sprott Junior Gold Miners ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+URNJ,URNJ,Sprott Junior Uranium Miners ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LITP,LITP,Sprott Lithium Miners ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+NIKL,NIKL,Sprott Nickel Miners ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SCOP,SCOP,Sprott Physical Copper Trust Units,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CEF,CEF,Sprott Physical Gold and Silver Trust Units,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PHYS,PHYS,Sprott Physical Gold Trust ETV,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPPP,SPPP,Sprott Physical Platinum and Palladium Trust,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PSLV,PSLV,Sprott Physical Silver Trust ETV,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+REXC,REXC,Sprott Rare Earths Ex-China ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SLVR,SLVR,Sprott Silver Miners & Physical Silver ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+URNM,URNM,Sprott Uranium Miners ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SRHR,SRHR,SRH REIT Covered Call ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SRHQ,SRHQ,SRH U.S. Quality GARP ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CHGX,CHGX,Stance Sustainable Beta ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ALLW,ALLW,State Street Bridgewater All Weather ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+XLC,XLC,State Street Communication Services Select Sector SPDR ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XLY,XLY,State Street Consumer Discretionary Select Sector SPDR ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XLP,XLP,State Street Consumer Staples Select Sector SPDR ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TOTL,TOTL,State Street DoubleLine Total Return Tactical ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XLE,XLE,State Street Energy Select Sector SPDR ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XLF,XLF,State Street Financial Select Sector SPDR ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DECO,DECO,State Street Galaxy Digital Asset Ecosystem ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+HECO,HECO,State Street Galaxy Hedged Digital Asset Ecosystem ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TEKX,TEKX,State Street Galaxy Transformative Tech Accelerators ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GAL,GAL,State Street Global Allocation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XLV,XLV,State Street Health Care Select Sector SPDR ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PRAB,PRAB,State Street IG Public & Private ABS ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PRIV,PRIV,State Street IG Public & Private Credit ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XLI,XLI,State Street Industrial Select Sector SPDR ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XLB,XLB,State Street Materials Select Sector SPDR ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RLY,RLY,State Street Multi-Asset Real Return ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MMK,MMK,State Street Prime Money Market ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XLRE,XLRE,State Street Real Estate Select Sector SPDR ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BIL,BIL,State Street SPDR Bloomberg 1-3 Month T-Bill ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TIPX,TIPX,State Street SPDR Bloomberg 1a??10 Year TIPS ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BILS,BILS,State Street SPDR Bloomberg 3-12 Month T-Bill ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CWB,CWB,State Street SPDR Bloomberg Convertible Securities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FLRN,FLRN,State Street SPDR Bloomberg Investment Grade Floating Rate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RWO,RWO,State Street SPDR Dow Jones Global Real Estate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DIA,DIA,State Street SPDR Dow Jones Industrial Average ETF Trust,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RWX,RWX,State Street SPDR Dow Jones International Real Estate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RWR,RWR,State Street SPDR Dow Jones REIT ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FEZ,FEZ,State Street SPDR EURO STOXX 50 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XITK,XITK,State Street SPDR FactSet Innovative Technology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DGT,DGT,State Street SPDR Global Dow ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PSK,PSK,State Street SPDR ICE Preferred Securities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NZAC,NZAC,State Street SPDR MSCI ACWI Climate Paris Aligned ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CWI,CWI,State Street SPDR MSCI ACWI ex-US ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EFAX,EFAX,State Street SPDR MSCI EAFE Fossil Fuel Reserves Free ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QEFA,QEFA,State Street SPDR MSCI EAFE StrategicFactors ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EEMX,EEMX,State Street SPDR MSCI Emerging Markets Fossil Fuel Reserves Free ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QEMM,QEMM,State Street SPDR MSCI Emerging Markets StrategicFactors ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SHE,SHE,State Street SPDR MSCI USA Gender Diversity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QUS,QUS,State Street SPDR MSCI USA StrategicFactors ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QWLD,QWLD,State Street SPDR MSCI World StrategicFactors ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XNTK,XNTK,State Street SPDR NYSE Technology ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPDW,SPDW,State Street SPDR Portfolio Developed World ex-US ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPEM,SPEM,State Street SPDR Portfolio Emerging Markets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPEU,SPEU,State Street SPDR Portfolio Europe ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPGM,SPGM,State Street SPDR Portfolio MSCI Global Stock Market ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPTM,SPTM,State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPMD,SPMD,State Street SPDR Portfolio S&P 400 Mid Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPYM,SPYM,State Street SPDR Portfolio S&P 500 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPYG,SPYG,State Street SPDR Portfolio S&P 500 Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPYD,SPYD,State Street SPDR Portfolio S&P 500 High Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPYV,SPYV,State Street SPDR Portfolio S&P 500 Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPSM,SPSM,State Street SPDR Portfolio S&P 600 Small Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPDG,SPDG,State Street SPDR Portfolio S&P Sector Neutral Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPIP,SPIP,State Street SPDR Portfolio TIPS ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ONEV,ONEV,State Street SPDR Russell 1000 Low Volatility Focus ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ONEO,ONEO,State Street SPDR Russell 1000 Momentum Focus ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MMTM,MMTM,State Street SPDR S&P 1500 Momentum Tilt ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VLU,VLU,State Street SPDR S&P 1500 Value Tilt ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MDYG,MDYG,State Street SPDR S&P 400 Mid Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MDYV,MDYV,State Street SPDR S&P 400 Mid Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EFIV,EFIV,State Street SPDR S&P 500 ESG ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPY,SPY,State Street SPDR S&P 500 ETF Trust,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPYX,SPYX,State Street SPDR S&P 500 Fossil Fuel Reserves Free ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SLYG,SLYG,State Street SPDR S&P 600 Small Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SLYV,SLYV,State Street SPDR S&P 600 Small Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XAR,XAR,State Street SPDR S&P Aerospace & Defense ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KBE,KBE,State Street SPDR S&P Bank ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XBI,XBI,State Street SPDR S&P Biotech ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KCE,KCE,State Street SPDR S&P Capital Markets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GXC,GXC,State Street SPDR S&P China ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SDY,SDY,State Street SPDR S&P Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GMF,GMF,State Street SPDR S&P Emerging Asia Pacific ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EDIV,EDIV,State Street SPDR S&P Emerging Markets Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XCNY,XCNY,State Street SPDR S&P Emerging Markets ex-China ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EWX,EWX,State Street SPDR S&P Emerging Markets Small Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WDIV,WDIV,State Street SPDR S&P Global Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GII,GII,State Street SPDR S&P Global Infrastructure ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GNR,GNR,State Street SPDR S&P Global Natural Resources ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XHE,XHE,State Street SPDR S&P Health Care Equipment ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XHS,XHS,State Street SPDR S&P Health Care Services ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XHB,XHB,State Street SPDR S&P Homebuilders ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KIE,KIE,State Street SPDR S&P Insurance ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DWX,DWX,State Street SPDR S&P International Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GWX,GWX,State Street SPDR S&P International Small Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CNRG,CNRG,State Street SPDR S&P Kensho Clean Power ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ROKT,ROKT,State Street SPDR S&P Kensho Final Frontiers ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FITE,FITE,State Street SPDR S&P Kensho Future Security ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SIMS,SIMS,State Street SPDR S&P Kensho Intelligent Structures ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KOMP,KOMP,State Street SPDR S&P Kensho New Economies Composite ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HAIL,HAIL,State Street SPDR S&P Kensho Smart Mobility ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XME,XME,State Street SPDR S&P Metals & Mining ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MDY,MDY,State Street SPDR S&P MIDCAP 400 ETF Trust,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NANR,NANR,State Street SPDR S&P North American Natural Resources ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XES,XES,State Street SPDR S&P Oil & Gas Equipment & Services ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XOP,XOP,State Street SPDR S&P Oil & Gas Exploration & Production ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XPH,XPH,State Street SPDR S&P Pharmaceuticals ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KRE,KRE,State Street SPDR S&P Regional Banking ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XRT,XRT,State Street SPDR S&P Retail ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XSD,XSD,State Street SPDR S&P Semiconductor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XSW,XSW,State Street SPDR S&P Software & Services ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XTL,XTL,State Street SPDR S&P Telecom ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XTN,XTN,State Street SPDR S&P Transportation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LGLV,LGLV,State Street SPDR US Large Cap Low Volatility Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SMLV,SMLV,State Street SPDR US Small Cap Low Volatility Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XLK,XLK,State Street Technology Select Sector SPDR ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XLSR,XLSR,State Street US Sector Rotation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XLU,XLU,State Street Utilities Select Sector SPDR ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TUG,TUG,STF Tactical Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BTGD,BTGD,STKd 100% Bitcoin & 100% Gold ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+STHH,STHH,STMicroelectronics NV ADRhedged,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NEWZ,NEWZ,StockSnips AI-Powered Sentiment US All Cap ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SAGP,SAGP,Strategas Global Policy Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SAMM,SAMM,Strategas Macro Momentum ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SAMT,SAMT,Strategas Macro Thematic Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ELCV,ELCV,Strategy Shares Eventide High Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HNDL,HNDL,Strategy Shares Nasdaq 7HANDL Index ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SHUS,SHUS,Stratified LargeCap Hedged ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SSPY,SSPY,Stratified LargeCap Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+STXD,STXD,Strive 1000 Dividend Growth ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+STXG,STXG,Strive 1000 Growth ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+STXV,STXV,Strive 1000 Value ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+STRV,STRV,Strive 500 ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+STXE,STXE,Strive Emerging Markets Ex-China ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FTWO,FTWO,Strive Natural Resources and Security ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+STXK,STXK,Strive Small-Cap ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DRLL,DRLL,Strive U.S. Energy ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SHOC,SHOC,Strive U.S. Semiconductor ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SEMG,SEMG,Suncoast Select Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SMOM,SMOM,Symmetry Panoramic Sector Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TACN,TACN,T. Rowe Price Active Core International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TACU,TACU,T. Rowe Price Active Core U.S. Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TCHP,TCHP,T. Rowe Price Blue Chip Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TCAF,TCAF,T. Rowe Price Capital Appreciation Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TDVG,TDVG,T. Rowe Price Dividend Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TEMR,TEMR,T. Rowe Price Emerging Markets Equity Research ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TFNS,TFNS,T. Rowe Price Financials ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TFLR,TFLR,T. Rowe Price Floating Rate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TGLB,TGLB,T. Rowe Price Global Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TGRT,TGRT,T. Rowe Price Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TGRW,TGRW,T. Rowe Price Growth Stock ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TMED,TMED,T. Rowe Price Health Care ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+THEQ,THEQ,T. Rowe Price Hedged Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TNXT,TNXT,T. Rowe Price Innovation Leaders ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TOUS,TOUS,T. Rowe Price International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TIER,TIER,T. Rowe Price International Equity Research ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TURF,TURF,T. Rowe Price Natural Resources ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TMSL,TMSL,T. Rowe Price Small-Mid Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TTEQ,TTEQ,T. Rowe Price Technology ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TOTR,TOTR,T. Rowe Price Total Return ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TSPA,TSPA,T. Rowe Price U.S. Equity Research ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TVAL,TVAL,T. Rowe Price Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FDAT,FDAT,Tactical Advantage ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TBG,TBG,TBG Dividend Focus ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AIFD,AIFD,TCW Artificial Intelligence ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GRW,GRW,TCW Durable Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VOTE,VOTE,TCW Transform 500 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SUPP,SUPP,TCW Transform Supply Chain ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PWRD,PWRD,TCW Transform Systems ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RSHO,RSHO,Tema American Reshoring ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VOLT,VOLT,Tema Electrification ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+HRTS,HRTS,Tema Heart & Health ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ARMY,ARMY,Tema International Defense ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CANC,CANC,Tema Oncology ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DSPY,DSPY,Tema S&P 500 Historical Weight ETF Strategy,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NASA,NASA,Tema Space Innovators ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TINS,TINS,Templeton International Insights ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TAGS,TAGS,Teucrium Agricultural Fund ETV,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TILL,TILL,Teucrium Agricultural Strategy No K-1 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CORN,CORN,Teucrium Corn Fund ETV,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SOYB,SOYB,Teucrium Soybean Fund ETV,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CANE,CANE,Teucrium Sugar Fund ETV,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WEAT,WEAT,Teucrium Wheat Fund ETV,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MMKT,MMKT,Texas Capital Government Money Market ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TXS,TXS,Texas Capital Texas Equity Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OILT,OILT,Texas Capital Texas Oil Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ZIG,ZIG,The Acquirers Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BEEX,BEEX,The Beehive ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TBFC,TBFC,The Brinsmere Fund  Conservative ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TBFG,TBFG,The Brinsmere Fund Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+FMKT,FMKT,The Free Markets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AKAF,AKAF,The Frontier Economic Fund,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NITE,NITE,The Nightview Fund NITE,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CLOD,CLOD,Themes Cloud Computing ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SPAM,SPAM,Themes Cybersecurity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+WISE,WISE,Themes Generative Artificial Intelligence ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GSIB,GSIB,Themes Global Systemically Important Banks ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+AUMI,AUMI,Themes Gold Miners ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BOTT,BOTT,Themes Humanoid Robotics ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CZAR,CZAR,Themes Natural Monopoly ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+AGMI,AGMI,Themes Silver Miners ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+NATO,NATO,Themes Transatlantic Defense ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+LGCF,LGCF,Themes US Cash Flow Champions ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+HWAY,HWAY,Themes US Infrastructure ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+USRD,USRD,Themes US R&D Champions ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SMCF,SMCF,Themes US Small Cap Cash Flow Champions ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+THMR,THMR,THOR AdaptiveRisk Dynamic ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+THLV,THLV,THOR Equal Weight Low Volatility ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+THIR,THIR,THOR Index Rotation ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TAOZ,TAOZ,Thornburg American Opportunities Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TFGZ,TFGZ,Thornburg Focus Growth Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TXUE,TXUE,Thornburg International Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TXUG,TXUG,Thornburg International Growth Fund ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TMVE,TMVE,Thrivent Mid Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TSCV,TSCV,Thrivent Small Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TSME,TSME,Thrivent Small-Mid Cap Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TSCM,TSCM,TimesSquare Quality Mid Cap Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TPFC,TPFC,Timothy Plan Free Cash Flow ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TPFG,TPFG,Timothy Plan Free Cash Flow Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TPHD,TPHD,Timothy Plan High Dividend Stock ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TPIF,TPIF,Timothy Plan International ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TPLC,TPLC,Timothy Plan US Large/Mid Cap Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TPSC,TPSC,Timothy Plan US Small Cap Core ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MRSK,MRSK,Toews Agility Shares Managed Risk ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TCAI,TCAI,Tortoise AI Infrastructure ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TPZ,TPZ,Tortoise Electrification Infrastructure ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TNGY,TNGY,Tortoise Energy ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TBLU,TBLU,Tortoise Global Water ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TMLP,TMLP,Tortoise MLP ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TPYP,TPYP,Tortoise North American Pipeline ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TNUK,TNUK,Tortoise Nuclear Renaissance ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DVND,DVND,Touchstone Dividend Select ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TDI,TDI,Touchstone Dynamic International ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TLCI,TLCI,Touchstone International Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TLG,TLG,Touchstone Large Company Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TSEL,TSEL,Touchstone Sands Capital US Select Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TCV,TCV,Towle Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TMH,TMH,Toyota Motor Corporation ADRhedged,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HFSP,HFSP,TradersAI Large Cap Equity & Cash ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TALV,TALV,Transamerica Large Value Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RVER,RVER,Trenchless Fund ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+LRNZ,LRNZ,"TrueShares Technology, AI & Deep Learning ETF",P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TSES,TSES,Truth Social American Energy Security ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TSIC,TSIC,Truth Social American Icons ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TSNF,TSNF,Truth Social American Next Frontiers ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TSRS,TSRS,Truth Social American Red State REITs ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TSSD,TSSD,Truth Social American Security & Defense ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TSYX,TSYX,TSPY Lift ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+COPY,COPY,"Tweedy, Browne Insider + Value ETF",P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ICPY,ICPY,"Tweedy, Browne International Insider + Value ETF",P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DUTY,DUTY,U.S. Defense ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PPTY,PPTY,U.S. Diversified Real Estate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JETS,JETS,U.S. Global Jets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SEA,SEA,U.S. Global Sea to Sky Cargo ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WAR,WAR,U.S. Global Technology and Aerospace & Defense ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFMC,DFMC,U.S. Micro Cap Portfolio: ETF Class Shares,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DUSG,DUSG,U.S. Small Cap Growth Portfolio: ETF Class Shares,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+UNL,UNL,United States 12 Month Natural Gas Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+USL,USL,United States 12 Month Oil,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BNO,BNO,"United States Brent Oil Fund, LP ETV",P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+USCI,USCI,United States Commodity Index Fund ETV,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CPER,CPER,United States Copper Index Fund ETV,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+UGA,UGA,United States Gasoline Fund LP,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+UNG,UNG,United States Natural Gas Fund LP,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+USO,USO,United States Oil Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HFGM,HFGM,Unlimited HFGM Global Macro ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HFMF,HFMF,Unlimited HFMF Managed Futures ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HFND,HFND,Unlimited HFND Multi-Strategy Return Tracker ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GOAU,GOAU,US Global GO Gold and Precious Metal Miners ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+USE,USE,USCF Energy Commodity Strategy Absolute Return Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WTIB,WTIB,USCF Oil Plus Bitcoin Strategy Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SDCI,SDCI,USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ZSB,ZSB,USCF Sustainable Battery Metals Strategy Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ZSC,ZSC,USCF Sustainable Commodity Strategy Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AFK,AFK,VanEck Africa Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MOO,MOO,VanEck Agribusiness ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GPZ,GPZ,VanEck Alternative Asset Manager ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VAVX,VAVX,VanEck Avalanche ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BBH,BBH,VanEck Biotech ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BRF,BRF,VanEck Brazil Small-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CNXT,CNXT,VanEck ChiNext Innovators ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TRUC,TRUC,VanEck Communication Services TruSector ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TRUD,TRUD,VanEck Consumer Discretionary TruSector ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EMET,EMET,VanEck Copper and Green Metals ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DGIN,DGIN,VanEck Digital India ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GENZ,GENZ,VanEck Digital Native Economy ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DAPP,DAPP,VanEck Digital Transformation ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EVX,EVX,VanEck Environmental Services ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SMHX,SMHX,VanEck Fabless Semiconductor ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TRUF,TRUF,VanEck Financials TruSector ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GDX,GDX,VanEck Gold Miners ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TRUH,TRUH,VanEck Healthcare TruSector ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+FLTR,FLTR,VanEck IG Floating Rate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GLIN,GLIN,VanEck India Growth Leaders ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+INDZ,INDZ,VanEck India Select ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IDX,IDX,VanEck Indonesia Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ISRA,ISRA,VanEck Israel ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GDXJ,GDXJ,VanEck Junior Gold Miners ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SMOG,SMOG,VanEck Low Carbon Energy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OUNZ,OUNZ,VanEck Merk Gold ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VEFA,VEFA,VanEck MSCI EAFE Analyst Sentiment ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+HAP,HAP,VanEck Natural Resources ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DESK,DESK,VanEck Office and Commercial REIT ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CRAK,CRAK,VanEck Oil Refiners ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OIH,OIH,VanEck Oil Services ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PPH,PPH,VanEck Pharmaceutical ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PFXF,PFXF,VanEck Preferred Securities ex Financials ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+REMX,REMX,VanEck Rare Earth and Strategic Metals ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RAAX,RAAX,VanEck Real Assets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+RTH,RTH,VanEck Retail ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IBOT,IBOT,VanEck Robotics ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SMH,SMH,VanEck Semiconductor ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+BUZZ,BUZZ,VanEck Social Sentiment ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VSOL,VSOL,VanEck Solana ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+WARP,WARP,VanEck Space ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SLX,SLX,VanEck Steel ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+TRUT,TRUT,VanEck Technology TruSector ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+NLR,NLR,VanEck Uranium and Nuclear ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ESPO,ESPO,VanEck Video Gaming and eSports ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VOX,VOX,Vanguard Communication Services  ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VCR,VCR,Vanguard Consumer Discretion ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VDC,VDC,Vanguard Consumer Staples ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VIG,VIG,Vanguard Div Appreciation ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VEXC,VEXC,Vanguard Emerging Markets Ex-China ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VDE,VDE,Vanguard Energy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VXF,VXF,Vanguard Extended Market ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VFH,VFH,Vanguard Financials ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VEU,VEU,Vanguard FTSE All World Ex US ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VSS,VSS,Vanguard FTSE All-Wld ex-US SmCp Idx ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VEA,VEA,Vanguard FTSE Developed Markets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VWO,VWO,Vanguard FTSE Emerging Markets ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VPL,VPL,Vanguard FTSE Pacific ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VGK,VGK,Vanguard FTSEEuropean ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VNQI,VNQI,Vanguard Global ex-U.S. Real Estate ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VGVT,VGVT,Vanguard Government Securities Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VUG,VUG,Vanguard Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VHT,VHT,Vanguard Health Care ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VIS,VIS,Vanguard Industrials ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VGT,VGT,Vanguard Information Tech ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VIGI,VIGI,Vanguard International Dividend Appreciation ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VV,VV,Vanguard Large-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VAW,VAW,Vanguard Materials ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MGC,MGC,Vanguard Mega Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MGK,MGK,Vanguard Mega Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MGV,MGV,Vanguard Mega Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VO,VO,Vanguard Mid-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VOT,VOT,Vanguard Mid-Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VOE,VOE,Vanguard Mid-Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VNQ,VNQ,Vanguard Real Estate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VONE,VONE,Vanguard Russell 1000 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VONG,VONG,Vanguard Russell 1000 Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VONV,VONV,Vanguard Russell 1000 Value ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VTWO,VTWO,Vanguard Russell 2000 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VTWG,VTWG,Vanguard Russell 2000 Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VTWV,VTWV,Vanguard Russell 2000 Value ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VTHR,VTHR,Vanguard Russell 3000 ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VOO,VOO,Vanguard S&P 500 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VOOG,VOOG,Vanguard S&P 500 Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VOOV,VOOV,Vanguard S&P 500 Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IVOO,IVOO,Vanguard S&P Mid-Cap 400 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IVOG,IVOG,Vanguard S&P Mid-Cap 400 Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IVOV,IVOV,Vanguard S&P Mid-Cap 400 Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VIOO,VIOO,Vanguard S&P Small-Cap 600 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VIOG,VIOG,Vanguard S&P Small-Cap 600 Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VIOV,VIOV,Vanguard S&P Small-Cap 600 Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VB,VB,Vanguard Small-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VBK,VBK,Vanguard Small-Cap Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VBR,VBR,Vanguard Small-Cap Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VTP,VTP,Vanguard Total Inflation-Protected Securities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VXUS,VXUS,Vanguard Total International Stock ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VTI,VTI,Vanguard Total Stock Market ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VT,VT,Vanguard Total World Stock Index ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VPU,VPU,Vanguard Utilities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VTV,VTV,Vanguard Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VPX,VPX,Variant Perception Cycle Aware US Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VGSR,VGSR,Vert Global Sustainable Real Estate ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VSDA,VSDA,VictoryShares Dividend Accelerator ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+UEVM,UEVM,VictoryShares Emerging Markets Value Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VFLO,VFLO,VictoryShares Free Cash Flow ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GFLW,GFLW,VictoryShares Free Cash Flow Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+IFLO,IFLO,VictoryShares International Free Cash Flow ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GRIN,GRIN,VictoryShares International Free Cash Flow Growth ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+UIVM,UIVM,VictoryShares International Value Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SFLO,SFLO,VictoryShares Small Cap Free Cash Flow ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CFO,CFO,VictoryShares US 500 Enhanced Volatility Wtd ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CFA,CFA,VictoryShares US 500 Volatility Wtd ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CDL,CDL,VictoryShares US Large Cap High Div Volatility Wtd ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VSMV,VSMV,VictoryShares US Multi-Factor Minimum Volatility ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CSB,CSB,VictoryShares US Small Cap High Div Volatility Wtd ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+USVM,USVM,VictoryShares US Small Mid Cap Value Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+ULVM,ULVM,VictoryShares US Value Momentum ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GLOW,GLOW,VictoryShares WestEnd Global Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+MODL,MODL,VictoryShares WestEnd U.S. Sector ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VIDI,VIDI,Vident International Equity Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VUSE,VUSE,Vident U.S. Equity Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ASGM,ASGM,Virtus AlphaSimplex Global Macro ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ASMF,ASMF,Virtus AlphaSimplex Managed Futures ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BBC,BBC,Virtus Biotech Clinical Trials ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BBP,BBP,Virtus Biotech ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VCLN,VCLN,Virtus Duff & Phelps Clean Energy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VEM,VEM,Virtus Emerging Markets Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+PFFA,PFFA,Virtus InfraCap U.S. Preferred Stock ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VDI,VDI,Virtus International Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KMID,KMID,Virtus KAR Mid-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VABS,VABS,Virtus Newfleet ABS/MBS ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VPC,VPC,Virtus Private Credit Strategy ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+UTES,UTES,Virtus Reaves Utilities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VGRO,VGRO,Virtus Silvant Growth Opportunities ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SSMG,SSMG,Virtus Silvant Small/Mid Growth ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+JOET,JOET,Virtus Terranova U.S. Quality Momentum ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+VUS,VUS,Virtus US Dividend ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AIS,AIS,VistaShares Artificial Intelligence Supercycle ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+BTYB,BTYB,VistaShares BitBonds 5 Yr Enhanced Weekly Distribution ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+POW,POW,VistaShares Electrification Supercycle ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XRPI,XRPI,Volatility Shares Trust XRP ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+VNIE,VNIE,Vontobel International Equity Active ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+UMMA,UMMA,Wahed Dow Jones Islamic World ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+HLAL,HLAL,Wahed FTSE USA Shariah ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+WCAP,WCAP,WarCap Unconstrained Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WSGE,WSGE,Warren Street Global Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CMBO,CMBO,Wayfinder Dynamic U.S. Interest Rate ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+WBIL,WBIL,WBI BullBear Quality 3000 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WBIF,WBIF,WBI BullBear Value 3000 ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WBIY,WBIY,WBI Power Factor High Dividend ETF,N, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DVXC,DVXC,WEBs Communication Services XLC Defined Volatility ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DVXY,DVXY,WEBs Consumer Discretionary XLY Defined Volatility ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DVXP,DVXP,WEBs Consumer Staples XLP Defined Volatility ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DVXE,DVXE,WEBs Energy XLE Defined Volatility ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DVXF,DVXF,WEBs Financial XLF Defined Volatility ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DVXV,DVXV,WEBs Health Care XLV Defined Volatility ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DVIN,DVIN,WEBs Industrials XLI Defined Volatility ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DVXB,DVXB,WEBs Materials XLB Defined Volatility ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DVQQ,DVQQ,WEBs QQQ Defined Volatility ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DVRE,DVRE,WEBs Real Estate XLRE Defined Volatility ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DVSP,DVSP,WEBs SPY Defined Volatility ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DVXK,DVXK,WEBs Technology XLK Defined Volatility ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DVUT,DVUT,WEBs Utilities XLU Defined Volatility ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+TGLR,TGLR,Wedbush LAFFER TENGLER New Era Value ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EXEQ,EXEQ,Wedbush ReturnOnLeadership U.S. Large-Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WDAF,WDAF,WisdomTree Asia Defense Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+WTBN,WTBN,WisdomTree Bianco Total Return Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+USDU,USDU,WisdomTree Bloomberg U.S. Dollar Bullish Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CXSE,CXSE,WisdomTree China ex-State-Owned Enterprises Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+WCLD,WCLD,WisdomTree Cloud Computing Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+WCBR,WCBR,WisdomTree Cybersecurity Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+NTSD,NTSD,WisdomTree Efficient U.S. Plus International Equity Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CEW,CEW,WisdomTree Emerging Currency Strategy Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DGS,DGS,WisdomTree Emerging Market SmallCap Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NTSE,NTSE,WisdomTree Emerging Markets Efficient Core Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XSOE,XSOE,WisdomTree Emerging Markets Ex-State Owned Enterprises Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DEM,DEM,WisdomTree Emerging Markets High Dividend Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EMMF,EMMF,WisdomTree Emerging Markets Multifactor Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DGRE,DGRE,WisdomTree Emerging Markets Quality Dividend Growth Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+GCC,GCC,WisdomTree EnhancedContinuous Commodity Index Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WDEF,WDEF,WisdomTree Europe Defense Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HEDJ,HEDJ,WisdomTree Europe Hedged Equity Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EUDG,EUDG,WisdomTree Europe Quality Dividend Growth Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DFE,DFE,WisdomTree Europe SmallCap Dividend Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OPPE,OPPE,WisdomTree European Opportunities Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GEOA,GEOA,WisdomTree GeoAlpha Opportunities Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WDGF,WDGF,WisdomTree Global Defense Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DNL,DNL,WisdomTree Global ex-U.S. Quality Growth Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DEW,DEW,WisdomTree Global High Dividend Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EPI,EPI,WisdomTree India Earnings Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+INDH,INDH,WisdomTree India Hedged Equity Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+WTIP,WTIP,WisdomTree Inflation Plus Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+WIMA,WIMA,WisdomTree International Adaptive Moving Average Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+AIVI,AIVI,WisdomTree International AI Enhanced Value Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NTSI,NTSI,WisdomTree International Efficient Core Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DWM,DWM,WisdomTree International Equity Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IHDG,IHDG,WisdomTree International Hedged Quality Dividend Growth Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DTH,DTH,WisdomTree International High Dividend Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DIM,DIM,WisdomTree International MidCap Dividend Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DWMF,DWMF,WisdomTree International Multifactor Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DLS,DLS,WisdomTree International SmallCap Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DXJ,DXJ,WisdomTree Japan Hedged Equity Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+OPPJ,OPPJ,WisdomTree Japan Opportunities Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DFJ,DFJ,WisdomTree Japan SmallCap Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WTMF,WTMF,WisdomTree Managed Futures Strategy Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WTRE,WTRE,WisdomTree New Economy Real Estate Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+GTR,GTR,WisdomTree Target Range Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DOL,DOL,WisdomTree True Developed International Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XC,XC,WisdomTree True Emerging Markets Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+AIVL,AIVL,WisdomTree U.S. AI Enhanced Value Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+NTSX,NTSX,WisdomTree U.S. Efficient Core Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DHS,DHS,WisdomTree U.S. High Dividend Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DLN,DLN,WisdomTree U.S. LargeCap Dividend Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EPS,EPS,WisdomTree U.S. LargeCap Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DON,DON,WisdomTree U.S. MidCap Dividend Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EZM,EZM,WisdomTree U.S. MidCap Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QMID,QMID,WisdomTree U.S. MidCap Quality Growth Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DGRW,DGRW,WisdomTree U.S. Quality Dividend Growth Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QGRW,QGRW,WisdomTree U.S. Quality Growth Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DES,DES,WisdomTree U.S. SmallCap Dividend Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EES,EES,WisdomTree U.S. SmallCap Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DGRS,DGRS,WisdomTree U.S. SmallCap Quality Dividend Growth Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QSML,QSML,WisdomTree U.S. SmallCap Quality Growth Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DTD,DTD,WisdomTree U.S. Total Dividend Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WTV,WTV,WisdomTree U.S. Value Fund,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+WAMA,WAMA,WisdomTree US Adaptive Moving Average Fund,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+XAIX,XAIX,Xtrackers Artificial Intelligence and Big Data ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+PSWD,PSWD,Xtrackers Cybersecurity Select Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+EMCR,EMCR,Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+XDEF,XDEF,Xtrackers Europe Defense Technologies ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DEEF,DEEF,Xtrackers FTSE Developed ex US Multifactor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ASHR,ASHR,Xtrackers Harvest CSI 300 China A-Shares ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ASHS,ASHS,Xtrackers Harvest CSI 500 China A-Shares Small Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+HAUZ,HAUZ,Xtrackers International Real Estate ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DBAW,DBAW,Xtrackers MSCI All World ex US Hedged Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DBEF,DBEF,Xtrackers MSCI EAFE Hedged Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EASG,EASG,Xtrackers MSCI EAFE Selection Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+EMCS,EMCS,Xtrackers MSCI Emerging Markets Climate Selection ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DBEM,DBEM,Xtrackers MSCI Emerging Markets Hedged Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DBEU,DBEU,Xtrackers MSCI Europe Hedged Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DBEZ,DBEZ,Xtrackers MSCI Eurozone Hedged Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DBJP,DBJP,Xtrackers MSCI Japan Hedged Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+KOKU,KOKU,Xtrackers MSCI Kokusai Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+USCA,USCA,Xtrackers MSCI USA Climate Action Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+USSG,USSG,Xtrackers MSCI USA Selection Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+USNZ,USNZ,Xtrackers Net Zero Pathway Paris Aligned US Equity ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+IND,IND,Xtrackers Nifty 500 India ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+NRES,NRES,Xtrackers RREEF Global Natural Resources ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QARP,QARP,Xtrackers Russell 1000 US Quality at a Reasonable Price ETF ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+DEUS,DEUS,Xtrackers Russell US Multifactor ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SPXD,SPXD,Xtrackers S&P 500 Diversified Sector Weight ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SNPE,SNPE,Xtrackers S&P 500 Scored & Screened ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+MIDE,MIDE,Xtrackers S&P MidCap 400 Scored & Screened ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+CHPS,CHPS,Xtrackers Semiconductor Select Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+UPGR,UPGR,Xtrackers US Green Infrastructure Select Equity ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+CRTC,CRTC,Xtrackers US National Critical Technologies ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+QDTY,QDTY,YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+RDTY,RDTY,YieldMax R2000 0DTE Covered Strategy ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+SDTY,SDTY,YieldMax S&P 500 0DTE Covered Call Strategy ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+DDDD,DDDD,YieldMax U.S. Stocks Target Double Distribution ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+YOKE,YOKE,YOKE Core ETF,Q,G,Y,Plain ETF,Plain ETF,,,,,ETF
+QUIZ,QUIZ,Zacks Quality International ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+SMIZ,SMIZ,Zacks Small/Mid Cap ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF
+ZHDG,ZHDG,ZEGA Buy and Hedge ETF,P, ,Y,Plain ETF,Plain ETF,,,,,ETF

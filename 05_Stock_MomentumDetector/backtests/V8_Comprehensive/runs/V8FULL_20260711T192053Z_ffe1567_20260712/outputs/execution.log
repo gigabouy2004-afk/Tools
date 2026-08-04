@@ -1,0 +1,71 @@
+Run_ID=V8FULL_20260711T192053Z_ffe1567_20260712
+Quarter=2026Q2 Seed=20260712 Minimum_Stocks=10
+Replay_Mode=DAILY_EOD_NO_ARCHIVED_INTRADAY_OR_LIVE_QUOTE
+ETF_Assumption=SAME_CALENDAR_QUARTER_STABILITY_ASSUMPTION
+ETF_LOOKUP_START stock=NVDA
+ETF_LOOKUP_DONE stock=NVDA returned=3 same_quarter_pass=1
+ETF_LOOKUP_START stock=AAPL
+ETF_LOOKUP_DONE stock=AAPL returned=3 same_quarter_pass=1
+ETF_LOOKUP_START stock=MSFT
+ETF_LOOKUP_DONE stock=MSFT returned=2 same_quarter_pass=2
+ETF_LOOKUP_START stock=TSLA
+ETF_LOOKUP_DONE stock=TSLA returned=3 same_quarter_pass=1
+ETF_LOOKUP_START stock=AMZN
+ETF_LOOKUP_DONE stock=AMZN returned=2 same_quarter_pass=1
+ETF_LOOKUP_START stock=META
+ETF_LOOKUP_DONE stock=META returned=3 same_quarter_pass=1
+ETF_LOOKUP_START stock=GOOGL
+ETF_LOOKUP_DONE stock=GOOGL returned=2 same_quarter_pass=1
+ETF_LOOKUP_START stock=COST
+ETF_LOOKUP_DONE stock=COST returned=2 same_quarter_pass=1
+ETF_LOOKUP_START stock=WMT
+ETF_LOOKUP_DONE stock=WMT returned=3 same_quarter_pass=1
+ETF_LOOKUP_START stock=XOM
+ETF_LOOKUP_DONE stock=XOM returned=3 same_quarter_pass=1
+SELECTED_STOCKS=NVDA,AAPL,MSFT,TSLA,AMZN,META,GOOGL,COST,WMT,XOM
+PRICE_DOWNLOAD_START symbol=SPY
+PRICE_DOWNLOAD_DONE symbol=SPY rows=875
+PRICE_DOWNLOAD_START symbol=NVDA
+PRICE_DOWNLOAD_DONE symbol=NVDA rows=875
+PRICE_DOWNLOAD_START symbol=AAPL
+PRICE_DOWNLOAD_DONE symbol=AAPL rows=875
+PRICE_DOWNLOAD_START symbol=MSFT
+PRICE_DOWNLOAD_DONE symbol=MSFT rows=875
+PRICE_DOWNLOAD_START symbol=TSLA
+PRICE_DOWNLOAD_DONE symbol=TSLA rows=875
+PRICE_DOWNLOAD_START symbol=AMZN
+PRICE_DOWNLOAD_DONE symbol=AMZN rows=875
+PRICE_DOWNLOAD_START symbol=META
+PRICE_DOWNLOAD_DONE symbol=META rows=875
+PRICE_DOWNLOAD_START symbol=GOOGL
+PRICE_DOWNLOAD_DONE symbol=GOOGL rows=875
+PRICE_DOWNLOAD_START symbol=COST
+PRICE_DOWNLOAD_DONE symbol=COST rows=875
+PRICE_DOWNLOAD_START symbol=WMT
+PRICE_DOWNLOAD_DONE symbol=WMT rows=875
+PRICE_DOWNLOAD_START symbol=XOM
+PRICE_DOWNLOAD_DONE symbol=XOM rows=875
+PRICE_DOWNLOAD_START symbol=VGT
+PRICE_DOWNLOAD_DONE symbol=VGT rows=875
+PRICE_DOWNLOAD_START symbol=VOOG
+PRICE_DOWNLOAD_DONE symbol=VOOG rows=875
+PRICE_DOWNLOAD_START symbol=VCR
+PRICE_DOWNLOAD_DONE symbol=VCR rows=875
+PRICE_DOWNLOAD_START symbol=VOX
+PRICE_DOWNLOAD_DONE symbol=VOX rows=875
+PRICE_DOWNLOAD_START symbol=VDC
+PRICE_DOWNLOAD_DONE symbol=VDC rows=875
+PRICE_DOWNLOAD_START symbol=VDE
+PRICE_DOWNLOAD_DONE symbol=VDE rows=875
+REPLAY_DONE stock=NVDA rows=62 random_date=2026-04-17 random_decision=REJECT random_score=40.0
+REPLAY_DONE stock=AAPL rows=62 random_date=2026-04-30 random_decision=REJECT random_score=35.0
+REPLAY_DONE stock=MSFT rows=62 random_date=2026-05-07 random_decision=REJECT random_score=18.0
+REPLAY_DONE stock=TSLA rows=62 random_date=2026-04-01 random_decision=REJECT random_score=20.0
+REPLAY_DONE stock=AMZN rows=62 random_date=2026-05-13 random_decision=REJECT random_score=35.0
+REPLAY_DONE stock=META rows=62 random_date=2026-05-01 random_decision=REJECT random_score=18.0
+REPLAY_DONE stock=GOOGL rows=62 random_date=2026-05-12 random_decision=MOMENTUM_ACTIVE random_score=100.0
+REPLAY_DONE stock=COST rows=62 random_date=2026-05-28 random_decision=REJECT random_score=35.0
+REPLAY_DONE stock=WMT rows=62 random_date=2026-04-01 random_decision=MOMENTUM_ACTIVE random_score=100.0
+REPLAY_DONE stock=XOM rows=62 random_date=2026-04-29 random_decision=MOMENTUM_PRESENT_WAIT_CONFIRMATION random_score=84.0
+VALIDATION_PASS
+RUN_COMPLETE run_dir=D:\Tools\Stock_MomentumDetector\backtests\V8_Comprehensive\runs\V8FULL_20260711T192053Z_ffe1567_20260712

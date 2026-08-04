@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+GURE,US,"Gulf Resources, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ELOX,US,"Eloxx Pharmaceuticals, Inc. - Common Stock",,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,34,2026-06-09,2026-07-28,0,0
+POLA,US,"Polar Power, Inc. - Common Stock",Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+OFAL,US,OFA Group - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,297,2025-05-21,2026-07-28,297,0
+MTR,US,Mesa Royalty Trust Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+APVO,US,Aptevo Therapeutics Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ALP,US,Alpha Compute Corp  - Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FMFC,US,Kandal M Venture Limited - Class A ordinary Shares,Consumer Discretionary,PROCESSED,,274,2025-06-25,2026-07-28,274,0
+HCWB,US,HCW Biologics Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NCNA,US,NuCana plc - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SSM,US,Sono Group N.V. - Ordinary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ENVB,US,"Enveric Biosciences, Inc.  - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MITQ,US,"Moving iMage Technologies, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ERNA,US,Ernexa Therapeutics Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+IPDN,US,"Professional Diversity Network, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+KRKR,US,36Kr Holdings Inc. - American Depositary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CNEY,US,CN Energy Group Inc. - Class A Ordinary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+INTJ,US,Intelligent Group Limited - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,590,2024-03-20,2026-07-28,501,0
+DRMA,US,"Dermata Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+OLB,US,"The OLB Group, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CETX,US,Cemtrex Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BMRA,US,"Biomerica, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EHGO,US,Eshallgo Inc. - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,519,2024-07-02,2026-07-28,501,0
+MF,US,MindForge Inc. - Class A Ordinary Shares,Technology,PROCESSED,,584,2024-03-28,2026-07-28,501,0
+ALZN,US,"Alzamend Neuro, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BKYI,US,"BIO-key International, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CTNT,US,Cheetah Net Supply Chain Service Inc. - Class A Common Stock,Consumer Discretionary,PROCESSED,,750,2023-08-01,2026-07-28,501,0
+HIHO,US,Highway Holdings Limited - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CDIO,US,Cardio Diagnostics Holdings Inc. - Common stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NWGL,US,CL Workshop Group Limited - American Depositary Shares,Energy,PROCESSED,,721,2023-09-12,2026-07-28,501,0
+MASK,US,3 E Network Technology Group Ltd - Class A Ordinary Shares,Technology,PROCESSED,,388,2025-01-08,2026-07-28,388,0
+BGMS,US,"Bio Green Med Solution, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CPOP,US,"Pop Culture Group Co., Ltd - Class A Ordinary Shares",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PPCB,US,"Propanc Biopharma, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CHNR,US,"China Natural Resources, Inc. - Common Shares",Basic Materials,PROCESSED,,1001,2022-07-29,2026-07-28,500,0
+LCFY,US,Locafy Limited - Ordinary Share,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ITOC,US,iTonic Holdings Ltd - Class A Ordinary Shares,Health Care,PROCESSED,,474,2024-09-05,2026-07-28,474,0
+ELAB,US,PMGC Holdings Inc. - Common Stock,Health Care,PROCESSED,,671,2023-11-21,2026-07-28,501,0
+FBLG,US,"FibroBiologics, Inc. - Common Stock",Health Care,PROCESSED,,624,2024-01-31,2026-07-28,501,0
+LUCY,US,"Innovative Eyewear, Inc. - Common Stock",Health Care,PROCESSED,,991,2022-08-15,2026-07-28,501,0
+JWEL,US,Jowell Global Ltd. - Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CLGN,US,CollPlant Biotechnologies Ltd. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SLE,US,"Super League Enterprise, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DFSC,US,"DEFSEC Technologies Inc. - common stock, no R/S concurrent with offering",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+REVB,US,"Revelation Biosciences, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TOPS,US,"TOP Ships, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ENSC,US,"Ensysce Biosciences, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NIVF,US,NewGenIvf Group Limited - Class A Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+INBS,US,Intelligent Bio Solutions Inc.  - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+INM,US,InMed Pharmaceuticals Inc. - Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0

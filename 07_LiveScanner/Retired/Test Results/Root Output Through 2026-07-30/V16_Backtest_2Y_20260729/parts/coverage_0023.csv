@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+BGSI,US,Boyd Group Services Inc. Common Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,183,2025-11-03,2026-07-28,0,0
+LCID,US,"Lucid Group, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AGYS,US,"Agilysys, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+SOUN,US,"SoundHound AI, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+SA,US,"Seabridge Gold, Inc. Common Shares New",Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+TGB,US,Trekor Metals Limited Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+WTTR,US,"Select Water Solutions, Inc. Class A common stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+RARE,US,Ultragenyx Pharmaceutical Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+PLBL,US,Polibeli Group Ltd - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,243,2025-08-08,2026-07-28,243,0
+FLNC,US,"Fluence Energy, Inc. - Class A Common Stock",Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+VISN,US,"Vistance Networks, Inc.  - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+ESTA,US,Establishment Labs Holdings Inc. - Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+WIX,US,Wix.com Ltd. - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+BTU,US,Peabody Energy Corporation Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+BEAM,US,Beam Therapeutics Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+PATK,US,"Patrick Industries, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+AMBP,US,Ardagh Metal Packaging S.A. Ordinary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+ERO,US,Ero Copper Corp. Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+CLDX,US,"Celldex Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+PAGS,US,PagSeguro Digital Ltd. Class A Common Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+SUPN,US,"Supernus Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+VC,US,Visteon Corporation - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+GPOR,US,Gulfport Energy Corporation Common Shares,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+AYA,US,Aya Gold & Silver Inc. - Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+TDC,US,Teradata Corporation Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+AVPT,US,"AvePoint, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+IHS,US,IHS Holding Limited Ordinary Shares,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+TNET,US,"TriNet Group, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ABM,US,ABM Industries Incorporated Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+SDRL,US,Seadrill Limited Common Shares,Energy,PROCESSED,,948,2022-10-14,2026-07-28,501,7
+MGNI,US,"Magnite, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+EROK,US,"EagleRock Land, LLC Class A shares representing limited liability company interests",Energy,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,51,2026-05-14,2026-07-28,0,0
+STNE,US,StoneCo Ltd. - Class A Common Share,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+XRAY,US,DENTSPLY SIRONA Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CENT,US,Central Garden & Pet Company - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+RUN,US,Sunrun Inc. - Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+OUST,US,"Ouster, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+DJT,US,Trump Media & Technology Group Corp. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+HLIO,US,"Helios Technologies, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+DNN,US,Denison Mines Corp Ordinary Shares (Canada),Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+DXPE,US,"DXP Enterprises, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+CC,US,Chemours Company (The) Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+WOR,US,"Worthington Enterprises, Inc. Common Shares",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+RUM,US,RUM Group Inc. - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+KD,US,"Kyndryl Holdings, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+KALU,US,Kaiser Aluminum Corporation - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+GRND,US,Grindr Inc. Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+VERA,US,"Vera Therapeutics, Inc. - Class A Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+AAUC,US,Allied Gold Corporation Common Shares,,PROCESSED,,488,2024-08-15,2026-07-28,488,7
+KOD,US,Kodiak Sciences Inc - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,11

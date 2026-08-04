@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+RSI,US,"Rush Street Interactive, Inc. Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+SOBO,US,South Bow Corporation Common Shares,Energy,PROCESSED,,454,2024-10-03,2026-07-28,454,5
+PBF,US,PBF Energy Inc. Class A Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+STN,US,Stantec Inc Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+ETSY,US,"Etsy, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+RGEN,US,Repligen Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SM,US,SM Energy Company Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+MXL,US,"MaxLinear, Inc - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+BAH,US,Booz Allen Hamilton Holding Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+SSD,US,"Simpson Manufacturing Company, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+CBC,US,"Central Bancompany, Inc. - Class A Common Stock",,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,169,2025-11-21,2026-07-28,0,0
+YOU,US,"Clear Secure, Inc. Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+BILI,US,Bilibili Inc. - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+MBLY,US,Mobileye Global Inc. - Class A Common Stock,Technology,PROCESSED,,940,2022-10-26,2026-07-28,501,0
+SNAP,US,Snap Inc. Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CHRD,US,Chord Energy Corporation - Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+JOBY,US,"Joby Aviation, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+AVAV,US,"AeroVironment, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+AVTR,US,"Avantor, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+BLDR,US,"Builders FirstSource, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+SSL,US,Sasol Ltd. American Depositary Shares,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+CMC,US,Commercial Metals Company Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+VFS,US,VinFast Auto Ltd. - Ordinary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TEX,US,Terex Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+AVT,US,"Avnet, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+ENS,US,EnerSys Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+RYTM,US,"Rhythm Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+BZ,US,KANZHUN LIMITED - American Depository Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+Z,US,"Zillow Group, Inc. - Class C Capital Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+ZG,US,"Zillow Group, Inc. - Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+CAMT,US,Camtek Ltd. - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+NOV,US,NOV Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+LQDA,US,Liquidia Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+NEU,US,NewMarket Corp Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+FLR,US,Fluor Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+SLAB,US,"Silicon Laboratories, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+NPO,US,Enpro Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,22
+POOL,US,Pool Corporation - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+LEA,US,Lear Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+EQX,US,Equinox Gold Corp. Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+MIRM,US,"Mirum Pharmaceuticals, Inc. - common stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+ACA,US,"Arcosa, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+FSS,US,Federal Signal Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+MSM,US,"MSC Industrial Direct Company, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+CRUS,US,"Cirrus Logic, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+LNTH,US,"Lantheus Holdings, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+MOS,US,Mosaic Company (The) Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+PLXS,US,Plexus Corp. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+LUMN,US,"Lumen Technologies, Inc. Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+TTAN,US,"ServiceTitan, Inc. - Class A Common Stock",Technology,PROCESSED,,405,2024-12-12,2026-07-28,405,0

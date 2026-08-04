@@ -1,0 +1,8 @@
+{
+  "Run_ID": "V8DIR_20260711T193832Z_0568444",
+  "Validation_Status": "PASS",
+  "Stocks_Checked": 10,
+  "Metrics_Recomputed": 80,
+  "Failure_Count": 0,
+  "Failures": []
+}

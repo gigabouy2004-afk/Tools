@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+LAKE,US,"Lakeland Industries, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+CAST,US,"FreeCast, Inc. - Class A common stock",Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,97,2026-03-10,2026-07-28,0,0
+FLYX,US,"flyExclusive, Inc. Class A Common Stock",Consumer Discretionary,PROCESSED,,645,2023-12-29,2026-07-28,501,0
+YDDL,US,One and One Green Technologies. INC - Class A Ordinary Shares,Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,200,2025-10-09,2026-07-28,0,0
+TCX,US,Tucows Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PLYX,US,"Polaryx Therapeutics, Inc. - Common Stock",Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,122,2026-02-02,2026-07-28,0,0
+CITR,US,CitroTech Inc. Common Stock,Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,161,2025-12-04,2026-07-28,0,0
+AMTX,US,"Aemetis, Inc - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+BAER,US,"Bridger Aerospace Group Holdings, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+WFF,US,WF Holding Limited - Ordinary Shares,Consumer Discretionary,PROCESSED,,335,2025-03-27,2026-07-28,335,0
+AGPU,US,Axe Compute Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SSTI,US,"SoundThinking, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+VRA,US,"Vera Bradley, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+USGO,US,U.S. GoldMining Inc. - Common stock,Basic Materials,PROCESSED,,820,2023-04-20,2026-07-28,501,3
+TGEN,US,Tecogen Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+BDTX,US,"Black Diamond Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+COYA,US,"Coya Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,896,2022-12-29,2026-07-28,501,0
+ALDX,US,"Aldeyra Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+TRT,US,Trio-Tech International Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+WRAP,US,"Wrap Technologies, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+KEQU,US,Kewaunee Scientific Corporation - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+DH,US,Definitive Healthcare Corp. - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BZFD,US,"BuzzFeed, Inc. - Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+RENT,US,"Rent the Runway, Inc. - Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+VERI,US,"Veritone, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+EP,US,Empire Petroleum Corporation Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NMAD,US,"Nomad Power Solutions, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+JELD,US,"JELD-WEN Holding, Inc. Common Stock",Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ONCY,US,Oncolytics Biotech Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SXTC,US,"China SXT Pharmaceuticals, Inc. - Class A Ordinary Shares",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+HSDT,US,Solana Company - Class A Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ICCC,US,ImmuCell Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FURY,US,Fury Gold Mines Limited Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+VWAV,US,"VisionWave Holdings, Inc. - Common Stock",Technology,PROCESSED,,261,2025-07-15,2026-07-28,261,0
+TTEC,US,"TTEC Holdings, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BNR,US,Burning Rock Biotech Limited - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+FTLF,US,"FitLife Brands, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SPWR,US,SunPower Inc. - Common Stock,Technology,PROCESSED,,894,2023-01-03,2026-07-28,501,0
+EMPD,US,Empery Digital Inc. - Common stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SKIN,US,SkinHealth Systems Inc. - Class A Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NEOV,US,NeoVolta Inc. - Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+HYPR,US,"Hyperfine, Inc.  - Class A Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+MYPS,US,"PLAYSTUDIOS, Inc.  - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ICG,US,Intchains Group Limited - American Depositary Shares,Technology,PROCESSED,,844,2023-03-16,2026-07-28,501,0
+ISPR,US,Ispire Technology Inc. - Common Stock,Health Care,PROCESSED,,831,2023-04-04,2026-07-28,501,0
+RPID,US,"Rapid Micro Biosystems, Inc. - Class A Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+PZG,US,Paramount Gold Nevada Corp. Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+RETO,US,"ReTo Eco-Solutions, Inc. - Class A Shares",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GLND,US,Greenland Energy Company - Common Stock,Energy,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,88,2026-03-23,2026-07-28,0,0
+ENTX,US,Entera Bio Ltd. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0

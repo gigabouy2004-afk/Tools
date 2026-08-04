@@ -1,0 +1,2 @@
+D:\Tools\07_LiveScanner\v16_two_year_backtest.py:677: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  return pd.concat(frames, ignore_index=True).reindex(columns=columns)

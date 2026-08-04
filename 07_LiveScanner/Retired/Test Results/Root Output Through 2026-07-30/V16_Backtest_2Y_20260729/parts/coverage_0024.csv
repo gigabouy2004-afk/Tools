@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+COHU,US,"Cohu, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+ANDE,US,"The Andersons, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+WU,US,Western Union Company (The) Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+DCO,US,Ducommun Incorporated Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+OLN,US,Olin Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ATS,US,ATS Corporation Common Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+ATAI,US,AtaiBeckley Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+ATEN,US,"A10 Networks, Inc. Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+KWR,US,Quaker Houghton Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+KMT,US,Kennametal Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+BCC,US,"Boise Cascade, L.L.C. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+TNK,US,Teekay Tankers Ltd.,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+DNOW,US,DNOW Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+NGVT,US,Ingevity Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+NYAX,US,Nayax Ltd. - Ordinary Shares,Technology,PROCESSED,,965,2022-09-21,2026-07-28,501,2
+ALRM,US,"Alarm.com Holdings, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+TRVI,US,"Trevi Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+IMNM,US,"Immunome, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+FSM,US,Fortuna Mining Corp. Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+BLBD,US,Blue Bird Corporation - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+TMDX,US,"TransMedics Group, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+LCII,US,LCI Industries,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+ASTH,US,Astrana Health Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+QURE,US,uniQure N.V. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+PGNY,US,"Progyny, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+CLOV,US,"Clover Health Investments, Corp.  - Class A Common stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+DGII,US,Digi International Inc. - Common Stock,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+ATKR,US,Atkore Inc. Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+SHAZ,US,"SharonAI Holdings, Inc. - Class A Common Stock",Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,111,2026-02-18,2026-07-28,0,0
+PBI,US,Pitney Bowes Inc. Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+PLUS,US,ePlus inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+NG,US,Novagold Resources Inc.,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+VVX,US,"V2X, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+TAK,US,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock),Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+TALO,US,"Talos Energy, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+TARS,US,"Tarsus Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+ROG,US,Rogers Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+ATHM,US,"Autohome Inc. American Depositary Shares, each representing four class A ordinary shares.",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+IOVA,US,"Iovance Biotherapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+NRIX,US,"Nurix Therapeutics, Inc. - Common stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+EXK,US,Endeavour Silver Corporation Ordinary Shares (Canada),Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+MAN,US,ManpowerGroup Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DRVN,US,Driven Brands Holdings Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+PHVS,US,Pharvaris N.V. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+SLS,US,"SELLAS Life Sciences Group, Inc.  - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+CENTA,US,Central Garden & Pet Company - Class A Common Stock Nonvoting,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+BCRX,US,"BioCryst Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1001,2022-07-29,2026-07-28,500,6
+DAC,US,Danaos Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+CALX,US,"Calix, Inc Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+KLRA,US,"Kailera Therapeutics, Inc. - Common stock",Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,70,2026-04-17,2026-07-28,0,0

@@ -1,0 +1,11 @@
+{
+  "Run_ID": "V8FULL_20260711T192053Z_ffe1567_20260712",
+  "Validation_Status": "PASS",
+  "Stocks_Checked": 10,
+  "Random_Rows_Checked": 10,
+  "Forward_Returns_Recomputed": 30,
+  "Execution_Rows_Contract_Checked": 620,
+  "Same_Quarter_Eligible_Mapping_Stocks": 10,
+  "Failure_Count": 0,
+  "Failures": []
+}

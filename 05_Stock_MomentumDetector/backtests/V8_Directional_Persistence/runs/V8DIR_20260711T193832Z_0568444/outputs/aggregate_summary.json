@@ -1,0 +1,23 @@
+{
+  "Run_ID": "V8DIR_20260711T193832Z_0568444",
+  "Source_Run": "V8FULL_20260711T192053Z_ffe1567_20260712",
+  "Selection_Month": "2026-04",
+  "Signal_Date": "2026-04-30",
+  "Signal_Date_Selection_Rule": "MAXIMUM_ACTIVE_COUNT_THEN_EARLIEST_DATE_WITHOUT_FORWARD_OUTCOMES",
+  "Stocks_Checked": 10,
+  "Active_Signals": 4,
+  "Primary_D1_Rule": "D1_CLOSE_GREATER_THAN_D_CLOSE",
+  "Active_D1_Direction_Pass_Count": 1,
+  "Active_D1_Direction_Pass_Rate_Pct": 25.0,
+  "Active_D1_Mean_Close_vs_D_Close_Pct": -0.3303899125467441,
+  "Active_D1_Intraday_Up_Rate_Pct": 50.0,
+  "Active_D5_Persistence_Pass_Rate_Pct": 25.0,
+  "Active_D5_Mean_Close_vs_D_Close_Pct": -0.7871787863148598,
+  "Active_D8_Persistence_Pass_Rate_Pct": 50.0,
+  "Active_D8_Mean_Close_vs_D_Close_Pct": -0.5519737487930276,
+  "Active_ETF_References": 4,
+  "Active_ETF_D1_Direction_Pass_Rate_Pct": 0.0,
+  "Active_ETF_D5_Persistence_Pass_Rate_Pct": 25.0,
+  "Active_ETF_D8_Persistence_Pass_Rate_Pct": 0.0,
+  "Evidence_Classification": "PRIMARY_D1_DIRECTION_NOT_SUPPORTED_IN_SELECTED_SAMPLE"
+}

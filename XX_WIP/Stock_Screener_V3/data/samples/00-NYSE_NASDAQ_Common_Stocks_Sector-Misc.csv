@@ -1,0 +1,76 @@
+Ticker,Symbol,Security Name,Listing Exchange,Market Category,ETF, MarketCap ,TrailingPE,ForwardPE,Sector,Industry
+GEV,GEV,GE Vernova Inc. Common Stock,N, ,N,"2,88,53,27,20,231.00",,,,
+FERG,FERG,Ferguson Enterprises Inc. Common Stock,N, ,N,"45,46,63,90,462.00",,,Miscellaneous,Miscellaneous
+CAE,CAE,CAE Inc. Ordinary Shares,N, ,N,"8,38,62,45,154.00",,,Miscellaneous,Industrial Machinery/Components
+OGC,OGC,OceanaGold Corporation Common Shares,N, ,N,"7,56,77,26,314.00",,,,
+IDCC,IDCC,"InterDigital, Inc. - Common Stock",Q,Q,N,"6,93,64,18,108.00",,,Miscellaneous,Multi-Sector Companies
+AUGO,AUGO,Aura Minerals Inc. - Common Shares,Q,Q,N,"6,75,96,12,226.00",,,,
+CBC,CBC,"Central Bancompany, Inc. - Class A Common Stock",Q,Q,N,"6,50,71,37,256.00",,,,
+NOVT,NOVT,Novanta Inc. - Common Shares,Q,Q,N,"5,44,07,79,665.00",,,Miscellaneous,Industrial Machinery/Components
+QS,QS,QuantumScape Corporation - Common Stock,Q,Q,N,"5,31,17,77,731.00",,,Miscellaneous,Industrial Machinery/Components
+OTF,OTF,Blue Owl Technology Finance Corp. Common Stock,N, ,N,"5,17,68,27,470.00",,,,
+DLB,DLB,Dolby Laboratories Common Stock,N, ,N,"5,14,14,07,550.00",,,Miscellaneous,Multi-Sector Companies
+ARIS,ARIS,Aris Mining Corporation Common Shares,N, ,N,"4,10,94,24,000.00",,,,
+FLNC,FLNC,"Fluence Energy, Inc. - Class A Common Stock",Q,Q,N,"3,97,95,32,798.00",,,Miscellaneous,Industrial Machinery/Components
+AAUC,AAUC,Allied Gold Corporation Common Shares,N, ,N,"3,68,38,34,000.00",,,,
+RUN,RUN,Sunrun Inc. - Common Stock,Q,Q,N,"3,46,01,57,408.00",,,Miscellaneous,Industrial Machinery/Components
+BELFB,BELFB,Bel Fuse Inc. - Class B Common Stock,Q,Q,N,"3,38,78,02,420.00",,,,
+NATL,NATL,NCR Atleos Corporation Common Stock,N, ,N,"3,31,64,02,774.00",,,Miscellaneous,Office Equipment/Supplies/Services
+VGNT,VGNT,Versigent PLC Ordinary Shares,N, ,N,"3,16,07,93,831.00",,,,
+GEF,GEF,Greif Inc. Class A Common Stock,N, ,N,"3,03,43,84,911.00",,,,
+BELFA,BELFA,Bel Fuse Inc. - Class A Common Stock,Q,Q,N,"3,03,43,65,620.00",,,,
+BGSI,BGSI,Boyd Group Services Inc. Common Shares,N, ,N,"2,87,01,14,500.00",,,,
+EOSE,EOSE,"Eos Energy Enterprises, Inc. - Common Stock",Q,S,N,"2,78,59,40,210.00",,,Miscellaneous,Industrial Machinery/Components
+ATKR,ATKR,Atkore Inc. Common Stock,N, ,N,"2,54,90,90,910.00",,,Miscellaneous,Industrial Machinery/Components
+AMPX,AMPX,"Amprius Technologies, Inc. Common Stock",N, ,N,"2,53,65,42,615.00",,,Miscellaneous,Industrial Machinery/Components
+DBD,DBD,Diebold Nixdorf Incorporated Common stock,N, ,N,"2,49,80,92,199.00",,,Miscellaneous,Office Equipment/Supplies/Services
+PBI,PBI,Pitney Bowes Inc. Common Stock,N, ,N,"2,14,74,23,793.00",,,Miscellaneous,Office Equipment/Supplies/Services
+BTX,BTX,BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest,N, ,N,"2,08,79,75,121.00",,,,
+SPB,SPB,"Spectrum Brands Holdings, Inc. Common Stock",N, ,N,"1,86,06,46,586.00",,,Miscellaneous,Industrial Machinery/Components
+SLSR,SLSR,Solaris Resources Inc. Common Shares,A, ,N,"1,81,23,33,309.00",,,,
+NVRI,NVRI,Enviri Corporation Common Stock,N, ,N,"1,63,42,62,696.00",,,Miscellaneous,Diversified Commercial Services
+CNL,CNL,Collective Mining Ltd. Common Shares,A, ,N,"1,59,60,01,586.00",,,,
+BVC,BVC,BitVentures Limited - Ordinary Share,Q,S,N,"1,56,24,00,000.00",,,,
+TE,TE,T1 Energy Inc. Common Stock,N, ,N,"1,52,90,10,806.00",,,Miscellaneous,Industrial Machinery/Components
+NICM,NICM,Nicola Mining Inc. - American Depositary Shares,Q,S,N,"1,50,33,93,394.00",,,,
+ENVX,ENVX,Enovix Corporation - Common Stock,Q,Q,N,"1,37,79,40,959.00",,,Miscellaneous,Industrial Machinery/Components
+VMET,VMET,Versamet Royalties Corporation - Common Stock,Q,S,N,"1,29,62,68,125.00",,,,
+HSLV,HSLV,Highlander Silver Corp. Common Shares,A, ,N,"1,25,02,13,008.00",,,,
+DEC,DEC,Diversified Energy Company Common Stock,N, ,N,"1,23,50,08,722.00",,,,
+ENR,ENR,"Energizer Holdings, Inc. Common Stock",N, ,N,"1,15,51,47,692.00",,,Miscellaneous,Industrial Machinery/Components
+PSUS,PSUS,"Pershing Square USA, Ltd. Common Shares",N, ,N,"1,09,38,54,500.00",,,,
+NRGV,NRGV,"Energy Vault Holdings, Inc. Common Stock",N, ,N,"1,05,27,16,415.00",,,Miscellaneous,Industrial Machinery/Components
+KBDC,KBDC,"Kayne Anderson BDC, Inc. Common Stock",N, ,N,"98,52,97,530.00",,,,
+VYX,VYX,NCR Voyix Corporation Common Stock,N, ,N,"96,36,30,452.00",,,Miscellaneous,Office Equipment/Supplies/Services
+SCZM,SCZM,Santacruz Silver Mining Ltd. - Common Shares,Q,S,N,"89,44,42,793.00",,,,
+ISOU,ISOU,IsoEnergy Ltd. Common Shares,A, ,N,"71,96,65,423.00",,,,
+MAKO,MAKO,Mako Mining Corp - Common Stock,Q,S,N,"69,78,90,237.00",,,,
+SLDP,SLDP,"Solid Power, Inc. - Class A Common Stock",Q,Q,N,"67,04,51,402.00",,,Miscellaneous,Industrial Machinery/Components
+IMSR,IMSR,Terrestrial Energy Inc. - Common Stock,Q,Q,N,"66,98,82,537.00",,,,
+NCDL,NCDL,Nuveen Churchill Direct Lending Corp. Common Stock,N, ,N,"65,36,37,805.00",,,,
+BMM,BMM,Blue Moon Metals Inc. - Common Shares,Q,S,N,"63,63,50,051.00",,,,
+QNC,QNC,Quantum eMotion Corp. Common Shares,A, ,N,"60,76,76,503.00",,,,
+PAR,PAR,PAR Technology Corporation Common Stock,N, ,N,"59,18,82,956.00",,,Miscellaneous,Office Equipment/Supplies/Services
+ELVA,ELVA,Electrovaya Inc. - Common Shares,Q,S,N,"52,65,68,919.00",,,,
+MVST,MVST,"Microvast Holdings, Inc. - Common Stock",Q,S,N,"50,47,33,437.00",,,Miscellaneous,Industrial Machinery/Components
+APPS,APPS,"Digital Turbine, Inc. - Common Stock",Q,S,N,"50,17,81,220.00",,,Miscellaneous,Multi-Sector Companies
+ACTG,ACTG,Acacia Research Corporation - Common Stock,Q,Q,N,"45,54,17,757.00",,,Miscellaneous,Multi-Sector Companies
+BTQ,BTQ,BTQ Technologies Corp. - Common Stock,Q,G,N,"45,36,08,085.00",,,,
+SUPX,SUPX,SuperX AI Technology Limited - Ordinary Shares,Q,S,N,"44,51,30,311.00",,,,
+SES,SES,SES AI Corporation Class A Common Stock,N, ,N,"39,88,26,033.00",,,Miscellaneous,Industrial Machinery/Components
+NHP,NHP,"National Healthcare Properties, Inc. - Class A Common Stock",Q,G,N,"39,53,55,526.00",,,,
+ORBS,ORBS,Eightco Holdings Inc. - Common Stock,Q,S,N,"34,48,86,556.00",,,,
+ALCO,ALCO,"Alico, Inc. - Common Stock",Q,Q,N,"30,25,86,142.00",,,,
+VFF,VFF,"Village Farms International, Inc. - Common Shares",Q,S,N,"30,17,56,418.00",,,,
+PPHC,PPHC,"Public Policy Holding Company, Inc. - Common Stock",Q,G,N,"30,07,37,631.00",,,,
+TII,TII,Titan Mining Corporation Common Shares,A, ,N,"28,20,86,858.00",,,,
+NGEN,NGEN,NervGen Pharma Corp. - Common stock,Q,S,N,"27,38,62,570.00",,,,
+CAMP,CAMP,CAMP4 Therapeutics Corporation - Common Stock,Q,G,N,"23,13,29,439.00",,,,
+KTWO,KTWO,K2 Capital Acquisition Corporation - Class A Ordinary Share,Q,G,N,"20,02,11,188.00",,,,
+ALPS,ALPS,ALPS Group Inc - Ordinary Share,Q,G,N,"13,81,28,911.00",,,,
+ACOG,ACOG,Alpha Cognition Inc. - Common Stock,Q,S,N,"12,30,23,688.00",,,,
+NEOV,NEOV,NeoVolta Inc. - Common Stock,Q,S,N,"12,23,67,877.00",,,Miscellaneous,Industrial Machinery/Components
+BYRN,BYRN,"Byrna Technologies, Inc. - Common Stock",Q,S,N,"11,78,51,973.00",,,Miscellaneous,Industrial Machinery/Components
+JYNT,JYNT,The Joint Corp. - Common Stock,Q,S,N,"11,76,07,017.00",,,Miscellaneous,Multi-Sector Companies
+FGMC,FGMC,FG Merger II Corp. - Common stock,Q,G,N,"10,55,21,157.00",,,,
+ULBI,ULBI,Ultralife Corporation - Common Stock,Q,G,N,"10,31,04,781.00",,,Miscellaneous,Industrial Machinery/Components

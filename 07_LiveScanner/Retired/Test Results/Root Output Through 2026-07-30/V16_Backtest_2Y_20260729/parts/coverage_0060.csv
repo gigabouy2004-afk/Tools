@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+INTZ,US,Intrusion Inc. - Common Stock,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CTRM,US,Castor Maritime Inc. - Common Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PMEC,US,Primech Holdings Ltd. - Ordinary Shares,Consumer Discretionary,PROCESSED,,702,2023-10-09,2026-07-28,501,0
+DFLI,US,Dragonfly Energy Holdings Corp - Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MSGM,US,Motorsport Games Inc. - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LGVN,US,Longeveron Inc. - Class A Common stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+QNTM,US,Quantum Biopharma Ltd. - Class B Subordinate Voting Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+YXT,US,YXT.COM GROUP HOLDING LIMITED - American Depository Shares,Technology,PROCESSED,,487,2024-08-16,2026-07-28,487,0
+LPSN,US,"LivePerson, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DETX,US,"Liberty Defense Holdings, Ltd. - Common Shares",Telecommunications,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,68,2026-04-21,2026-07-28,0,0
+STAK,US,STAK Inc. - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,356,2025-02-26,2026-07-28,356,0
+FOFO,US,"Hang Feng Technology Innovation Co., Ltd. - Ordinary Shares",Consumer Discretionary,PROCESSED,,219,2025-09-12,2026-07-28,219,0
+LICN,US,Lichen International Limited - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,871,2023-02-06,2026-07-28,501,4
+MXC,US,Mexco Energy Corporation Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ALLR,US,"Allarity Therapeutics, Inc. - Common stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RKTO,US,Rocket One Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SMXT,US,Solarmax Technology Inc. - Common Stock,Consumer Discretionary,PROCESSED,,606,2024-02-27,2026-07-28,501,0
+AMOD,US,"Alpha Modus Holdings, Inc. - Class A Common Stock",Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PMA,US,Ming Shing Group Holdings Limited - Ordinary Shares,Consumer Discretionary,PROCESSED,,418,2024-11-22,2026-07-28,418,0
+DARE,US,"Dare Bioscience, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DUKR,US,DUKE Robotics Corp. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BMR,US,Beamr Imaging Ltd. - Ordinary Share,Technology,PROCESSED,,856,2023-02-28,2026-07-28,501,0
+NXTC,US,"NextCure, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+YAAS,US,Youxin Technology Ltd - Class A Ordinary shares,Technology,PROCESSED,,399,2024-12-20,2026-07-28,399,0
+FNGR,US,"FingerMotion, Inc. - common stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+QNCX,US,"Quince Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+PASW,US,"Ping An Biomedical Co., Ltd. - Class A Ordinary Shares",Consumer Discretionary,PROCESSED,,258,2025-07-18,2026-07-28,258,0
+GGRP,US,"The Glimpse Group, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LPCN,US,Lipocine Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+NEUP,US,Neuphoria Therapeutics Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+AIFF,US,"Firefly Neuroscience, Inc.  - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+REFR,US,Research Frontiers Incorporated - Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EFOI,US,"Energy Focus, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NMTC,US,NeuroOne Medical Technologies Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+HOWL,US,"Werewolf Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SDST,US,Stardust Power Inc. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TURB,US,"Turbo Energy, S.A. - American Depositary Shares",Miscellaneous,PROCESSED,,713,2023-09-22,2026-07-28,501,0
+SST,US,"System1, Inc. Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BLIN,US,"Bridgeline Digital, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TLIH,US,Ten-League International Holdings Limited - Ordinary Shares,,PROCESSED,,266,2025-07-08,2026-07-28,266,0
+ARAI,US,Arrive AI Inc. - Common Stock,Consumer Discretionary,PROCESSED,,301,2025-05-15,2026-07-28,301,0
+ZJYL,US,JIN MEDICAL INTERNATIONAL LTD. - Class A Ordinary Shares,Health Care,PROCESSED,,836,2023-03-28,2026-07-28,501,0
+TVGN,US,Tevogen Bio Holdings Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NTZ,US,"Natuzzi, S.p.A.",Consumer Discretionary,PROCESSED,,1001,2022-07-29,2026-07-27,500,0
+HPAI,US,Helport AI Limited - Ordinary Shares,Technology,PROCESSED,,496,2024-08-05,2026-07-28,496,0
+SEGG,US,Sports Entertainment Gaming Global Corporation  - Common Stock,Technology,PROCESSED,,781,2023-06-15,2026-07-28,501,0
+ONEG,US,OneConstruction Group Limited - Ordinary Shares,Consumer Discretionary,PROCESSED,,393,2024-12-31,2026-07-28,393,0
+CYN,US,Cyngn Inc. - Common stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DFNS,US,T3 Defense Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MWYN,US,"Marwynn Holdings, Inc. - Common stock",Consumer Discretionary,PROCESSED,,345,2025-03-13,2026-07-28,345,0

@@ -1,0 +1,201 @@
+Ticker,Symbol,Security Name,Listing Exchange,MarketCap,Sector,Industry
+NVDA,NVDA,NVIDIA Corporation - Common Stock,NASDAQ,4864926000000.0,Technology,Semiconductors
+AAPL,AAPL,Apple Inc. - Common Stock,NASDAQ,4392106938240.0,Technology,Computer Manufacturing
+GOOGL,GOOGL,Alphabet Inc. - Class A Common Stock,NASDAQ,4248596560000.0,Technology,Computer Software: Programming Data Processing
+GOOG,GOOG,Alphabet Inc. - Class C Capital Stock,NASDAQ,4239873040000.0,Technology,Computer Software: Programming Data Processing
+MSFT,MSFT,Microsoft Corporation - Common Stock,NASDAQ,2780760247095.0,Technology,Computer Software: Prepackaged Software
+SPCX,SPCX,Space Exploration Technologies Corp. - Class A Common Stock,NASDAQ,2090881667973.0,Technology,Computer Software: Programming Data Processing
+AVGO,AVGO,Broadcom Inc. - Common Stock,NASDAQ,1833928226824.0,Technology,Semiconductors
+META,META,"Meta Platforms, Inc. - Class A Common Stock",NASDAQ,1431683435573.0,Technology,Computer Software: Programming Data Processing
+MU,MU,"Micron Technology, Inc. - Common Stock",NASDAQ,1179824086816.0,Technology,Semiconductors
+AMD,AMD,"Advanced Micro Devices, Inc. - Common Stock",NASDAQ,847626977168.0,Technology,Semiconductors
+ASML,ASML,ASML Holding N.V. - New York Registry Shares,NASDAQ,681528275755.0,Technology,Industrial Machinery/Components
+INTC,INTC,Intel Corporation - Common Stock,NASDAQ,675720570000.0,Technology,Semiconductors
+AMAT,AMAT,"Applied Materials, Inc. - Common Stock",NASDAQ,466824326057.0,Technology,Semiconductors
+LRCX,LRCX,Lam Research Corporation - Common Stock,NASDAQ,461598261810.0,Technology,Industrial Machinery/Components
+ARM,ARM,Arm Holdings plc - American Depositary Shares,NASDAQ,380240144302.0,Technology,Semiconductors
+KLAC,KLAC,KLA Corporation  - Common Stock,NASDAQ,313937121219.0,Technology,Electronic Components
+SNDK,SNDK,Sandisk Corporation - Common Stock When-Issued,NASDAQ,285662921836.0,Technology,Electronic Components
+TXN,TXN,Texas Instruments Incorporated - Common Stock,NASDAQ,276963988621.0,Technology,Semiconductors
+PLTR,PLTR,Palantir Technologies Inc. - Class A Common Stock,NASDAQ,274922299135.0,Technology,Computer Software: Prepackaged Software
+MRVL,MRVL,"Marvell Technology, Inc. - Common Stock",NASDAQ,237425181480.0,Technology,Semiconductors
+PANW,PANW,"Palo Alto Networks, Inc. - Common Stock",NASDAQ,234752600000.0,Technology,Computer peripheral equipment
+STX,STX,Seagate Technology Holdings PLC - Ordinary Shares (Ireland),NASDAQ,226090092634.0,Technology,Electronic Components
+WDC,WDC,Western Digital Corporation - Common Stock,NASDAQ,222295846746.0,Technology,Electronic Components
+QCOM,QCOM,QUALCOMM Incorporated - Common Stock,NASDAQ,207738130000.0,Technology,Radio And Television Broadcasting And Communications Equipment
+ADI,ADI,"Analog Devices, Inc. - Common Stock",NASDAQ,201001337926.0,Technology,Semiconductors
+CRWD,CRWD,"CrowdStrike Holdings, Inc. - Class A Common Stock",NASDAQ,172759142269.0,Technology,Computer Software: Prepackaged Software
+APP,APP,Applovin Corporation - Class A Common Stock,NASDAQ,155750182500.0,Technology,Computer Software: Programming Data Processing
+SHOP,SHOP,Shopify Inc. - Class A Subordinate Voting Shares,NASDAQ,144068269760.0,Technology,Computer Software: Prepackaged Software
+PDD,PDD,PDD Holdings Inc. - American Depositary Shares,NASDAQ,108811542538.0,Technology,EDP Services
+FTNT,FTNT,"Fortinet, Inc. - Common Stock",NASDAQ,107677334025.0,Technology,Computer peripheral equipment
+CDNS,CDNS,"Cadence Design Systems, Inc. - Common Stock",NASDAQ,104226729160.0,Technology,Computer Software: Prepackaged Software
+SNPS,SNPS,"Synopsys, Inc. - Common Stock",NASDAQ,90437599991.0,Technology,Computer Software: Prepackaged Software
+DDOG,DDOG,"Datadog, Inc. - Class A Common Stock",NASDAQ,79233178470.0,Technology,Computer Software: Prepackaged Software
+ADBE,ADBE,Adobe Inc. - Common Stock,NASDAQ,79191937500.0,Technology,Computer Software: Prepackaged Software
+DASH,DASH,"DoorDash, Inc. - Common Stock",NASDAQ,78477299019.0,Technology,EDP Services
+NTES,NTES,"NetEase, Inc. - American Depositary Shares, each representing 5 ordinary shares",NASDAQ,75755377985.0,Technology,Computer Software: Prepackaged Software
+NXPI,NXPI,NXP Semiconductors N.V. - Common Stock,NASDAQ,74699880499.0,Technology,Semiconductors
+INTU,INTU,Intuit Inc. - Common Stock,NASDAQ,72970097805.0,Technology,Computer Software: Prepackaged Software
+MPWR,MPWR,"Monolithic Power Systems, Inc. - Common Stock",NASDAQ,70565419000.0,Technology,Semiconductors
+ALAB,ALAB,"Astera Labs, Inc. - Common Stock",NASDAQ,69272804467.0,Technology,Semiconductors
+NBIS,NBIS,Nebius Group N.V. - Class A Ordinary Shares,NASDAQ,66192528667.0,Technology,Computer Software: Programming Data Processing
+CRWV,CRWV,"CoreWeave, Inc. - Class A Common Stock",NASDAQ,56270125486.0,Technology,Computer Software: Prepackaged Software
+FLEX,FLEX,Flex Ltd. - Ordinary Shares,NASDAQ,55685780517.0,Technology,Electrical Products
+CRDO,CRDO,Credo Technology Group Holding Ltd - Ordinary Shares,NASDAQ,50475837431.0,Technology,Semiconductors
+MCHP,MCHP,Microchip Technology Incorporated - Common Stock,NASDAQ,50353744412.0,Technology,Semiconductors
+GFS,GFS,GlobalFoundries Inc. - Ordinary Share,NASDAQ,46844768783.0,Technology,Semiconductors
+ON,ON,ON Semiconductor Corporation - Common Stock,NASDAQ,45111976316.0,Technology,Semiconductors
+ADSK,ADSK,"Autodesk, Inc. - Common Stock",NASDAQ,40919230000.0,Technology,Computer Software: Prepackaged Software
+CBRS,CBRS,Cerebras Systems Inc. - Class A Common Stock,NASDAQ,39957178637.0,Technology,Semiconductors
+ERIC,ERIC,Ericsson - American Depositary Shares each representing 1 underlying Class B share,NASDAQ,37607428604.0,Technology,Radio And Television Broadcasting And Communications Equipment
+BIDU,BIDU,"Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share",NASDAQ,36890193289.0,Technology,Computer Software: Programming Data Processing
+MSTR,MSTR,Strategy Inc - Class A Common Stock,NASDAQ,33972311577.0,Technology,Computer Software: Prepackaged Software
+ROP,ROP,"Roper Technologies, Inc. - Common Stock",NASDAQ,33475297154.0,Technology,Computer Software: Programming Data Processing
+TSEM,TSEM,Tower Semiconductor Ltd. - Ordinary Shares,NASDAQ,31486057122.0,Technology,Semiconductors
+NTAP,NTAP,"NetApp, Inc. - Common Stock",NASDAQ,30686938166.0,Technology,Electronic Components
+WDAY,WDAY,"Workday, Inc. - Class A Common Stock",NASDAQ,29462160000.0,Technology,EDP Services
+MTSI,MTSI,"MACOM Technology Solutions Holdings, Inc. - Common Stock",NASDAQ,28427042435.0,Technology,Semiconductors
+FSLR,FSLR,"First Solar, Inc. - Common Stock",NASDAQ,27278647998.0,Technology,Semiconductors
+ZM,ZM,"Zoom Communications, Inc. - Class A Common Stock",NASDAQ,25360188374.0,Technology,Computer Software: Programming Data Processing
+MDB,MDB,"MongoDB, Inc. - Class A Common Stock",NASDAQ,25007492583.0,Technology,Computer Software: Prepackaged Software
+VRSN,VRSN,"VeriSign, Inc. - Common Stock",NASDAQ,23006620000.0,Technology,EDP Services
+TTMI,TTMI,"TTM Technologies, Inc. - Common Stock",NASDAQ,22376572213.0,Technology,Electrical Products
+TEAM,TEAM,Atlassian Corporation  - Class A Common Stock,NASDAQ,20882557364.0,Technology,Computer Software: Prepackaged Software
+OKTA,OKTA,"Okta, Inc. - Class A Common Stock",NASDAQ,20806479664.0,Technology,Computer Software: Prepackaged Software
+ZS,ZS,"Zscaler, Inc. - Common Stock",NASDAQ,20759460272.0,Technology,EDP Services
+AMKR,AMKR,"Amkor Technology, Inc. - Common Stock",NASDAQ,20579615807.0,Technology,Semiconductors
+CTSH,CTSH,Cognizant Technology Solutions Corporation - Class A Common Stock,NASDAQ,20006768981.0,Technology,EDP Services
+SMCI,SMCI,"Super Micro Computer, Inc. - Common Stock",NASDAQ,19870866645.0,Technology,Computer Manufacturing
+LSCC,LSCC,Lattice Semiconductor Corporation - Common Stock,NASDAQ,19853808558.0,Technology,Semiconductors
+QNT,QNT,Quantinuum Inc. - Class A Common Stock,NASDAQ,19009108483.0,Technology,EDP Services
+SITM,SITM,SiTime Corporation - Common Stock,NASDAQ,18985390602.0,Technology,Semiconductors
+IREN,IREN,IREN Limited - Ordinary Shares,NASDAQ,18640871636.0,Technology,EDP Services
+CDW,CDW,CDW Corporation - Common Stock,NASDAQ,16750393728.0,Technology,Retail: Computer Software & Peripheral Equipment
+NVMI,NVMI,Nova Ltd. - Ordinary Shares,NASDAQ,16694006043.0,Technology,Electronic Components
+SSNC,SSNC,"SS&C Technologies Holdings, Inc. - Common Stock",NASDAQ,16168393208.0,Technology,Computer Software: Prepackaged Software
+VICR,VICR,Vicor Corporation - Common Stock,NASDAQ,15197980629.0,Technology,Industrial Machinery/Components
+SMTC,SMTC,Semtech Corporation - Common Stock,NASDAQ,15027146422.0,Technology,Semiconductors
+LOGI,LOGI,Logitech International S.A. - Registered Shares,NASDAQ,14774117764.0,Technology,Computer peripheral equipment
+GEN,GEN,Gen Digital Inc. - Common Stock,NASDAQ,14328889217.0,Technology,Computer Software: Prepackaged Software
+AEIS,AEIS,"Advanced Energy Industries, Inc. - Common Stock",NASDAQ,13971512615.0,Technology,Industrial Machinery/Components
+SANM,SANM,Sanmina Corporation - Common Stock,NASDAQ,13774081918.0,Technology,Electrical Products
+WULF,WULF,TeraWulf Inc. - Common Stock,NASDAQ,13763121895.0,Technology,EDP Services
+RMBS,RMBS,"Rambus, Inc. - Common Stock",NASDAQ,13678244956.0,Technology,Semiconductors
+CHKP,CHKP,Check Point Software Technologies Ltd. - Ordinary Shares,NASDAQ,13327275577.0,Technology,Computer Software: Prepackaged Software
+PTC,PTC,PTC Inc. - Common Stock,NASDAQ,13190761332.0,Technology,Computer Software: Prepackaged Software
+NTNX,NTNX,"Nutanix, Inc. - Class A Common Stock",NASDAQ,13102435071.0,Technology,Computer Software: Prepackaged Software
+AUR,AUR,"Aurora Innovation, Inc.  - Class A Common Stock",NASDAQ,12522281723.0,Technology,EDP Services
+VIAV,VIAV,Viavi Solutions Inc. - Common Stock,NASDAQ,11672002713.0,Technology,Semiconductors
+AAOI,AAOI,"Applied Optoelectronics, Inc. - Common Stock",NASDAQ,11657669190.0,Technology,Semiconductors
+FORM,FORM,"FormFactor, Inc. - Common Stock",NASDAQ,11044632097.0,Technology,Semiconductors
+SWKS,SWKS,"Skyworks Solutions, Inc. - Common Stock",NASDAQ,10856302409.0,Technology,Semiconductors
+SIMO,SIMO,"Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares",NASDAQ,10794728811.0,Technology,Semiconductors
+ALGM,ALGM,"Allegro MicroSystems, Inc. - Common Stock",NASDAQ,10486183682.0,Technology,Semiconductors
+FROG,FROG,JFrog Ltd. - Ordinary shares,NASDAQ,9395256991.0,Technology,Computer Software: Prepackaged Software
+TEM,TEM,"Tempus AI, Inc. - Class A Common Stock",NASDAQ,9125481459.0,Technology,Computer Software: Programming Data Processing
+JKHY,JKHY,"Jack Henry & Associates, Inc. - Common Stock",NASDAQ,9112617789.0,Technology,EDP Services
+BSY,BSY,"Bentley Systems, Incorporated - Class B Common Stock",NASDAQ,8723521494.0,Technology,Computer Software: Prepackaged Software
+VSAT,VSAT,"ViaSat, Inc. - Common Stock",NASDAQ,8670762826.0,Technology,Radio And Television Broadcasting And Communications Equipment
+QRVO,QRVO,"Qorvo, Inc. - Common Stock",NASDAQ,8658785150.0,Technology,Semiconductors
+DOCU,DOCU,"DocuSign, Inc. - Common Stock",NASDAQ,8436142821.0,Technology,Computer Software: Prepackaged Software
+TTD,TTD,"The Trade Desk, Inc. - Class A Common Stock",NASDAQ,8421991287.0,Technology,Computer Software: Programming Data Processing
+MTCH,MTCH,"Match Group, Inc. - Common Stock",NASDAQ,8353274296.0,Technology,Computer Software: Programming Data Processing
+CRUS,CRUS,"Cirrus Logic, Inc. - Common Stock",NASDAQ,7956898156.0,Technology,Semiconductors
+MANH,MANH,"Manhattan Associates, Inc. - Common Stock",NASDAQ,7875400172.0,Technology,Computer Software: Prepackaged Software
+PLXS,PLXS,Plexus Corp. - Common Stock,NASDAQ,7830801734.0,Technology,Electrical Products
+MXL,MXL,"MaxLinear, Inc - Common Stock",NASDAQ,7633076637.0,Technology,Semiconductors
+CAMT,CAMT,Camtek Ltd. - Ordinary Shares,NASDAQ,7614886619.0,Technology,Electronic Components
+AVT,AVT,"Avnet, Inc. - Common Stock",NASDAQ,7322904891.0,Technology,Electronic Components
+SLAB,SLAB,"Silicon Laboratories, Inc. - Common Stock",NASDAQ,7218401782.0,Technology,Semiconductors
+SAIL,SAIL,"SailPoint, Inc. - Common Stock",NASDAQ,7211731807.0,Technology,Computer Software: Prepackaged Software
+BILI,BILI,Bilibili Inc. - American Depositary Shares,NASDAQ,6951365550.0,Technology,EDP Services
+ACMR,ACMR,"ACM Research, Inc. - Class A Common Stock",NASDAQ,6841029278.0,Technology,Industrial Machinery/Components
+KLIC,KLIC,"Kulicke and Soffa Industries, Inc. - Common Stock",NASDAQ,6644182064.0,Technology,Semiconductors
+RGTI,RGTI,"Rigetti Computing, Inc.  - Common stock",NASDAQ,6631356200.0,Technology,EDP Services
+MRCY,MRCY,Mercury Systems Inc - Common Stock,NASDAQ,6619471734.0,Technology,Electrical Products
+MBLY,MBLY,Mobileye Global Inc. - Class A Common Stock,NASDAQ,6539575385.0,Technology,Computer Software: Prepackaged Software
+ENPH,ENPH,"Enphase Energy, Inc. - Common Stock",NASDAQ,6510845248.0,Technology,Semiconductors
+DUOL,DUOL,"Duolingo, Inc. - Class A Common Stock",NASDAQ,6359965130.0,Technology,Computer Software: Prepackaged Software
+GDS,GDS,GDS Holdings Limited - American Depositary Shares,NASDAQ,6275826839.0,Technology,Computer Software: Programming Data Processing
+TTAN,TTAN,"ServiceTitan, Inc. - Class A Common Stock",NASDAQ,6257127207.0,Technology,Computer Software: Prepackaged Software
+DBX,DBX,"Dropbox, Inc. - Class A Common Stock",NASDAQ,6238459354.0,Technology,Computer Software: Prepackaged Software
+DSGX,DSGX,The Descartes Systems Group Inc. - Common Stock,NASDAQ,5841543677.0,Technology,Computer Software: Prepackaged Software
+NAVN,NAVN,"Navan, Inc. - Class A Common Stock",NASDAQ,5704650207.0,Technology,Computer Software: Prepackaged Software
+GLBE,GLBE,Global-E Online Ltd. - ordinary shares,NASDAQ,5655429720.0,Technology,Computer Software: Prepackaged Software
+DOX,DOX,Amdocs Limited - Ordinary Shares,NASDAQ,5644681394.0,Technology,EDP Services
+PCTY,PCTY,Paylocity Holding Corporation - Common Stock,NASDAQ,5539400520.0,Technology,Computer Software: Prepackaged Software
+OTEX,OTEX,Open Text Corporation - Common Shares,NASDAQ,5440586289.0,Technology,EDP Services
+MARA,MARA,"MARA Holdings, Inc. - Common Stock",NASDAQ,5438823725.0,Technology,EDP Services
+CVLT,CVLT,"Commvault Systems, Inc. - Common Stock",NASDAQ,5438070157.0,Technology,Computer Software: Prepackaged Software
+NICE,NICE,NICE Ltd - American Depositary Shares each representing one Ordinary Share,NASDAQ,5272958779.0,Technology,Computer Software: Prepackaged Software
+APPF,APPF,"AppFolio, Inc. - Class A Common Stock",NASDAQ,5260996125.0,Technology,Computer Software: Prepackaged Software
+DIOD,DIOD,Diodes Incorporated - Common Stock,NASDAQ,5259063977.0,Technology,Semiconductors
+ACLS,ACLS,"Axcelis Technologies, Inc. - Common Stock",NASDAQ,5187881814.0,Technology,Industrial Machinery/Components
+PEGA,PEGA,Pegasystems Inc. - Common Stock,NASDAQ,5088683753.0,Technology,EDP Services
+SYNA,SYNA,Synaptics Incorporated - Common Stock,NASDAQ,5086264853.0,Technology,Semiconductors
+UCTT,UCTT,"Ultra Clean Holdings, Inc. - Common Stock",NASDAQ,4919911632.0,Technology,Semiconductors
+ACIW,ACIW,"ACI Worldwide, Inc. - Common Stock",NASDAQ,4769452557.0,Technology,Computer Software: Prepackaged Software
+GTLB,GTLB,GitLab Inc. - Class A Common Stock,NASDAQ,4698798000.0,Technology,Computer Software: Prepackaged Software
+SRAD,SRAD,Sportradar Group AG - Class A Ordinary Shares,NASDAQ,4645184724.0,Technology,Computer Software: Programming Data Processing
+AXTI,AXTI,AXT Inc - Common Stock,NASDAQ,4641774905.0,Technology,Semiconductors
+IPGP,IPGP,IPG Photonics Corporation - Common Stock,NASDAQ,4578392858.0,Technology,Semiconductors
+SAIC,SAIC,Science Applications International Corporation - Common Stock,NASDAQ,4533766070.0,Technology,EDP Services
+POWI,POWI,"Power Integrations, Inc. - Common Stock",NASDAQ,4527527300.0,Technology,Semiconductors
+NVTS,NVTS,Navitas Semiconductor Corporation - Common Stock,NASDAQ,4427044782.0,Technology,Semiconductors
+LFTO,LFTO,"Liftoff Mobile, Inc. - Common Stock",NASDAQ,4405164133.0,Technology,EDP Services
+VECO,VECO,Veeco Instruments Inc. - Common Stock,NASDAQ,4386781734.0,Technology,Industrial Machinery/Components
+OCTV,OCTV,Octave Intelligence plc - Class B Ordinary Shares,NASDAQ,4297688986.0,Technology,Computer Software: Prepackaged Software
+VRNS,VRNS,"Varonis Systems, Inc. - Common Stock",NASDAQ,4205642315.0,Technology,Computer Software: Prepackaged Software
+ONDS,ONDS,Ondas Inc - Common Stock,NASDAQ,4187326064.0,Technology,Radio And Television Broadcasting And Communications Equipment
+OLED,OLED,Universal Display Corporation - Common Stock,NASDAQ,4088832927.0,Technology,Electrical Products
+LIF,LIF,"Life360, Inc. - Common Stock",NASDAQ,4066170254.0,Technology,EDP Services
+QLYS,QLYS,"Qualys, Inc. - Common Stock",NASDAQ,4051286145.0,Technology,Computer Software: Prepackaged Software
+NTSK,NTSK,"Netskope, Inc. - Class A Common Stock",NASDAQ,3940275196.0,Technology,Computer Software: Prepackaged Software
+PI,PI,"Impinj, Inc. - Common Stock",NASDAQ,3867098128.0,Technology,Industrial Machinery/Components
+LASR,LASR,"nLIGHT, Inc. - Common Stock",NASDAQ,3731492509.0,Technology,Semiconductors
+WAY,WAY,Waystar Holding Corp. - Common Stock,NASDAQ,3643485865.0,Technology,EDP Services
+XNDU,XNDU,Xanadu Quantum Technologies Limited - Class B Subordinate Voting Shares,NASDAQ,3573181925.0,Technology,Computer Manufacturing
+OSIS,OSIS,"OSI Systems, Inc. - Common Stock",NASDAQ,3565249107.0,Technology,Semiconductors
+JOYY,JOYY,JOYY Inc. - American Depositary Shares,NASDAQ,3452442966.0,Technology,EDP Services
+ADEA,ADEA,Adeia Inc.  - Common Stock,NASDAQ,3407536405.0,Technology,Computer Software: Prepackaged Software
+PENG,PENG,"Penguin Solutions, Inc. - Common Stock",NASDAQ,3303662771.0,Technology,Semiconductors
+MNDY,MNDY,monday.com Ltd. - Ordinary Shares,NASDAQ,3292366125.0,Technology,Computer Software: Prepackaged Software
+CLBT,CLBT,Cellebrite DI Ltd. - Ordinary Shares,NASDAQ,3219020838.0,Technology,Computer Software: Prepackaged Software
+PPLI,PPLI,People Incorporated - Common Stock,NASDAQ,3194942953.0,Technology,Computer Software: Programming Data Processing
+SEDG,SEDG,"SolarEdge Technologies, Inc. - Common Stock",NASDAQ,3182002247.0,Technology,Semiconductors
+ICHR,ICHR,Ichor Holdings - Ordinary Shares,NASDAQ,3157211649.0,Technology,Semiconductors
+PONY,PONY,Pony AI Inc. - American Depositary Shares,NASDAQ,3132337720.0,Technology,EDP Services
+TENB,TENB,"Tenable Holdings, Inc. - Common Stock",NASDAQ,3063355410.0,Technology,Computer Software: Prepackaged Software
+FA,FA,First Advantage Corporation - Common Stock,NASDAQ,2924706651.0,Technology,EDP Services
+NTCT,NTCT,"NetScout Systems, Inc. - Common Stock",NASDAQ,2922009437.0,Technology,EDP Services
+VISN,VISN,"Vistance Networks, Inc.  - Common Stock",NASDAQ,2841049502.0,Technology,Radio And Television Broadcasting And Communications Equipment
+AMBA,AMBA,"Ambarella, Inc. - Ordinary Shares",NASDAQ,2833446069.0,Technology,Semiconductors
+CARG,CARG,"CarGurus, Inc. - Class A Common Stock",NASDAQ,2820601490.0,Technology,EDP Services
+KC,KC,Kingsoft Cloud Holdings Limited - American Depositary Shares,NASDAQ,2811081145.0,Technology,Computer Software: Prepackaged Software
+RUM,RUM,RUM Group Inc. - Class A Common Stock,NASDAQ,2798340541.0,Technology,Computer Software: Programming Data Processing
+SOUN,SOUN,"SoundHound AI, Inc. - Class A Common Stock",NASDAQ,2780544905.0,Technology,Computer Software: Prepackaged Software
+HIMX,HIMX,"Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.",NASDAQ,2779651366.0,Technology,Semiconductors
+INOD,INOD,Innodata Inc. - Common Stock,NASDAQ,2770154019.0,Technology,EDP Services
+STNE,STNE,StoneCo Ltd. - Class A Common Share,NASDAQ,2668213639.0,Technology,EDP Services
+FRSH,FRSH,Freshworks Inc. - Class A Common Stock,NASDAQ,2645447335.0,Technology,Computer Software: Prepackaged Software
+CCC,CCC,CCC Intelligent Solutions Holdings Inc. - Common Stock,NASDAQ,2626558899.0,Technology,Computer Software: Prepackaged Software
+FSLY,FSLY,"Fastly, Inc. - Class A Common Stock",NASDAQ,2612125850.0,Technology,Computer Software: Prepackaged Software
+MGNI,MGNI,"Magnite, Inc. - Common Stock",NASDAQ,2609377355.0,Technology,Computer Software: Programming Data Processing
+AGYS,AGYS,"Agilysys, Inc. - Common Stock",NASDAQ,2567106567.0,Technology,EDP Services
+NYAX,NYAX,Nayax Ltd. - Ordinary Shares,NASDAQ,2528470318.0,Technology,Computer Software: Prepackaged Software
+PDFS,PDFS,"PDF Solutions, Inc. - Common Stock",NASDAQ,2504649187.0,Technology,Computer Software: Prepackaged Software
+BRZE,BRZE,"Braze, Inc. - Class A Common Stock",NASDAQ,2437499303.0,Technology,Computer Software: Prepackaged Software
+VNET,VNET,"VNET Group, Inc. - American Depositary Shares",NASDAQ,2359410461.0,Technology,Computer Software: Programming Data Processing
+WIX,WIX,Wix.com Ltd. - Ordinary Shares,NASDAQ,2302634959.0,Technology,Computer Software: Programming Data Processing
+QUBT,QUBT,Quantum Computing Inc. - Common Stock,NASDAQ,2270009644.0,Technology,Computer Software: Prepackaged Software
+AVPT,AVPT,"AvePoint, Inc. - Class A Common Stock",NASDAQ,2235721332.0,Technology,Computer Software: Prepackaged Software
+ALRM,ALRM,"Alarm.com Holdings, Inc. - Common Stock",NASDAQ,2216823330.0,Technology,Computer Software: Prepackaged Software
+IMOS,IMOS,ChipMOS TECHNOLOGIES INC. - American Depositary Shares,NASDAQ,2209496718.0,Technology,Semiconductors
+DJT,DJT,Trump Media & Technology Group Corp. - Common Stock,NASDAQ,2168548473.0,Technology,Computer Software: Programming Data Processing
+PLUS,PLUS,ePlus inc. - Common Stock,NASDAQ,2124816119.0,Technology,Retail: Computer Software & Peripheral Equipment
+BRUN,BRUN,Boost Run Inc. - Class A Common Stock,NASDAQ,2103932085.0,Technology,EDP Services
+SPSC,SPSC,"SPS Commerce, Inc. - Common Stock",NASDAQ,2049303026.0,Technology,Computer Software: Prepackaged Software
+WRD,WRD,WeRide Inc. - American Depositary Shares,NASDAQ,1909285625.0,Technology,EDP Services
+AIP,AIP,"Arteris, Inc.  - Common Stock",NASDAQ,1906902857.0,Technology,Semiconductors
+WGS,WGS,GeneDx Holdings Corp. - Class A Common Stock,NASDAQ,1886970996.0,Technology,Retail: Computer Software & Peripheral Equipment

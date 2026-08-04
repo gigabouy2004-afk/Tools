@@ -1,0 +1,1 @@
+python Momentum_Detector_V8_Basic.py AAPL GOOGL AMD ORCL PANW CRWD MU QCOM AMAT LRCX --as-of 2026-05-07 --output backtests\V8_RSI_Base\samples\V8RSI10_20260507_PLACEHOLDER\rsi_sample.csv --log-output backtests\V8_RSI_Base\samples\V8RSI10_20260507_PLACEHOLDER\execution_log.csv

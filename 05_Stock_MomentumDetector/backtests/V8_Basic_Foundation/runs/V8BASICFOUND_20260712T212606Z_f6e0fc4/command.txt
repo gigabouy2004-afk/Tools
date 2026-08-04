@@ -1,0 +1,1 @@
+python Backtest_Momentum_Detector_V8_Basic_Foundation.py

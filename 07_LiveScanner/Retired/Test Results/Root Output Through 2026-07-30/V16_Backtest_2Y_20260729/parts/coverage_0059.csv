@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+GRDX,US,GridAI Technologies Corp.  - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SAIH,US,SAIHEAT Limited - Class A Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+XHLD,US,"TEN Holdings, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,364,2025-02-13,2026-07-28,364,0
+BIRD,US,"Smartbird, Inc. - Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ZKIN,US,"ZK International Group Co., Ltd - Ordinary Share",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+TXMD,US,"TherapeuticsMD, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SCAG,US,Scage Future - American Depositary Shares,Consumer Discretionary,PROCESSED,,272,2025-06-27,2026-07-28,272,0
+CELU,US,Celularity Inc. - Class A Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AYTU,US,"Aytu BioPharma, Inc.  - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+UTSI,US,UTStarcom Holdings Corp - Ordinary Shares,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+KSCP,US,"Knightscope, Inc. - Class A Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CKX,US,"CKX Lands, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+JG,US,Aurora Mobile Limited - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+UFG,US,Uni-Fuels Holdings Limited - Class A Ordinary Shares,Energy,PROCESSED,,385,2025-01-14,2026-07-28,385,0
+PLSM,US,Pulsenmore Ltd. - Ordinary Shares,Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,130,2026-01-21,2026-07-28,0,0
+JOB,US,GEE Group Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EHLD,US,Euroholdings Ltd. - Common Stock,Consumer Discretionary,PROCESSED,,349,2025-03-07,2026-07-28,349,0
+AZIO,US,"Azio AI Holdings, Inc. - Common stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CDLX,US,"Cardlytics, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BEEM,US,Beam Global - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SKYE,US,"Skye Bioscience, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LESL,US,"Leslie's, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BIOX,US,Bioceres Crop Solutions Corp. - Ordinary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PSHG,US,Performance Shipping Inc. - Common Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CVM,US,Cel-Sci Corporation Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CALC,US,"CalciMedica, Inc. - Common Stock",Health Care,PROCESSED,,782,2023-06-14,2026-07-28,501,0
+MDXH,US,MDxHealth SA - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+JSPR,US,"Jasper Therapeutics, Inc. - Class A Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+MDCX,US,Medicus Pharma Ltd. - Common Stock,Health Care,PROCESSED,,424,2024-11-14,2026-07-28,424,0
+TMDE,US,TMD Energy Limited Ordinary Shares,Energy,PROCESSED,,319,2025-04-21,2026-07-28,319,1
+MRKR,US,"Marker Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CLIR,US,ClearSign Technologies Corporation - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PLUR,US,Pluri Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LEDS,US,SemiLEDS Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ATOS,US,"Atossa Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CLRB,US,"Cellectar Biosciences, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MNDO,US,MIND C.T.I. Ltd. - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NCEL,US,NewcelX Ltd. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LFWD,US,Lifeward Ltd. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+HTCO,US,High-Trend International Group - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LSTA,US,"Lisata Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RVP,US,"Retractable Technologies, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GRNQ,US,Greenpro Capital Corp. - Common Stock,Technology,PROCESSED,,1001,2022-07-29,2026-07-27,500,0
+FABC,US,"Fabric.AI, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SMX,US,SMX (Security Matters) Public Limited Company - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FOXX,US,Foxx Development Holdings Inc. - Common Stock,Telecommunications,PROCESSED,,996,2022-08-08,2026-07-28,501,0
+RECT,US,Rectitude Holdings Ltd - Ordinary Shares,Consumer Discretionary,PROCESSED,,526,2024-06-21,2026-07-28,501,0
+TLF,US,"Tandy Leather Factory, Inc. - common stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SKYQ,US,Sky Quarry Inc. - Common Stock,Industrials,PROCESSED,,449,2024-10-10,2026-07-28,449,0
+LRE,US,"Lead Real Estate Co., Ltd - American Depositary Shares",Consumer Discretionary,PROCESSED,,710,2023-09-27,2026-07-28,501,0

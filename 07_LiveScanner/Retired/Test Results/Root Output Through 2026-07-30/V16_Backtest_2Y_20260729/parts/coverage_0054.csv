@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+DIT,US,AMCON Distributing Company Common Stock,Consumer Discretionary,PROCESSED,,1001,2022-07-29,2026-07-27,500,0
+XTNT,US,"Xtant Medical Holdings, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CTM,US,"Castellum, Inc. Common Stock",Consumer Discretionary,PROCESSED,,949,2022-10-13,2026-07-28,501,7
+WFCF,US,"Where Food Comes From, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TCRX,US,"TScan Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ANVS,US,"Annovis Bio, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+APWC,US,"Asia Pacific Wire & Cable Corporation Limited  - Common shares, Par value .01 per share",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SDEV,US,Stablecoin Development Corporation Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ANPA,US,Rich Sparkle Holdings Limited - Ordinary Shares,Consumer Discretionary,PROCESSED,,266,2025-07-08,2026-07-28,266,0
+STI,US,"Solidion Technology, Inc. - Common Stock",Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CVU,US,"CPI Aerostructures, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LIDR,US,"AEye, Inc. - Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CNVS,US,Cineverse Corp. - Class A Common Stock,Consumer Discretionary,PROCESSED,,1001,2022-07-29,2026-07-28,500,1
+IMMP,US,Immutep Limited - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CRT,US,Cross Timbers Royalty Trust Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+QTEX,US,QTREX Quantum Ltd. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+KAZR,US,Skyline Builders Group Holding Limited - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,360,2025-02-20,2026-07-28,360,0
+JRSH,US,"Jerash Holdings (US), Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+CNTX,US,Context Therapeutics Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+PN,US,PN Smart Energy Limited - Class A Ordinary Shares,Technology,PROCESSED,,352,2025-03-04,2026-07-28,352,0
+ELTK,US,Eltek Ltd. - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+JFB,US,JFB Construction Holdings - Class A Common Stock,Consumer Discretionary,PROCESSED,,350,2025-03-06,2026-07-28,350,0
+XTIA,US,"XTI Aerospace, Inc. Common Stock  - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NPT,US,Texxon Holding Limited - Ordinary shares,Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,191,2025-10-22,2026-07-28,0,0
+XLO,US,"Xilio Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FTCI,US,"FTC Solar, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SKYA,US,"SkyAI, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DSWL,US,"Deswell Industries, Inc. - Common Shares",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TOUR,US,Tuniu Corporation - American Depositary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+STEM,US,"Stem, Inc. Class A Common Stock",Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SLMT,US,Brera Holdings PLC - Class B Ordinary Shares,Consumer Discretionary,PROCESSED,,877,2023-01-27,2026-07-28,501,0
+ELBM,US,Electra Battery Materials Corporation - Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BOLD,US,"Boundless Bio, Inc. - Common Stock",Health Care,PROCESSED,,584,2024-03-28,2026-07-28,501,0
+BAOS,US,Baosheng Media Group Holdings Limited - Ordinary shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GCL,US,GCL Global Holdings Ltd - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LNZA,US,"LanzaTech Global, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SKIL,US,Skillsoft Corp. Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+INKT,US,"MiNK Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LASE,US,Laser Photonics Corporation - Common Stock,Miscellaneous,PROCESSED,,958,2022-09-30,2026-07-28,501,4
+RADX,US,Radiopharm Theranostics Limited - American Depositary Shares,Health Care,PROCESSED,,410,2024-12-05,2026-07-28,410,0
+WWR,US,"Westwater Resources, Inc. Common Stock",Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+YTRA,US,"Yatra Online, Inc. - Ordinary Shares",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LFS,US,"LEIFRAS Co., Ltd. - American Depositary Shares",Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,200,2025-10-09,2026-07-28,0,0
+XCH,US,XCHG Limited - ADS,Industrials,PROCESSED,,471,2024-09-10,2026-07-28,471,0
+LUNG,US,Pulmonx Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EDSA,US,"Edesa Biotech, Inc. - Common Shares",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+DYAI,US,"Dyadic International, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MDAI,US,"Spectral AI, Inc. - Class A Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+NTWK,US,NETSOL Technologies Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CVV,US,CVD Equipment Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0

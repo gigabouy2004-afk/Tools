@@ -1,0 +1,62 @@
+Ticker,Symbol,Security Name,Listing Exchange,Market Category,ETF,Test Issue,MarketCap,Sector,Industry,Asset Class,Strategy,Theme,Geography,Category Flags
+ABCS,ABCS,Alpha Blue Capital US Small-Mid Cap Dynamic ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+AFMC,AFMC,First Trust Active Factor Mid Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Active,Broad Market & Core Indices,United States,Active; Broad Market & Core Indices; Equity; United States
+AMID,AMID,Argent Mid Cap ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+AVMC,AVMC,Avantis U.S. Mid Cap Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+BBHM,BBHM,BBH Select Mid Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+BBMC,BBMC,JPMorgan BetaBuilders U.S. Mid Cap Equity ETF,BATS, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+BCSM,BCSM,Baron SMID Cap ETF,NYSE, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+BKMC,BKMC,BNY Mellon US Mid Cap Core Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+BRSM,BRSM,MFS Blended Research Small-Mid Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+CGMM,CGMM,Capital Group U.S. Small and Mid Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+EPMB,EPMB,Harbor Mid Cap Core ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+EPSB,EPSB,Harbor SMID Cap Core ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+FEMD,FEMD,First Eagle Mid Cap Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+FFSM,FFSM,Fidelity Fundamental Small-Mid Cap ETF,BATS, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+FLQM,FLQM,Franklin U.S. Mid Cap Multifactor Index ETF,BATS, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+FMDE,FMDE,Fidelity Enhanced Mid Cap Core ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+FNX,FNX,First Trust Mid Cap Core AlphaDEX Fund,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+FRTY,FRTY,Alger Mid Cap 40 ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+FSCS,FSCS,First Trust SMID Capital Strength ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+IQSM,IQSM,NYLI Candriam U.S. Mid Cap Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+ISMD,ISMD,Inspire Small/Mid Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+JHMM,JHMM,John Hancock Multifactor Mid Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+JMEE,JMEE,JPMorgan Small & Mid Cap Enhanced Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+JPME,JPME,JPMorgan Diversified Return U.S. Mid Cap Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+MGMT,MGMT,Ballast Small/Mid Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+MMID,MMID,MFS Active Mid Cap ETF,NYSE, ,Y,N,,,ETF,Equity,Active,Broad Market & Core Indices,United States,Active; Broad Market & Core Indices; Equity; United States
+MSSM,MSSM,Morgan Stanley Pathway Small-Mid Cap Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+NBSM,NBSM,Neuberger Small-Mid Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+NISM,NISM,NYLI International Small-Mid Cap Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+OASC,OASC,OneAscent Enhanced Small and Mid Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+PTMC,PTMC,Pacer Trendpilot US Mid Cap ETF,BATS, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+REMC,REMC,Columbia Research Enhanced Mid Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,Latin America,Broad Market & Core Indices; Equity; Latin America; Plain
+RNIN,RNIN,Bushido Capital US SMID Cap Equity ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+RSMC,RSMC,Rockefeller U.S. Small-Mid Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+SCHM,SCHM,Schwab U.S. Mid Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+SMCP,SMCP,SMART Mid Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+SMDX,SMDX,Intech S&P Small-Mid Cap Diversified Alpha ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+SMIZ,SMIZ,Zacks Small/Mid Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+SMOX,SMOX,Horizon Small/Mid Cap Core Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+SPMD,SPMD,State Street SPDR Portfolio S&P 400 Mid Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+TMSL,TMSL,T. Rowe Price Small-Mid Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+TPLC,TPLC,Timothy Plan US Large/Mid Cap Core ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+TSME,TSME,Thrivent Small-Mid Cap Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States
+SDVY,SDVY,First Trust SMID Cap Rising Dividend Achievers ETF,NASDAQ,G,Y,N,,,ETF,Equity,Dividend/Income,Broad Market & Core Indices; Dividend & Income,United States,Broad Market & Core Indices; Dividend & Income; Dividend/Income; Equity; United States
+FEMG,FEMG,Fidelity Enhanced Mid Cap Growth ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Growth & Momentum,United States,Broad Market & Core Indices; Equity; Factor; Growth & Momentum; United States
+FNY,FNY,First Trust Mid Cap Growth AlphaDEX Fund,NASDAQ,G,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Growth & Momentum,United States,Broad Market & Core Indices; Equity; Factor; Growth & Momentum; United States
+JMID,JMID,Janus Henderson Mid Cap Growth Alpha ETF,NASDAQ,G,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Growth & Momentum,United States,Broad Market & Core Indices; Equity; Factor; Growth & Momentum; United States
+JSMD,JSMD,Janus Henderson Small/Mid Cap Growth Alpha ETF,NASDAQ,G,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Growth & Momentum,United States,Broad Market & Core Indices; Equity; Factor; Growth & Momentum; United States
+MDYG,MDYG,State Street SPDR S&P 400 Mid Cap Growth ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Growth & Momentum,United States,Broad Market & Core Indices; Equity; Factor; Growth & Momentum; United States
+MID,MID,American Century Mid Cap Growth Impact ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Growth & Momentum,United States,Broad Market & Core Indices; Equity; Factor; Growth & Momentum; United States
+TSCM,TSCM,TimesSquare Quality Mid Cap Growth ETF,NASDAQ,G,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Growth & Momentum,United States,Broad Market & Core Indices; Equity; Factor; Growth & Momentum; United States
+USVM,USVM,VictoryShares US Small Mid Cap Value Momentum ETF,NASDAQ,G,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Growth & Momentum; Value & Quality,United States,Broad Market & Core Indices; Equity; Factor; Growth & Momentum; United States; Value & Quality
+AVMV,AVMV,Avantis U.S. Mid Cap Value ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Value & Quality,United States,Broad Market & Core Indices; Equity; Factor; United States; Value & Quality
+BSMC,BSMC,Brandes U.S. Small-Mid Cap Value ETF,BATS, ,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Value & Quality,United States,Broad Market & Core Indices; Equity; Factor; United States; Value & Quality
+EPMV,EPMV,Harbor Mid Cap Value ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Value & Quality,United States,Broad Market & Core Indices; Equity; Factor; United States; Value & Quality
+EPSV,EPSV,Harbor SMID Cap Value ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Value & Quality,United States,Broad Market & Core Indices; Equity; Factor; United States; Value & Quality
+FEMV,FEMV,Fidelity Enhanced Mid Cap Value ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Value & Quality,United States,Broad Market & Core Indices; Equity; Factor; United States; Value & Quality
+FNK,FNK,First Trust Mid Cap Value AlphaDEX Fund,NASDAQ,G,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Value & Quality,United States,Broad Market & Core Indices; Equity; Factor; United States; Value & Quality
+HWSM,HWSM,Hotchkis & Wiley SMID Cap Diversified Value Fund,NASDAQ,G,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Value & Quality,United States,Broad Market & Core Indices; Equity; Factor; United States; Value & Quality
+MDYV,MDYV,State Street SPDR S&P 400 Mid Cap Value ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Value & Quality,United States,Broad Market & Core Indices; Equity; Factor; United States; Value & Quality
+TMVE,TMVE,Thrivent Mid Cap Value ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Value & Quality,United States,Broad Market & Core Indices; Equity; Factor; United States; Value & Quality

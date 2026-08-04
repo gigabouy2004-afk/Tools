@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+TACT,US,TransAct Technologies Incorporated - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ECOR,US,"electroCore, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+CTOR,US,"Citius Oncology, Inc.  - Common Stock",Health Care,PROCESSED,,910,2022-12-08,2026-07-28,501,1
+AREN,US,"The Arena Group Holdings, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+APT,US,"Alpha Pro Tech, Ltd. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+INMB,US,INmune Bio Inc. - Common stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+COCH,US,"Envoy Medical, Inc. - Class A Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SNWV,US,"SANUWAVE Health, Inc. - Common Stock",Health Care,PROCESSED,,443,2024-10-18,2026-07-28,443,0
+VHC,US,VirnetX Holding Corp - Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+CMTL,US,Comtech Telecommunications Corp. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+BHST,US,BioHarvest Sciences Inc. - Common Stock,,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+MLGO,US,"MicroAlgo, Inc. - Ordinary Shares",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BYSI,US,"BeyondSpring, Inc. - Ordinary Shares",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DRIO,US,DarioHealth Corp. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GGR,US,Gogoro Inc. - Ordinary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TCRT,US,"Alaunos Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MCRB,US,"Seres Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MIND,US,"MIND Technology, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+ACFN,US,"Acorn Energy, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ABLV,US,Able View Global Inc. - Class B Ordinary Shares,Consumer Discretionary,PROCESSED,,972,2022-09-12,2026-07-28,501,0
+VIOT,US,"Viomi Technology Co., Ltd - American Depositary Shares",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SRTS,US,"Sensus Healthcare, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+POCI,US,"Precision Optics Corporation, Inc. - Common stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MKDW,US,MKDWELL Tech Inc. - Ordinary Shares,Technology,PROCESSED,,836,2023-03-28,2026-07-28,501,0
+INCR,US,Intercure Ltd. - ordinary shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+COPR,US,Idaho Copper Corporation Common Stock,Basic Materials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,18,2026-07-02,2026-07-28,0,0
+TIL,US,"Instil Bio, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+EXOZ,US,eXoZymes Inc. - Common Stock,Health Care,PROCESSED,,425,2024-11-13,2026-07-28,425,0
+FLNA,US,"Filana Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+OKYO,US,OKYO Pharma Limited - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AHMA,US,Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares,Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,192,2025-10-21,2026-07-28,0,0
+ATHR,US,"Aether Holdings, Inc. - Common Stock",Technology,PROCESSED,,325,2025-04-10,2026-07-28,325,0
+FTEK,US,"Fuel Tech, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+ATYR,US,"aTyr Pharma, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+IBO,US,"Impact BioMedical, Inc. Common Stock",Health Care,PROCESSED,,467,2024-09-16,2026-07-28,467,0
+MREO,US,Mereo BioPharma Group plc - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+TPCS,US,TechPrecision Corporation - Common stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DWTX,US,"Dogwood Therapeutics, Inc.  - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PCLA,US,PicoCELA Inc. - American Depositary Shares,Consumer Discretionary,PROCESSED,,383,2025-01-16,2026-07-28,383,0
+CREX,US,"Creative Realities, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NXB,US,NextBoat Inc. Common Stcok,Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,175,2025-11-13,2026-07-28,0,0
+ELWT,US,"Elauwit Connection, Inc. - Common Stock",Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,181,2025-11-05,2026-07-28,0,0
+VGAS,US,"Verde Clean Fuels, Inc. - Class A Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CBAT,US,CBAK Energy Technology Limited - Ordinary Shares,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RAVE,US,"Rave Restaurant Group, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+INDO,US,Indonesia Energy Corporation Limited Ordinary Shares,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+PXS,US,Pyxis Tankers Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BDMD,US,Baird Medical Investment Holdings Ltd - Ordinary Share,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SNAL,US,"Snail, Inc. - Class A Common Stock",Technology,PROCESSED,,929,2022-11-10,2026-07-28,501,0
+MGX,US,"Metagenomi Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,617,2024-02-09,2026-07-28,501,0

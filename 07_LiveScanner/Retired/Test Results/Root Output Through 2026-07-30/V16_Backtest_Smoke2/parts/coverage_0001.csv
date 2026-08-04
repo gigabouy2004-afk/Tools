@@ -1,0 +1,11 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+NVDA,US,NVIDIA Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+AAPL,US,Apple Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+GOOGL,US,Alphabet Inc. - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+MSFT,US,Microsoft Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+META,US,"Meta Platforms, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+TSLA,US,"Tesla, Inc.  - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+XOM,US,ExxonMobil Holdings Corporation Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+RELIANCE.NS,INDIA,Reliance Industries Limited,,PROCESSED,,988,2022-07-28,2026-07-27,498,2
+AMZN,US,,,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+JPM,US,,,PROCESSED,,1002,2022-07-29,2026-07-28,501,16

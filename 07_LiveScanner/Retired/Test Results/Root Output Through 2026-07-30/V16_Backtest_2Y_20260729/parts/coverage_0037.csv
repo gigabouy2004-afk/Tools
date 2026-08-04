@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+NUAI,US,"New Era Energy & Digital, Inc. - Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+KE,US,"Kimball Electronics, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+FDMT,US,"4D Molecular Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+CBIO,US,"Crescent Biopharma, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CTKB,US,"Cytek Biosciences, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ANGO,US,"AngioDynamics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+HY,US,"Hyster-Yale, Inc. Class A common stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+MEI,US,"Methode Electronics, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+CSV,US,"Carriage Services, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+ETD,US,Ethan Allen Interiors Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+ASIX,US,AdvanSix Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+RYAM,US,Rayonier Advanced Materials Inc. Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+LOT,US,Lotus Technology Inc. - American Depositary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PACK,US,Ranpak Holdings Corp Class A Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+IMSR,US,Terrestrial Energy Inc. - Common Stock,,PROCESSED,,449,2024-10-10,2026-07-28,449,2
+SMWB,US,Similarweb Ltd. Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+SATL,US,Satellogic Inc. - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+IIIV,US,"i3 Verticals, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+LAES,US,SEALSQ Corp - Ordinary Shares,Technology,PROCESSED,,797,2023-05-23,2026-07-28,501,3
+OOMA,US,"Ooma, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+PHOE,US,Phoenix Asia Holdings Limited - Ordinary Shares,Consumer Discretionary,PROCESSED,,315,2025-04-25,2026-07-28,315,1
+MLR,US,"Miller Industries, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+AGMB,US,AgomAb Therapeutics NV - ADRs representing one common share.,Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,118,2026-02-06,2026-07-28,0,0
+OSPN,US,OneSpan Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+BMM,US,Blue Moon Metals Inc. - Common Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,127,2026-01-26,2026-07-28,0,0
+ROMA,US,Roma Green Finance Limited - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,639,2024-01-09,2026-07-28,501,1
+EGY,US,"VAALCO Energy, Inc.  Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+PKOH,US,Park-Ohio Holdings Corp. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+FLGT,US,"Fulgent Genetics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+PRME,US,"Prime Medicine, Inc. - Common Stock",Health Care,PROCESSED,,944,2022-10-20,2026-07-28,501,0
+DDI,US,"DoubleDown Interactive Co., Ltd. - American Depository Shares",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FAC,US,Factorial Energy Inc. - Class A Common Stock,Miscellaneous,PROCESSED,,275,2025-06-24,2026-07-28,275,1
+THM,US,"International Tower Hill Mines, Ltd. Ordinary Shares (Canada)",Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+AIOT,US,"PowerFleet, Inc. - Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+SLI,US,Standard Lithium Ltd. Common Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+MYGN,US,"Myriad Genetics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ELA,US,Envela Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+AIIO,US,Robo.ai Inc. - Class B Ordinary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RLMD,US,"Relmada Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+STTK,US,"Shattuck Labs, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+MBUU,US,"Malibu Boats, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TMQ,US,Trilogy Metals Inc. Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+WNC,US,Wabash National Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ALT,US,"Altimmune, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+XMAX,US,"XMAX, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+NFGC,US,New Found Gold Corp Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+TMS,US,Teamshares Inc. - Common Stock,,PROCESSED,,319,2025-04-21,2026-07-28,319,2
+ORN,US,"Orion Group Holdings, Inc. Common",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+WEAV,US,"Weave Communications, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+WTI,US,"W&T Offshore, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,6

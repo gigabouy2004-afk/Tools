@@ -1,0 +1,25 @@
+{
+  "Research_Version": "V8_SAME_QUARTER_10_STOCK_2026Q2",
+  "Quarter": "2026Q2",
+  "Random_Seed": 20260712,
+  "Minimum_Stocks": 10,
+  "Candidate_Stocks": [
+    "NVDA",
+    "AAPL",
+    "MSFT",
+    "TSLA",
+    "AMZN",
+    "META",
+    "GOOGL",
+    "COST",
+    "WMT",
+    "XOM"
+  ],
+  "Benchmark": "SPY",
+  "Price_Start": "2023-01-01",
+  "Horizon_Sessions": [5, 10, 21],
+  "ETF_Holdings_Max_Age_Days": 60,
+  "ETF_Quarter_Assumption": "SAME_CALENDAR_QUARTER_STABILITY_ASSUMPTION",
+  "Historical_Replay_Mode": "DAILY_EOD_NO_ARCHIVED_INTRADAY_OR_LIVE_QUOTE",
+  "Random_Date_Rule": "ONE_DETERMINISTIC_RANDOM_DATE_PER_STOCK_WITH_21_SESSION_EXIT_INSIDE_QUARTER"
+}

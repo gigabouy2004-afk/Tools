@@ -1,0 +1,52 @@
+{
+  "engine": "V16",
+  "classification": "V16 binding BUY rules; vectorized historical replay",
+  "preset": "balanced",
+  "requested_history_period": "4y",
+  "measured_years": 2,
+  "holding_period_sessions": 5,
+  "analysis_start": "2024-07-29",
+  "analysis_end": null,
+  "started_utc": "2026-07-28T21:36:21.040899+00:00",
+  "completed_utc": "2026-07-28T21:36:23.218542+00:00",
+  "elapsed_seconds": 2.18,
+  "universe": {
+    "requested_symbols": 10,
+    "us_symbols": 9,
+    "india_symbols": 1,
+    "processed_symbols": 0,
+    "symbols_with_buy_trades": 0,
+    "coverage_status": {
+      "PROCESSING_ERROR": 10
+    }
+  },
+  "performance": {
+    "total_trades": 0,
+    "winning_trades": 0,
+    "losing_trades": 0,
+    "flat_trades": 0,
+    "win_rate_pct": 0.0,
+    "average_return_pct": 0.0,
+    "median_return_pct": 0.0,
+    "average_win_pct": 0.0,
+    "average_loss_pct": 0.0,
+    "profit_factor": null,
+    "best_trade_pct": 0.0,
+    "worst_trade_pct": 0.0,
+    "p10_return_pct": 0.0,
+    "p25_return_pct": 0.0,
+    "p75_return_pct": 0.0,
+    "p90_return_pct": 0.0,
+    "entry_cohort_max_drawdown_pct": 0.0,
+    "drawdown_note": "Equal-weight mean returns are compounded by entry date. This is a cohort diagnostic, not a capital-constrained portfolio backtest, because trades can overlap across symbols."
+  },
+  "signals_by_type": {},
+  "trades_by_market": {},
+  "top_tickers_minimum_3_trades": [],
+  "method_notes": [
+    "Four years of daily OHLCV are requested so EMA200 and 50 completed weekly candles are warm before the two-year measured window.",
+    "Signals use only data available on each signal date; entry is the next session open and exit is the close after the configured holding period.",
+    "After a BUY, the same ticker cannot enter another trade before the prior trade's exit date, matching V16 production backtest behavior.",
+    "Yahoo adjusted OHLCV is the external data source; coverage.csv records missing and insufficient-history symbols."
+  ]
+}

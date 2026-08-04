@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------
+LIVE SCANNER - POST EXECUTION SUMMARY
+----------------------------------------------------------------------------------------------------
+Started              : 2026-07-23 18:56:46
+Completed            : 2026-07-23 18:56:52
+Elapsed              : 00m 05s
+Input file           : D:\Tools\00_StockCodeMaster\02_Stock\22-07-US_Common_Stocks_Master_Library.csv
+Codes read           : 3636
+Codes selected       : 2
+Codes processed      : 2
+BUY SIGNAL           : 0
+HOLD                 : 0
+IGNORE               : 1
+REJECT               : 1
+ERROR                : 0
+BUY symbols          : None
+BUY breakup          : None
+Preset               : balanced
+MACD                 : 12,26,9
+Requested candle mode: auto
+Output file          : D:\Tools\07_LiveScanner\output\v14_schema_verification\V14_Output_Format_Verification.xlsx
+Log file             : D:\Tools\07_LiveScanner\output\v14_schema_verification\V14_Output_Format_Verification.log
+----------------------------------------------------------------------------------------------------

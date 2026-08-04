@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+IDAC,US,Iron Dome Acquisition I Corp. - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,16,2026-07-06,2026-07-27,0,0
+HAVA,US,Harvard Ave Acquisition Corporation - Class A Ordinary Share,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,154,2025-12-15,2026-07-28,0,0
+HVMC,US,Highview Merger Corp. - Class A Ordinary Share,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,204,2025-10-03,2026-07-28,0,0
+HLXC,US,Helix Acquisition Corp. III - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,128,2026-01-23,2026-07-28,0,0
+APAC,US,StoneBridge Acquisition II Corporation - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,169,2025-11-21,2026-07-28,0,0
+PSBD,US,Palmer Square Capital BDC Inc. Common Stock,,PROCESSED,,633,2024-01-18,2026-07-28,501,0
+YCY,US,AA Mission Acquisition Corp. II Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,186,2025-10-29,2026-07-28,0,0
+CHAR,US,Charlton Aria Acquisition Corporation - Class A Ordinary Shares,,PROCESSED,,415,2024-11-26,2026-07-27,415,0
+CHEC,US,Chenghe Acquisition III Co. - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,176,2025-11-11,2026-07-27,0,0
+YHNA,US,YHN Acquisition I Limited - Ordinary Shares,,PROCESSED,,428,2024-11-08,2026-07-28,428,0
+QUMS,US,Quantumsphere Acquisition Corp. - Ordinary Shares,,PROCESSED,,206,2025-09-30,2026-07-27,206,0
+RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,,PROCESSED,,319,2025-04-21,2026-07-28,319,0
+RACC,US,Research Alliance Corporation III - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,47,2026-05-20,2026-07-28,0,0
+AGM-A,US,Federal Agricultural Mortgage Corporation Common Stock,,PROCESSED,,1001,2022-07-29,2026-07-27,500,0
+AKO-A,US,Embotelladora Andina S.A. Common Stock,,PROCESSED,,1001,2022-07-29,2026-07-28,500,0
+AKO-B,US,Embotelladora Andina S.A. Common Stock,,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+AMZE,US,"Amaze Holdings, Inc. Common Stock",,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BAC-PE,US,Bank of America Corporation Depositary Sh repstg 1/1000th Perp Pfd Ser E,,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BAC-PL,US,Bank of America Corporation Non Cumulative Perpetual Conv Pfd Ser L,,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+BAR,US,GraniteShares Gold Trust Shares of Beneficial Interest,,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+BF-A,US,Brown Forman Inc Class A Common Stock,,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BF-B,US,Brown Forman Inc Class B Common Stock,,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BH-A,US,Biglari Holdings Inc. Class A Common Stock,,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+BIO-B,US,"Bio-Rad Laboratories, Inc. Class B  Common Stock",,PROCESSED,,1001,2022-07-29,2026-07-27,500,0
+BRK-A,US,Berkshire Hathaway Inc. Common Stock,,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+BRK-B,US,Berkshire Hathaway Inc. New Common Stock,,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+CHGA,US,Change Agents Corporation  - Common Stock,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,12,2026-07-13,2026-07-28,0,0
+CIG-C,US,Comp En De Mn Cemig ADS American Depositary Receipts,,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CRD-A,US,Crawford & Company Common Stock,,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+CRD-B,US,Crawford & Company Common Stock,,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DBRG-PH,US,"DigitalBridge Group, Inc. 7.125% Series H",,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DBRG-PI,US,"DigitalBridge Group, Inc. 7.15% Series I",,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DBRG-PJ,US,"DigitalBridge Group, Inc. 7.125% Series J",,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EFTY,US,"Etoiles Capital Group Co., Ltd. - Class A Ordinary Shares",,PROCESSED,,242,2025-08-08,2026-07-27,242,0
+EGO,US,Eldorado Gold Corporation Ordinary Shares,,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+EGP,US,"EastGroup Properties, Inc. Common Stock",,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+EMPG,US,Empro Group Inc. - Ordinary shares,,PROCESSED,,268,2025-07-02,2026-07-27,268,0
+EPR-PE,US,EPR Properties Series E Cumulative Conv Pfd Shs Ser E,,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EQH-PA,US,"Equitable Holdings, Inc. Depositary Shares",,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+FITB-PI,US,Fifth Third Bancorp Depositary Share repstg 1/1000th Ownership Interest Perp Pfd Series I,,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+FNGD,US,"MicroSectors FANG  Index -3X Inverse Leveraged ETNs due January 8, 2038",,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FNGO,US,"MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038",,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+GAB-PH,US,"Gabelli Equity Trust, Inc. (The) Pfd Ser H",,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GEF-B,US,"Greif, Inc. Corporation Class B Common Stock",,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+GJR,US,"Synthetic Fixed-Income Securities, Inc. STRATS Trust for Procter&Gamble Securities, Series 2006-1",,PROCESSED,,1001,2022-07-29,2026-07-27,500,0
+GS-PD,US,"Goldman Sachs Group, Inc. (The) Dep Shs repstg 1/1000 Pfd Ser D Fltg",,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+GTN-A,US,"Gray Media, Inc. Class A Common Stock",,PROCESSED,,1001,2022-07-29,2026-07-27,500,0
+HCHL,US,Happy City Holdings Limited - Class A Ordinary shares,,PROCESSED,,274,2025-06-24,2026-07-27,274,0
+HEI-A,US,Heico Corporation Common Stock,,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+HVII,US,Hennessy Capital Investment Corp. VII - Ordinary Shares,,PROCESSED,,369,2025-02-06,2026-07-28,369,0

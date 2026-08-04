@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+BRAG,US,Bragg Gaming Group Inc. - Common Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NSYS,US,Nortech Systems Incorporated - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RYET,US,Ruanyun Edai Technology Inc. - Ordinary shares,Technology,PROCESSED,,327,2025-04-08,2026-07-28,327,0
+ZTG,US,Zenta Group Company Limited - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,222,2025-09-09,2026-07-28,222,0
+AERT,US,"Aeries Technology, Inc. - Class A Ordinary Share",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MIRA,US,"MIRA Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,748,2023-08-03,2026-07-28,501,0
+IXHL,US,Incannex Healthcare Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NAAS,US,NaaS Technology Inc. - American Depositary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DGNX,US,Diginex Limited - Ordinary Shares,Technology,PROCESSED,,380,2025-01-22,2026-07-28,380,0
+PXLW,US,"Pixelworks, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+VERU,US,Veru Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LTRN,US,Lantern Pharma Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NTRB,US,Nutriband Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ONMD,US,OneMedNet Corp - Class A Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NNVC,US,"NanoViricides, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+VIDA,US,VIDA Global Inc. Class A Common Stock,Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,50,2026-05-15,2026-07-28,0,0
+HUBC,US,Hub Cyber Security Ltd. - Ordinary Shares,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MLSS,US,"Milestone Scientific, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PPSI,US,"Pioneer Power Solutions, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+LOOP,US,"Loop Industries, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+JAGU,US,Jaguar Uranium Corp. Class A Common Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,117,2026-02-09,2026-07-28,0,0
+MYO,US,Myomo Inc. Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+TVRD,US,"Tvardi Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SCWO,US,374Water Inc. - common stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+HOLO,US,MicroCloud Hologram Inc. - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NSRX,US,Nasus Pharma Ltd. Ordinary Shares,Health Care,PROCESSED,,240,2025-08-13,2026-07-28,240,0
+KPLT,US,"Katapult Holdings, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+NTIP,US,"Network-1 Technologies, Inc. Common Stock",Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+VTSI,US,"VirTra, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BATL,US,Battalion Oil Corporation Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+GNS,US,Genius Group Limited Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ESLA,US,"Estrella Immunopharma, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+LITS,US,"Lite Strategy, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ALGS,US,"Aligos Therapeutics, Inc. - Common stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+XBP,US,"XBP Global Holdings, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+UCL,US,uCloudlink Group Inc. - American Depositary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LIVE,US,Live Ventures Incorporated - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RMCO,US,Royalty Management Holding Corporation - Class A Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+WPRT,US,Westport Fuel Systems Inc - Common Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NSPR,US,InspireMD Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BEAT,US,"Heartbeam, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FMST,US,Foremost Clean Energy Ltd. - Common Shares,Basic Materials,PROCESSED,,769,2023-07-05,2026-07-28,501,3
+DAIO,US,Data I/O Corporation - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BCTX,US,BriaCell Therapeutics Corp. - Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+GRCE,US,"Grace Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+SPPL,US,SIMPPLE LTD. - Ordinary Shares,Consumer Discretionary,PROCESSED,,720,2023-09-13,2026-07-28,501,0
+ACTU,US,"Actuate Therapeutics, Inc. - Common stock",Health Care,PROCESSED,,490,2024-08-13,2026-07-28,490,0
+TELA,US,"TELA Bio, Inc. - Common stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ABVC,US,"ABVC BioPharma, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+SER,US,"Serina Therapeutics, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0

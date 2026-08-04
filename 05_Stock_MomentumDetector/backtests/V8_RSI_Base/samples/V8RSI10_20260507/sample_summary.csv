@@ -1,0 +1,11 @@
+Ticker,As_Of_Date,Foundation_Eligible,RSI,RSI_Lower_Limit,RSI_Upper_Limit,RSI_Range_Status,RSI_Allows_Further_Processing,RSI_Message
+AAPL,2026-05-07,True,69.30784724452889,30,65,RSI_ABOVE_CONFIGURED_RANGE,False,"RSI 69.31 is above upper limit 65; further indicator rule processing is not allowed"
+GOOGL,2026-05-07,True,83.41290395476322,30,65,RSI_ABOVE_CONFIGURED_RANGE,False,"RSI 83.41 is above upper limit 65; further indicator rule processing is not allowed"
+AMD,2026-05-07,True,76.13779673773452,30,65,RSI_ABOVE_CONFIGURED_RANGE,False,"RSI 76.14 is above upper limit 65; further indicator rule processing is not allowed"
+ORCL,2026-05-07,True,68.75081124298366,30,65,RSI_ABOVE_CONFIGURED_RANGE,False,"RSI 68.75 is above upper limit 65; further indicator rule processing is not allowed"
+PANW,2026-05-07,True,70.77383018392834,30,65,RSI_ABOVE_CONFIGURED_RANGE,False,"RSI 70.77 is above upper limit 65; further indicator rule processing is not allowed"
+CRWD,2026-05-07,True,70.42817475916532,30,65,RSI_ABOVE_CONFIGURED_RANGE,False,"RSI 70.43 is above upper limit 65; further indicator rule processing is not allowed"
+MU,2026-05-07,True,77.49459927583513,30,65,RSI_ABOVE_CONFIGURED_RANGE,False,"RSI 77.49 is above upper limit 65; further indicator rule processing is not allowed"
+QCOM,2026-05-07,True,82.60528561584951,30,65,RSI_ABOVE_CONFIGURED_RANGE,False,"RSI 82.61 is above upper limit 65; further indicator rule processing is not allowed"
+AMAT,2026-05-07,True,57.85421525599356,30,65,RSI_WITHIN_CONFIGURED_RANGE,True,"RSI 57.85 is within inclusive limits 30 to 65; further indicator rule processing is allowed"
+LRCX,2026-05-07,True,63.49510734352231,30,65,RSI_WITHIN_CONFIGURED_RANGE,True,"RSI 63.50 is within inclusive limits 30 to 65; further indicator rule processing is allowed"

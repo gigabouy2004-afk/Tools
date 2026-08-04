@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+RAIN,US,"Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock",Technology,PROCESSED,,392,2025-01-02,2026-07-28,392,0
+NHTC,US,Natural Health Trends Corp. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AKTX,US,Akari Therapeutics Plc - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+IPM,US,Intelligent Protection Management Corp.  - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NXPL,US,NextPlat Corp - Common Stock,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+WETH,US,Wetouch Technology Inc. - Common Stock,Technology,PROCESSED,,610,2024-02-21,2026-07-28,501,0
+CYCN,US,"Cyclerion Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+IRIX,US,IRIDEX Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GTBP,US,"GT Biopharma, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MOGU,US,MOGU Inc. American Depositary Shares (each  representing 25 Class A Ordinary Shares),Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TPST,US,"Tempest Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ALAR,US,Alarum Technologies Ltd. - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SCNX,US,"Scienture Holdings, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+JF,US,J and Friends Holdings Limited - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PASG,US,"Passage Bio, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+AIXC,US,"AIxCrypto Holdings, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+HKPD,US,"Cellyan Biotechnology Co., Ltd  - Class A Ordinary Shares",Health Care,PROCESSED,,384,2025-01-15,2026-07-28,384,0
+ICU,US,SeaStar Medical Holding Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+OSRH,US,"OSR Health, Inc. - Common Stock",Health Care,PROCESSED,,841,2023-03-21,2026-07-28,501,0
+PTN,US,"Palatin Technologies, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+OPTH,US,Optimi Health Corp. - Common Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,47,2026-05-20,2026-07-28,0,0
+HIND,US,"Vyome Holdings, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MIMI,US,Mint Incorporation Limited - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,387,2025-01-10,2026-07-28,387,0
+ATCX,US,Atlas Critical Minerals Corporation - Common Stock,Basic Materials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,137,2026-01-09,2026-07-28,0,0
+QH,US,Quhuo Limited - Class A Ordinary Shares,,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+KTTA,US,Pasithea Therapeutics Corp. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ASTC,US,Astrotech Corporation - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+NEON,US,Neonode Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+MODD,US,"Modular Medical, Inc. - common stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+GIGM,US,GigaMedia Limited - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CTXR,US,"Citius Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BRN,US,"Barnwell Industries, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SGRP,US,"SPAR Group, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NAII,US,"Natural Alternatives International, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TGHL,US,The GrowHub Limited - Class A Ordinary Shares,Technology,PROCESSED,,229,2025-08-28,2026-07-28,229,0
+DOGZ,US,Dogness (International) Corporation - Class A Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+SNTI,US,"Senti Biosciences Holdings, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RGNT,US,Regentis Biomaterials Ltd. Ordinary Shares,Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,161,2025-12-04,2026-07-28,0,0
+DLPN,US,"Dolphin Entertainment, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TOMZ,US,"TOMI Environmental Solutions, Inc. - Common Stock",Industrials,PROCESSED,,1001,2022-07-29,2026-07-28,500,0
+MPU,US,Mega Matrix Inc. Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RCT,US,RedCloud Holdings plc - Ordinary Shares,Technology,PROCESSED,,339,2025-03-21,2026-07-28,339,0
+NVNI,US,Nvni Group Limited - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TPET,US,Trio Petroleum Corp. Common Stock,Energy,PROCESSED,,822,2023-04-18,2026-07-28,501,0
+AUST,US,Austin Gold Corp. Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+ZDAI,US,"DirectBooking Technology Co., Ltd. - Class A Ordinary Shares",Consumer Discretionary,PROCESSED,,505,2024-07-23,2026-07-28,501,0
+VEEE,US,Twin Vee PowerCats Co. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DCX,US,Digital Currency X Technology Inc. - Class A Ordinary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SWVL,US,Swvl Holdings Corp - Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BFRI,US,Biofrontera Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0

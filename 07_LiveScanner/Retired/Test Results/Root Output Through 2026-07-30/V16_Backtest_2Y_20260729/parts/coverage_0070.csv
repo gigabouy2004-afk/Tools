@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+TVAI,US,Thayer Ventures Acquisition Corporation II - Class A Ordinary Shares,,PROCESSED,,268,2025-07-02,2026-07-27,268,0
+TVIV,US,Texas Ventures Acquisition IV Corp - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,12,2026-07-13,2026-07-28,0,0
+BBCQ,US,Bleichroeder Acquisition Corp. II - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,125,2026-01-28,2026-07-28,0,0
+FIGX,US,FIGX Capital Acquisition Corp. - Class A ordinary share,,PROCESSED,,237,2025-08-18,2026-07-28,237,0
+BLRK,US,Bluerock Acquisition Corp. - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,122,2026-02-02,2026-07-28,0,0
+FERA,US,Fifth Era Acquisition Corp I - Class A Ordinary Shares,,PROCESSED,,319,2025-04-21,2026-07-28,319,1
+KPET,US,KPET Ultra Paceline Corporation Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,43,2026-05-26,2026-07-27,0,0
+KRAQ,US,KRAKacquisition Corp - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,88,2026-03-20,2026-07-27,0,0
+KFII,US,K&F Growth Acquisition Corp. II - Class A Ordinary shares,,PROCESSED,,345,2025-03-13,2026-07-28,345,0
+KCHV,US,Kochav Defense Acquisition Corp. - Class A Ordinary Shares,,PROCESSED,,257,2025-07-21,2026-07-28,257,0
+SOCA,US,Solarius Capital Acquisition Corp. - Class A Ordinary Share,,PROCESSED,,223,2025-09-05,2026-07-27,223,0
+SCPQ,US,Social Commerce Partners Corporation - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,113,2026-02-12,2026-07-27,0,0
+LAFA,US,LaFayette Acquisition Corp. - Ordinary Share,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,166,2025-11-26,2026-07-28,0,0
+KVAC,US,Keen Vision Acquisition Corporation - Ordinary Shares,,PROCESSED,,718,2023-09-15,2026-07-28,501,2
+KRSP,US,Rice Acquisition Corporation 3 Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,168,2025-11-24,2026-07-28,0,0
+KOYN,US,CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares,,PROCESSED,,214,2025-09-19,2026-07-28,214,0
+LKSP,US,Lake Superior Acquisition Corp. - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,180,2025-11-06,2026-07-28,0,0
+FACT,US,FACT II Acquisition Corp. - Class A Ordinary Shares,,PROCESSED,,399,2024-12-20,2026-07-28,399,1
+ADAC,US,American Drive Acquisition Company - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,116,2026-02-09,2026-07-27,0,0
+EURK,US,Eureka Acquisition Corp - Class A Ordinary Share,,PROCESSED,,469,2024-09-12,2026-07-28,469,0
+EVAC,US,EQV Ventures Acquisition Corp. II Class A Ordinary Shares,Industrials,PROCESSED,,233,2025-08-22,2026-07-28,233,0
+WENN,US,Wen Acquisition Corp - Class A Ordinary Shares,,PROCESSED,,267,2025-07-07,2026-07-28,267,0
+LPCV,US,Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,116,2026-02-09,2026-07-27,0,0
+ALF,US,Centurion Acquisition Corp. - Class A Ordinary Shares,,PROCESSED,,498,2024-08-01,2026-07-28,498,0
+ALIS,US,Calisa Acquisition Corp - Ordinary shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,171,2025-11-19,2026-07-28,0,0
+SPEG,US,Silver Pegasus Acquisition Corp - Class A Ordinary Shares,,PROCESSED,,222,2025-09-09,2026-07-28,222,0
+MBAV,US,M3-Brigade Acquisition V Corp. - Class A Ordinary shares,,PROCESSED,,458,2024-09-23,2026-07-27,458,1
+MACI,US,Melar Acquisition Corp. I - Class A Ordinary Shares,,PROCESSED,,509,2024-07-17,2026-07-28,501,0
+LPAA,US,Launch One Acquisition Corp. - Class A Ordinary Shares,,PROCESSED,,476,2024-09-03,2026-07-28,476,0
+LPBB,US,Launch Two Acquisition Corp. - Class A Ordinary Shares,,PROCESSED,,414,2024-11-29,2026-07-28,414,0
+MBVI,US,M3-Brigade Acquisition VI Corp. - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,194,2025-10-17,2026-07-28,0,0
+EMIS,US,Emmis Acquisition Corp. - Class A Ordinary Share,Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,191,2025-10-22,2026-07-28,0,0
+VECA,US,Vernal Capital Acquisition Corp. Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,48,2026-05-19,2026-07-28,0,0
+TMTS,US,Spartacus Acquisition Corp. II - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,80,2026-04-02,2026-07-28,0,0
+MESH,US,Meshflow Acquisition Corp. - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,123,2026-01-30,2026-07-28,0,0
+ATII,US,Archimedes Tech SPAC Partners II Co. - Ordinary Shares,,PROCESSED,,330,2025-04-03,2026-07-28,330,1
+TLNC,US,Talon Capital Corp. - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,201,2025-10-08,2026-07-28,0,0
+MKLY,US,McKinley Acquisition Corporation - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,205,2025-10-02,2026-07-28,0,0
+CEPV,US,"Cantor Equity Partners V, Inc. - Class A Ordinary Shares",,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,182,2025-11-04,2026-07-28,0,0
+BOT,US,"RoboStrategy, Inc. - Common Stock",,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,54,2026-05-11,2026-07-28,0,0
+BPAC,US,Blueport Acquisition Ltd - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,140,2026-01-06,2026-07-28,0,0
+SPKL,US,Spark I Acquisition Corp. - Class A Ordinary Share,,PROCESSED,,668,2023-11-27,2026-07-28,501,1
+SPMC,US,"Sound Point Meridian Capital, Inc. Common Stock",,PROCESSED,,530,2024-06-14,2026-07-28,501,0
+RIBB,US,Ribbon Acquisition Corp - Class A Ordinary Shares,,PROCESSED,,348,2025-03-07,2026-07-27,348,0
+AACB,US,Artius II Acquisition Inc. - Class A Ordinary Shares,,PROCESSED,,328,2025-04-07,2026-07-28,328,0
+RFAI,US,RF Acquisition Corp II - Ordinary Shares,,PROCESSED,,517,2024-07-05,2026-07-28,501,0
+RFAM,US,RF Acquisition Corp III - Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,105,2026-02-26,2026-07-28,0,0
+CCII,US,Cohen Circle Acquisition Corp. II - Class A Ordinary Shares,,PROCESSED,,232,2025-08-22,2026-07-27,232,0
+MTNE,US,CH4 Natural Solutions Corporation Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,25,2026-06-22,2026-07-27,0,0
+QLEP,US,Quantum Leap Acquisition Corp Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,25,2026-06-23,2026-07-28,0,0

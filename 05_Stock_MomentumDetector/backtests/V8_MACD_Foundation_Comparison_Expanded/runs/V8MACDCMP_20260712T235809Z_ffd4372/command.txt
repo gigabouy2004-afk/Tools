@@ -1,0 +1,1 @@
+python Backtest_V8_MACD_Foundation_Comparison_Expanded.py

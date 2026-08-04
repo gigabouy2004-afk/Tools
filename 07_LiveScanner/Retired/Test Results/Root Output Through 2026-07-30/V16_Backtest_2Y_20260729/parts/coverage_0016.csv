@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+DSGX,US,The Descartes Systems Group Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+SBSW,US,D/B/A Sibanye-Stillwater Limited ADS,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+CVLT,US,"Commvault Systems, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+GTX,US,Garrett Motion Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+WFRD,US,Weatherford International plc - Ordinary shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+TXG,US,"10x Genomics, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+GLBE,US,Global-E Online Ltd. - ordinary shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+IBP,US,"Installed Building Products, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+TFX,US,Teleflex Incorporated Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TWST,US,Twist Bioscience Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+APPF,US,"AppFolio, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+MIDD,US,The Middleby Corporation - Common Stock,Industrials,PROCESSED,,1001,2022-07-29,2026-07-28,500,10
+MRCY,US,Mercury Systems Inc - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+FBIN,US,"Fortune Brands Innovations, Inc. Common Stock",Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+PSN,US,Parsons Corporation Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+LB,US,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests,Energy,PROCESSED,,521,2024-06-28,2026-07-28,501,4
+TFPM,US,Triple Flag Precious Metals Corp. Common Shares,Industrials,PROCESSED,,980,2022-08-30,2026-07-28,501,20
+SSRM,US,SSR Mining Inc. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+TEO,US,Telecom Argentina SA,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+ROAD,US,"Construction Partners, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+DUOL,US,"Duolingo, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+CHDN,US,"Churchill Downs, Incorporated - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+STVN,US,Stevanato Group S.p.A. Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+DNTH,US,"Dianthus Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+MWH,US,"SOLV Energy, Inc. - Class A common stock",Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,114,2026-02-12,2026-07-28,0,0
+AMRX,US,"Amneal Pharmaceuticals, Inc. - Class A Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+FND,US,"Floor & Decor Holdings, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+LYFT,US,"Lyft, Inc. - Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+ACIW,US,"ACI Worldwide, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+OTEX,US,Open Text Corporation - Common Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+BLCO,US,Bausch + Lomb Corporation Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+ORKA,US,"Oruka Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+VSEC,US,VSE Corporation - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+KLIC,US,"Kulicke and Soffa Industries, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+PRM,US,"Perimeter Solutions, SA Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+AIR,US,AAR Corp. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+NICE,US,NICE Ltd - American Depositary Shares each representing one Ordinary Share,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+WEX,US,WEX Inc. common stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DOX,US,Amdocs Limited - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+GTLB,US,GitLab Inc. - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+XMTR,US,"Xometry, Inc. - Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+NOVT,US,Novanta Inc. - Common Shares,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+OR,US,OR Royalties Inc. Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+GVA,US,Granite Construction Incorporated Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+REYN,US,Reynolds Consumer Products Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+SON,US,Sonoco Products Company Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+VAL,US,Valaris Limited Common Shares,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+NTSK,US,"Netskope, Inc. - Class A Common Stock",Technology,PROCESSED,,215,2025-09-18,2026-07-28,215,0
+MUR,US,Murphy Oil Corporation Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+GRFS,US,"Grifols, S.A. - American Depositary Shares",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4

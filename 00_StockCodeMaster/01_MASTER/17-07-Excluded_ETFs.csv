@@ -1,0 +1,2290 @@
+Ticker,Symbol,Security Name,Listing Exchange,Market Category,ETF,Test Issue,MarketCap,Sector,Industry,Market Region
+AAA,AAA,Alternative Access First Priority CLO Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AAAC,AAAC,Columbia AAA CLO ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AAAD,AAAD,PGIM AAA CLO Aggregate Duration ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AAAP,AAAP,Pacer Barings CLO Market Flex ETF,NASDAQ,G,Y,N,,,ETF,USA
+AALG,AALG,Leverage Shares 2X Long AAL Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+AAOG,AAOG,Leverage Shares 2X Long AAOI Daily ETF,BATS, ,Y,N,,,ETF,USA
+AAOX,AAOX,Tradr 2X Long AAOI Daily ETF,BATS, ,Y,N,,,ETF,USA
+AAOZ,AAOZ,Tradr 2X Short AAOI Daily ETF,BATS, ,Y,N,,,ETF,USA
+AAPB,AAPB,GraniteShares 2x Long AAPL Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+AAPD,AAPD,Direxion Daily AAPL Bear 1X ETF,NASDAQ,G,Y,N,,,ETF,USA
+AAPE,AAPE,Leverage Shares 2X Long AAPL Daily ETF,BATS, ,Y,N,,,ETF,USA
+AAPR,AAPR,Innovator Equity Defined Protection ETF - 2 Yr to April 2028,BATS, ,Y,N,,,ETF,USA
+AAPU,AAPU,Direxion Daily AAPL Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+AAPX,AAPX,T-Rex 2X Long Apple Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+ABNG,ABNG,Leverage Shares 2x Long ABNB Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+ABUF,ABUF,Aptus Laddered Buffer ETF,BATS, ,Y,N,,,ETF,USA
+ABXB,ABXB,Abacus Flexible Bond Leaders ETF,BATS, ,Y,N,,,ETF,USA
+ACEI,ACEI,Innovator Equity Autocallable Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ACHX,ACHX,Corgi ACHR 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+ACII,ACII,Innovator Index Autocallable Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ACLO,ACLO,TCW AAA CLO ETF,NYSE, ,Y,N,,,ETF,USA
+ACLZ,ACLZ,Corgi ACLS 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+ACMM,ACMM,Corgi ACMR 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+ACVT,ACVT,Advent Convertible Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ACYN,ACYN,FT Vest Laddered Autocallable Barrier & Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ACYQ,ACYQ,FT Vest Autocallable Barrier & High Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ACYS,ACYS,FT Vest Laddered Autocallable Barrier & Resilient Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ADBG,ADBG,Leverage Shares 2X Long ADBE Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+ADBU,ADBU,Direxion Daily ADBE Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ADFI,ADFI,Anfield Dynamic Fixed Income ETF,BATS, ,Y,N,,,ETF,USA
+ADIU,ADIU,Leverage Shares 2X Long ADI Daily ETF,BATS, ,Y,N,,,ETF,USA
+AEHG,AEHG,Leverage Shares 2X Long AEHR Daily ETF,BATS, ,Y,N,,,ETF,USA
+AETH,AETH,Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AFIF,AFIF,Anfield Universal Fixed Income ETF,BATS, ,Y,N,,,ETF,USA
+AFIX,AFIX,Allspring Broad Market Core Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AFRU,AFRU,T-REX 2X Long AFRM Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+AGG,AGG,iShares Core U.S. Aggregate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AGGA,AGGA,EA Astoria Beacon Dynamic Core US Fixed Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+AGGH,AGGH,Simplify Aggregate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AGGS,AGGS,Harbor Disciplined Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AGGY,AGGY,WisdomTree Yield Enhanced U.S. Aggregate Bond Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+AGQ,AGQ,ProShares Ultra Silver,NYSE ARCA, ,Y,N,,,ETF,USA
+AGRH,AGRH,iShares Interest Rate Hedged U.S. Aggregate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AGZ,AGZ,iShares  Agency Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AGZD,AGZD,WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund,NASDAQ,G,Y,N,,,ETF,USA
+AHD,AHD,GraniteShares Autocallable HOOD ETF,NASDAQ,G,Y,N,,,ETF,USA
+AIBD,AIBD,Direxion Daily AI and Big Data Bear 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AIBU,AIBU,Direxion Daily AI and Big Data Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AIQD,AIQD,MicroSectors -3? Short Artificial Intelligence (AI) ETNs,NYSE ARCA, ,Y,N,,,ETF,USA
+AIQU,AIQU,MicroSectors 3? Long Artificial Intelligence (AI) ETNs,NYSE ARCA, ,Y,N,,,ETF,USA
+AIYY,AIYY,YieldMax AI Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AJAN,AJAN,Innovator Equity Defined Protection ETF - 2 Yr to January 2028,BATS, ,Y,N,,,ETF,USA
+AJUL,AJUL,Innovator Equity Defined Protection ETF - 2 Yr to July 2026,BATS, ,Y,N,,,ETF,USA
+ALA,ALA,Corgi ALAB 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+ALBG,ALBG,Leverage Shares 2X Long ALB Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+ALDB,ALDB,Aptus Laddered Deep Buffer ETF,BATS, ,Y,N,,,ETF,USA
+AMA,AMA,Defiance Daily Target 2X Long AMAT ETF,NASDAQ,G,Y,N,,,ETF,USA
+AMAA,AMAA,Corgi AMZN 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+AMAU,AMAU,Leverage Shares 2X Long AMAT Daily ETF,BATS, ,Y,N,,,ETF,USA
+AMDC,AMDC,Corgi AMD 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+AMDD,AMDD,Direxion Daily AMD Bear 1X ETF,NASDAQ,G,Y,N,,,ETF,USA
+AMDG,AMDG,Leverage Shares 2X Long AMD Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+AMDL,AMDL,GraniteShares 2x Long AMD Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+AMDY,AMDY,Yieldmax AMD Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AMHI,AMHI,American Beacon Aberdeen Municipal High Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AMJB,AMJB,Alerian MLP Index ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+AMKL,AMKL,Defiance Daily Target 2X Long AMKR ETF,BATS, ,Y,N,,,ETF,USA
+AMKX,AMKX,Corgi AMKR 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+AMPU,AMPU,Defiance Daily Target 2X Long AMPX ETF,BATS, ,Y,N,,,ETF,USA
+AMUN,AMUN,abrdn Ultra Short Municipal Income Active ETF,NASDAQ,G,Y,N,,,ETF,USA
+AMUU,AMUU,Direxion Daily AMD Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+AMYY,AMYY,GraniteShares YieldBOOST AMD ETF,NASDAQ,G,Y,N,,,ETF,USA
+AMZD,AMZD,Direxion Daily AMZN Bear 1X ETF,NASDAQ,G,Y,N,,,ETF,USA
+AMZG,AMZG,Leverage Shares 2X Long AMZN Daily ETF,BATS, ,Y,N,,,ETF,USA
+AMZO,AMZO,Tradr 2X Short AMZN Daily ETF,BATS, ,Y,N,,,ETF,USA
+AMZU,AMZU,Direxion Daily AMZN Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+AMZY,AMZY,YieldMax AMZN Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AMZZ,AMZZ,GraniteShares 2x Long AMZN Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+ANEL,ANEL,Defiance Daily Target 2x Long ANET ETF,NASDAQ,G,Y,N,,,ETF,USA
+ANGL,ANGL,VanEck Fallen Angel High Yield Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+ANV,ANV,GraniteShares Autocallable NVDA ETF,NASDAQ,G,Y,N,,,ETF,USA
+AOCT,AOCT,Innovator Equity Defined Protection ETF - 2 Yr to October 2026,BATS, ,Y,N,,,ETF,USA
+APCB,APCB,ActivePassive Core Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+APDB,APDB,Aptus April Deep Buffer ETF,BATS, ,Y,N,,,ETF,USA
+APHG,APHG,Leverage Shares 2X Long APH Daily ETF,BATS, ,Y,N,,,ETF,USA
+APHU,APHU,T-REX 2X Long APH Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+APLX,APLX,Tradr 2X Long APLD Daily ETF,BATS, ,Y,N,,,ETF,USA
+APLY,APLY,YieldMax AAPL Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+APLZ,APLZ,Tradr 2X Short APLD Daily ETF,BATS, ,Y,N,,,ETF,USA
+APMI,APMI,Corgi AMAT 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+APMU,APMU,ActivePassive Intermediate Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+APOC,APOC,Innovator Equity Defined Protection ETF - 6mo Apr/Oct,BATS, ,Y,N,,,ETF,USA
+APPC,APPC,Corgi APP 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+APPX,APPX,Tradr 2X Long APP Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+APRB,APRB,Aptus April Buffer ETF,BATS, ,Y,N,,,ETF,USA
+APRH,APRH,Innovator Premium Income 20 Barrier ETF - April,BATS, ,Y,N,,,ETF,USA
+APRJ,APRJ,Innovator Premium Income 30 Barrier ETF - April,BATS, ,Y,N,,,ETF,USA
+APRP,APRP,PGIM S&P 500 Buffer 12 ETF - April,BATS, ,Y,N,,,ETF,USA
+APXM,APXM,FT Vest U.S. Equity Max Buffer ETF - April,BATS, ,Y,N,,,ETF,USA
+ARCX,ARCX,Tradr 2X Long ACHR Daily ETF,BATS, ,Y,N,,,ETF,USA
+ARKB,ARKB,ARK 21Shares Bitcoin ETF ,BATS, ,Y,N,,,ETF,USA
+ARKD,ARKD,ARK DIET Q1 Buffer ETF,BATS, ,Y,N,,,ETF,USA
+ARKE,ARKE,ARK DIET Q3 Buffer ETF,BATS, ,Y,N,,,ETF,USA
+ARKF,ARKF,ARK Blockchain & Fintech Innovation ETF,BATS, ,Y,N,,,ETF,USA
+ARKI,ARKI,ARK DIET Q2 Buffer ETF,BATS, ,Y,N,,,ETF,USA
+ARKT,ARKT,ARK DIET Q4 Buffer ETF,BATS, ,Y,N,,,ETF,USA
+ARMA,ARMA,Corgi ARM 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+ARMG,ARMG,Leverage Shares 2X Long ARM Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+ARVR,ARVR,First Trust Indxx Metaverse ETF,NASDAQ,G,Y,N,,,ETF,USA
+ASEC,ASEC,American Century Securitized Credit ETF,NASDAQ,G,Y,N,,,ETF,USA
+ASMG,ASMG,Leverage Shares 2X Long ASML Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+ASMU,ASMU,Direxion Daily ASML Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+ASMZ,ASMZ,Corgi ASML 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+ASTG,ASTG,Leverage Shares 2X Long ASTS Daily ETF,BATS, ,Y,N,,,ETF,USA
+ASTN,ASTN,Defiance Daily Target 2X Short ASTS ETF,BATS, ,Y,N,,,ETF,USA
+ASTT,ASTT,Corgi ASTS 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+ASTX,ASTX,Tradr 2X Long ASTS Daily ETF,BATS, ,Y,N,,,ETF,USA
+ASTY,ASTY,Defiance Daily Target 2X Long ASTS ETF,BATS, ,Y,N,,,ETF,USA
+ASUP,ASUP,T-REX 2X Long ASTS Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+ATC,ATC,GraniteShares Autocallable COIN ETF,NASDAQ,G,Y,N,,,ETF,USA
+ATCL,ATCL,REX Autocallable Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AUGM,AUGM,FT Vest U.S. Equity Max Buffer ETF - August,BATS, ,Y,N,,,ETF,USA
+AUGP,AUGP,PGIM S&P 500 Buffer 12 ETF - August,BATS, ,Y,N,,,ETF,USA
+AUSM,AUSM,Allspring Ultra Short Municipal ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AVAZ,AVAZ,2x Avalanche ETF,BATS, ,Y,N,,,ETF,USA
+AVGC,AVGC,Corgi AVGO 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+AVGG,AVGG,Leverage Shares 2X Long AVGO Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+AVGU,AVGU,GraniteShares 2x Long AVGO Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+AVGX,AVGX,Defiance Daily Target 2X Long AVGO ETF,NASDAQ,G,Y,N,,,ETF,USA
+AVIG,AVIG,Avantis Core Fixed Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AVL,AVL,Direxion Daily AVGO Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+AVMU,AVMU,Avantis Core Municipal Fixed Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AVS,AVS,Direxion Daily AVGO Bear 1X ETF,NASDAQ,G,Y,N,,,ETF,USA
+AVSF,AVSF,Avantis Short-Term Fixed Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+AVXX,AVXX,Defiance Daily Target 2x Long AVAV ETF,NASDAQ,G,Y,N,,,ETF,USA
+AXPG,AXPG,Leverage Shares 2x Long AXP Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+AXTC,AXTC,Corgi AXTI 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+AXTL,AXTL,Leverage Shares 2X Long AXTI Daily ETF,BATS, ,Y,N,,,ETF,USA
+AXTU,AXTU,T-REX 2X Long AXTI Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+AXTX,AXTX,Tradr 2X Long AXTI Daily ETF,BATS, ,Y,N,,,ETF,USA
+AZYY,AZYY,GraniteShares YieldBoost AMZN ETF,NASDAQ,G,Y,N,,,ETF,USA
+BAB,BAB,Invesco Taxable Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BABC,BABC,Corgi BABA 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+BABO,BABO,YieldMax BABA Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BABU,BABU,Direxion Daily BABA Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+BABX,BABX,GraniteShares 2x Long BABA Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+BAGY,BAGY,Amplify Bitcoin Max Income Covered Call ETF,BATS, ,Y,N,,,ETF,USA
+BAIG,BAIG,Leverage Shares 2X Long BBAI Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+BAMB,BAMB,Brookstone Intermediate Bond ETF,BATS, ,Y,N,,,ETF,USA
+BAMU,BAMU,Brookstone Ultra-Short Bond ETF,BATS, ,Y,N,,,ETF,USA
+BAPR,BAPR,Innovator U.S. Equity Buffer ETF - April,BATS, ,Y,N,,,ETF,USA
+BAUG,BAUG,Innovator U.S. Equity Buffer ETF - August,BATS, ,Y,N,,,ETF,USA
+BBAG,BBAG,JPMorgan BetaBuilders U.S. Aggregate Bond ETF,BATS, ,Y,N,,,ETF,USA
+BBB,BBB,CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF,NASDAQ,G,Y,N,,,ETF,USA
+BBBI,BBBI,BondBloxx BBB Rated 5-10 Year Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BBBL,BBBL,BondBloxx BBB Rated 10+ Year Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BBBS,BBBS,BondBloxx BBB Rated 1-5 Year Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BBCB,BBCB,JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF,BATS, ,Y,N,,,ETF,USA
+BBHY,BBHY,JPMorgan BetaBuilders USD High Yield Corporate Bond ETF,BATS, ,Y,N,,,ETF,USA
+BBIB,BBIB,JPMorgan BetaBuilders U.S. Treasury Bond 3-10 Year ETF,BATS, ,Y,N,,,ETF,USA
+BBLB,BBLB,JPMorgan BetaBuilders U.S. Treasury Bond 20+ Year ETF,BATS, ,Y,N,,,ETF,USA
+BBSB,BBSB,JPMorgan BetaBuilders U.S. Treasury Bond 1-3 Year ETF,BATS, ,Y,N,,,ETF,USA
+BBUL,BBUL,GraniteShares 2x Long BB Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+BBYY,BBYY,GraniteShares YieldBOOST BABA ETF,NASDAQ,G,Y,N,,,ETF,USA
+BCCC,BCCC,Global X Bitcoin Covered Call ETF,BATS, ,Y,N,,,ETF,USA
+BCDF,BCDF,Horizon Kinetics Blockchain Development ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BCLO,BCLO,iShares BBB-B CLO Active ETF,NASDAQ,G,Y,N,,,ETF,USA
+BCOR,BCOR,Grayscale Bitcoin Adopters ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BD,BD,Russell Investments Core Plus Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BDBT,BDBT,Bluemonte Core Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BDCX,BDCX,"ETRACS Quarterly Pay 1.5x Leveraged MarketVector BDC Liquid Index ETN due June 10, 2050",NYSE ARCA, ,Y,N,,,ETF,USA
+BDEC,BDEC,Innovator U.S. Equity Buffer ETF - December,BATS, ,Y,N,,,ETF,USA
+BEC,BEC,Corgi BE 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+BEG,BEG,Leverage Shares 2x Long BE Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+BEGS,BEGS,Rareview 2x Bull Cryptocurrency & Precious Metals ETF,BATS, ,Y,N,,,ETF,USA
+BEMB,BEMB,iShares J.P. Morgan Broad USD Emerging Markets Bond ETF,BATS, ,Y,N,,,ETF,USA
+BERZ,BERZ,MicroSectors FANG & Innovation -3x Inverse Leveraged ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+BESO,BESO,GSR Crypto Core3 ETF,NASDAQ,G,Y,N,,,ETF,USA
+BETE,BETE,ProShares Bitcoin & Ether Equal Weight ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BETH,BETH,ProShares Bitcoin & Ether Market Cap Weight ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BEX,BEX,Tradr 2X Long BE Daily ETF,BATS, ,Y,N,,,ETF,USA
+BEZ,BEZ,Tradr 2X Short BE Daily ETF,BATS, ,Y,N,,,ETF,USA
+BFAP,BFAP,FT Vest Bitcoin Strategy Floor15 ETF April,NYSE ARCA, ,Y,N,,,ETF,USA
+BFEB,BFEB,Innovator U.S. Equity Buffer ETF - February,BATS, ,Y,N,,,ETF,USA
+BFEW,BFEW,FT Vest Laddered U.S. Equity Equal Weight Buffer ETF,BATS, ,Y,N,,,ETF,USA
+BFIX,BFIX,Build Bond Innovation ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BFJA,BFJA,FT Vest Bitcoin Strategy Floor15 ETF - January,NYSE ARCA, ,Y,N,,,ETF,USA
+BFJL,BFJL,FT Vest Bitcoin Strategy Floor15 ETF July,NYSE ARCA, ,Y,N,,,ETF,USA
+BFLB,BFLB,BufferLABS US Equity Dynamic Buffer ETF,BATS, ,Y,N,,,ETF,USA
+BFOC,BFOC,FT Vest Bitcoin Strategy Floor15 ETF - October,NYSE ARCA, ,Y,N,,,ETF,USA
+BFRZ,BFRZ,Innovator Equity Managed 100 Buffer ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BGLD,BGLD,FT Vest Gold Strategy Quarterly Buffer ETF,BATS, ,Y,N,,,ETF,USA
+BGRN,BGRN,iShares USD Green Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BHDG,BHDG,Nicholas Bitcoin Tail ETF,NASDAQ,G,Y,N,,,ETF,USA
+BIB,BIB,ProShares Ultra Nasdaq Biotechnology,NASDAQ,G,Y,N,,,ETF,USA
+BIDG,BIDG,Leverage Shares 2X Long BIDU Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+BIGY,BIGY,YieldMax Target 12 Big 50 Option Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BIL,BIL,State Street SPDR Bloomberg 1-3 Month T-Bill ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BILS,BILS,State Street SPDR Bloomberg 3-12 Month T-Bill ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BILZ,BILZ,PIMCO Ultra Short Government Active Exchange-Traded Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+BIOY,BIOY,GraniteShares YieldBOOST Biotech ETF,NASDAQ,G,Y,N,,,ETF,USA
+BIS,BIS,ProShares UltraShort Nasdaq Biotechnology,NASDAQ,G,Y,N,,,ETF,USA
+BITA,BITA,iShares Bitcoin Premium Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+BITB,BITB,Bitwise Bitcoin ETF ,NYSE ARCA, ,Y,N,,,ETF,USA
+BITC,BITC,Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BITI,BITI,ProShares Short Bitcoin ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BITO,BITO,ProShares Bitcoin ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BITQ,BITQ,Bitwise Crypto Industry Innovators ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BITS,BITS,Global X Blockchain & Bitcoin Strategy ETF,NASDAQ,G,Y,N,,,ETF,USA
+BITU,BITU,ProShares Ultra Bitcoin ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BITX,BITX,2x Bitcoin ETF,BATS, ,Y,N,,,ETF,USA
+BITY,BITY,Amplify Bitcoin 2% Monthly Option Income ETF,BATS, ,Y,N,,,ETF,USA
+BIV,BIV,Vanguard Intermediate-Term Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BJAN,BJAN,Innovator U.S. Equity Buffer ETF - January,BATS, ,Y,N,,,ETF,USA
+BJUL,BJUL,Innovator U.S. Equity Buffer ETF - July,BATS, ,Y,N,,,ETF,USA
+BJUN,BJUN,Innovator U.S. Equity Buffer ETF - June,BATS, ,Y,N,,,ETF,USA
+BKAG,BKAG,BNY Mellon Core Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BKCH,BKCH,Global X Blockchain ETF,NASDAQ,G,Y,N,,,ETF,USA
+BKFI,BKFI,BNY Mellon Active Core Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BKMI,BKMI,BNY Mellon Municipal Intermediate ETF,NASDAQ,G,Y,N,,,ETF,USA
+BKMS,BKMS,BNY Mellon Municipal Short Duration ETF,NASDAQ,G,Y,N,,,ETF,USA
+BKUI,BKUI,BNY Mellon Ultra Short Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BLCK,BLCK,Corgi Crypto Infrastructure ETF,BATS, ,Y,N,,,ETF,USA
+BLOK,BLOK,Amplify Blockchain Technology ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BLOX,BLOX,Nicholas Crypto Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BLSG,BLSG,Leverage Shares 2X Long BLSH Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+BLST,BLST,Bluemonte Short Term Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BLTD,BLTD,Bluemonte Long Term Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BLV,BLV,Vanguard Long-Term Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BMAR,BMAR,Innovator U.S. Equity Buffer ETF - March,BATS, ,Y,N,,,ETF,USA
+BMAY,BMAY,Innovator U.S. Equity Buffer ETF - May,BATS, ,Y,N,,,ETF,USA
+BMNG,BMNG,Leverage Shares 2X Long BMNR Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+BMNU,BMNU,T-REX 2X Long BMNR Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+BMNZ,BMNZ,Defiance Daily Target 2X Short BMNR ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BMOP,BMOP,BNY Mellon Municipal Opportunities ETF,NASDAQ,G,Y,N,,,ETF,USA
+BND,BND,Vanguard Total Bond Market ETF,NASDAQ,G,Y,N,,,ETF,USA
+BNDC,BNDC,FlexShares Core Select Bond Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+BNDI,BNDI,NEOS Enhanced Income Aggregate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BNDP,BNDP,Vanguard Core-Plus Bond Index ETF,NASDAQ,G,Y,N,,,ETF,USA
+BNDS,BNDS,Infrastructure Capital Bond Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BNDW,BNDW,Vanguard Total World Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BNDX,BNDX,Vanguard Total International Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BNDY,BNDY,Horizon Core Bond ETF,BATS, ,Y,N,,,ETF,USA
+BNKD,BNKD,"MicroSectors U.S. Big Banks -3 Inverse Leveraged ETNs due February 17, 2045",NYSE ARCA, ,Y,N,,,ETF,USA
+BNKU,BNKU,"MicroSectors U.S. Big Banks 3 Leveraged ETNs due February 17, 2045",NYSE ARCA, ,Y,N,,,ETF,USA
+BNMC,BNMC,Corgi BMNR 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+BNOV,BNOV,Innovator U.S. Equity Buffer ETF - November,BATS, ,Y,N,,,ETF,USA
+BOCT,BOCT,Innovator U.S. Equity Buffer ETF - October,BATS, ,Y,N,,,ETF,USA
+BOEG,BOEG,Leverage Shares 2X Long BA Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+BOEU,BOEU,Direxion Daily BA Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+BOIL,BOIL,ProShares Ultra Bloomberg Natural Gas,NYSE ARCA, ,Y,N,,,ETF,USA
+BOND,BOND,PIMCO Active Bond Exchange-Traded Fund Exchange-Traded Fund,NYSE, ,Y,N,,,ETF,USA
+BOXA,BOXA,Alpha Architect Aggregate Bond ETF,BATS, ,Y,N,,,ETF,USA
+BOXX,BOXX,Alpha Architect 1-3 Month Box ETF,BATS, ,Y,N,,,ETF,USA
+BPI,BPI,Grayscale Bitcoin Premium Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BREM,BREM,iShares Emerging Markets Bond Active ETF,NASDAQ,G,Y,N,,,ETF,USA
+BRIB,BRIB,FIS Bright Portfolios Core Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BRKC,BRKC,YieldMax BRK.B Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BRKL,BRKL,Corgi BRKB 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+BRKU,BRKU,Direxion Daily BRKB Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+BRRR,BRRR,Coinshares Bitcoin ETF,NASDAQ,G,Y,N,,,ETF,USA
+BRZU,BRZU,Direxion Daily Brazil Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BRZX,BRZX,Corgi Brazil 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+BSCA,BSCA,Invesco BulletShares 2036 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSCQ,BSCQ,Invesco BulletShares 2026 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSCR,BSCR,Invesco BulletShares 2027 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSCS,BSCS,Invesco BulletShares 2028 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSCT,BSCT,Invesco BulletShares 2029 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSCU,BSCU,Invesco BulletShares 2030 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSCV,BSCV,Invesco BulletShares 2031 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSCW,BSCW,Invesco BulletShares 2032 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSCX,BSCX,Invesco BulletShares 2033 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSCY,BSCY,Invesco BulletShares 2034 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSCZ,BSCZ,Invesco BulletShares 2035 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSEP,BSEP,Innovator U.S. Equity Buffer ETF - September,BATS, ,Y,N,,,ETF,USA
+BSGR,BSGR,Invesco BulletShares 2027 Treasury Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSGT,BSGT,Invesco BulletShares 2029 Treasury Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSJQ,BSJQ,Invesco BulletShares 2026 High Yield Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSJR,BSJR,Invesco BulletShares 2027 High Yield Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSJS,BSJS,Invesco BulletShares 2028 High Yield Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSJT,BSJT,Invesco BulletShares 2029 High Yield Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSJU,BSJU,Invesco BulletShares 2030 High Yield Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSJV,BSJV,Invesco BulletShares 2031 High Yield Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSJW,BSJW,Invesco BulletShares 2032 High Yield Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSJX,BSJX,Invesco BulletShares 2033 High Yield Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSJY,BSJY,Invesco BulletShares 2034 High Yield Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSMQ,BSMQ,Invesco BulletShares 2026 Municipal Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSMR,BSMR,Invesco BulletShares 2027 Municipal Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSMS,BSMS,Invesco BulletShares 2028 Municipal Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSMT,BSMT,Invesco BulletShares 2029 Municipal Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSMU,BSMU,Invesco BulletShares 2030 Municipal Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSMV,BSMV,Invesco BulletShares 2031 Municipal Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSMW,BSMW,Invesco BulletShares 2032 Municipal Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSMY,BSMY,Invesco BulletShares 2034 Municipal Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSMZ,BSMZ,Invesco BulletShares 2035 Municipal Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSOL,BSOL,Bitwise Solana Staking ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BSSX,BSSX,Invesco BulletShares 2033 Municipal Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSTP,BSTP,Innovator Buffer Step-Up Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BSTS,BSTS,Invesco BulletShares 2028 Treasury Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSTU,BSTU,Invesco BulletShares 2030 Treasury Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSTV,BSTV,Invesco BulletShares 2031 Treasury Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+BSV,BSV,Vanguard Short-Term Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BTC,BTC,Grayscale Bitcoin Mini Trust (BTC),NYSE ARCA, ,Y,N,,,ETF,USA
+BTCC,BTCC,Grayscale Bitcoin Covered Call ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BTCI,BTCI,NEOS Bitcoin High Income ETF,BATS, ,Y,N,,,ETF,USA
+BTCK,BTCK,7RCC Spot Bitcoin and Carbon Credit Futures ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BTCL,BTCL,T-Rex 2X Long Bitcoin Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+BTCO,BTCO,Invesco Galaxy Bitcoin ETF ,BATS, ,Y,N,,,ETF,USA
+BTCU,BTCU,Direxion Daily Bitcoin Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BTCW,BTCW,WisdomTree Bitcoin Fund ,BATS, ,Y,N,,,ETF,USA
+BTCZ,BTCZ,T-Rex 2X Inverse Bitcoin Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+BTDL,BTDL,GraniteShares 2x Long BTDR Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+BTF,BTF,CoinShares Bitcoin and Ether ETF,NASDAQ,G,Y,N,,,ETF,USA
+BTGD,BTGD,STKd 100% Bitcoin & 100% Gold ETF,NASDAQ,G,Y,N,,,ETF,USA
+BTOT,BTOT,iShares Total USD Fixed Income Market ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BTRN,BTRN,Global X Bitcoin Trend Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BUCK,BUCK,Simplify Treasury Option Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BUFB,BUFB,Innovator Laddered Allocation Buffer ETF,BATS, ,Y,N,,,ETF,USA
+BUFC,BUFC,AB Conservative Buffer ETF,NASDAQ,G,Y,N,,,ETF,USA
+BUFD,BUFD,FT Vest Laddered Deep Buffer ETF,BATS, ,Y,N,,,ETF,USA
+BUFE,BUFE,FT Vest Laddered Emerging Markets Buffer ETF,BATS, ,Y,N,,,ETF,USA
+BUFF,BUFF,Innovator Laddered Allocation Power Buffer ETF,BATS, ,Y,N,,,ETF,USA
+BUFG,BUFG,FT Vest Buffered Allocation Growth ETF,BATS, ,Y,N,,,ETF,USA
+BUFH,BUFH,FT Vest Laddered Max Buffer ETF,BATS, ,Y,N,,,ETF,USA
+BUFI,BUFI,AB International Buffer ETF,NASDAQ,G,Y,N,,,ETF,USA
+BUFM,BUFM,AB Moderate Buffer ETF,NASDAQ,G,Y,N,,,ETF,USA
+BUFP,BUFP,PGIM Laddered S&P 500 Buffer 12 ETF,BATS, ,Y,N,,,ETF,USA
+BUFQ,BUFQ,FT Vest Laddered Nasdaq Buffer ETF,BATS, ,Y,N,,,ETF,USA
+BUFR,BUFR,FT Vest Laddered Buffer ETF,BATS, ,Y,N,,,ETF,USA
+BUFS,BUFS,FT Vest Laddered Small Cap Moderate Buffer ETF,BATS, ,Y,N,,,ETF,USA
+BUFT,BUFT,FT Vest Buffered Allocation Defensive ETF,BATS, ,Y,N,,,ETF,USA
+BUFX,BUFX,FT Vest Laddered Enhance & Moderate Buffer ETF,BATS, ,Y,N,,,ETF,USA
+BUFY,BUFY,FT Vest Laddered International Moderate Buffer ETF,BATS, ,Y,N,,,ETF,USA
+BUFZ,BUFZ,FT Vest Laddered Moderate Buffer ETF,BATS, ,Y,N,,,ETF,USA
+BULG,BULG,Leverage Shares 2X Long BULL Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+BULZ,BULZ,MicroSectors FANG & Innovation 3x Leveraged ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+BUXX,BUXX,Strive Enhanced Income Short Maturity ETF,NYSE, ,Y,N,,,ETF,USA
+BUYW,BUYW,Main BuyWrite ETF,BATS, ,Y,N,,,ETF,USA
+BWX,BWX,State Street SPDR Bloomberg International Treasury Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BWZ,BWZ,State Street SPDR Bloomberg Short Term International Treasury Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BYLD,BYLD,iShares Yield Optimized Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+BZQ,BZQ,ProShares UltraShort MSCI Brazil Capped,NYSE ARCA, ,Y,N,,,ETF,USA
+CAFX,CAFX,Congress Intermediate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CAGE,CAGE,Calamos Autocallable Growth ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CAIE,CAIE,Calamos Autocallable Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CAIQ,CAIQ,Calamos Nasdaq Autocallable Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+CALI,CALI,iShares Short-Term California Muni Active ETF,NASDAQ,G,Y,N,,,ETF,USA
+CAM,CAM,AB California Intermediate Municipal ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CAMC,CAMC,Corgi CAMT 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+CARD,CARD,MAX Auto Industry -3x Inverse Leveraged ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+CARU,CARU,MAX Auto Industry 3x Leveraged ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+CARX,CARX,Corgi CART 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+CATF,CATF,American Century California Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CATG,CATG,Leverage Shares 2X Long CAT Daily ETF,BATS, ,Y,N,,,ETF,USA
+CBIL,CBIL,Corgi 3-12 Month T-Bill ETF,BATS, ,Y,N,,,ETF,USA
+CBOA,CBOA,Calamos Bitcoin Structured Alt Protection ETF - April,BATS, ,Y,N,,,ETF,USA
+CBOJ,CBOJ,Calamos Bitcoin Structured Alt Protection ETF - January,BATS, ,Y,N,,,ETF,USA
+CBOL,CBOL,Calamos Laddered Bitcoin Structured Alt Protection ETF,BATS, ,Y,N,,,ETF,USA
+CBON,CBON,VanEck China Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CBOO,CBOO,Calamos Bitcoin Structured Alt Protection ETF - October,BATS, ,Y,N,,,ETF,USA
+CBOY,CBOY,Calamos Bitcoin Structured Alt Protection ETF - July,BATS, ,Y,N,,,ETF,USA
+CBRG,CBRG,Leverage Shares 2X Long CBRS Daily ETF,BATS, ,Y,N,,,ETF,USA
+CBRX,CBRX,Tradr 2X Long CBRS Daily ETF,BATS, ,Y,N,,,ETF,USA
+CBRZ,CBRZ,Tradr 2X Short CBRS Daily ETF,BATS, ,Y,N,,,ETF,USA
+CBTA,CBTA,Calamos Bitcoin 80 Series Structured Alt Protection ETF - April,BATS, ,Y,N,,,ETF,USA
+CBTJ,CBTJ,Calamos Bitcoin 80 Series Structured Alt Protection ETF - January,BATS, ,Y,N,,,ETF,USA
+CBTL,CBTL,Calamos Laddered Bitcoin 80 Series Structured Alt Protection ETF,BATS, ,Y,N,,,ETF,USA
+CBTO,CBTO,Calamos Bitcoin 80 Series Structured Alt Protection ETF - October,BATS, ,Y,N,,,ETF,USA
+CBTY,CBTY,Calamos Bitcoin 80 Series Structured Alt Protection ETF - July,BATS, ,Y,N,,,ETF,USA
+CBXA,CBXA,Calamos Bitcoin 90 Series Structured Alt Protection ETF - April,BATS, ,Y,N,,,ETF,USA
+CBXJ,CBXJ,Calamos Bitcoin 90 Series Structured Alt Protection ETF - January,BATS, ,Y,N,,,ETF,USA
+CBXL,CBXL,Calamos Laddered Bitcoin 90 Series Structured Alt Protection ETF,BATS, ,Y,N,,,ETF,USA
+CBXO,CBXO,Calamos Bitcoin 90 Series Structured Alt Protection ETF - October,BATS, ,Y,N,,,ETF,USA
+CBXY,CBXY,Calamos Bitcoin 90 Series Structured Alt Protection ETF - July,BATS, ,Y,N,,,ETF,USA
+CCPX,CCPX,Corgi China 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+CCRP,CCRP,Columbia Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CCSB,CCSB,Carbon Collective Short Duration Green Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+CCUP,CCUP,T-REX 2X Long CRCL Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+CDNG,CDNG,Leverage Shares 2X Long CDNS Daily ETF,BATS, ,Y,N,,,ETF,USA
+CEFD,CEFD,ETRACS Monthly Pay 1.5X Leveraged Closed-End Fund Index ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+CEGX,CEGX,Tradr 2X Long CEG Daily ETF,BATS, ,Y,N,,,ETF,USA
+CEMB,CEMB,iShares J.P. Morgan EM Corporate Bond ETF,BATS, ,Y,N,,,ETF,USA
+CEPI,CEPI,REX Crypto Equity Premium Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+CFIT,CFIT,Cambria Fixed Income Trend ETF,BATS, ,Y,N,,,ETF,USA
+CGCB,CGCB,Capital Group Core Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CGHM,CGHM,Capital Group Municipal High-Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CGHY,CGHY,Capital Group High Yield Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CGIB,CGIB,Capital Group International Bond ETF (USD-Hedged),NYSE ARCA, ,Y,N,,,ETF,USA
+CGMU,CGMU,Capital Group Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CGOV,CGOV,Corgi 0-3 Month T-Bill ETF,BATS, ,Y,N,,,ETF,USA
+CGSD,CGSD,Capital Group Short Duration Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CGSM,CGSM,Capital Group Short Duration Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CGUI,CGUI,Capital Group Ultra Short Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CHAU,CHAU,Direxion Daily CSI 300 China A Share Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CHNU,CHNU,2x Chainlink ETF,BATS, ,Y,N,,,ETF,USA
+CHPY,CHPY,YieldMax Semiconductor Portfolio Option Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CHYG,CHYG,Corgi 0-5 Year High Yield Corporate Bond ETF,BATS, ,Y,N,,,ETF,USA
+CIEG,CIEG,Leverage Shares 2X Long CIEN Daily ETF,BATS, ,Y,N,,,ETF,USA
+CIEI,CIEI,Corgi 3-7 Year Treasury Bond ETF,BATS, ,Y,N,,,ETF,USA
+CIEX,CIEX,Tradr 2X Long CIEN Daily ETF,BATS, ,Y,N,,,ETF,USA
+CIFC,CIFC,Corgi CIFR 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+CIFG,CIFG,Leverage Shares 2X Long CIFR Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+CIFU,CIFU,T-REX 2X Long CIFR Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+CIR,CIR,Corgi CRCL 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+CIVG,CIVG,Corgi 1-5 Year Investment Grade Corporate Bond ETF,BATS, ,Y,N,,,ETF,USA
+CJUL,CJUL,Corgi U.S. Equities 15% Structured Buffer ETF - July Series,BATS, ,Y,N,,,ETF,USA
+CJUN,CJUN,Corgi U.S. Equities 15% Structured Buffer ETF - June Series,BATS, ,Y,N,,,ETF,USA
+CLIP,CLIP,Global X 1-3 Month T-Bill ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CLIX,CLIX,ProShares Long Online/Short Stores ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CLOA,CLOA,iShares AAA CLO Active ETF,NASDAQ,G,Y,N,,,ETF,USA
+CLOB,CLOB,VanEck AA-BB CLO ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CLOC,CLOC,AAM Crescent CLO ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CLOI,CLOI,VanEck CLO ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CLOO,CLOO,NYLI Investment Grade CLO ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CLOX,CLOX,Eldridge AAA CLO ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CLOZ,CLOZ,Eldridge BBB-B CLO ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CLSE,CLSE,Convergence Long/Short Equity ETF,BATS, ,Y,N,,,ETF,USA
+CLSX,CLSX,Tradr 2X Long CLSK Daily ETF,BATS, ,Y,N,,,ETF,USA
+CMAY,CMAY,Corgi U.S. Equities 15% Structured Buffer ETF - May Series,BATS, ,Y,N,,,ETF,USA
+CMBS,CMBS,iShares CMBS Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CMF,CMF,iShares California Muni Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CMGG,CMGG,Leverage Shares 2X Long CMG Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+CNBS,CNBS,Amplify Seymour Cannabis ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CNCG,CNCG,Leverage Shares 2X Long CNC Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+COHC,COHC,Corgi COHR 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+COHH,COHH,Leverage Shares 2X Long COHR Daily ETF,BATS, ,Y,N,,,ETF,USA
+COHX,COHX,Tradr 2X Long COHR Daily ETF,BATS, ,Y,N,,,ETF,USA
+COIA,COIA,ProShares Ultra COIN,NYSE ARCA, ,Y,N,,,ETF,USA
+COIG,COIG,Leverage Shares 2X Long COIN Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+COIW,COIW,Roundhill COIN WeeklyPay ETF,BATS, ,Y,N,,,ETF,USA
+COIX,COIX,Corgi COIN 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+CONI,CONI,GraniteShares 2x Short COIN Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+CONL,CONL,GraniteShares 2x Long COIN Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+CONX,CONX,Direxion Daily COIN Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+CONY,CONY,YieldMax COIN Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+COPZ,COPZ,Defiance Daily Target 2X Long Copper Miners ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CORB,CORB,AB Core Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CORD,CORD,T-REX 2X Inverse CRWV Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+CORP,CORP,PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+COTG,COTG,Leverage Shares 2X Long COST Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+COYY,COYY,GraniteShares YieldBOOST COIN ETF,NASDAQ,G,Y,N,,,ETF,USA
+COZX,COZX,Tradr 2X Long CORZ Daily ETF,BATS, ,Y,N,,,ETF,USA
+CPAG,CPAG,F/m Compoundr U.S. Aggregate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+CPHY,CPHY,F/m Compoundr High Yield Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+CPLB,CPLB,NYLI MacKay Core Plus Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CPLS,CPLS,AB Core Plus Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+CPNX,CPNX,Tradr 2X Long CPNG Daily ETF,BATS, ,Y,N,,,ETF,USA
+CPXR,CPXR,USCF Daily Target 2X Copper Index ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CRCA,CRCA,ProShares Ultra CRCL,NYSE ARCA, ,Y,N,,,ETF,USA
+CRCD,CRCD,T-REX 2X Inverse CRCL Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+CRCG,CRCG,Leverage Shares 2X Long CRCL Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+CRCO,CRCO,YieldMax CRCL Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CRD,CRD,Corgi CRDO 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+CRDU,CRDU,Tradr 2X Long CRDO Daily ETF,BATS, ,Y,N,,,ETF,USA
+CRDX,CRDX,2x Cardano ETF,BATS, ,Y,N,,,ETF,USA
+CRMG,CRMG,Leverage Shares 2X Long CRM Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+CRMU,CRMU,Leverage Shares 2x Long CRML Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+CRMX,CRMX,Tradr 2X Long CRML Daily ETF,BATS, ,Y,N,,,ETF,USA
+CRPT,CRPT,First Trust SkyBridge Crypto Industry and Digital Economy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CRSH,CRSH,YieldMax Short TSLA Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CRUC,CRUC,Corgi CRUS 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+CRUX,CRUX,Columbia Core Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CRWC,CRWC,Corgi CRWD 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+CRWG,CRWG,Leverage Shares 2X Long CRWV Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+CRWL,CRWL,GraniteShares 2x Long CRWD Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+CRWU,CRWU,T-REX 2X Long CRWV Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+CRWX,CRWX,Corgi CRWV 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+CRXP,CRXP,Columbia Core Plus Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CRY,CRY,GraniteShares YieldBOOST CRCL ETF,NASDAQ,G,Y,N,,,ETF,USA
+CSCL,CSCL,Direxion Daily CSCO Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+CSCS,CSCS,Direxion Daily CSCO Bear 1X ETF,NASDAQ,G,Y,N,,,ETF,USA
+CSEX,CSEX,Tradr 2X Long CLS Daily ETF,BATS, ,Y,N,,,ETF,USA
+CSHI,CSHI,NEOS Enhanced Income 1-3 Month T-Bill ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CSHP,CSHP,iShares Dynamic Short-Term Active ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CSSD,CSSD,Cohen & Steers Short Duration Preferred and Income Active ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CTJL,CTJL,Corgi U.S. Equities 30% Structured Buffer ETF - July Series,BATS, ,Y,N,,,ETF,USA
+CTJN,CTJN,Corgi U.S. Equities 30% Structured Buffer ETF - June Series,BATS, ,Y,N,,,ETF,USA
+CTMA,CTMA,Corgi U.S. Equities 30% Structured Buffer ETF - May Series,BATS, ,Y,N,,,ETF,USA
+CURE,CURE,Direxion Daily Healthcare Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CUST,CUST,Corgi 1-3 Year Treasury Bond ETF,BATS, ,Y,N,,,ETF,USA
+CVNY,CVNY,YieldMax CVNA Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CVRD,CVRD,Madison Covered Call ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CVSB,CVSB,Calvert Ultra-Short Investment Grade ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CWEB,CWEB,Direxion Daily CSI China Internet Index Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+CWVX,CWVX,Tradr 2X Long CRWV Daily ETF,BATS, ,Y,N,,,ETF,USA
+CWY,CWY,GraniteShares YieldBOOST CRWV ETF,NASDAQ,G,Y,N,,,ETF,USA
+CXRN,CXRN,Teucrium 2x Daily Corn ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DAMD,DAMD,Defiance Daily Target 2X Short AMD ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DAPR,DAPR,FT Vest U.S. Equity Deep Buffer ETF - April,BATS, ,Y,N,,,ETF,USA
+DAUG,DAUG,FT Vest U.S. Equity Deep Buffer ETF - August,BATS, ,Y,N,,,ETF,USA
+DBND,DBND,DoubleLine Opportunistic Core Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DDDD,DDDD,YieldMax U.S. Stocks Target Double Distribution ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DDEC,DDEC,FT Vest U.S. Equity Deep Buffer ETF - December,BATS, ,Y,N,,,ETF,USA
+DDFA,DDFA,Innovator Equity Dual Directional 15 Buffer ETF - April,BATS, ,Y,N,,,ETF,USA
+DDFD,DDFD,Innovator Equity Dual Directional 15 Buffer ETF - December,BATS, ,Y,N,,,ETF,USA
+DDFF,DDFF,Innovator Equity Dual Directional 15 Buffer ETF - February,BATS, ,Y,N,,,ETF,USA
+DDFJ,DDFJ,Innovator Equity Dual Directional 15 Buffer ETF - January,BATS, ,Y,N,,,ETF,USA
+DDFL,DDFL,Innovator Equity Dual Directional 15 Buffer ETF - July,BATS, ,Y,N,,,ETF,USA
+DDFM,DDFM,Innovator Equity Dual Directional 15 Buffer ETF - March,BATS, ,Y,N,,,ETF,USA
+DDFN,DDFN,Innovator Equity Dual Directional 15 Buffer ETF - November,BATS, ,Y,N,,,ETF,USA
+DDFO,DDFO,Innovator Equity Dual Directional 15 Buffer ETF - October,BATS, ,Y,N,,,ETF,USA
+DDFS,DDFS,Innovator Equity Dual Directional 15 Buffer ETF - September,BATS, ,Y,N,,,ETF,USA
+DDFY,DDFY,Innovator Equity Dual Directional 15 Buffer ETF - May,BATS, ,Y,N,,,ETF,USA
+DDFZ,DDFZ,Innovator Equity Dual Directional 15 Buffer ETF - June,BATS, ,Y,N,,,ETF,USA
+DDM,DDM,ProShares Ultra Dow30,NYSE ARCA, ,Y,N,,,ETF,USA
+DDNQ,DDNQ,Innovator Growth-100 Dual Directional 5 Buffer ETF - Quarterly,BATS, ,Y,N,,,ETF,USA
+DDSQ,DDSQ,Innovator Equity Dual Directional 5 Buffer ETF - Quarterly,BATS, ,Y,N,,,ETF,USA
+DDTA,DDTA,Innovator Equity Dual Directional 10 Buffer ETF - April,BATS, ,Y,N,,,ETF,USA
+DDTD,DDTD,Innovator Equity Dual Directional 10 Buffer ETF - December,BATS, ,Y,N,,,ETF,USA
+DDTF,DDTF,Innovator Equity Dual Directional 10 Buffer ETF - February,BATS, ,Y,N,,,ETF,USA
+DDTJ,DDTJ,Innovator Equity Dual Directional 10 Buffer ETF - January,BATS, ,Y,N,,,ETF,USA
+DDTL,DDTL,Innovator Equity Dual Directional 10 Buffer ETF - July,BATS, ,Y,N,,,ETF,USA
+DDTM,DDTM,Innovator Equity Dual Directional 10 Buffer ETF - March,BATS, ,Y,N,,,ETF,USA
+DDTN,DDTN,Innovator Equity Dual Directional 10 Buffer ETF - November,BATS, ,Y,N,,,ETF,USA
+DDTO,DDTO,Innovator Equity Dual Directional 10 Buffer ETF - October,BATS, ,Y,N,,,ETF,USA
+DDTS,DDTS,Innovator Equity Dual Directional 10 Buffer ETF - September,BATS, ,Y,N,,,ETF,USA
+DDTY,DDTY,Innovator Equity Dual Directional 10 Buffer ETF - May,BATS, ,Y,N,,,ETF,USA
+DDTZ,DDTZ,Innovator Equity Dual Directional 10 Buffer ETF - June,BATS, ,Y,N,,,ETF,USA
+DECM,DECM,FT Vest U.S. Equity Max Buffer ETF - December,BATS, ,Y,N,,,ETF,USA
+DECP,DECP,PGIM S&P 500 Buffer 12 ETF - December,BATS, ,Y,N,,,ETF,USA
+DEED,DEED,First Trust Securitized Plus ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DEFI,DEFI,Hashdex Bitcoin ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DFCA,DFCA,Dimensional California Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DFCF,DFCF,Dimensional Core Fixed Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DFEB,DFEB,FT Vest U.S. Equity Deep Buffer ETF - February,BATS, ,Y,N,,,ETF,USA
+DFEN,DFEN,Direxion Daily Aerospace & Defense Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DFGP,DFGP,Dimensional Global Core Plus Fixed Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+DFGX,DFGX,Dimensional International Core Fixed Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+DFII,DFII,FT Vest Bitcoin Strategy & Target Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DFNM,DFNM,Dimensional National Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DFSB,DFSB,Dimensional Global Sustainability Fixed Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DFSD,DFSD,Dimensional Short-Duration Fixed Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DGAP,DGAP,FT Vest U.S. Equity Buffer & Digital Return ETF - April,BATS, ,Y,N,,,ETF,USA
+DGJA,DGJA,FT Vest U.S. Equity Buffer & Digital Return ETF - January,BATS, ,Y,N,,,ETF,USA
+DGOC,DGOC,FT Vest U.S. Equity Buffer & Digital Return ETF - October,BATS, ,Y,N,,,ETF,USA
+DHDG,DHDG,FT Vest U.S. Equity Quarterly 2.5 to 15 Buffer ETF,BATS, ,Y,N,,,ETF,USA
+DHSB,DHSB,Day Hagan Smart Buffer ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DIAL,DIAL,Columbia Diversified Fixed Income Allocation ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DIG,DIG,ProShares Ultra Energy,NYSE ARCA, ,Y,N,,,ETF,USA
+DIPS,DIPS,YieldMax Short NVDA Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DJAN,DJAN,FT Vest U.S. Equity Deep Buffer ETF - January,BATS, ,Y,N,,,ETF,USA
+DJIA,DJIA,Global X Dow 30 Covered Call ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DJTU,DJTU,T-REX 2X Long DJT Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+DJUL,DJUL,FT Vest U.S. Equity Deep Buffer ETF - July,BATS, ,Y,N,,,ETF,USA
+DJUN,DJUN,FT Vest U.S. Equity Deep Buffer ETF - June,BATS, ,Y,N,,,ETF,USA
+DKNX,DKNX,Defiance Daily Target 2X Long DKNG ETF,NASDAQ,G,Y,N,,,ETF,USA
+DLAG,DLAG,FT Vest U.S. Equity Dual Directional Buffer ETF - August,BATS, ,Y,N,,,ETF,USA
+DLFE,DLFE,FT Vest U.S. Equity Dual Directional Buffer ETF - February,BATS, ,Y,N,,,ETF,USA
+DLLL,DLLL,GraniteShares 2x Long DELL Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+DLMY,DLMY,FT Vest U.S. Equity Dual Directional Buffer ETF - May,BATS, ,Y,N,,,ETF,USA
+DLNV,DLNV,FT Vest U.S. Equity Dual Directional Buffer ETF - November,BATS, ,Y,N,,,ETF,USA
+DLUX,DLUX,DoubleLine Ultrashort Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DMAR,DMAR,FT Vest U.S. Equity Deep Buffer ETF - March,BATS, ,Y,N,,,ETF,USA
+DMAX,DMAX,iShares Large Cap Max Buffer Dec ETF,BATS, ,Y,N,,,ETF,USA
+DMAY,DMAY,FT Vest U.S. Equity Deep Buffer ETF - May,BATS, ,Y,N,,,ETF,USA
+DMBS,DMBS,DoubleLine Mortgage ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DNNG,DNNG,Leverage Shares 2x Long DNN Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+DNOV,DNOV,FT Vest U.S. Equity Deep Buffer ETF - November,BATS, ,Y,N,,,ETF,USA
+DOCT,DOCT,FT Vest U.S. Equity Deep Buffer ETF - October,BATS, ,Y,N,,,ETF,USA
+DOG,DOG,ProShares Short Dow30,NYSE ARCA, ,Y,N,,,ETF,USA
+DPST,DPST,Direxion Daily Regional Banks Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DQJN,DQJN,FT Vest Nasdaq-100 Dual Directional Buffer ETF - June,BATS, ,Y,N,,,ETF,USA
+DRAL,DRAL,Defiance Daily Target 2X Long DRAM ETF,BATS, ,Y,N,,,ETF,USA
+DRAY,DRAY,YieldMax DKNG Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DRIP,DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DRN,DRN,Direxion Daily Real Estate Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DRNL,DRNL,Defiance 2X Daily Long Pure Drone and Aerial Automation ETF,BATS, ,Y,N,,,ETF,USA
+DRV,DRV,Direxion Daily Real Estate Bear 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DSCO,DSCO,DoubleLine Securitized Credit ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DSEP,DSEP,FT Vest U.S. Equity Deep Buffer ETF - September,BATS, ,Y,N,,,ETF,USA
+DUG,DUG,ProShares UltraShort Energy,NYSE ARCA, ,Y,N,,,ETF,USA
+DULL,DULL,"MicroSectors Gold -3X Inverse Leveraged ETNs due January 29, 2043",NYSE ARCA, ,Y,N,,,ETF,USA
+DUOG,DUOG,Leverage Shares 2X Long DUOL Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+DUSB,DUSB,Dimensional Ultrashort Fixed Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DUSL,DUSL,Direxion Daily Industrials Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DUST,DUST,Direxion Daily Gold Miners Index Bear 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DWSH,DWSH,AdvisorShares Dorsey Wright Short ETF,NASDAQ,G,Y,N,,,ETF,USA
+DXD,DXD,ProShares UltraShort Dow30,NYSE ARCA, ,Y,N,,,ETF,USA
+DYFI,DYFI,IDX Dynamic Fixed Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+DYLG,DYLG,Global X Dow 30 Covered Call & Growth ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+DYNB,DYNB,Hartford Dynamic Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+EAGG,EAGG,iShares ESG Aware U.S. Aggregate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+EALT,EALT,Innovator U.S. Equity 5 to 15 Buffer ETF - Quarterly,BATS, ,Y,N,,,ETF,USA
+EAPR,EAPR,Innovator Emerging Markets Power Buffer ETF April,NYSE ARCA, ,Y,N,,,ETF,USA
+EBND,EBND,State Street SPDR Bloomberg Emerging Markets Local Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+EBUF,EBUF,Innovator Emerging Markets 10 Buffer ETF - Quarterly,NYSE ARCA, ,Y,N,,,ETF,USA
+ECHX,ECHX,Leverage Shares 2X Long ECHO Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+EDC,EDC,Direxion Emerging Markets Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+EDGF,EDGF,3EDGE Dynamic Fixed Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+EDV,EDV,Vanguard Extended Duration Treasury ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+EDZ,EDZ,Direxion Emerging Markets Bear 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+EEE,EEE,CYBER HORNET S&P 500 and Ethereum 75/25 Strategy ETF,NASDAQ,G,Y,N,,,ETF,USA
+EET,EET,ProShares Ultra MSCI Emerging Markets,NYSE ARCA, ,Y,N,,,ETF,USA
+EETH,EETH,ProShares Ether ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+EEV,EEV,ProShares UltraShort MSCI Emerging Markets,NYSE ARCA, ,Y,N,,,ETF,USA
+EFO,EFO,ProShares Ultra MSCI EAFE,NYSE ARCA, ,Y,N,,,ETF,USA
+EFU,EFU,ProShares UltraShort MSCI EAFE,NYSE ARCA, ,Y,N,,,ETF,USA
+EFZ,EFZ,ProShares Short MSCI EAFE,NYSE ARCA, ,Y,N,,,ETF,USA
+EHCC,EHCC,Global X Ethereum Covered Call ETF,BATS, ,Y,N,,,ETF,USA
+EHLS,EHLS,Even Herd Long Short ETF,NASDAQ,G,Y,N,,,ETF,USA
+EHY,EHY,Amplify Ethereum Max Income Covered Call ETF,BATS, ,Y,N,,,ETF,USA
+EJAN,EJAN,Innovator Emerging Markets Power Buffer ETF January,NYSE ARCA, ,Y,N,,,ETF,USA
+EJUL,EJUL,Innovator Emerging Markets Power Buffer ETF July,NYSE ARCA, ,Y,N,,,ETF,USA
+ELIL,ELIL,Direxion Daily LLY Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+EMB,EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+EMBD,EMBD,Global X Emerging Markets Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+EMBX,EMBX,VanEck Emerging Markets Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+EMCB,EMCB,WisdomTree Emerging Markets Corporate Bond Fund,NASDAQ,G,Y,N,,,ETF,USA
+EMHC,EMHC,State Street SPDR Bloomberg Emerging Markets USD Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+EMHY,EMHY,iShares J.P. Morgan EM High Yield Bond ETF,BATS, ,Y,N,,,ETF,USA
+EMJL,EMJL,Corgi Emerging Markets Equities 15% Structured Buffer ETF - July Series,BATS, ,Y,N,,,ETF,USA
+EMJN,EMJN,Corgi Emerging Markets Equities 15% Structured Buffer ETF - June Series,BATS, ,Y,N,,,ETF,USA
+EMLC,EMLC,VanEck J. P. Morgan EM Local Currency Bond ET,NYSE ARCA, ,Y,N,,,ETF,USA
+EMMY,EMMY,Corgi Emerging Markets Equities 15% Structured Buffer ETF - May Series,BATS, ,Y,N,,,ETF,USA
+EMNT,EMNT,PIMCO Enhanced Short Maturity Active ESG Exchange-Traded Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+EMTL,EMTL,State Street DoubleLine Emerging Markets Fixed Income ETF,BATS, ,Y,N,,,ETF,USA
+EMXX,EMXX,Corgi Emerging Markets 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+ENTL,ENTL,Leverage Shares 2X Long ENTG Daily ETF,BATS, ,Y,N,,,ETF,USA
+EO,EO,Corgi EOSE 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+EOCT,EOCT,Innovator Emerging Markets Power Buffer ETF - October,NYSE ARCA, ,Y,N,,,ETF,USA
+EOSU,EOSU,T-REX 2X Long EOSE Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+EPV,EPV,ProShares UltraShort FTSE Europe ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ERX,ERX,Direxion Energy Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ERY,ERY,Direxion Daily Energy Bear 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ESBG,ESBG,"First Trust Enhanced Stocks, Bonds & Gold ETF",NYSE ARCA, ,Y,N,,,ETF,USA
+ETCO,ETCO,Grayscale Ethereum Covered Call ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ETH,ETH,Grayscale Ethereum Staking Mini ETF Shares,NYSE ARCA, ,Y,N,,,ETF,USA
+ETHA,ETHA,iShares Ethereum Trust ETF,NASDAQ,G,Y,N,,,ETF,USA
+ETHB,ETHB,iShares Staked Ethereum Trust ETF,NASDAQ,G,Y,N,,,ETF,USA
+ETHD,ETHD,ProShares UltraShort Ether ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ETHE,ETHE,Grayscale Ethereum Staking ETF Shares,NYSE ARCA, ,Y,N,,,ETF,USA
+ETHT,ETHT,ProShares Ultra Ether ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ETHU,ETHU,2x Ether ETF,BATS, ,Y,N,,,ETF,USA
+ETHV,ETHV,VanEck Ethereum ETF,BATS, ,Y,N,,,ETF,USA
+ETHW,ETHW,Bitwise Ethereum ETF ,NYSE ARCA, ,Y,N,,,ETF,USA
+ETNG,ETNG,Leverage Shares 2X Long ETN Daily ETF,BATS, ,Y,N,,,ETF,USA
+ETTY,ETTY,Amplify Ethereum 3% Monthly Option Income ETF,BATS, ,Y,N,,,ETF,USA
+ETU,ETU,T-Rex 2X Long Ether Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+EUHY,EUHY,iShares Euro High Yield Corporate Bond USD Hedged ETF,BATS, ,Y,N,,,ETF,USA
+EUIG,EUIG,iShares Euro Investment Grade Corporate Bond USD Hedged ETF,BATS, ,Y,N,,,ETF,USA
+EUM,EUM,ProShares Short MSCI Emerging Markets,NYSE ARCA, ,Y,N,,,ETF,USA
+EUO,EUO,ProShares UltraShort Euro,NYSE ARCA, ,Y,N,,,ETF,USA
+EURL,EURL,Direxion Daily FTSE Europe Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+EUSB,EUSB,iShares ESG Advanced Universal USD Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+EUVX,EUVX,Corgi Lithography & Semiconductor Photonics 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+EVIM,EVIM,Eaton Vance Intermediate Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+EVMO,EVMO,Eaton Vance Mortgage Opportunities ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+EVMU,EVMU,Direxion Daily Ether Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+EVSB,EVSB,Eaton Vance Ultra-Short Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+EVSD,EVSD,Eaton Vance Short Duration Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+EVSM,EVSM,Eaton Vance Short Duration Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+EVTR,EVTR,Eaton Vance Total Return Bond ETF,NYSE, ,Y,N,,,ETF,USA
+EVYM,EVYM,Eaton Vance High Income Municipal ETF,NASDAQ,G,Y,N,,,ETF,USA
+EWV,EWV,ProShares UltraShort MSCI Japan,NYSE ARCA, ,Y,N,,,ETF,USA
+EYEG,EYEG,AB Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+EZBC,EZBC,Franklin Templeton Digital Holdings Trust Shares of Franklin Bitcoin ETF,BATS, ,Y,N,,,ETF,USA
+EZET,EZET,Franklin Ethereum ETF,BATS, ,Y,N,,,ETF,USA
+EZJ,EZJ,ProShares Ultra MSCI Japan,NYSE ARCA, ,Y,N,,,ETF,USA
+EZPZ,EZPZ,Franklin Crypto Index ETF,BATS, ,Y,N,,,ETF,USA
+FAAA,FAAA,Fidelity AAA CLO ETF,NASDAQ,G,Y,N,,,ETF,USA
+FALN,FALN,iShares Fallen Angels USD Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+FAPR,FAPR,FT Vest U.S. Equity Buffer ETF - April,BATS, ,Y,N,,,ETF,USA
+FAS,FAS,Direxion Financial Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FAUG,FAUG,FT Vest U.S. Equity Buffer ETF - August,BATS, ,Y,N,,,ETF,USA
+FAZ,FAZ,Direxion Financial Bear 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FB,FB,ProShares S&P 500 Dynamic Buffer ETF,BATS, ,Y,N,,,ETF,USA
+FBL,FBL,GraniteShares 2x Long META Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+FBND,FBND,Fidelity Total Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FBTC,FBTC,Fidelity Wise Origin Bitcoin Fund,BATS, ,Y,N,,,ETF,USA
+FBUF,FBUF,Fidelity Dynamic Buffered Equity ETF,BATS, ,Y,N,,,ETF,USA
+FBX,FBX,Corgi META 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+FBY,FBY,YieldMax META Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FBYY,FBYY,GraniteShares YieldBOOST META ETF,NASDAQ,G,Y,N,,,ETF,USA
+FCAL,FCAL,First Trust California Municipal High income ETF,NASDAQ,G,Y,N,,,ETF,USA
+FCBD,FCBD,Frontier Asset Core Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FCLO,FCLO,Fidelity CLO ETF,NASDAQ,G,Y,N,,,ETF,USA
+FCOR,FCOR,Fidelity Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FCSH,FCSH,Federated Hermes Short Duration Corporate ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FCXG,FCXG,Leverage Shares 2x Long FCX Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+FDEC,FDEC,FT Vest U.S. Equity Buffer ETF - December,BATS, ,Y,N,,,ETF,USA
+FDIG,FDIG,Fidelity Crypto Industry and Digital Payments ETF,NASDAQ,G,Y,N,,,ETF,USA
+FDRX,FDRX,Founder-Led 2X Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+FEBM,FEBM,FT Vest U.S. Equity Max Buffer ETF - February,BATS, ,Y,N,,,ETF,USA
+FEBP,FEBP,PGIM S&P 500 Buffer 12 ETF - February,BATS, ,Y,N,,,ETF,USA
+FECM,FECM,First Eagle Core Municipal ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FEMB,FEMB,First Trust Emerging Markets Local Currency Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+FETH,FETH,Fidelity Ethereum Fund,BATS, ,Y,N,,,ETF,USA
+FFEB,FFEB,FT Vest U.S. Equity Buffer ETF - February,BATS, ,Y,N,,,ETF,USA
+FFIU,FFIU,UVA Unconstrained Medium-Term Fixed Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FFLS,FFLS,The Future Fund Long/Short ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FGRU,FGRU,T-REX 2X Long FIGR Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+FHDG,FHDG,FT Vest U.S. Equity Quarterly Dynamic Buffer ETF,BATS, ,Y,N,,,ETF,USA
+FHYS,FHYS,Federated Hermes Short Duration High Yield ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FIAT,FIAT,YieldMax Short COIN Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FIAX,FIAX,Nicholas Fixed Income Alternative ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FIGB,FIGB,Fidelity Investment Grade Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FIGG,FIGG,Leverage Shares 2x Long FIG Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+FIMU,FIMU,Fidelity Intermediate Municipal Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+FINY,FINY,GraniteShares YieldBOOST Financials ETF,NASDAQ,G,Y,N,,,ETF,USA
+FISR,FISR,State Street Fixed Income Sector Rotation ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FIXD,FIXD,First Trust Smith Opportunistic Fixed Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+FIXP,FIXP,FolioBeyond Enhanced Fixed Income Premium ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FIXT,FIXT,TCW Core Plus Bond ETF,NYSE, ,Y,N,,,ETF,USA
+FIYY,FIYY,GraniteShares YieldBOOST 20Y Treasuries ETF,NASDAQ,G,Y,N,,,ETF,USA
+FJAN,FJAN,FT Vest U.S. Equity Buffer ETF - January,BATS, ,Y,N,,,ETF,USA
+FJUL,FJUL,FT Vest U.S. Equity Buffer ETF - July,BATS, ,Y,N,,,ETF,USA
+FJUN,FJUN,FT Vest U.S. Equity Buffer ETF - June,BATS, ,Y,N,,,ETF,USA
+FLAO,FLAO,AllianzIM U.S. Equity 6 Month Floor5 Apr/Oct ETF,BATS, ,Y,N,,,ETF,USA
+FLCB,FLCB,Franklin U.S. Core Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FLDB,FLDB,Fidelity Low Duration Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+FLDR,FLDR,Fidelity Low Duration Bond Factor ETF,BATS, ,Y,N,,,ETF,USA
+FLGV,FLGV,Franklin U.S. Treasury Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FLIA,FLIA,Franklin International Aggregate Bond ETF,BATS, ,Y,N,,,ETF,USA
+FLJJ,FLJJ,AllianzIM U.S. Equity 6 Month Floor5 Jan/Jul ETF,BATS, ,Y,N,,,ETF,USA
+FLMB,FLMB,Franklin Municipal Green Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FLMI,FLMI,Franklin Dynamic Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FLOT,FLOT,iShares Floating Rate Bond ETF,BATS, ,Y,N,,,ETF,USA
+FLTB,FLTB,Fidelity Limited Term Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FLUD,FLUD,Franklin Ultra Short Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FLYD,FLYD,MicroSectors Travel -3x Inverse Leveraged ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+FLYT,FLYT,Tradr 2X Long FLY Daily ETF,BATS, ,Y,N,,,ETF,USA
+FLYU,FLYU,MicroSectors Travel 3x Leveraged ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+FMAR,FMAR,FT Vest U.S. Equity Buffer ETF - March,BATS, ,Y,N,,,ETF,USA
+FMAY,FMAY,FT Vest U.S. Equity Buffer ETF - May,BATS, ,Y,N,,,ETF,USA
+FMB,FMB,First Trust Managed Municipal ETF,NASDAQ,G,Y,N,,,ETF,USA
+FMET,FMET,Fidelity Metaverse ETF,NASDAQ,G,Y,N,,,ETF,USA
+FMHI,FMHI,First Trust Municipal High Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+FMNY,FMNY,First Trust New York Municipal High Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FMUB,FMUB,Fidelity Municipal Bond Opportunities ETF,NASDAQ,G,Y,N,,,ETF,USA
+FMUN,FMUN,Fidelity Systematic Municipal Bond Index ETF,NASDAQ,G,Y,N,,,ETF,USA
+FNG,FNG,Leverage Shares 2X Long FN Daily ETF,BATS, ,Y,N,,,ETF,USA
+FNGG,FNGG,Direxion Daily NYSE FANG+ Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FNGS,FNGS,"MicroSectors FANG  ETNs due January 8, 2038",NYSE ARCA, ,Y,N,,,ETF,USA
+FNGU,FNGU,MicroSectors FANG+ 3X Leveraged ETNs,NYSE ARCA, ,Y,N,,,ETF,USA
+FNOV,FNOV,FT Vest U.S. Equity Buffer ETF - November,BATS, ,Y,N,,,ETF,USA
+FOCT,FOCT,FT Vest U.S. Equity Buffer ETF - October,BATS, ,Y,N,,,ETF,USA
+FOMG,FOMG,Leverage Shares 2X Long FORM Daily ETF,BATS, ,Y,N,,,ETF,USA
+FPAS,FPAS,FPA Short Duration Government ETF,BATS, ,Y,N,,,ETF,USA
+FPSX,FPSX,Leverage Shares 2X Long FPS Daily ETF,BATS, ,Y,N,,,ETF,USA
+FSEC,FSEC,Fidelity Investment Grade Securitized ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FSEP,FSEP,FT Vest U.S. Equity Buffer ETF - September,BATS, ,Y,N,,,ETF,USA
+FSMB,FSMB,First Trust Short Duration Managed Municipal ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FSOL,FSOL,Fidelity Solana Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+FSTB,FSTB,Fidelity Short-Term Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+FTBD,FTBD,Fidelity Tactical Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FTCA,FTCA,Franklin California Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FTHI,FTHI,First Trust BuyWrite Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+FTKI,FTKI,First Trust Small Cap BuyWrite Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FTLS,FTLS,First Trust Long/Short Equity,NYSE ARCA, ,Y,N,,,ETF,USA
+FTMA,FTMA,Franklin Massachusetts Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FTMH,FTMH,Franklin Municipal High Yield ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FTMN,FTMN,Franklin Minnesota Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FTMS,FTMS,Franklin Short-Term Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FTMU,FTMU,Franklin Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FTNJ,FTNJ,Franklin New Jersey Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FTNY,FTNY,Franklin New York Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FTOH,FTOH,Franklin Ohio Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FTPA,FTPA,Franklin Pennsylvania Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FTQI,FTQI,First Trust Nasdaq BuyWrite Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+FTRB,FTRB,Federated Hermes Total Return Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FTSD,FTSD,Franklin Short Duration U.S. Government ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FTSM,FTSM,First Trust Enhanced Short Maturity ETF,NASDAQ,G,Y,N,,,ETF,USA
+FUMB,FUMB,First Trust Ultra Short Duration Municipal ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+FUSD,FUSD,Federated Hermes Ultrashort Bond ETF,BATS, ,Y,N,,,ETF,USA
+FUTG,FUTG,Leverage Shares 2x Long FUTU Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+FXED,FXED,Sound Enhanced Fixed Income ETF,NYSE, ,Y,N,,,ETF,USA
+FXP,FXP,ProShares UltraShort FTSE China 50,NYSE ARCA, ,Y,N,,,ETF,USA
+GAEM,GAEM,Simplify Gamma Emerging Market Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GAPR,GAPR,FT Vest U.S. Equity Moderate Buffer ETF - April,BATS, ,Y,N,,,ETF,USA
+GAUG,GAUG,FT Vest U.S. Equity Moderate Buffer ETF - August,BATS, ,Y,N,,,ETF,USA
+GBF,GBF,iShares Government/Credit Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GBIL,GBIL,Goldman Sachs Access Treasury 0-1 Year ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GBND,GBND,Goldman Sachs Core Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GBTC,GBTC,Grayscale Bitcoin Trust (BTC),NYSE ARCA, ,Y,N,,,ETF,USA
+GCAL,GCAL,Goldman Sachs Dynamic California Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GCOR,GCOR,Goldman Sachs Access U.S. Aggregate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GCSH,GCSH,Guggenheim Ultra Short Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GDEC,GDEC,FT Vest U.S. Equity Moderate Buffer ETF - December,BATS, ,Y,N,,,ETF,USA
+GDLC,GDLC,Grayscale CoinDesk Crypto 5 ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GDXD,GDXD,MicroSectors Gold Miners -3X Inverse Leveraged ETNs,NYSE ARCA, ,Y,N,,,ETF,USA
+GDXU,GDXU,MicroSectors Gold Miners 3X Leveraged ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+GDXY,GDXY,YieldMax Gold Miners Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GEMD,GEMD,Goldman Sachs Access Emerging Markets USD Bond ETF,BATS, ,Y,N,,,ETF,USA
+GEMG,GEMG,Leverage Shares 2X Long GEMI Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+GENM,GENM,Genter Capital Municipal Quality Intermediate ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GEVC,GEVC,Corgi GEV 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+GEVG,GEVG,Leverage Shares 2X Long GEV Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+GEVX,GEVX,Tradr 2X Long GEV Daily ETF,BATS, ,Y,N,,,ETF,USA
+GFEB,GFEB,FT Vest U.S. Equity Moderate Buffer ETF - February,BATS, ,Y,N,,,ETF,USA
+GFSG,GFSG,Leverage Shares 2X Long GFS Daily ETF,BATS, ,Y,N,,,ETF,USA
+GGLL,GGLL,Direxion Daily GOOGL Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+GGLS,GGLS,Direxion Daily GOOGL Bear 1X ETF,NASDAQ,G,Y,N,,,ETF,USA
+GGOV,GGOV,iShares Global Government Bond USD Hedged Active ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GHYB,GHYB,Goldman Sachs Access High Yield Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GHYG,GHYG,iShares US & Intl High Yield Corp Bond ETF,BATS, ,Y,N,,,ETF,USA
+GIGB,GIGB,Goldman Sachs Access Investment Grade Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GIGL,GIGL,Goldman Sachs Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GISC,GISC,Guggenheim Securitized Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GJAN,GJAN,FT Vest U.S. Equity Moderate Buffer ETF - January,BATS, ,Y,N,,,ETF,USA
+GJUL,GJUL,FT Vest U.S. Equity Moderate Buffer ETF - July,BATS, ,Y,N,,,ETF,USA
+GJUN,GJUN,FT Vest U.S. Equity Moderate Buffer ETF - June,BATS, ,Y,N,,,ETF,USA
+GLDI,GLDI,"ETRACS Gold Shares Covered Call ETNs due February 2, 2033",NASDAQ,G,Y,N,,,ETF,USA
+GLGG,GLGG,Leverage Shares 2X Long GLXY Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+GLL,GLL,ProShares UltraShort Gold,NYSE ARCA, ,Y,N,,,ETF,USA
+GLWG,GLWG,Leverage Shares 2X Long GLW Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+GLX,GLX,Corgi GLXY 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+GLXU,GLXU,T-REX 2X Long GLXY Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+GMAR,GMAR,FT Vest U.S. Equity Moderate Buffer ETF - March,BATS, ,Y,N,,,ETF,USA
+GMAY,GMAY,FT Vest U.S. Equity Moderate Buffer ETF - May,BATS, ,Y,N,,,ETF,USA
+GMEC,GMEC,Corgi GME 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+GMEU,GMEU,T-REX 2X Long GME Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+GMEY,GMEY,YieldMax GME Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GMNY,GMNY,Goldman Sachs Dynamic New York Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GMOC,GMOC,GMO Ultra-Short Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GMUB,GMUB,Goldman Sachs Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GNMA,GNMA,iShares GNMA Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+GNOV,GNOV,FT Vest U.S. Equity Moderate Buffer ETF - November,BATS, ,Y,N,,,ETF,USA
+GOCT,GOCT,FT Vest U.S. Equity Moderate Buffer ETF - October,BATS, ,Y,N,,,ETF,USA
+GOGL,GOGL,Corgi GOOGL 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+GOOL,GOOL,Leverage Shares 2X Long GOOGL Daily ETF,BATS, ,Y,N,,,ETF,USA
+GOOX,GOOX,T-Rex 2X Long Alphabet Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+GOOY,GOOY,YieldMax GOOGL Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GOU,GOU,GraniteShares 2x Long GOOGL Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+GOVI,GOVI,Invesco Equal Weight 0-30 Year Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+GOVM,GOVM,iShares 1-10 Year Treasury Bond ETF,BATS, ,Y,N,,,ETF,USA
+GOVT,GOVT,iShares U.S. Treasury Bond ETF,BATS, ,Y,N,,,ETF,USA
+GOVZ,GOVZ,iShares 25  Year Treasury STRIPS Bond ETF,BATS, ,Y,N,,,ETF,USA
+GPTY,GPTY,YieldMax AI & Tech Portfolio Option Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GRAG,GRAG,Leverage Shares 2X Long GRAB Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+GRNB,GRNB,VanEck Green Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GSEP,GSEP,FT Vest U.S. Equity Moderate Buffer ETF - September,BATS, ,Y,N,,,ETF,USA
+GSOL,GSOL,Grayscale Solana Staking ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GSST,GSST,Goldman Sachs Ultra Short Bond ETF,BATS, ,Y,N,,,ETF,USA
+GSUI,GSUI,Grayscale Sui Staking ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GSY,GSY,Invesco Ultra Short Duration ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GTIP,GTIP,Goldman Sachs Access Inflation Protected USD Bond ETF,BATS, ,Y,N,,,ETF,USA
+GTO,GTO,Invesco Total Return Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GTOC,GTOC,Invesco Core Fixed Income ETF,BATS, ,Y,N,,,ETF,USA
+GTOH,GTOH,Invesco Short Duration High Yield ETF,BATS, ,Y,N,,,ETF,USA
+GTOQ,GTOQ,Invesco High Yield Systematic Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+GTOS,GTOS,Invesco Short Duration Total Return Bond ETF,BATS, ,Y,N,,,ETF,USA
+GUMI,GUMI,Goldman Sachs Ultra Short Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GUSH,GUSH,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+GVI,GVI,iShares Intermediate Government/Credit Bond ETF,BATS, ,Y,N,,,ETF,USA
+GXIG,GXIG,Global X Investment Grade Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HAKY,HAKY,Amplify HACK Cybersecurity Covered Call ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HBDC,HBDC,Hilton BDC Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+HBRD,HBRD,Invesco U.S. Hybrid Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HBTC,HBTC,Fortuna Hedged Bitcoin ETF,BATS, ,Y,N,,,ETF,USA
+HCOW,HCOW,Amplify COWS Covered Call ETF,NASDAQ,G,Y,N,,,ETF,USA
+HCRB,HCRB,Hartford Core Bond ETF,BATS, ,Y,N,,,ETF,USA
+HDGE,HDGE,Ranger Equity Bear Bear ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HDLB,HDLB,"ETRACS Monthly Pay 2xLeveraged US High Dividend Low Volatility ETN Series B due September 30, 2044",NYSE ARCA, ,Y,N,,,ETF,USA
+HFEQ,HFEQ,Unlimited HFEQ Equity Long/Short ETF,NYSE, ,Y,N,,,ETF,USA
+HIBL,HIBL,Direxion Daily S&P 500 High Beta Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HIBS,HIBS,Direxion Daily S&P 500 High Beta Bear 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HIMC,HIMC,Corgi HIMS 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+HIMU,HIMU,iShares High Yield Muni Active ETF,BATS, ,Y,N,,,ETF,USA
+HIMZ,HIMZ,Defiance Daily Target 2X Long HIMS ETF,NASDAQ,G,Y,N,,,ETF,USA
+HIYY,HIYY,YieldMax HIMS Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HJLY,HJLY,Corgi U.S. Equities 100% Structured Buffer ETF - July Series,BATS, ,Y,N,,,ETF,USA
+HJUN,HJUN,Corgi U.S. Equities 100% Structured Buffer ETF - June Series,BATS, ,Y,N,,,ETF,USA
+HMAY,HMAY,Corgi U.S. Equities 100% Structured Buffer ETF - May Series,BATS, ,Y,N,,,ETF,USA
+HMOP,HMOP,Hartford Municipal Opportunities ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HMYY,HMYY,GraniteShares YieldBoost HIMS ETF,NASDAQ,G,Y,N,,,ETF,USA
+HODL,HODL,VanEck Bitcoin Trust ,BATS, ,Y,N,,,ETF,USA
+HODU,HODU,Direxion Daily HOOD Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+HONG,HONG,Leverage Shares 2X Long HON Daily ETF,BATS, ,Y,N,,,ETF,USA
+HOOC,HOOC,Corgi HOOD 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+HOOG,HOOG,Leverage Shares 2X Long HOOD Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+HOOX,HOOX,Defiance Daily Target 2X Long HOOD ETF,NASDAQ,G,Y,N,,,ETF,USA
+HOOY,HOOY,YieldMax HOOD Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HOOZ,HOOZ,Defiance Daily Target 2X Short HOOD ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HOYY,HOYY,GraniteShares YieldBOOST HOOD ETF,NASDAQ,G,Y,N,,,ETF,USA
+HPEL,HPEL,Leverage Shares 2X Long HPE Daily ETF,BATS, ,Y,N,,,ETF,USA
+HTAB,HTAB,Hartford Schroders Tax-Aware Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HTAX,HTAX,Nomura National High-Yield Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HTRB,HTRB,Hartford Total Return Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HUTG,HUTG,Leverage Shares 2X Long HUT Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+HYBB,HYBB,iShares BB Rated Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HYBX,HYBX,TCW High Yield Bond ETF,NYSE, ,Y,N,,,ETF,USA
+HYD,HYD,VanEck High Yield Muni ETF,BATS, ,Y,N,,,ETF,USA
+HYDB,HYDB,iShares High Yield Systematic Bond ETF,BATS, ,Y,N,,,ETF,USA
+HYDW,HYDW,Xtrackers Low Beta High Yield Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HYEM,HYEM,VanEck Emerging Markets High Yield Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HYG,HYG,iShares iBoxx $ High Yield Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HYGH,HYGH,iShares Interest Rate Hedged High Yield Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HYGV,HYGV,FlexShares High Yield Value-Scored Bond Index Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+HYGW,HYGW,iShares High Yield Corporate Bond BuyWrite Strategy ETF,BATS, ,Y,N,,,ETF,USA
+HYLB,HYLB,Xtrackers USD High Yield Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HYMB,HYMB,State Street SPDR Nuveen ICE High Yield Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HYNX,HYNX,T-REX 2X Long SKHY Daily Target ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HYS,HYS,PIMCO 0-5 Year High Yield Corporat Bond Index Exchange-Traded Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+HYSA,HYSA,BondBloxx USD High Yield Bond Sector Rotation ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HYSD,HYSD,Columbia Short Duration High Yield ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HYUP,HYUP,Xtrackers High Beta High Yield Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+HYXF,HYXF,iShares ESG Advanced High Yield Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+HYZD,HYZD,WisdomTree Interest Rate Hedged High Yield Bond Fund,NASDAQ,G,Y,N,,,ETF,USA
+IAGG,IAGG,iShares International Aggregate Bond Fund,BATS, ,Y,N,,,ETF,USA
+IAPR,IAPR,Innovator International Developed Power Buffer ETF  April,NYSE ARCA, ,Y,N,,,ETF,USA
+IAUG,IAUG,Innovator International Developed Power Buffer ETF  August,NYSE ARCA, ,Y,N,,,ETF,USA
+IBCA,IBCA,iShares iBonds Dec 2035 Term Corporate ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBCB,IBCB,iShares iBonds Dec 2036 Term Corporate ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBD,IBD,Inspire Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBDR,IBDR,iShares iBonds Dec 2026 Term Corporate ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBDS,IBDS,iShares iBonds Dec 2027 Term Corporate ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBDT,IBDT,iShares iBonds Dec 2028 Term Corporate ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBDU,IBDU,iShares iBonds Dec 2029 Term Corporate ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBDV,IBDV,iShares iBonds Dec 2030 Term Corporate ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBDW,IBDW,iShares iBonds Dec 2031 Term Corporate ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBDX,IBDX,iShares iBonds Dec 2032 Term Corporate ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBDY,IBDY,iShares iBonds Dec 2033 Term Corporate ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBDZ,IBDZ,iShares iBonds Dec 2034 Term Corporate ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBFR,IBFR,Innovator International Developed Managed 10 Buffer ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBGA,IBGA,iShares iBonds Dec 2044 Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+IBGB,IBGB,iShares iBonds Dec 2045 Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+IBGC,IBGC,iShares iBonds Dec 2046 Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+IBGK,IBGK,iShares iBonds Dec 2054 Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+IBGL,IBGL,iShares iBonds Dec 2055 Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+IBGM,IBGM,iShares iBonds Dec 2056 Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+IBHF,IBHF,iShares iBonds 2026 Term High Yield and Income ETF,BATS, ,Y,N,,,ETF,USA
+IBHG,IBHG,iShares iBonds 2027 Term High Yield and Income ETF,BATS, ,Y,N,,,ETF,USA
+IBHH,IBHH,iShares iBonds 2028 Term High Yield and Income ETF,BATS, ,Y,N,,,ETF,USA
+IBHI,IBHI,iShares iBonds 2029 Term High Yield and Income ETF,BATS, ,Y,N,,,ETF,USA
+IBHJ,IBHJ,iShares iBonds 2030 Term High Yield and Income ETF,BATS, ,Y,N,,,ETF,USA
+IBHK,IBHK,iShares iBonds 2031 Term High Yield and Income ETF,BATS, ,Y,N,,,ETF,USA
+IBHL,IBHL,iShares iBonds 2032 Term High Yield and Income ETF,BATS, ,Y,N,,,ETF,USA
+IBHM,IBHM,iShares iBonds 2033 Term High Yield and Income ETF,BATS, ,Y,N,,,ETF,USA
+IBIC,IBIC,iShares iBonds Oct 2026 Term TIPS ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBID,IBID,iShares iBonds Oct 2027 Term TIPS ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBIE,IBIE,iShares iBonds Oct 2028 Term TIPS ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBIF,IBIF,iShares iBonds Oct 2029 Term TIPS ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBIG,IBIG,iShares iBonds Oct 2030 Term TIPS ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBIH,IBIH,iShares iBonds Oct 2031 Term TIPS ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBII,IBII,iShares iBonds Oct 2032 Term TIPS ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBIJ,IBIJ,iShares iBonds Oct 2033 Term TIPS ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBIK,IBIK,iShares iBonds Oct 2034 Term TIPS ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBIL,IBIL,iShares iBonds Oct 2035 Term TIPS ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBIM,IBIM,iShares iBonds Oct 2036 Term TIPS ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBIT,IBIT,iShares Bitcoin Trust ETF,NASDAQ,G,Y,N,,,ETF,USA
+IBLC,IBLC,iShares Blockchain and Tech ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBMO,IBMO,iShares iBonds Dec 2026 Term Muni Bond ETF,BATS, ,Y,N,,,ETF,USA
+IBMP,IBMP,iShares iBonds Dec 2027 Term Muni Bond ETF,BATS, ,Y,N,,,ETF,USA
+IBMQ,IBMQ,iShares iBonds Dec 2028 Term Muni Bond ETF,BATS, ,Y,N,,,ETF,USA
+IBMR,IBMR,iShares iBonds Dec 2029 Term Muni Bond ETF,BATS, ,Y,N,,,ETF,USA
+IBMS,IBMS,iShares iBonds Dec 2030 Term Muni Bond ETF,BATS, ,Y,N,,,ETF,USA
+IBMT,IBMT,iShares iBonds Dec 2031 Term Muni Bond ETF,BATS, ,Y,N,,,ETF,USA
+IBMU,IBMU,iShares iBonds Dec 2032 Term Muni Bond ETF,BATS, ,Y,N,,,ETF,USA
+IBMV,IBMV,iShares iBonds Dec 2033 Term Muni Bond ETF,BATS, ,Y,N,,,ETF,USA
+IBMW,IBMW,iShares iBonds Dec 2034 Term Muni Bond ETF,BATS, ,Y,N,,,ETF,USA
+IBMX,IBMX,iShares iBonds Dec 2035 Term Muni Bond ETF,BATS, ,Y,N,,,ETF,USA
+IBND,IBND,State Street SPDR Bloomberg International Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IBTG,IBTG,iShares iBonds Dec 2026 Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+IBTH,IBTH,iShares iBonds Dec 2027 Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+IBTI,IBTI,iShares iBonds Dec 2028 Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+IBTJ,IBTJ,iShares iBonds Dec 2029 Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+IBTK,IBTK,iShares iBonds Dec 2030 Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+IBTL,IBTL,iShares iBonds Dec 2031 Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+IBTM,IBTM,iShares iBonds Dec 2032 Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+IBTO,IBTO,iShares iBonds Dec 2033 Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+IBTP,IBTP,iShares iBonds Dec 2034 Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+IBTQ,IBTQ,iShares iBonds Dec 2035 Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+IBTR,IBTR,iShares iBonds Dec 2036 Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+IBUF,IBUF,Innovator International Developed 10 Buffer ETF - Quarterly,NYSE ARCA, ,Y,N,,,ETF,USA
+IBX,IBX,Tradr 2X Long IBM Daily ETF,BATS, ,Y,N,,,ETF,USA
+ICLO,ICLO,Invesco AAA CLO Floating Rate Note ETF,BATS, ,Y,N,,,ETF,USA
+ICOI,ICOI,Bitwise COIN Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ICPI,ICPI,iShares 0-1 Year TIPS Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ICRC,ICRC,Bitwise CRCL Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ICSH,ICSH,iShares Ultra Short Duration Bond Active ETF,BATS, ,Y,N,,,ETF,USA
+ICVT,ICVT,iShares Convertible Bond ETF,BATS, ,Y,N,,,ETF,USA
+IDEC,IDEC,Innovator International Developed Power Buffer ETF  December,NYSE ARCA, ,Y,N,,,ETF,USA
+IDJL,IDJL,Corgi International Developed Equities 15% Structured Buffer ETF - July Series,BATS, ,Y,N,,,ETF,USA
+IDJN,IDJN,Corgi International Developed Equities 15% Structured Buffer ETF - June Series,BATS, ,Y,N,,,ETF,USA
+IDMY,IDMY,Corgi International Developed Equities 15% Structured Buffer ETF - May Series,BATS, ,Y,N,,,ETF,USA
+IEF,IEF,iShares 7-10 Year Treasury Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+IEI,IEI,iShares 3-7 Year Treasury Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+IETH,IETH,Bitwise Ethereum Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IFEB,IFEB,Innovator International Developed Power Buffer ETF  February,NYSE ARCA, ,Y,N,,,ETF,USA
+IFED,IFED,ETRACS IFED Invest with the Fed TR Index ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+IFLR,IFLR,Innovator International Developed Managed Floor ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IGBH,IGBH,iShares Interest Rate Hedged Long-Term Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IGCB,IGCB,TCW Corporate Bond ETF,NYSE, ,Y,N,,,ETF,USA
+IGEB,IGEB,iShares Investment Grade Systematic Bond ETF,BATS, ,Y,N,,,ETF,USA
+IGIB,IGIB,iShares 5-10 Year Investment Grade Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+IGLB,IGLB,iShares 10  Year Investment Grade Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IGME,IGME,Bitwise GME Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IGOV,IGOV,iShares International Treasury Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+IGSB,IGSB,iShares 1-5 Year Investment Grade Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+IHY,IHY,VanEck International High Yield Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IJAN,IJAN,Innovator International Developed Power Buffer ETF January,NYSE ARCA, ,Y,N,,,ETF,USA
+IJUL,IJUL,Innovator International Developed Power Buffer ETF  July,NYSE ARCA, ,Y,N,,,ETF,USA
+IJUN,IJUN,Innovator International Developed Power Buffer ETF June,NYSE ARCA, ,Y,N,,,ETF,USA
+ILS,ILS,Brookmont Catastrophic Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ILTB,ILTB,iShares Core 10  Year USD Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IMAR,IMAR,Innovator International Developed Power Buffer ETF  March,NYSE ARCA, ,Y,N,,,ETF,USA
+IMAY,IMAY,Innovator International Developed Power Buffer ETF - May,NYSE ARCA, ,Y,N,,,ETF,USA
+IMRA,IMRA,Bitwise MARA Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IMST,IMST,Bitwise MSTR Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IMTB,IMTB,iShares Core 5-10 Year USD Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+INDL,INDL,Direxion Daily MSCI India Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+INFH,INFH,Defiance Daily Target 2X Long INFQ ETF,BATS, ,Y,N,,,ETF,USA
+INMU,INMU,iShares Intermediate Muni Income Active ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+INOV,INOV,Innovator International Developed Power Buffer ETF  November,NYSE ARCA, ,Y,N,,,ETF,USA
+INT,INT,Corgi INTC 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+INTM,INTM,Invesco Intermediate Municipal ETF,BATS, ,Y,N,,,ETF,USA
+INTW,INTW,GraniteShares 2x Long INTC Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+INYY,INYY,YieldMax INTC Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IOCT,IOCT,Innovator International Developed Power Buffer ETF - October,NYSE ARCA, ,Y,N,,,ETF,USA
+IONC,IONC,Corgi IONQ 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+IONL,IONL,GraniteShares 2x Long IONQ Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+IONX,IONX,Defiance Daily Target 2X Long IONQ ETF,NASDAQ,G,Y,N,,,ETF,USA
+IONZ,IONZ,Defiance Daily Target 2x Short IONQ ETF,NASDAQ,G,Y,N,,,ETF,USA
+IOSX,IOSX,Corgi AAPL 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+IOYY,IOYY,GraniteShares YieldBOOST IONQ ETF,NASDAQ,G,Y,N,,,ETF,USA
+IRE,IRE,Defiance Daily Target 2X Long IREN ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IREC,IREC,Corgi IREN 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+IREG,IREG,Leverage Shares 2X Long IREN Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+IREX,IREX,Tradr 2X Long IREN Daily ETF,BATS, ,Y,N,,,ETF,USA
+IREZ,IREZ,Tradr 2X Short IREN Daily ETF,BATS, ,Y,N,,,ETF,USA
+IROC,IROC,Invesco Rochester High Yield Municipal ETF,BATS, ,Y,N,,,ETF,USA
+ISBG,ISBG,IncomeSTKd 1x Bitcoin & 1x Gold Premium ETF,BATS, ,Y,N,,,ETF,USA
+ISEP,ISEP,Innovator International Developed Power Buffer ETF  September,NYSE ARCA, ,Y,N,,,ETF,USA
+ISHG,ISHG,iShares 1-3 Year International Treasury Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+ISSB,ISSB,IncomeSTKd 1x US Stocks & 1x Bitcoin Premium ETF,BATS, ,Y,N,,,ETF,USA
+ISTB,ISTB,iShares Core 1-5 Year USD Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+ISUL,ISUL,GraniteShares 2x Long ISRG Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+ITM,ITM,VanEck Intermediate Muni ETF,BATS, ,Y,N,,,ETF,USA
+IUSB,IUSB,iShares Core Universal USD Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+IVRS,IVRS,iShares Future Metaverse Tech and Communications ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+IVVW,IVVW,iShares S&P 500 BuyWrite ETF,BATS, ,Y,N,,,ETF,USA
+IWDL,IWDL,ETRACS 2x Leveraged US Value Factor TR ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+IWFL,IWFL,ETRACS 2x Leveraged US Growth Factor TR ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+IWML,IWML,ETRACS 2x Leveraged US Size Factor TR ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+IWMW,IWMW,iShares Russell 2000 BuyWrite ETF,BATS, ,Y,N,,,ETF,USA
+IWMY,IWMY,Defiance R2000 Weekly Distribution ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JA,JA,Janus Henderson AA-A CLO ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JAAA,JAAA,Janus Henderson AAA CLO ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JADB,JADB,Aptus January Deep Buffer ETF,BATS, ,Y,N,,,ETF,USA
+JAJL,JAJL,Innovator Equity Defined Protection ETF - 6mo Jan/Jul,BATS, ,Y,N,,,ETF,USA
+JANB,JANB,Aptus January Buffer ETF,BATS, ,Y,N,,,ETF,USA
+JANH,JANH,Innovator Premium Income 20 Barrier ETF - January,BATS, ,Y,N,,,ETF,USA
+JANJ,JANJ,Innovator Premium Income 30 Barrier ETF - January,BATS, ,Y,N,,,ETF,USA
+JANM,JANM,FT Vest U.S. Equity Max Buffer ETF - January,BATS, ,Y,N,,,ETF,USA
+JANP,JANP,PGIM S&P 500 Buffer 12 ETF - January,BATS, ,Y,N,,,ETF,USA
+JBBB,JBBB,Janus Henderson B-BBB CLO ETF,BATS, ,Y,N,,,ETF,USA
+JBLG,JBLG,Leverage Shares 2X Long JBL Daily ETF,BATS, ,Y,N,,,ETF,USA
+JBND,JBND,JPMorgan Active Bond ETF,NYSE, ,Y,N,,,ETF,USA
+JCAL,JCAL,JPMorgan California Tax Free Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JCPB,JCPB,JPMorgan Core Plus Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JCPI,JCPI,JPMorgan Inflation Managed Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JDST,JDST,Direxion Daily Junior Gold Miners Index Bear 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JETD,JETD,MAX Airlines -3X Inverse Leveraged ETNs,NYSE ARCA, ,Y,N,,,ETF,USA
+JETU,JETU,MAX Airlines 3X Leveraged ETNs,NYSE ARCA, ,Y,N,,,ETF,USA
+JHCB,JHCB,John Hancock Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JHCP,JHCP,John Hancock Core Plus Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JHCR,JHCR,John Hancock Core Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JHMB,JHMB,John Hancock Mortgage-Backed Securities ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JHMU,JHMU,John Hancock Dynamic Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JLQD,JLQD,Janus Henderson Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JMBS,JMBS,Janus Henderson Mortgage-Backed Securities ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JMHI,JMHI,JPMorgan High Yield Municipal ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JMMF,JMMF,JPMorgan 100% U.S. Treasury Securities Money Market ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JMSI,JMSI,JPMorgan Sustainable Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JMST,JMST,JPMorgan Ultra-Short Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JMTG,JMTG,JPMorgan Mortgage-Backed Securities ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JMUB,JMUB,JPMorgan Municipal ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JNK,JNK,State Street SPDR Bloomberg High Yield Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JNUG,JNUG,Direxion Daily Junior Gold Miners Index Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JOBC,JOBC,Corgi JOBY 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+JOBX,JOBX,Tradr 2X Long JOBY Daily ETF,BATS, ,Y,N,,,ETF,USA
+JPIB,JPIB,JPMorgan International Bond Opportunities ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JPLD,JPLD,JPMorgan Limited Duration Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JPMB,JPMB,JPMorgan USD Emerging Markets Sovereign Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JPO,JPO,YieldMax JP Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JPST,JPST,JPMorgan Ultra-Short Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JSCP,JSCP,JPMorgan Short Duration Core Plus ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JSI,JSI,Janus Henderson Securitized Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JTNY,JTNY,JPMorgan New York Tax Free Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+JUDB,JUDB,Aptus July Deep Buffer ETF,BATS, ,Y,N,,,ETF,USA
+JULB,JULB,Aptus July Buffer ETF,BATS, ,Y,N,,,ETF,USA
+JULC,JULC,Corgi U.S. Equities 10% Structured Buffer ETF - July Series,BATS, ,Y,N,,,ETF,USA
+JULH,JULH,Innovator Premium Income 20 Barrier ETF - July,BATS, ,Y,N,,,ETF,USA
+JULJ,JULJ,Innovator Premium Income 30 Barrier ETF - July,BATS, ,Y,N,,,ETF,USA
+JULM,JULM,FT Vest U.S. Equity Max Buffer ETF - July,BATS, ,Y,N,,,ETF,USA
+JULP,JULP,PGIM S&P 500 Buffer 12 ETF - July,BATS, ,Y,N,,,ETF,USA
+JUNC,JUNC,Corgi U.S. Equities 10% Structured Buffer ETF - June Series,BATS, ,Y,N,,,ETF,USA
+JUNM,JUNM,FT Vest U.S. Equity Max Buffer ETF - June,BATS, ,Y,N,,,ETF,USA
+JUNP,JUNP,PGIM S&P 500 Buffer 12 ETF - June,BATS, ,Y,N,,,ETF,USA
+KAPR,KAPR,Innovator U.S. Small Cap Power Buffer ETF - April,BATS, ,Y,N,,,ETF,USA
+KAUG,KAUG,Innovator US Small Cap Power Buffer ETF - August,BATS, ,Y,N,,,ETF,USA
+KBAB,KBAB,KraneShares 2x Long BABA Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+KBDU,KBDU,KraneShares 2x Long BIDU Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+KBFR,KBFR,Innovator U.S. Small Cap Managed 10 Buffer ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+KBUF,KBUF,KraneShares 90% KWEB Defined Outcome January 2027 ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+KCSH,KCSH,KraneShares Sustainable Ultra Short Duration Index ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+KDEC,KDEC,Innovator U.S. Small Cap Power Buffer ETF - December,BATS, ,Y,N,,,ETF,USA
+KDRN,KDRN,Kingsbarn Tactical Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+KEEX,KEEX,Defiance Daily Target 2x Long KEEL ETF,BATS, ,Y,N,,,ETF,USA
+KEYG,KEYG,Leverage Shares 2X Long KEYS Daily ETF,BATS, ,Y,N,,,ETF,USA
+KEYX,KEYX,Corgi KEYS 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+KFEB,KFEB,Innovator U.S. Small Cap Power Buffer ETF - February,BATS, ,Y,N,,,ETF,USA
+KHYB,KHYB,KraneShares Asia Pacific High Income USD Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+KIQQ,KIQQ,KraneShares InspereX Nasdaq Dynamic Buffered High Income Index ETF,NASDAQ,G,Y,N,,,ETF,USA
+KJAN,KJAN,Innovator U.S. Small Cap Power Buffer ETF - January,BATS, ,Y,N,,,ETF,USA
+KJD,KJD,KraneShares 2x Long JD Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+KJUL,KJUL,Innovator U.S. Small Cap Power Buffer ETF - July,BATS, ,Y,N,,,ETF,USA
+KJUN,KJUN,Innovator U.S. Small Cap Power Buffer ETF - June,BATS, ,Y,N,,,ETF,USA
+KLAG,KLAG,Leverage Shares 2x Long KLAC Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+KLIP,KLIP,KraneShares KWEB Covered Call Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+KMAR,KMAR,Innovator U.S. Small Cap Power Buffer ETF - March,BATS, ,Y,N,,,ETF,USA
+KMAY,KMAY,Innovator U.S. Small Cap Power Buffer ETF - May,BATS, ,Y,N,,,ETF,USA
+KMLI,KMLI,KraneShares 2x Long MELI Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+KNOV,KNOV,Innovator U.S. Small Cap Power Buffer ETF - November,BATS, ,Y,N,,,ETF,USA
+KOCT,KOCT,Innovator U.S. Small Cap Power Buffer ETF - October,BATS, ,Y,N,,,ETF,USA
+KOLD,KOLD,ProShares UltraShort Bloomberg Natural Gas,NYSE ARCA, ,Y,N,,,ETF,USA
+KORP,KORP,American Century Diversified Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+KORU,KORU,Direxion Daily South Korea Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+KPDD,KPDD,KraneShares 2x Long PDD Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+KPRO,KPRO,KraneShares 100% KWEB Defined Outcome January 2027 ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+KRWX,KRWX,Corgi South Korea 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+KRYP,KRYP,ProShares CoinDesk 20 Crypto ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+KSEP,KSEP,Innovator U.S. Small Cap Power Buffer ETF - September,BATS, ,Y,N,,,ETF,USA
+KTUP,KTUP,T-REX 2X Long KTOS Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+LABD,LABD,Direxion Daily S&P Biotech Bear 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+LABU,LABU,Direxion Daily S&P Biotech Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+LABX,LABX,Tradr 2X Long ALAB Daily ETF,BATS, ,Y,N,,,ETF,USA
+LACG,LACG,Leverage Shares 2X Long LAC Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+LAPR,LAPR,Innovator Premium Income 15 Buffer ETF - April,BATS, ,Y,N,,,ETF,USA
+LASC,LASC,Corgi LASR 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+LBAY,LBAY,Leatherback Long/Short Alternative Yield ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+LDRC,LDRC,iShares iBonds 1-5 Year Corporate Ladder ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+LDRH,LDRH,iShares iBonds 1-5 Year High Yield and Income Ladder ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+LDRI,LDRI,iShares iBonds 1-5 Year TIPS Ladder ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+LDRT,LDRT,iShares iBonds 1-5 Year Treasury Ladder ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+LEMB,LEMB,iShares J.P. Morgan EM Local Currency Bond,NYSE ARCA, ,Y,N,,,ETF,USA
+LEND,LEND,SEI High Yield Bond & Alternative Credit ETF,NASDAQ,G,Y,N,,,ETF,USA
+LEUX,LEUX,Tradr 2X Long LEU Daily ETF,BATS, ,Y,N,,,ETF,USA
+LFGY,LFGY,YieldMax Crypto Industry & Tech Portfolio Option Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+LINT,LINT,Direxion Daily INTC Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+LITC,LITC,Corgi LITE 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+LITU,LITU,T-REX 2X Long LITE Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+LITX,LITX,Tradr 2X Long LITE Daily ETF,BATS, ,Y,N,,,ETF,USA
+LITZ,LITZ,Tradr 2X Short LITE Daily ETF,BATS, ,Y,N,,,ETF,USA
+LJAN,LJAN,Innovator Premium Income 15 Buffer ETF - January,BATS, ,Y,N,,,ETF,USA
+LJUL,LJUL,Innovator Premium Income 15 Buffer ETF - July,BATS, ,Y,N,,,ETF,USA
+LKOR,LKOR,FlexShares Credit-Scored US Long Corporate Bond Index Fund,BATS, ,Y,N,,,ETF,USA
+LLDR,LLDR,Global X Long-Term Treasury Ladder ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+LLYX,LLYX,Defiance Daily Target 2X Long LLY ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+LMNX,LMNX,Defiance Daily Target 2x Long LMND ETF,NASDAQ,G,Y,N,,,ETF,USA
+LMTL,LMTL,Direxion Daily LMT Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+LMUB,LMUB,iShares Long-Term National Muni Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+LNOK,LNOK,Defiance Daily Target 2X Long NOK ETF,BATS, ,Y,N,,,ETF,USA
+LOCT,LOCT,Innovator Premium Income 15 Buffer ETF - October,BATS, ,Y,N,,,ETF,USA
+LOFF,LOFF,Direxion Daily SpaceX Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+LQD,LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+LQDB,LQDB,iShares BBB Rated Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+LQDH,LQDH,iShares Interest Rate Hedged Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+LQDI,LQDI,iShares Inflation Hedged Corporate Bond ETF,BATS, ,Y,N,,,ETF,USA
+LQDW,LQDW,iShares Investment Grade Corporate Bond BuyWrite Strategy ETF,BATS, ,Y,N,,,ETF,USA
+LQID,LQID,Kurv Enhanced Short Maturity ETF,BATS, ,Y,N,,,ETF,USA
+LRCC,LRCC,Corgi LRCX 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+LRCU,LRCU,Tradr 2X Long LRCX Daily ETF,BATS, ,Y,N,,,ETF,USA
+LRNX,LRNX,Corgi LRN 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+LSEQ,LSEQ,Harbor Long-Short Equity ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+LSTB,LSTB,Natixis Loomis Sayles Total Return Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+LTL,LTL,ProShares Ultra Communication Services,NYSE ARCA, ,Y,N,,,ETF,USA
+LTPZ,LTPZ,Pimco 15  Year U.S. TIPS Index Exchange-Traded Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+LTTI,LTTI,FT Vest 20+ Year Treasury & Target Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+LULG,LULG,Leverage Shares 2X Long LULU Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+LUNL,LUNL,Defiance Daily Target 2X Long LUNR ETF,BATS, ,Y,N,,,ETF,USA
+LVIG,LVIG,Longview Advantage Fixed Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+LVLN,LVLN,State Street SPDR S&P Leveraged Loan ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MAAY,MAAY,GraniteShares YieldBOOST MARA ETF,NASDAQ,G,Y,N,,,ETF,USA
+MAGG,MAGG,Madison Aggregate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MAGX,MAGX,Roundhill Daily 2X Long Magnificent Seven ETF,BATS, ,Y,N,,,ETF,USA
+MAGY,MAGY,Roundhill Magnificent Seven Covered Call ETF,BATS, ,Y,N,,,ETF,USA
+MARM,MARM,FT Vest U.S. Equity Max Buffer ETF - March,BATS, ,Y,N,,,ETF,USA
+MARO,MARO,YieldMax MARA Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MAXI,MAXI,Simplify Bitcoin Strategy ETF,NASDAQ,G,Y,N,,,ETF,USA
+MAXJ,MAXJ,iShares Large Cap Max Buffer Jun ETF,BATS, ,Y,N,,,ETF,USA
+MAYC,MAYC,Corgi U.S. Equities 10% Structured Buffer ETF - May Series,BATS, ,Y,N,,,ETF,USA
+MAYM,MAYM,FT Vest U.S. Equity Max Buffer ETF - May,BATS, ,Y,N,,,ETF,USA
+MAYP,MAYP,PGIM S&P 500 Buffer 12 ETF - May,BATS, ,Y,N,,,ETF,USA
+MBBA,MBBA,iShares Mortgage-Backed Securities Active ETF,BATS, ,Y,N,,,ETF,USA
+MBBB,MBBB,VanEck Moody's Analytics BBB Corporate Bond ETF,BATS, ,Y,N,,,ETF,USA
+MBND,MBND,State Street Nuveen Municipal Bond ETF,BATS, ,Y,N,,,ETF,USA
+MBS,MBS,Angel Oak Mortgage-Backed Securities ETF,NASDAQ,G,Y,N,,,ETF,USA
+MCHG,MCHG,Leverage Shares 2X Long MCHP Daily ETF,BATS, ,Y,N,,,ETF,USA
+MCHU,MCHU,Tradr 2X Long MCHP Daily ETF,BATS, ,Y,N,,,ETF,USA
+MEAR,MEAR,iShares Short Maturity Municipal Bond Active ETF,BATS, ,Y,N,,,ETF,USA
+METD,METD,Direxion Daily META Bear 1X ETF,NASDAQ,G,Y,N,,,ETF,USA
+METG,METG,Leverage Shares 2X Long META Daily ETF,BATS, ,Y,N,,,ETF,USA
+METU,METU,Direxion Daily META Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+METV,METV,Roundhill Ball Metaverse ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MEXX,MEXX,Direxion Daily MSCI Mexico Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MFLX,MFLX,First Trust Flexible Municipal High Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+MFSB,MFSB,MFS Active Core Plus Bond ETF,NYSE, ,Y,N,,,ETF,USA
+MFSM,MFSM,MFS Active Intermediate Muni Bond ETF,NYSE, ,Y,N,,,ETF,USA
+MGKX,MGKX,Corgi U.S. Mega-Cap Growth 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+MHX,MHX,Corgi MARA 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+MIC,MIC,Corgi MU 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+MIDU,MIDU,Direxion Mid Cap Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MIG,MIG,VanEck Moody's Analytics IG Corporate Bond ETF,BATS, ,Y,N,,,ETF,USA
+MILK,MILK,Pacer US Cash Cows Bond ETF,BATS, ,Y,N,,,ETF,USA
+MINN,MINN,Mairs & Power Minnesota Municipal Bond ETF,BATS, ,Y,N,,,ETF,USA
+MINO,MINO,PIMCO Municipal Income Opportunities Active Exchange-Traded Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+MINT,MINT,PIMCO Enhanced Short Maturity Active Exchange-Traded Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+MINY,MINY,YieldMax Strategic Metals & Mining Portfolio Option Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MLDR,MLDR,Global X Intermediate-Term Treasury Ladder ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MLN,MLN,VanEck Long Muni ETF,BATS, ,Y,N,,,ETF,USA
+MLPD,MLPD,Global X MLP & Energy Infrastructure Covered Call ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MLPR,MLPR,ETRACS Quarterly Pay 1.5X Leveraged Alerian MLP Index ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+MMAX,MMAX,iShares Large Cap Max Buffer Mar ETF,BATS, ,Y,N,,,ETF,USA
+MMCA,MMCA,NYLI MacKay California Muni Intermediate ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MMIN,MMIN,NYLI MacKay Muni Insured ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MMIT,MMIT,NYLI MacKay Muni Intermediate ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MMMA,MMMA,NYLI MacKay Muni Allocation ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MMSD,MMSD,NYLI MacKay Muni Short Duration ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MNBD,MNBD,ALPS BBH Intermediate Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MNRS,MNRS,Grayscale Bitcoin Miners ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MNSX,MNSX,Corgi MNST 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+MORT,MORT,VanEck Mortgage REIT Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MPG,MPG,Leverage Shares 2X Long MP Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+MPL,MPL,Defiance Daily Target 2X Long MP ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MPWC,MPWC,Corgi MPWR 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+MPWX,MPWX,Tradr 2X Long MPWR Daily ETF,BATS, ,Y,N,,,ETF,USA
+MQQQ,MQQQ,Tradr 2X Long Innovation 100 Monthly ETF,NASDAQ,G,Y,N,,,ETF,USA
+MRA,MRA,GraniteShares Autocallable MARA ETF,NASDAQ,G,Y,N,,,ETF,USA
+MRAL,MRAL,GraniteShares 2x Long MARA Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+MRCP,MRCP,PGIM S&P 500 Buffer 12 ETF - March,BATS, ,Y,N,,,ETF,USA
+MRNX,MRNX,Defiance Daily Target 2X Long MRNA ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MRNY,MRNY,YieldMax MRNA Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MRVU,MRVU,Direxion Daily MRVL Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+MRVX,MRVX,Corgi MRVL 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+MSBT,MSBT,Common Units of Beneficial Interest of Morgan Stanley Bitcoin Trust,NYSE ARCA, ,Y,N,,,ETF,USA
+MSFC,MSFC,Corgi MSFT 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+MSFD,MSFD,Direxion Daily MSFT Bear 1X ETF,NASDAQ,G,Y,N,,,ETF,USA
+MSFL,MSFL,GraniteShares 2x Long MSFT Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+MSFO,MSFO,YieldMax MSFT Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MSFU,MSFU,Direxion Daily MSFT Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+MSFX,MSFX,T-Rex 2X Long Microsoft Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+MSIX,MSIX,Corgi MSI 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+MSOS,MSOS,AdvisorShares Pure US Cannabis ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MSOX,MSOX,AdvisorShares MSOS Daily Leveraged ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MSR,MSR,GraniteShares Autocallable MSTR ETF,NASDAQ,G,Y,N,,,ETF,USA
+MSST,MSST,YieldMax MSTR Performance & Distribution Target 25 ETF,BATS, ,Y,N,,,ETF,USA
+MST,MST,Defiance Leveraged Long + Income MSTR ETF,NASDAQ,G,Y,N,,,ETF,USA
+MSTC,MSTC,Corgi MSTR 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+MSTI,MSTI,Madison Short Term Strategic Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MSTP,MSTP,GraniteShares 2x Long MSTR Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+MSTU,MSTU,T-Rex 2X Long MSTR Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+MSTX,MSTX,Defiance Daily Target 2x Long MSTR ETF,NASDAQ,G,Y,N,,,ETF,USA
+MSTY,MSTY,YieldMax MSTR Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MSTZ,MSTZ,T-Rex 2X Inverse MSTR Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+MTGP,MTGP,WisdomTree Mortgage Plus Bond Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+MTSG,MTSG,Leverage Shares 2X Long MTSI Daily ETF,BATS, ,Y,N,,,ETF,USA
+MTUL,MTUL,ETRACS 2x Leveraged MSCI US Momentum Factor TR ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+MTYY,MTYY,GraniteShares YieldBOOST MSTR ETF,NASDAQ,G,Y,N,,,ETF,USA
+MUB,MUB,iShares National Muni Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MUD,MUD,Direxion Daily MU Bear 1X ETF,NASDAQ,G,Y,N,,,ETF,USA
+MULL,MULL,GraniteShares 2x Long MU Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+MUNI,MUNI,PIMCO Intermediate Municipal Bond Active Exchange-Traded Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+MUNX,MUNX,AMG GW&K Muni Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MUNY,MUNY,Vanguard New York Tax-Exempt Bond ETF,BATS, ,Y,N,,,ETF,USA
+MUST,MUST,Columbia Multi-Sector Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MUU,MUU,Direxion Daily MU Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+MUYY,MUYY,GraniteShares YieldBOOST MU ETF,NASDAQ,G,Y,N,,,ETF,USA
+MUZ,MUZ,Defiance Daily Target 2X Short MU ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MVLL,MVLL,GraniteShares 2x Long MRVL Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+MVPL,MVPL,Miller Value Partners Leverage ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+MVRL,MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+MVV,MVV,ProShares Ultra MidCap400,NYSE ARCA, ,Y,N,,,ETF,USA
+MYCF,MYCF,State Street My2026 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYCG,MYCG,State Street My2027 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYCH,MYCH,State Street My2028 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYCI,MYCI,State Street My2029 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYCJ,MYCJ,State Street My2030 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYCK,MYCK,State Street My2031 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYCL,MYCL,State Street My2032 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYCM,MYCM,State Street My2033 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYCN,MYCN,State Street My2034 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYCO,MYCO,State Street My2035 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYHA,MYHA,State Street My2027 High Yield Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYHB,MYHB,State Street My2028 High Yield Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYHC,MYHC,State Street My2029 High Yield Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYHD,MYHD,State Street My2030 High Yield Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYHE,MYHE,State Street My2031 High Yield Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYMF,MYMF,State Street My2026 Municipal Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYMG,MYMG,State Street My2027 Municipal Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYMH,MYMH,State Street My2028 Municipal Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYMI,MYMI,State Street My2029 Municipal Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYMJ,MYMJ,State Street My2030 Municipal Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYMK,MYMK,State Street My2031 Municipal Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+MYY,MYY,ProShares Short MidCap400,NYSE ARCA, ,Y,N,,,ETF,USA
+MZZ,MZZ,ProShares UltraShort MidCap400,NYSE ARCA, ,Y,N,,,ETF,USA
+NAIL,NAIL,Direxion Daily Homebuilders & Supplies Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NAPR,NAPR,Innovator Growth-100 Power Buffer ETF - April,BATS, ,Y,N,,,ETF,USA
+NAUG,NAUG,Innovator Growth-100 Power Buffer ETF - August,BATS, ,Y,N,,,ETF,USA
+NBFR,NBFR,Innovator Nasdaq-100 Managed 10 Buffer ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NBIC,NBIC,Corgi NBIS 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+NBIG,NBIG,Leverage Shares 2X Long NBIS Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+NBIL,NBIL,GraniteShares 2x Long NBIS Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+NBIZ,NBIZ,Tradr 2X Short NBIS Daily ETF,BATS, ,Y,N,,,ETF,USA
+NBSD,NBSD,Neuberger Short Duration Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NBTR,NBTR,Neuberger Total Return Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NCIQ,NCIQ,Hashdex Nasdaq CME Crypto Index ETF,NASDAQ,G,Y,N,,,ETF,USA
+NCLO,NCLO,Nuveen AA-BBB CLO ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NCPB,NCPB,Nuveen Core Plus Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+NDEC,NDEC,Innovator Growth-100 Power Buffer ETF - December,BATS, ,Y,N,,,ETF,USA
+NDIV,NDIV,Amplify Energy & Natural Resources Covered Call ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NEAR,NEAR,iShares Short Duration Bond Active ETF,BATS, ,Y,N,,,ETF,USA
+NEBX,NEBX,Tradr 2X Long NBIS Daily ETF,BATS, ,Y,N,,,ETF,USA
+NEHI,NEHI,NEOS Ethereum High Income ETF,BATS, ,Y,N,,,ETF,USA
+NEMG,NEMG,Leverage Shares 2x Long NEM Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+NETG,NETG,Leverage Shares 2X Long NET Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+NFEB,NFEB,Innovator Growth-100 Power Buffer ETF - February,BATS, ,Y,N,,,ETF,USA
+NFLT,NFLT,Virtus Newfleet Multi-Sector Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NFLU,NFLU,T-Rex 2X Long NFLX Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+NFLY,NFLY,YieldMax NFLX Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NFX,NFX,Corgi NFLX 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+NFXL,NFXL,Direxion Daily NFLX Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+NFXS,NFXS,Direxion Daily NFLX Bear 1X ETF,NASDAQ,G,Y,N,,,ETF,USA
+NGHT,NGHT,Nicholas Bitcoin and Treasuries AfterDark ETF,NASDAQ,G,Y,N,,,ETF,USA
+NHYB,NHYB,Nuveen High Yield Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NHYM,NHYM,Nuveen High Yield Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NIOG,NIOG,Leverage Shares 2X Long NIO Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+NJAN,NJAN,Innovator Growth-100 Power Buffer ETF - January,BATS, ,Y,N,,,ETF,USA
+NJUL,NJUL,Innovator Growth-100 Power Buffer ETF - July,BATS, ,Y,N,,,ETF,USA
+NJUN,NJUN,Innovator Growth-100 Power Buffer ETF - June,BATS, ,Y,N,,,ETF,USA
+NLSI,NLSI,NEOS Long/Short Equity Income ETF,BATS, ,Y,N,,,ETF,USA
+NMAR,NMAR,Innovator Growth-100 Power Buffer ETF - March,BATS, ,Y,N,,,ETF,USA
+NMAY,NMAY,Innovator Growth-100 Power Buffer ETF - May,BATS, ,Y,N,,,ETF,USA
+NMB,NMB,Simplify National Muni Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NNOV,NNOV,Innovator Growth-100 Power Buffer ETF - November,BATS, ,Y,N,,,ETF,USA
+NOCT,NOCT,Innovator Growth-100 Power Buffer ETF- October,BATS, ,Y,N,,,ETF,USA
+NOVM,NOVM,FT Vest U.S. Equity Max Buffer ETF - November,BATS, ,Y,N,,,ETF,USA
+NOVP,NOVP,PGIM S&P 500 Buffer 12 ETF - November,BATS, ,Y,N,,,ETF,USA
+NOWL,NOWL,GraniteShares 2x Long NOW Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+NOWX,NOWX,Corgi NOW 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+NRGD,NRGD,"MicroSectors U.S. Big Oil -3 Inverse Leveraged ETNs due February 17, 2045",NYSE ARCA, ,Y,N,,,ETF,USA
+NRGU,NRGU,"MicroSectors U.S. Big Oil 3 Leveraged ETNs due February 17, 2045",NYSE ARCA, ,Y,N,,,ETF,USA
+NSCI,NSCI,Nuveen Securitized Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NSEP,NSEP,Innovator Growth-100 Power Buffer ETF - September,BATS, ,Y,N,,,ETF,USA
+NTAL,NTAL,GraniteShares 2x Long NTAP Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+NUAG,NUAG,Nuveen Enhanced Yield U.S. Aggregate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NUBD,NUBD,Nuveen ESG U.S. Aggregate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NUG,NUG,Leverage Shares 2X Long NU Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+NUGT,NUGT,Direxion Daily Gold Miners Index Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NUGY,NUGY,GraniteShares YieldBOOST Gold Miners ETF,NASDAQ,G,Y,N,,,ETF,USA
+NUHY,NUHY,Nuveen ESG High Yield Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NUMI,NUMI,Nuveen Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NURE,NURE,Nuveen Short-Term REIT ETF,BATS, ,Y,N,,,ETF,USA
+NUSA,NUSA,Nuveen ESG 1-5 Year U.S. Aggregate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NUSB,NUSB,Nuveen Ultra Short Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+NVC,NVC,Corgi NVDA 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+NVD,NVD,GraniteShares 2x Short NVDA Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+NVDB,NVDB,ProShares Ultra NVDA,NYSE ARCA, ,Y,N,,,ETF,USA
+NVDD,NVDD,Direxion Daily NVDA Bear 1X ETF,NASDAQ,G,Y,N,,,ETF,USA
+NVDG,NVDG,Leverage Shares 2X Long NVDA Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+NVDL,NVDL,GraniteShares 2x Long NVDA Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+NVDQ,NVDQ,T-Rex 2X Inverse NVIDIA Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+NVDS,NVDS,Tradr 1.5X Short NVDA Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+NVDU,NVDU,Direxion Daily NVDA Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+NVDX,NVDX,T-Rex 2X Long NVIDIA Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+NVDY,NVDY,YieldMax NVDA Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NVIT,NVIT,YieldMax NVDA Performance & Distribution Target 25 ETF,BATS, ,Y,N,,,ETF,USA
+NVOC,NVOC,Corgi NVO 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+NVOX,NVOX,Defiance Daily Target 2X Long NVO ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NVTC,NVTC,Corgi NVTS 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+NVTX,NVTX,Tradr 2X Long NVTS Daily ETF,BATS, ,Y,N,,,ETF,USA
+NVYY,NVYY,GraniteShares YieldBOOST NVDA ETF,NASDAQ,G,Y,N,,,ETF,USA
+NXPG,NXPG,Leverage Shares 2X Long NXPI Daily ETF,BATS, ,Y,N,,,ETF,USA
+NXPX,NXPX,Tradr 2X Long NXPI Daily ETF,BATS, ,Y,N,,,ETF,USA
+NXUS,NXUS,Nuveen International Aggregate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NYF,NYF,iShares New York Muni Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+NYM,NYM,AB New York Intermediate Municipal ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+OACP,OACP,OneAscent Core Plus Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+OARK,OARK,YieldMax Innovation Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+OBIL,OBIL,US Treasury 12 Month Bill ETF,NASDAQ,G,Y,N,,,ETF,USA
+OBND,OBND,State Street Loomis Sayles Opportunistic Bond ETF,BATS, ,Y,N,,,ETF,USA
+OBTC,OBTC,Osprey Bitcoin Trust,NASDAQ,G,Y,N,,,ETF,USA
+OCDB,OCDB,Aptus October Deep Buffer ETF,BATS, ,Y,N,,,ETF,USA
+OCTB,OCTB,Aptus October Buffer ETF,BATS, ,Y,N,,,ETF,USA
+OCTH,OCTH,Innovator Premium Income 20 Barrier ETF - October,BATS, ,Y,N,,,ETF,USA
+OCTJ,OCTJ,Innovator Premium Income 30 Barrier ETF - October,BATS, ,Y,N,,,ETF,USA
+OCTM,OCTM,FT Vest U.S. Equity Max Buffer ETF - October,BATS, ,Y,N,,,ETF,USA
+OCTP,OCTP,PGIM S&P 500 Buffer 12 ETF - October,BATS, ,Y,N,,,ETF,USA
+OILD,OILD,MicroSectors Oil & Gas Exp. & Prod. -3x Inverse Leveraged ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+OILU,OILU,MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+OKLC,OKLC,Corgi OKLO 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+OKLL,OKLL,Defiance Daily Target 2x Long OKLO ETF,NASDAQ,G,Y,N,,,ETF,USA
+OKLS,OKLS,Defiance Daily Target 2X Short OKLO ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+OKTG,OKTG,Leverage Shares 2X Long OKTA Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+ONDC,ONDC,Corgi ONDS 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+ONDG,ONDG,Leverage Shares 2X Long ONDS Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+ONDL,ONDL,Defiance Daily Target 2X Long ONDS ETF,BATS, ,Y,N,,,ETF,USA
+ONDU,ONDU,Tradr 2X Long ONDS Daily ETF,BATS, ,Y,N,,,ETF,USA
+ONEZ,ONEZ,TrueShares Seasonality Laddered Buffered ETF,BATS, ,Y,N,,,ETF,USA
+ONG,ONG,Leverage Shares 2X Long ON Daily ETF,BATS, ,Y,N,,,ETF,USA
+ONTX,ONTX,Corgi ONTO 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+ONX,ONX,Tradr 2X Long ON Daily ETF,BATS, ,Y,N,,,ETF,USA
+OPEG,OPEG,Leverage Shares 2X Long OPEN Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+OPER,OPER,ETF ClearShares Ultra-Short Maturity ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+OPEX,OPEX,Tradr 2X Long OPEN Daily ETF,BATS, ,Y,N,,,ETF,USA
+ORAC,ORAC,Corgi ORCL 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+ORCS,ORCS,Direxion Daily ORCL Bear 1X ETF,NASDAQ,G,Y,N,,,ETF,USA
+ORCU,ORCU,Direxion Daily ORCL Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+ORCX,ORCX,Defiance Daily Target 2X Long ORCL ETF,NASDAQ,G,Y,N,,,ETF,USA
+ORCZ,ORCZ,Tradr 2X Short ORCL Daily ETF,BATS, ,Y,N,,,ETF,USA
+ORLG,ORLG,Leverage Shares 2X Long ORLY Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+ORR,ORR,Militia Long/Short Equity ETF,NASDAQ,G,Y,N,,,ETF,USA
+OSCG,OSCG,Leverage Shares 2X Long OSCR Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+OSCX,OSCX,Defiance Daily Target 2x Long OSCR ETF,NASDAQ,G,Y,N,,,ETF,USA
+OSSL,OSSL,Defiance Daily Target 2X Long OSS ETF,BATS, ,Y,N,,,ETF,USA
+OUSL,OUSL,Defiance Daily Target 2X Long OUST ETF,BATS, ,Y,N,,,ETF,USA
+OVB,OVB,Overlay Shares Core Bond ETF,BATS, ,Y,N,,,ETF,USA
+OVM,OVM,Overlay Shares Municipal Bond ETF,BATS, ,Y,N,,,ETF,USA
+OVT,OVT,Overlay Shares Short Term Bond ETF,BATS, ,Y,N,,,ETF,USA
+OWNB,OWNB,Bitwise Bitcoin Standard Corporations ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PAAA,PAAA,PGIM AAA CLO ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PAB,PAB,PGIM Active Aggregate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PALD,PALD,Direxion Daily PANW Bear 1X ETF,NASDAQ,G,Y,N,,,ETF,USA
+PALU,PALU,Direxion Daily PANW Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+PANG,PANG,Leverage Shares 2X Long PANW Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+PAPR,PAPR,Innovator U.S. Equity Power Buffer ETF - April,BATS, ,Y,N,,,ETF,USA
+PATX,PATX,Tradr 2X Long PATH Daily ETF,BATS, ,Y,N,,,ETF,USA
+PAUG,PAUG,Innovator U.S. Equity Power Buffer ETF - August,BATS, ,Y,N,,,ETF,USA
+PAYH,PAYH,TrueShares S&P Autocallable High Income ETF,BATS, ,Y,N,,,ETF,USA
+PAYM,PAYM,TrueShares S&P Autocallable Defensive Income ETF,BATS, ,Y,N,,,ETF,USA
+PBAP,PBAP,PGIM S&P 500 Buffer 20 ETF - April,BATS, ,Y,N,,,ETF,USA
+PBAU,PBAU,PGIM S&P 500 Buffer 20 ETF - August,BATS, ,Y,N,,,ETF,USA
+PBDE,PBDE,PGIM S&P 500 Buffer 20 ETF - December,BATS, ,Y,N,,,ETF,USA
+PBFB,PBFB,PGIM S&P 500 Buffer 20 ETF - February,BATS, ,Y,N,,,ETF,USA
+PBFR,PBFR,PGIM Laddered S&P 500 Buffer 20 ETF,BATS, ,Y,N,,,ETF,USA
+PBJA,PBJA,PGIM S&P 500 Buffer 20 ETF - January,BATS, ,Y,N,,,ETF,USA
+PBJL,PBJL,PGIM S&P 500 Buffer 20 ETF - July,BATS, ,Y,N,,,ETF,USA
+PBJN,PBJN,PGIM S&P 500 Buffer 20 ETF - June,BATS, ,Y,N,,,ETF,USA
+PBMR,PBMR,PGIM S&P 500 Buffer 20 ETF - March,BATS, ,Y,N,,,ETF,USA
+PBMY,PBMY,PGIM S&P 500 Buffer 20 ETF - May,BATS, ,Y,N,,,ETF,USA
+PBNV,PBNV,PGIM S&P 500 Buffer 20 ETF - November,BATS, ,Y,N,,,ETF,USA
+PBOC,PBOC,PGIM S&P 500 Buffer 20 ETF - October,BATS, ,Y,N,,,ETF,USA
+PBP,PBP,Invesco S&P 500 BuyWrite ETF,BATS, ,Y,N,,,ETF,USA
+PBQQ,PBQQ,PGIM Laddered Nasdaq-100 Buffer 12 ETF,NASDAQ,G,Y,N,,,ETF,USA
+PBRG,PBRG,Leverage Shares 2X Long PBR Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+PBSE,PBSE,PGIM S&P 500 Buffer 20 ETF - September,BATS, ,Y,N,,,ETF,USA
+PBTP,PBTP,Invesco 0-5 Yr US TIPS ETF,BATS, ,Y,N,,,ETF,USA
+PCEB,PCEB,Polen Euro High Yield Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PCI,PCI,PGIM Corporate Bond 5-10 Year ETF,BATS, ,Y,N,,,ETF,USA
+PCL,PCL,PGIM Corporate Bond 10+ Year ETF,BATS, ,Y,N,,,ETF,USA
+PCLO,PCLO,VIRTUS SEIX AAA Private Credit CLO ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PCMM,PCMM,BondBloxx Private Credit CLO ETF,NASDAQ,G,Y,N,,,ETF,USA
+PCS,PCS,PGIM Corporate Bond 0-5 Year ETF,BATS, ,Y,N,,,ETF,USA
+PDDL,PDDL,GraniteShares 2x Long PDD Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+PDEC,PDEC,Innovator U.S. Equity Power Buffer ETF - December,BATS, ,Y,N,,,ETF,USA
+PFEB,PFEB,Innovator U.S. Equity Power Buffer ETF - February,BATS, ,Y,N,,,ETF,USA
+PFIG,PFIG,Invesco Fundamental Investment Grade Corporate Bond  ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PGHY,PGHY,Invesco Global ex-US High Yield Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PHYL,PHYL,PGIM Active High Yield Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PICB,PICB,Invesco International Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PIFI,PIFI,ClearShares Piton Intermediate Fixed Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PILL,PILL,Direxion Daily Pharmaceutical & Medical Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PINC,PINC,PGIM Securitized Income ETF,BATS, ,Y,N,,,ETF,USA
+PJAN,PJAN,Innovator U.S. Equity Power Buffer ETF - January,BATS, ,Y,N,,,ETF,USA
+PJUL,PJUL,Innovator U.S. Equity Power Buffer ETF - July,BATS, ,Y,N,,,ETF,USA
+PJUN,PJUN,Innovator U.S. Equity Power Buffer ETF - June,BATS, ,Y,N,,,ETF,USA
+PLA,PLA,GraniteShares Autocallable PLTR ETF,NASDAQ,G,Y,N,,,ETF,USA
+PLTA,PLTA,ProShares Ultra PLTR,NYSE ARCA, ,Y,N,,,ETF,USA
+PLTD,PLTD,Direxion Daily PLTR Bear 1X ETF,NASDAQ,G,Y,N,,,ETF,USA
+PLTG,PLTG,Leverage Shares 2X Long PLTR Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+PLTL,PLTL,Corgi PLTR 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+PLTU,PLTU,Direxion Daily PLTR Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+PLTY,PLTY,YieldMax PLTR Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PLTZ,PLTZ,Defiance Daily Target 2x Short PLTR ETF,NASDAQ,G,Y,N,,,ETF,USA
+PLU,PLU,Defiance Daily Target 2x Long PL ETF,BATS, ,Y,N,,,ETF,USA
+PLUL,PLUL,Leverage Shares 2X Long PLUG Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+PLYY,PLYY,GraniteShares YieldBOOST PLTR ETF,NASDAQ,G,Y,N,,,ETF,USA
+PMAP,PMAP,PGIM S&P 500 Max Buffer ETF - April,BATS, ,Y,N,,,ETF,USA
+PMAR,PMAR,Innovator U.S. Equity Power Buffer ETF - March,BATS, ,Y,N,,,ETF,USA
+PMAU,PMAU,PGIM S&P 500 Max Buffer ETF - August,BATS, ,Y,N,,,ETF,USA
+PMAY,PMAY,Innovator U.S. Equity Power Buffer ETF - May,BATS, ,Y,N,,,ETF,USA
+PMBS,PMBS,PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund,NASDAQ,G,Y,N,,,ETF,USA
+PMDE,PMDE,PGIM S&P 500 Max Buffer ETF - December,BATS, ,Y,N,,,ETF,USA
+PMFB,PMFB,PGIM S&P 500 Max Buffer ETF - February,BATS, ,Y,N,,,ETF,USA
+PMIO,PMIO,PGIM Municipal Income Opportunities ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PMJA,PMJA,PGIM S&P 500 Max Buffer ETF - January,BATS, ,Y,N,,,ETF,USA
+PMJL,PMJL,PGIM S&P 500 Max Buffer ETF - July,BATS, ,Y,N,,,ETF,USA
+PMJN,PMJN,PGIM S&P 500 Max Buffer ETF - June,BATS, ,Y,N,,,ETF,USA
+PMMR,PMMR,PGIM S&P 500 Max Buffer ETF - March,BATS, ,Y,N,,,ETF,USA
+PMMY,PMMY,PGIM S&P 500 Max Buffer ETF - May,BATS, ,Y,N,,,ETF,USA
+PMNV,PMNV,PGIM S&P 500 Max Buffer ETF - November,BATS, ,Y,N,,,ETF,USA
+PMOC,PMOC,PGIM S&P 500 Max Buffer ETF - October,BATS, ,Y,N,,,ETF,USA
+PMSE,PMSE,PGIM S&P 500 Max Buffer ETF - September,BATS, ,Y,N,,,ETF,USA
+PNOV,PNOV,Innovator U.S. Equity Power Buffer ETF - November,BATS, ,Y,N,,,ETF,USA
+POCT,POCT,Innovator U.S. Equity Power Buffer ETF - October,BATS, ,Y,N,,,ETF,USA
+POEL,POEL,Defiance Daily Target 2X Long POET ETF,BATS, ,Y,N,,,ETF,USA
+PONX,PONX,Tradr 2X Long PONY Daily ETF,BATS, ,Y,N,,,ETF,USA
+PQAP,PQAP,PGIM Nasdaq-100 Buffer 12 ETF - April,NASDAQ,G,Y,N,,,ETF,USA
+PQJA,PQJA,PGIM Nasdaq-100 Buffer 12 ETF - January,NASDAQ,G,Y,N,,,ETF,USA
+PQJL,PQJL,PGIM Nasdaq-100 Buffer 12 ETF - July,NASDAQ,G,Y,N,,,ETF,USA
+PQOC,PQOC,PGIM Nasdaq-100 Buffer 12 ETF - October,NASDAQ,G,Y,N,,,ETF,USA
+PQV,PQV,PGIM S&P 500 Quarterly Buffer 5 ETF,BATS, ,Y,N,,,ETF,USA
+PQX,PQX,PGIM S&P 500 Quarterly Buffer 10 ETF,BATS, ,Y,N,,,ETF,USA
+PQXV,PQXV,PGIM S&P 500 Quarterly Buffer 15 ETF,BATS, ,Y,N,,,ETF,USA
+PQXX,PQXX,PGIM S&P 500 Quarterly Buffer 20 ETF,BATS, ,Y,N,,,ETF,USA
+PRSD,PRSD,State Street Short Duration IG Public & Private Credit ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PSDM,PSDM,PGIM Short Duration Multi-Sector Bond ETF,BATS, ,Y,N,,,ETF,USA
+PSEP,PSEP,Innovator U.S. Equity Power Buffer ETF - September,BATS, ,Y,N,,,ETF,USA
+PSH,PSH,PGIM Short Duration High Yield ETF,BATS, ,Y,N,,,ETF,USA
+PSQ,PSQ,ProShares Short QQQ,NYSE ARCA, ,Y,N,,,ETF,USA
+PSQA,PSQA,Palmer Square CLO Senior Debt ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PST,PST,ProShares UltraShort Lehman 7-10 Year Treasury,NYSE ARCA, ,Y,N,,,ETF,USA
+PSTP,PSTP,Innovator Power Buffer Step-Up Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PTBD,PTBD,Pacer Trendpilot US Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PTIR,PTIR,GraniteShares 2x Long PLTR Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+PTRB,PTRB,PGIM Total Return Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PUL,PUL,GraniteShares 2x Long P Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+PULS,PULS,PGIM Ultra Short Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PUR,PUR,Defiance Daily Target 2X Long PURR ETF,NASDAQ,G,Y,N,,,ETF,USA
+PUSH,PUSH,PGIM Ultra Short Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PVI,PVI,Invesco Floating Rate Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PWZ,PWZ,Invesco California AMT-Free Municipal Bond Portfolio,NYSE ARCA, ,Y,N,,,ETF,USA
+PYLD,PYLD,PIMCO Multisector Bond Active Exchange-Traded Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+PYPG,PYPG,Leverage Shares 2X Long PYPL Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+PYPU,PYPU,Direxion Daily PYPL Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PYPY,PYPY,YieldMax PYPL Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+PZA,PZA,Invesco National AMT-Free Municipal Bond ETFo,NYSE ARCA, ,Y,N,,,ETF,USA
+PZT,PZT,Invesco New York AMT-Free Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+QB,QB,ProShares Nasdaq-100 Dynamic Buffer ETF,NASDAQ,G,Y,N,,,ETF,USA
+QBER,QBER,TrueShares Quarterly Bear Hedge ETF,BATS, ,Y,N,,,ETF,USA
+QBF,QBF,Innovator Uncapped Bitcoin 20 Floor ETF - Quarterly,BATS, ,Y,N,,,ETF,USA
+QBTX,QBTX,Tradr 2X Long QBTS Daily ETF,BATS, ,Y,N,,,ETF,USA
+QBTZ,QBTZ,Defiance Daily Target 2x Short QBTS ETF,NASDAQ,G,Y,N,,,ETF,USA
+QBUF,QBUF,Innovator Nasdaq-100 10 Buffer ETF Quarterly,NASDAQ,G,Y,N,,,ETF,USA
+QBUL,QBUL,TrueShares Quarterly Bull Hedge ETF,BATS, ,Y,N,,,ETF,USA
+QBY,QBY,GraniteShares YieldBoost QBTS ETF,NASDAQ,G,Y,N,,,ETF,USA
+QCAP,QCAP,FT Vest Nasdaq-100 Conservative Buffer ETF - April,BATS, ,Y,N,,,ETF,USA
+QCJA,QCJA,FT Vest Nasdaq-100 Conservative Buffer ETF - January,BATS, ,Y,N,,,ETF,USA
+QCJL,QCJL,FT Vest Nasdaq-100 Conservative Buffer ETF - July,BATS, ,Y,N,,,ETF,USA
+QCMD,QCMD,Direxion Daily QCOM Bear 1X ETF,NASDAQ,G,Y,N,,,ETF,USA
+QCML,QCML,GraniteShares 2x Long QCOM Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+QCMU,QCMU,Direxion Daily QCOM Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+QCOC,QCOC,FT Vest Nasdaq-100 Conservative Buffer ETF - October,BATS, ,Y,N,,,ETF,USA
+QDEC,QDEC,FT Vest Nasdaq-100 Buffer ETF - December,BATS, ,Y,N,,,ETF,USA
+QDTE,QDTE,Roundhill Innovation-100 0DTE Covered Call Strategy ETF,BATS, ,Y,N,,,ETF,USA
+QDTY,QDTY,YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF,NASDAQ,G,Y,N,,,ETF,USA
+QETH,QETH,Invesco Galaxy Ethereum ETF,BATS, ,Y,N,,,ETF,USA
+QFLR,QFLR,Innovator Nasdaq-100 Managed Floor ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+QHY,QHY,WisdomTree U.S. High Yield Corporate Bond Fund,BATS, ,Y,N,,,ETF,USA
+QID,QID,ProShares UltraShort QQQ,NYSE ARCA, ,Y,N,,,ETF,USA
+QIG,QIG,WisdomTree U.S. Corporate Bond Fund,BATS, ,Y,N,,,ETF,USA
+QJL,QJL,Corgi Growth & Technology 10% Structured Buffer ETF - July Series,BATS, ,Y,N,,,ETF,USA
+QJN,QJN,Corgi Growth & Technology 10% Structured Buffer ETF - June Series,BATS, ,Y,N,,,ETF,USA
+QJUN,QJUN,FT Vest Nasdaq-100 Buffer ETF - June,BATS, ,Y,N,,,ETF,USA
+QLD,QLD,ProShares Ultra QQQ,NYSE ARCA, ,Y,N,,,ETF,USA
+QLTA,QLTA,iShares Aaa A Rated Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+QMAG,QMAG,FT Vest Nasdaq-100 Moderate Buffer ETF - August,BATS, ,Y,N,,,ETF,USA
+QMAR,QMAR,FT Vest Nasdaq-100 Buffer ETF - March,BATS, ,Y,N,,,ETF,USA
+QMFE,QMFE,FT Vest Nasdaq-100 Moderate Buffer ETF - February,BATS, ,Y,N,,,ETF,USA
+QMMY,QMMY,FT Vest Nasdaq-100 Moderate Buffer ETF - May,BATS, ,Y,N,,,ETF,USA
+QMNV,QMNV,FT Vest Nasdaq-100 Moderate Buffer ETF - November,BATS, ,Y,N,,,ETF,USA
+QMY,QMY,Corgi Growth & Technology 10% Structured Buffer ETF - May Series,BATS, ,Y,N,,,ETF,USA
+QNTU,QNTU,Tradr 2X Long QNT Daily ETF,BATS, ,Y,N,,,ETF,USA
+QPUX,QPUX,Defiance 2X Daily Long Pure Quantum ETF,NASDAQ,G,Y,N,,,ETF,USA
+QQDN,QQDN,ProShares UltraShort QQQ Mega,NASDAQ,G,Y,N,,,ETF,USA
+QQJL,QQJL,Corgi Growth & Technology 15% Structured Buffer ETF - July Series,BATS, ,Y,N,,,ETF,USA
+QQJN,QQJN,Corgi Growth & Technology 15% Structured Buffer ETF - June Series,BATS, ,Y,N,,,ETF,USA
+QQMY,QQMY,Corgi Growth & Technology 15% Structured Buffer ETF - May Series,BATS, ,Y,N,,,ETF,USA
+QQQD,QQQD,Direxion Daily Magnificent 7 Bear 1X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+QQQP,QQQP,Tradr 2X Long Innovation 100 Quarterly ETF,NASDAQ,G,Y,N,,,ETF,USA
+QQQU,QQQU,Direxion Daily Magnificent 7 Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+QQQY,QQQY,Defiance Nasdaq 100 Weekly Distribution ETF,NASDAQ,G,Y,N,,,ETF,USA
+QQUP,QQUP,ProShares Ultra QQQ Mega,NASDAQ,G,Y,N,,,ETF,USA
+QQXL,QQXL,ProShares Ultra QQQ Top 30,NASDAQ,G,Y,N,,,ETF,USA
+QSIG,QSIG,WisdomTree U.S. Short Term Corporate Bond Fund,BATS, ,Y,N,,,ETF,USA
+QSOL,QSOL,Invesco Galaxy Solana ETF,BATS, ,Y,N,,,ETF,USA
+QSPT,QSPT,FT Vest Nasdaq-100 Buffer ETF - September,BATS, ,Y,N,,,ETF,USA
+QSU,QSU,Defiance Daily Target 2X Long QS ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+QUA,QUA,Corgi QBTS 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+QUBX,QUBX,Tradr 2X Long QUBT Daily ETF,BATS, ,Y,N,,,ETF,USA
+QULL,QULL,ETRACS 2x Leveraged MSCI US Quality Factor TR ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+QVOL,QVOL,Infrastructure Capital Nasdaq Option Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+QYLD,QYLD,Global X NASDAQ 100 Covered Call ETF,NASDAQ,G,Y,N,,,ETF,USA
+QYLG,QYLG,Global X Nasdaq 100 Covered Call & Growth ETF,NASDAQ,G,Y,N,,,ETF,USA
+RAAA,RAAA,Reckoner Yield Enhanced AAA CLO ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+RAAR,RAAR,Reckoner Yield Enhanced AAA CLO Reinvesting ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+RAAY,RAAY,Reckoner Yield Enhanced AAA CLO Annual ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+RAM,RAM,Roundhill T-REX 2X Long DRAM Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+RAVI,RAVI,FlexShares Ultra-Short Income Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+RB,RB,ProShares Russell 2000 Dynamic Buffer ETF,BATS, ,Y,N,,,ETF,USA
+RBIL,RBIL,F/m Ultrashort Treasury Inflation-Protected Security (TIPS) ETF,NASDAQ,G,Y,N,,,ETF,USA
+RBLU,RBLU,T-REX 2X Long RBLX Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+RBLY,RBLY,YieldMax RBLX Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+RBUF,RBUF,Innovator U.S. Small Cap 10 Buffer ETF - Quarterly,BATS, ,Y,N,,,ETF,USA
+RCAX,RCAX,Defiance Daily Target 2x Long RCAT ETF,NASDAQ,G,Y,N,,,ETF,USA
+RCLO,RCLO,Reckoner BBB-B CLO ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+RCLR,RCLR,Reckoner BBB-B CLO Reinvesting ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+RCLY,RCLY,Reckoner BBB-B CLO Annual ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+RDDC,RDDC,Corgi RDDT 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+RDFI,RDFI,Rareview Dynamic Fixed Income ETF,BATS, ,Y,N,,,ETF,USA
+RDIV,RDIV,Invesco S&P Ultra Dividend Revenue ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+RDTE,RDTE,Roundhill Russell 2000 0DTE Covered Call Strategy ETF,BATS, ,Y,N,,,ETF,USA
+RDTL,RDTL,GraniteShares 2x Long RDDT Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+RDTY,RDTY,YieldMax R2000 0DTE Covered Strategy ETF,NASDAQ,G,Y,N,,,ETF,USA
+RDWU,RDWU,T-REX 2X Long RDW Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+RDYY,RDYY,YieldMax RDDT Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+REK,REK,ProShares Short Real Estate,NYSE ARCA, ,Y,N,,,ETF,USA
+REM,REM,iShares Mortgage Real Estate ETF,BATS, ,Y,N,,,ETF,USA
+RETL,RETL,Direxion Daily Retail Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+REW,REW,ProShares UltraShort Technology,NYSE ARCA, ,Y,N,,,ETF,USA
+RFIX,RFIX,Simplify Bond Bull ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+RFLR,RFLR,Innovator U.S. Small Cap Managed Floor ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+RGTC,RGTC,Corgi RGTI 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+RGTU,RGTU,Tradr 2X Long RGTI Daily ETF,BATS, ,Y,N,,,ETF,USA
+RGTX,RGTX,Defiance Daily Target 2X Long RGTI ETF,NASDAQ,G,Y,N,,,ETF,USA
+RGTZ,RGTZ,Defiance Daily Target 2x Short RGTI ETF,NASDAQ,G,Y,N,,,ETF,USA
+RGYY,RGYY,GraniteShares YieldBoost RGTI ETF,NASDAQ,G,Y,N,,,ETF,USA
+RIOX,RIOX,Defiance Daily Target 2X Long RIOT ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+RIVC,RIVC,Corgi RIVN 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+RJMI,RJMI,RJ Eagle Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+RKLX,RKLX,Defiance Daily Target 2X Long RKLB ETF,NASDAQ,G,Y,N,,,ETF,USA
+RKLZ,RKLZ,Defiance Daily Target 2x Short RKLB ETF,NASDAQ,G,Y,N,,,ETF,USA
+RKTL,RKTL,Defiance Daily Target 2X Long RKT ETF,BATS, ,Y,N,,,ETF,USA
+RKX,RKX,Corgi RKLB 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+RMBC,RMBC,Corgi RMBS 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+RMBX,RMBX,Tradr 2X Long RMBS Daily ETF,BATS, ,Y,N,,,ETF,USA
+RMCA,RMCA,Rockefeller California Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+RMNY,RMNY,Rockefeller New York Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+RMOP,RMOP,Rockefeller Opportunistic Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+RNTY,RNTY,YieldMax Target 12 Real Estate Option Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ROBN,ROBN,T-Rex 2X Long HOOD Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+ROM,ROM,ProShares Ultra Technology,NYSE ARCA, ,Y,N,,,ETF,USA
+RSBA,RSBA,Return Stacked Bonds & Merger Arbitrage ETF,BATS, ,Y,N,,,ETF,USA
+RSBT,RSBT,Return Stacked Bonds & Managed Futures ETF,BATS, ,Y,N,,,ETF,USA
+RSBY,RSBY,Return Stacked Bonds & Futures Yield ETF,BATS, ,Y,N,,,ETF,USA
+RSDE,RSDE,FT Vest U.S. Equity Equal Weight Buffer ETF - December,NYSE ARCA, ,Y,N,,,ETF,USA
+RSJN,RSJN,FT Vest U.S. Equity Equal Weight Buffer ETF - June,NYSE ARCA, ,Y,N,,,ETF,USA
+RSMR,RSMR,FT Vest U.S. Equity Equal Weight Buffer ETF - March,NYSE ARCA, ,Y,N,,,ETF,USA
+RSSB,RSSB,Return Stacked Global Stocks & Bonds ETF,BATS, ,Y,N,,,ETF,USA
+RSSE,RSSE,FT Vest U.S. Equity Equal Weight Buffer ETF  September,NYSE ARCA, ,Y,N,,,ETF,USA
+RSSX,RSSX,Return Stacked U.S. Stocks & Gold/Bitcoin ETF,BATS, ,Y,N,,,ETF,USA
+RTRE,RTRE,Rareview Total Return Bond ETF,BATS, ,Y,N,,,ETF,USA
+RTXG,RTXG,Leverage Shares 2X Long RTX Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+RTYY,RTYY,GraniteShares YieldBoost RIOT ETF,NASDAQ,G,Y,N,,,ETF,USA
+RVNL,RVNL,GraniteShares 2x Long RIVN Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+RVNU,RVNU,Xtrackers Municipal Infrastructure Revenue Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+RWM,RWM,ProShares Short Russell2000,NYSE ARCA, ,Y,N,,,ETF,USA
+RXD,RXD,ProShares UltraShort Health Care,NYSE ARCA, ,Y,N,,,ETF,USA
+RXL,RXL,ProShares Ultra Health Care,NYSE ARCA, ,Y,N,,,ETF,USA
+RYLD,RYLD,Global X Russell 2000 Covered Call ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+RYLG,RYLG,Global X Russell 2000 Covered Call & Growth ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SAA,SAA,ProShares Ultra SmallCap600,NYSE ARCA, ,Y,N,,,ETF,USA
+SARK,SARK,Tradr 1X Short Innovation Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+SATO,SATO,Invesco Alerian Galaxy Crypto Economy ETF,BATS, ,Y,N,,,ETF,USA
+SAUG,SAUG,FT Vest U.S. Small Cap Moderate Buffer ETF - August,BATS, ,Y,N,,,ETF,USA
+SBAR,SBAR,Simplify Barrier Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SBB,SBB,ProShares Short SmallCap600,NYSE ARCA, ,Y,N,,,ETF,USA
+SBIT,SBIT,ProShares UltraShort Bitcoin ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SBND,SBND,Columbia Short Duration Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SBTU,SBTU,T-REX 2X Long SBET Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+SBU,SBU,Leverage Shares 2X Long SBUX Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+SCA,SCA,GraniteShares Autocallable SMCI ETF,NASDAQ,G,Y,N,,,ETF,USA
+SCC,SCC,ProShares UltraShort Consumer Discretionary,NYSE ARCA, ,Y,N,,,ETF,USA
+SCCR,SCCR,Schwab Core Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SCDL,SCDL,ETRACS 2x Leveraged US Dividend Factor TR ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+SCEC,SCEC,Sterling Capital Enhanced Core Bond ETF,BATS, ,Y,N,,,ETF,USA
+SCHI,SCHI,Schwab 5-10 Year Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SCHJ,SCHJ,Schwab 1-5 Year Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SCHO,SCHO,Schwab Short-Term U.S. Treasury ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SCHQ,SCHQ,Schwab Long-Term U.S. Treasury ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SCHR,SCHR,Schwab Intermediate-Term U.S. Treasury ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SCHZ,SCHZ,Schwab US Aggregate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SCJL,SCJL,Corgi U.S. Small-Cap 15% Structured Buffer ETF - July Series,BATS, ,Y,N,,,ETF,USA
+SCJN,SCJN,Corgi U.S. Small-Cap 15% Structured Buffer ETF - June Series,BATS, ,Y,N,,,ETF,USA
+SCMB,SCMB,Schwab Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SCMY,SCMY,Corgi U.S. Small-Cap 15% Structured Buffer ETF - May Series,BATS, ,Y,N,,,ETF,USA
+SCNM,SCNM,Sterling Capital National Municipal Bond ETF,BATS, ,Y,N,,,ETF,USA
+SCO,SCO,ProShares UltraShort Bloomberg Crude Oil,NYSE ARCA, ,Y,N,,,ETF,USA
+SCSB,SCSB,Sterling Capital Short Duration Bond ETF,BATS, ,Y,N,,,ETF,USA
+SCUB,SCUB,Sterling Capital Ultra Short Bond ETF,BATS, ,Y,N,,,ETF,USA
+SCUS,SCUS,Schwab Ultra-Short Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SCYB,SCYB,Schwab High Yield Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SDCP,SDCP,Virtus Newfleet Short Duration Core Plus Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SDD,SDD,ProShares UltraShort SmallCap600,NYSE ARCA, ,Y,N,,,ETF,USA
+SDFI,SDFI,AB Short Duration Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SDOW,SDOW,UltraPro Short Dow30,NYSE ARCA, ,Y,N,,,ETF,USA
+SDP,SDP,ProShares UltraShort Utilities,NYSE ARCA, ,Y,N,,,ETF,USA
+SDS,SDS,ProShares UltraShort S&P500,NYSE ARCA, ,Y,N,,,ETF,USA
+SDSI,SDSI,American Century Short Duration Strategic Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+SDTY,SDTY,YieldMax S&P 500 0DTE Covered Call Strategy ETF,NASDAQ,G,Y,N,,,ETF,USA
+SECR,SECR,NYLI MacKay Securitized Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SECU,SECU,iShares Securitized Income Active ETF,BATS, ,Y,N,,,ETF,USA
+SEF,SEF,ProShares Short Financials,NYSE ARCA, ,Y,N,,,ETF,USA
+SEMY,SEMY,GraniteShares YieldBOOST Semiconductor ETF,NASDAQ,G,Y,N,,,ETF,USA
+SEPM,SEPM,FT Vest U.S. Equity Max Buffer ETF - September,BATS, ,Y,N,,,ETF,USA
+SEPP,SEPP,PGIM S&P 500 Buffer 12 ETF - September,BATS, ,Y,N,,,ETF,USA
+SETH,SETH,ProShares Short Ether ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SFEB,SFEB,FT Vest U.S. Small Cap Moderate Buffer ETF - February,BATS, ,Y,N,,,ETF,USA
+SFLR,SFLR,Innovator Equity Managed Floor ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SGOV,SGOV,iShares 0-3 Month Treasury Bond ETF,NYSE, ,Y,N,,,ETF,USA
+SGVA,SGVA,F/m Accumulator Ultrashort Treasury Fund,NASDAQ,G,Y,N,,,ETF,USA
+SH,SH,ProShares Short S&P500,NYSE ARCA, ,Y,N,,,ETF,USA
+SHAG,SHAG,WisdomTree Yield Enhanced U.S. Short-Term Aggregate Bond Fund,BATS, ,Y,N,,,ETF,USA
+SHM,SHM,State Street SPDR Nuveen ICE Short Term Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SHNY,SHNY,"MicroSectors Gold 3X Leveraged ETNs due January 29, 2043",NYSE ARCA, ,Y,N,,,ETF,USA
+SHPU,SHPU,Direxion Daily SHOP Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+SHRD,SHRD,Arimathea Catholic Core Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SHRT,SHRT,Gotham Short Strategies ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SHV,SHV,iShares 0-1 Year Treasury Bond ETF,NYSE, ,Y,N,,,ETF,USA
+SHY,SHY,iShares 1-3 Year Treasury Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+SHYD,SHYD,VanEck Short High Yield Muni ETF,BATS, ,Y,N,,,ETF,USA
+SHYG,SHYG,iShares 0-5 Year High Yield Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SHYL,SHYL,Xtrackers Short Duration High Yield Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SHYM,SHYM,iShares Short Duration High Yield Muni Active ETF,BATS, ,Y,N,,,ETF,USA
+SIJ,SIJ,ProShares UltraShort Industrials,NYSE ARCA, ,Y,N,,,ETF,USA
+SIMX,SIMX,Corgi SIMO 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+SIXD,SIXD,AllianzIM U.S. Large Cap 6 Month Buffer10 Jun/Dec ETF,BATS, ,Y,N,,,ETF,USA
+SIXF,SIXF,AllianzIM U.S. Large Cap 6 Month Buffer10 Feb/Aug ETF,BATS, ,Y,N,,,ETF,USA
+SIXJ,SIXJ,AllianzIM U.S. Large Cap 6 Month Buffer10 Jan/Jul ETF,BATS, ,Y,N,,,ETF,USA
+SIXO,SIXO,AllianzIM U.S. Large Cap 6 Month Buffer10 Apr/Oct ETF,BATS, ,Y,N,,,ETF,USA
+SIXP,SIXP,AllianzIM U.S. Large Cap 6 Month Buffer10 Mar/Sep ETF,BATS, ,Y,N,,,ETF,USA
+SIXZ,SIXZ,AllianzIM U.S. Large Cap 6 Month Buffer10 May/Nov ETF,BATS, ,Y,N,,,ETF,USA
+SJB,SJB,ProShares Short High Yield,NYSE ARCA, ,Y,N,,,ETF,USA
+SJCP,SJCP,SanJac Alpha Core Plus Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+SJNK,SJNK,State Street SPDR Bloomberg Short Term High Yield Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SK,SK,Corgi SK hynix 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+SKDD,SKDD,GraniteShares 2x Short SK Hynix Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+SKF,SKF,ProShares UltraShort Financials,NYSE ARCA, ,Y,N,,,ETF,USA
+SKHL,SKHL,Direxion Daily SK Hynix Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SKHU,SKHU,ProShares Ultra SK hynix,NYSE ARCA, ,Y,N,,,ETF,USA
+SKHX,SKHX,Leverage Shares 2X Long SK Hynix Daily ETF,BATS, ,Y,N,,,ETF,USA
+SKHZ,SKHZ,Leverage Shares 1X Short SK Hynix Daily ETF,BATS, ,Y,N,,,ETF,USA
+SKOR,SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,NASDAQ,G,Y,N,,,ETF,USA
+SKRE,SKRE,Tuttle Capital Daily 2X Inverse Regional Banks ETF,NASDAQ,G,Y,N,,,ETF,USA
+SKUU,SKUU,GraniteShares 2x Long SK Hynix Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+SKYU,SKYU,ProShares Ultra Cloud Computing,NASDAQ,G,Y,N,,,ETF,USA
+SLDR,SLDR,Global X Short-Term Treasury Ladder ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SLJY,SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SLON,SLON,ProShares Ultra Solana ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SLQD,SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+SLTY,SLTY,YieldMax Ultra Short Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SLVO,SLVO,"ETRACS Silver Shares Covered Call ETNs due April 21, 2033",NASDAQ,G,Y,N,,,ETF,USA
+SLWS,SLWS,Wisdom Short Duration Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SMAX,SMAX,iShares Large Cap Max Buffer Sep ETF,BATS, ,Y,N,,,ETF,USA
+SMAY,SMAY,FT Vest U.S. Small Cap Moderate Buffer ETF - May,BATS, ,Y,N,,,ETF,USA
+SMB,SMB,VanEck Short Muni ETF,BATS, ,Y,N,,,ETF,USA
+SMBS,SMBS,Schwab Mortgage-Backed Securities ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SMCC,SMCC,Corgi SMCI 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+SMCL,SMCL,GraniteShares 2x Long SMCI Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+SMCX,SMCX,Defiance Daily Target 2X Long SMCI ETF,NASDAQ,G,Y,N,,,ETF,USA
+SMCY,SMCY,YieldMax SMCI Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SMCZ,SMCZ,Defiance Daily Target 2X Short SMCI ETF,NASDAQ,G,Y,N,,,ETF,USA
+SMDD,SMDD,UltraPro Short MidCap400,NYSE ARCA, ,Y,N,,,ETF,USA
+SMMU,SMMU,Short Term Municipal Bond Active Exchange-Traded Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+SMN,SMN,ProShares UltraShort Materials,NYSE ARCA, ,Y,N,,,ETF,USA
+SMRX,SMRX,Corgi SMR 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+SMST,SMST,Defiance Daily Target 2x Short MSTR ETF,NASDAQ,G,Y,N,,,ETF,USA
+SMTG,SMTG,Leverage Shares 2X Long SMTC Daily ETF,BATS, ,Y,N,,,ETF,USA
+SMTH,SMTH,ALPS Smith Core Plus Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SMU,SMU,Tradr 2X Long SMR Daily ETF,BATS, ,Y,N,,,ETF,USA
+SMUP,SMUP,T-REX 2X Long SMR Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+SMYY,SMYY,GraniteShares YieldBOOST SMCI ETF,NASDAQ,G,Y,N,,,ETF,USA
+SMZ,SMZ,Tradr 2X Short SMR Daily ETF,BATS, ,Y,N,,,ETF,USA
+SNAG,SNAG,Leverage Shares 2x Long SNAP Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+SNDC,SNDC,Corgi SNDK 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+SNDG,SNDG,Leverage Shares 2X Long SNDK Daily ETF,BATS, ,Y,N,,,ETF,USA
+SNDQ,SNDQ,Tradr 2X Short SNDK Daily ETF,BATS, ,Y,N,,,ETF,USA
+SNDU,SNDU,T-REX 2X Long SNDK Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+SNK,SNK,GraniteShares 2x Short SpaceX Daily ETF,BATS, ,Y,N,,,ETF,USA
+SNOU,SNOU,T-REX 2X Long SNOW Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+SNOV,SNOV,FT Vest U.S. Small Cap Moderate Buffer ETF - November,BATS, ,Y,N,,,ETF,USA
+SNOY,SNOY,YieldMax SNOW Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SNXX,SNXX,Tradr 2X Long SNDK Daily ETF,BATS, ,Y,N,,,ETF,USA
+SOEZ,SOEZ,Franklin Solana ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SOFA,SOFA,Direxion Daily SOFI Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+SOFC,SOFC,Corgi SOFI 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+SOFX,SOFX,Defiance Daily Target 2X Long SOFI ETF,NASDAQ,G,Y,N,,,ETF,USA
+SOLC,SOLC,Canary Marinade Solana ETF,NASDAQ,G,Y,N,,,ETF,USA
+SOLM,SOLM,Amplify Solana 3% Monthly Option Income ETF,BATS, ,Y,N,,,ETF,USA
+SOLT,SOLT,2x Solana ETF,NASDAQ,G,Y,N,,,ETF,USA
+SOLZ,SOLZ,Solana ETF,NASDAQ,G,Y,N,,,ETF,USA
+SOUX,SOUX,Defiance Daily Target 2X Long SOUN ETF,NASDAQ,G,Y,N,,,ETF,USA
+SOXL,SOXL,Direxion Daily Semiconductor Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SOXS,SOXS,Direxion Daily Semiconductor Bear 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SOXY,SOXY,YieldMax Target 12 Semiconductor Option Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SPAB,SPAB,State Street SPDR Portfolio Aggregate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SPAL,SPAL,GraniteShares 2x Long SpaceX Daily ETF,BATS, ,Y,N,,,ETF,USA
+SPAX,SPAX,T-REX 2X Long SPCX Daily Target ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SPBC,SPBC,Simplify US Equity PLUS Bitcoin Strategy ETF,NASDAQ,G,Y,N,,,ETF,USA
+SPBO,SPBO,State Street SPDR Portfolio Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SPBX,SPBX,AllianzIM 6 Month Buffer10 Allocation ETF,BATS, ,Y,N,,,ETF,USA
+SPCF,SPCF,ProShares Ultra SpaceX,NYSE ARCA, ,Y,N,,,ETF,USA
+SPCG,SPCG,Tradr 2X Short SpaceX Daily ETF,BATS, ,Y,N,,,ETF,USA
+SPCH,SPCH,Leverage Shares 2X Long SPCX Daily ETF,BATS, ,Y,N,,,ETF,USA
+SPCL,SPCL,Defiance Pure Space Daily 2X Strategy ETF,BATS, ,Y,N,,,ETF,USA
+SPCM,SPCM,Tradr 2X Long SpaceX Daily ETF,BATS, ,Y,N,,,ETF,USA
+SPCQ,SPCQ,Defiance Daily Target 2X Short SPCX ETF,BATS, ,Y,N,,,ETF,USA
+SPCU,SPCU,Defiance Daily Target 2X Long SPCX ETF,BATS, ,Y,N,,,ETF,USA
+SPDN,SPDN,Direxion Daily S&P 500 Bear 1X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SPHY,SPHY,State Street SPDR Portfolio High Yield Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SPIB,SPIB,State Street SPDR Portfolio Intermediate Term Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SPLB,SPLB,State Street SPDR Portfolio Long Term Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SPLS,SPLS,PIMCO US Stocks PLUS Active Bond Exchange-Traded Fund,BATS, ,Y,N,,,ETF,USA
+SPMB,SPMB,State Street SPDR Portfolio Mortgage Backed Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SPOG,SPOG,Leverage Shares 2X Long SPOT Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+SPSB,SPSB,State Street SPDR Portfolio Short Term Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SPTB,SPTB,State Street SPDR Portfolio Treasury ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SPTI,SPTI,State Street SPDR Portfolio Intermediate Term Treasury ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SPTL,SPTL,State Street SPDR Portfolio Long Term Treasury ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SPTS,SPTS,State Street SPDR Portfolio Short Term Treasury ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SPTU,SPTU,State Street SPDR Portfolio Ultra Short T-Bill ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SPUU,SPUU,Direxion Daily S&P 500 Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SPXL,SPXL,Direxion Daily S&P 500 Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SPXS,SPXS,Direxion Daily S&P 500 Bear 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SPXU,SPXU,ProShares UltraPro Short S&P500,NYSE ARCA, ,Y,N,,,ETF,USA
+SPYQ,SPYQ,Tradr 2X Long SPY Quarterly ETF,NASDAQ,G,Y,N,,,ETF,USA
+SPYU,SPYU,"MAX S&P 500 4X Leveraged ETNs due October 30, 2043",NYSE ARCA, ,Y,N,,,ETF,USA
+SQMX,SQMX,FT Vest U.S. Equity Quarterly Max Buffer ETF,BATS, ,Y,N,,,ETF,USA
+SQQQ,SQQQ,ProShares UltraPro Short QQQ,NASDAQ,G,Y,N,,,ETF,USA
+SRHR,SRHR,SRH REIT Covered Call ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SRS,SRS,ProShares UltraShort Real Estate,NYSE ARCA, ,Y,N,,,ETF,USA
+SRTY,SRTY,ProShares UltraPro Short Russell2000,NYSE ARCA, ,Y,N,,,ETF,USA
+SSFI,SSFI,Day Hagan Smart Sector Fixed Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SSG,SSG,ProShares UltraShort Semiconductors,NYSE ARCA, ,Y,N,,,ETF,USA
+SSO,SSO,ProShares Ultra S&P500,NYSE ARCA, ,Y,N,,,ETF,USA
+SSPC,SSPC,Leverage Shares 2X Short SPCX Daily ETF,BATS, ,Y,N,,,ETF,USA
+SSS,SSS,CYBER HORNET S&P 500 and Solana 75/25 Strategy ETF,NASDAQ,G,Y,N,,,ETF,USA
+STAX,STAX,Nomura Tax-Free USA Short Term ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+STBF,STBF,Performance Trust Short Term Bond ETF,BATS, ,Y,N,,,ETF,USA
+STCE,STCE,Schwab Crypto Thematic ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+STEN,STEN,iShares Large Cap 10% Target Buffer Sep ETF,BATS, ,Y,N,,,ETF,USA
+STIP,STIP,iShares 0-5 Year TIPS Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+STLU,STLU,2x Stellar ETF,BATS, ,Y,N,,,ETF,USA
+STOT,STOT,State Street DoubleLine Short Duration Total Return Tactical ETF,BATS, ,Y,N,,,ETF,USA
+STPZ,STPZ,PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+STSM,STSM,Defiance Daily Target 2X Short TSM ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+STXL,STXL,Defiance Daily Target 2x Long STX ETF,BATS, ,Y,N,,,ETF,USA
+STXT,STXT,Strive Total Return Bond ETF,NYSE, ,Y,N,,,ETF,USA
+STXU,STXU,Leverage Shares 2X Long STX Daily ETF,BATS, ,Y,N,,,ETF,USA
+STXX,STXX,Tradr 2X Long STX Daily ETF,BATS, ,Y,N,,,ETF,USA
+SUB,SUB,iShares Short-Term National Muni Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SUIL,SUIL,2x Sui ETF,BATS, ,Y,N,,,ETF,USA
+SUIS,SUIS,Canary Staked SUI ETF,NASDAQ,G,Y,N,,,ETF,USA
+SUSB,SUSB,iShares ESG Aware 1-5 Year USD Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+SUSC,SUSC,iShares ESG Aware USD Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+SVIX,SVIX,-1x Short VIX Futures ETF,BATS, ,Y,N,,,ETF,USA
+SVXY,SVXY,ProShares Short VIX Short Term Futures ETF,BATS, ,Y,N,,,ETF,USA
+SWAN,SWAN,Amplify BlackSwan Growth & Treasury Core ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SYFI,SYFI,AB Short Duration High Yield ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+SYSB,SYSB,iShares Systematic Bond ETF,BATS, ,Y,N,,,ETF,USA
+SZK,SZK,ProShares UltraShort Consumer Staples,NYSE ARCA, ,Y,N,,,ETF,USA
+TABD,TABD,Transamerica Bond Active ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TAFI,TAFI,AB Tax-Aware Short Duration Municipal ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TAFL,TAFL,AB Tax-Aware Long Municipal ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TAFM,TAFM,AB Tax-Aware Intermediate Municipal ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TAGG,TAGG,T. Rowe Price QM U.S. Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TAJX,TAJX,Corgi India 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+TAPR,TAPR,Innovator Equity Defined Protection ETF - 2 Yr to April 2027,BATS, ,Y,N,,,ETF,USA
+TARK,TARK,Tradr 2X Long Innovation ETF,NASDAQ,G,Y,N,,,ETF,USA
+TAXE,TAXE,Intermediate Municipal Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+TAXF,TAXF,American Century Diversified Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TAXI,TAXI,Northern Trust Intermediate Tax-Exempt Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+TAXS,TAXS,Northern Trust Short-Term Tax-Exempt Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+TAXT,TAXT,Northern Trust Tax-Exempt Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+TAXX,TAXX,BondBloxx IR+M Tax-Aware Short Duration ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TBF,TBF,ProShares Short 20+ Year Treasury,NYSE ARCA, ,Y,N,,,ETF,USA
+TBIL,TBIL,F/m US Treasury 3 Month Bill Fund,NASDAQ,G,Y,N,,,ETF,USA
+TBJL,TBJL,Innovator 20  Year Treasury Bond 9 Buffer ETF - July,BATS, ,Y,N,,,ETF,USA
+TBLL,TBLL,Invesco Short Term Treasury ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TBT,TBT,ProShares UltraShort Lehman 20  Year Treasury,NYSE ARCA, ,Y,N,,,ETF,USA
+TBUX,TBUX,T. Rowe Price Ultra Short-Term Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TBX,TBX,ProShares Short 7 10 Year Treasury,NYSE ARCA, ,Y,N,,,ETF,USA
+TBXU,TBXU,Direxion Daily Biotech Top 5 Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TCAN,TCAN,21Shares Canton Network ETF,NASDAQ,G,Y,N,,,ETF,USA
+TCPB,TCPB,Thrivent Core Plus Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TDCL,TDCL,GraniteShares 2x Long TDC Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+TDEC,TDEC,FT Vest Emerging Markets Buffer ETF - December,BATS, ,Y,N,,,ETF,USA
+TDOG,TDOG,21shares Dogecoin ETF,NASDAQ,G,Y,N,,,ETF,USA
+TDOT,TDOT,21shares Polkadot ETF,NASDAQ,G,Y,N,,,ETF,USA
+TDTF,TDTF,FlexShares iBoxx 5 Year Target Duration TIPS Index Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+TDTT,TDTT,FlexShares iBoxx 3 Year Target Duration TIPS Index Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+TECL,TECL,Direxion Daily Technology Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TECS,TECS,Direxion Technology Bear 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TECY,TECY,GraniteShares YieldBOOST Technology ETF,NASDAQ,G,Y,N,,,ETF,USA
+TELG,TELG,Leverage Shares 2X Long TEL Daily ETF,BATS, ,Y,N,,,ETF,USA
+TEMC,TEMC,Corgi TEM 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+TEMT,TEMT,Tradr 2X Long TEM Daily ETF,BATS, ,Y,N,,,ETF,USA
+TEND,TEND,iShares Large Cap 10% Target Buffer Dec ETF,BATS, ,Y,N,,,ETF,USA
+TENJ,TENJ,iShares Large Cap 10% Target Buffer Jun ETF,BATS, ,Y,N,,,ETF,USA
+TENM,TENM,iShares Large Cap 10% Target Buffer Mar ETF,BATS, ,Y,N,,,ETF,USA
+TERC,TERC,Corgi TER 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+TERG,TERG,Leverage Shares 2X Long TER Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+TESC,TESC,Corgi TSLA 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+TEST,TEST,YieldMax TSLA Performance & Distribution Target 25 ETF,BATS, ,Y,N,,,ETF,USA
+TETH,TETH,21Shares Ethereum ETF,BATS, ,Y,N,,,ETF,USA
+TEUP,TEUP,T-REX 2X Long TE Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+TEXU,TEXU,Direxion Daily Energy Top 5 Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TFFI,TFFI,Chesapeake Trend-Following Fixed Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TFI,TFI,State Street SPDR Nuveen ICE Municipal Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TFJL,TFJL,Innovator 20  Year Treasury Bond 5 Floor ETF - July,BATS, ,Y,N,,,ETF,USA
+TFLO,TFLO,iShares Treasury Floating Rate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+THYM,THYM,T. Rowe Price High Income Municipal ETF,NASDAQ,G,Y,N,,,ETF,USA
+THYP,THYP,21shares Hyperliquid ETF,NASDAQ,G,Y,N,,,ETF,USA
+TIP,TIP,iShares TIPS Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TIPX,TIPX,State Street SPDR Bloomberg 1a??10 Year TIPS ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TJAN,TJAN,Innovator Equity Defined Protection ETF - 2 Yr to January 2027,BATS, ,Y,N,,,ETF,USA
+TJUL,TJUL,Innovator Equity Defined Protection ETF - 2 Yr to July 2027,BATS, ,Y,N,,,ETF,USA
+TJUN,TJUN,FT Vest Emerging Markets Buffer ETF - June,BATS, ,Y,N,,,ETF,USA
+TKNS,TKNS,21Shares Active Crypto ETF,NASDAQ,G,Y,N,,,ETF,USA
+TKNZ,TKNZ,T. Rowe Price Active Crypto ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TLA,TLA,GraniteShares Autocallable TSLA ETF,NASDAQ,G,Y,N,,,ETF,USA
+TLDR,TLDR,The Laddered T-Bill ETF,BATS, ,Y,N,,,ETF,USA
+TLH,TLH,iShares 10-20 Year Treasury Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TLT,TLT,iShares 20+ Year Treasury Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+TLTI,TLTI,NEOS Enhanced Income 20+ Year Treasury Bond ETF,BATS, ,Y,N,,,ETF,USA
+TLTP,TLTP,Amplify TLT U.S. Treasury 12% Option Income ETF,BATS, ,Y,N,,,ETF,USA
+TLTW,TLTW,iShares 20+ Year Treasury Bond BuyWrite Strategy ETF,BATS, ,Y,N,,,ETF,USA
+TLTX,TLTX,Global X Treasury Bond Enhanced Income ETF,BATS, ,Y,N,,,ETF,USA
+TMAR,TMAR,FT Vest Emerging Markets Buffer ETF - March,BATS, ,Y,N,,,ETF,USA
+TMB,TMB,Thornburg Multi Sector Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+TMF,TMF,Direxion Daily 20-Yr Treasury Bull 3x Shrs,NYSE ARCA, ,Y,N,,,ETF,USA
+TMNL,TMNL,T. Rowe Price Long Municipal Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+TMNS,TMNS,T. Rowe Price Short Municipal Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+TMV,TMV,Direxion Daily 20-Year Treasury Bear 3X,NYSE ARCA, ,Y,N,,,ETF,USA
+TMYY,TMYY,GraniteShares YieldBOOST TSM ETF,NASDAQ,G,Y,N,,,ETF,USA
+TNA,TNA,Direxion Small Cap Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TOAK,TOAK,Manager Directed Portfolios Twin Oak Short Horizon Absolute Return ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TOCT,TOCT,Innovator Equity Defined Protection ETF - 2 Yr to October 2027,BATS, ,Y,N,,,ETF,USA
+TOPC,TOPC,iShares S&P 500 3% Capped ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TOXR,TOXR,21Shares XRP ETF,BATS, ,Y,N,,,ETF,USA
+TPFI,TPFI,Timothy Plan Fixed Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TPLS,TPLS,Thornburg Core Plus Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+TPLX,TPLX,Corgi TPL 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+TPOR,TPOR,Direxion Daily Transportation Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TQQY,TQQY,GraniteShares YieldBOOST QQQ ETF,NASDAQ,G,Y,N,,,ETF,USA
+TRIO,TRIO,MC Trio Equity Buffered ETF,BATS, ,Y,N,,,ETF,USA
+TROT,TROT,Invesco MSCI Treasury Duration Rotation ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TRPA,TRPA,Hartford AAA CLO ETF,BATS, ,Y,N,,,ETF,USA
+TRSY,TRSY,Xtrackers US 0-1 Year Treasury ETF,BATS, ,Y,N,,,ETF,USA
+TSDD,TSDD,GraniteShares 2x Short TSLA Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+TSEC,TSEC,Touchstone Securitized Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TSEG,TSEG,Leverage Shares 2X Long TSEM Daily ETF,BATS, ,Y,N,,,ETF,USA
+TSEP,TSEP,FT Vest Emerging Market Buffer ETF - September,BATS, ,Y,N,,,ETF,USA
+TSEU,TSEU,Tradr 2X Long TSEM Daily ETF,BATS, ,Y,N,,,ETF,USA
+TSL,TSL,GraniteShares 1.25x Long TSLA Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+TSLG,TSLG,Leverage Shares 2X Long TSLA Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+TSLI,TSLI,ProShares Ultra TSLA,NYSE ARCA, ,Y,N,,,ETF,USA
+TSLL,TSLL,Direxion Daily TSLA Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+TSLQ,TSLQ,Tradr 2X Short TSLA Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+TSLR,TSLR,GraniteShares 2x Long TSLA Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+TSLS,TSLS,Direxion Daily TSLA Bear 1X ETF,NASDAQ,G,Y,N,,,ETF,USA
+TSLT,TSLT,T-REX 2X Long Tesla Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+TSLY,TSLY,YieldMax TSLA Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TSLZ,TSLZ,T-Rex 2X Inverse Tesla Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+TSMG,TSMG,Leverage Shares 2X Long TSM Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+TSMU,TSMU,GraniteShares 2x Long TSM Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+TSMX,TSMX,Direxion Daily TSM Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+TSMY,TSMY,YieldMax TSM Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TSMZ,TSMZ,Direxion Daily TSM Bear 1X ETF,NASDAQ,G,Y,N,,,ETF,USA
+TSOL,TSOL,21Shares Solana ETF,BATS, ,Y,N,,,ETF,USA
+TSUI,TSUI,21Shares Sui ETF,NASDAQ,G,Y,N,,,ETF,USA
+TSXD,TSXD,Direxion Daily Semiconductors Top 5 Bear 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TSXU,TSXU,Direxion Daily Semiconductors Top 5 Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TSYW,TSYW,Roundhill Treasury Bond WeeklyPay ETF,BATS, ,Y,N,,,ETF,USA
+TSYY,TSYY,GraniteShares YieldBOOST TSLA ETF,NASDAQ,G,Y,N,,,ETF,USA
+TTDU,TTDU,T-REX 2X Long TTD Daily Target ETF,BATS, ,Y,N,,,ETF,USA
+TTMX,TTMX,Tradr 2X Long TTMI Daily ETF,BATS, ,Y,N,,,ETF,USA
+TTOP,TTOP,21Shares FTSE Crypto 10 Index ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TTT,TTT,ProShares UltraPro Short 20 Year Treasury,NYSE ARCA, ,Y,N,,,ETF,USA
+TTXD,TTXD,Direxion Daily Technology Top 5 Bear 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TTXU,TTXU,Direxion Daily Technology Top 5 Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TUA,TUA,Simplify Short Term Treasury Futures Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TUSB,TUSB,Thrivent Ultra Short Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TUSI,TUSI,Touchstone Ultra Short Income ETF,BATS, ,Y,N,,,ETF,USA
+TWM,TWM,ProShares UltraShort Russell2000,NYSE ARCA, ,Y,N,,,ETF,USA
+TWSC,TWSC,Corgi TSM 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+TXBC,TXBC,21Shares FTSE Crypto 10 ex-BTC Index ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TXNU,TXNU,Direxion Daily TXN Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TXXD,TXXD,21Shares 2x Long Dogecoin ETF,NASDAQ,G,Y,N,,,ETF,USA
+TXXH,TXXH,21Shares 2x Long HYPE ETF,NASDAQ,G,Y,N,,,ETF,USA
+TXXS,TXXS,21Shares 2x Long Sui ETF,NASDAQ,G,Y,N,,,ETF,USA
+TYA,TYA,Simplify Intermediate Term Treasury Futures Strategy ETF,BATS, ,Y,N,,,ETF,USA
+TYD,TYD,Direxion Daily 10-Yr Treasury Bull 3x Shrs,NYSE ARCA, ,Y,N,,,ETF,USA
+TYLG,TYLG,Global X Information Technology Covered Call & Growth ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+TYO,TYO,Direxion Daily 10-Yr Treasury Bear 3x Shrs,NYSE ARCA, ,Y,N,,,ETF,USA
+TZA,TZA,Direxion Small Cap Bear 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+UAPR,UAPR,Innovator U.S. Equity Ultra Buffer ETF - April,BATS, ,Y,N,,,ETF,USA
+UAUG,UAUG,Innovator U.S. Equity Ultra Buffer ETF - August,BATS, ,Y,N,,,ETF,USA
+UBND,UBND,VictoryShares Core Plus Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+UBOT,UBOT,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF",NYSE ARCA, ,Y,N,,,ETF,USA
+UBR,UBR,ProShares Ultra MSCI Brazil Capped,NYSE ARCA, ,Y,N,,,ETF,USA
+UBRL,UBRL,GraniteShares 2x Long UBER Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+UBT,UBT,ProShares Ultra 20+ Year Treasury,NYSE ARCA, ,Y,N,,,ETF,USA
+UCC,UCC,ProShares Ultra Consumer Discretionary,NYSE ARCA, ,Y,N,,,ETF,USA
+UCO,UCO,ProShares Ultra Bloomberg Crude Oil,NYSE ARCA, ,Y,N,,,ETF,USA
+UCON,UCON,First Trust Smith Unconstrained Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+UCOP,UCOP,ProShares Ultra Copper K-1 Free ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+UCRD,UCRD,VictoryShares Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+UCTX,UCTX,Corgi UCTT 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+UCYB,UCYB,ProShares Ultra Nasdaq Cybersecurity,NASDAQ,G,Y,N,,,ETF,USA
+UDEC,UDEC,Innovator U.S. Equity Ultra Buffer ETF - December,BATS, ,Y,N,,,ETF,USA
+UECG,UECG,Leverage Shares 2x Long UEC Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+UFEB,UFEB,Innovator U.S. Equity Ultra Buffer ETF - February,BATS, ,Y,N,,,ETF,USA
+UFIV,UFIV,US Treasury 5 Year Note ETF,NASDAQ,G,Y,N,,,ETF,USA
+UGE,UGE,ProShares Ultra Consumer Staples,NYSE ARCA, ,Y,N,,,ETF,USA
+UGL,UGL,ProShares Ultra Gold,NYSE ARCA, ,Y,N,,,ETF,USA
+UGLD,UGLD,Direxion Daily Gold Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+UITB,UITB,VictoryShares Core Intermediate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+UJAN,UJAN,Innovator U.S. Equity Ultra Buffer ETF - January,BATS, ,Y,N,,,ETF,USA
+UJB,UJB,ProShares Ultra High Yield ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+UJUL,UJUL,Innovator U.S. Equity Ultra Buffer ETF - July,BATS, ,Y,N,,,ETF,USA
+UJUN,UJUN,Innovator U.S. Equity Ultra Buffer ETF - June,BATS, ,Y,N,,,ETF,USA
+ULE,ULE,ProShares Ultra Euro,NYSE ARCA, ,Y,N,,,ETF,USA
+ULST,ULST,State Street Ultra Short Term Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ULTY,ULTY,YieldMax Ultra Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+UMAL,UMAL,Defiance Daily Target 2X Long UMAC ETF,BATS, ,Y,N,,,ETF,USA
+UMAR,UMAR,Innovator U.S. Equity Ultra Buffer ETF - March,BATS, ,Y,N,,,ETF,USA
+UMAY,UMAY,Innovator U.S. Equity Ultra Buffer ETF - May,BATS, ,Y,N,,,ETF,USA
+UMCX,UMCX,Corgi UMC 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+UN,UN,Corgi UNH 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+UNHG,UNHG,Leverage Shares 2X Long UNH Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+UNHU,UNHU,Direxion Daily UNH Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+UNIY,UNIY,WisdomTree Voya Yield Enhanced USD Universal Bond Fund,NASDAQ,G,Y,N,,,ETF,USA
+UNL,UNL,United States 12 Month Natural Gas Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+UNOV,UNOV,Innovator U.S. Equity Ultra Buffer ETF - November,BATS, ,Y,N,,,ETF,USA
+UNX,UNX,Tradr 2X Long U Daily ETF,BATS, ,Y,N,,,ETF,USA
+UOCT,UOCT,Innovator U.S. Equity Ultra Buffer ETF - October,BATS, ,Y,N,,,ETF,USA
+UPAL,UPAL,ProShares Ultra Palladium K-1 Free ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+UPAR,UPAR,UPAR Ultra Risk Parity ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+UPLT,UPLT,ProShares Ultra Platinum K-1 Free ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+UPSC,UPSC,Corgi UPST 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+UPSG,UPSG,Leverage Shares 2X Long UPS Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+UPSX,UPSX,Tradr 2X Long UPST Daily ETF,BATS, ,Y,N,,,ETF,USA
+UPV,UPV,ProShares Ultra FTSE Europe,NYSE ARCA, ,Y,N,,,ETF,USA
+UPW,UPW,ProShares Ultra Utilities,NYSE ARCA, ,Y,N,,,ETF,USA
+URAA,URAA,Direxion Daily Uranium Industry Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+URE,URE,ProShares Ultra Real Estate,NYSE ARCA, ,Y,N,,,ETF,USA
+URSP,URSP,ProShares Ultra S&P 500 Equal Weight,NYSE ARCA, ,Y,N,,,ETF,USA
+USAX,USAX,Tradr 2X Long USAR Daily ETF,BATS, ,Y,N,,,ETF,USA
+USD,USD,ProShares Ultra Semiconductors,NYSE ARCA, ,Y,N,,,ETF,USA
+USEP,USEP,Innovator U.S. Equity Ultra Buffer ETF - September,BATS, ,Y,N,,,ETF,USA
+USFI,USFI,BrandywineGLOBAL - U.S. Fixed Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+USFR,USFR,WisdomTree Floating Rate Treasury Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+USGG,USGG,Leverage Shares 2X Long USAR Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+USHY,USHY,iShares Broad USD High Yield Corporate Bond ETF,BATS, ,Y,N,,,ETF,USA
+USIG,USIG,iShares Broad USD Investment Grade Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+USIN,USIN,WisdomTree 7-10 Year Laddered Treasury Fund,NASDAQ,G,Y,N,,,ETF,USA
+USL,USL,United States 12 Month Oil,NYSE ARCA, ,Y,N,,,ETF,USA
+USLV,USLV,Direxion Daily Silver Bull 2X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+USML,USML,ETRACS 2x Leveraged MSCI US Minimum Volatility Factor TR ETN,NYSE ARCA, ,Y,N,,,ETF,USA
+USOI,USOI,"ETRACS Crude Oil Shares Covered Call ETNs due April 24, 2037",NASDAQ,G,Y,N,,,ETF,USA
+USSH,USSH,WisdomTree 1-3 Year Laddered Treasury Fund,NASDAQ,G,Y,N,,,ETF,USA
+UST,UST,ProShares Ultra 7-10 Year Treasury,NYSE ARCA, ,Y,N,,,ETF,USA
+USTB,USTB,VictoryShares Short-Term Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+USVN,USVN,US Treasury 7 Year Note ETF,NASDAQ,G,Y,N,,,ETF,USA
+USX,USX,Corgi Total U.S. Market 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+UTEN,UTEN,US Treasury 10 Year Note ETF,NASDAQ,G,Y,N,,,ETF,USA
+UTHY,UTHY,US Treasury 30 Year Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+UTRE,UTRE,US Treasury 3 Year Note ETF,NASDAQ,G,Y,N,,,ETF,USA
+UTSL,UTSL,Direxion Daily Utilities Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+UTWO,UTWO,US Treasury 2 Year Note ETF,NASDAQ,G,Y,N,,,ETF,USA
+UTWY,UTWY,US Treasury 20 Year Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+UUPP,UUPP,Principal CLO ETF,BATS, ,Y,N,,,ETF,USA
+UUUC,UUUC,Corgi UUUU 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+UUUG,UUUG,Leverage Shares 2X Long UUUU Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+UVIX,UVIX,2x Long VIX Futures ETF,BATS, ,Y,N,,,ETF,USA
+UVXY,UVXY,ProShares Ultra VIX Short Term Futures ETF,BATS, ,Y,N,,,ETF,USA
+UWM,UWM,ProShares Ultra Russell2000,NYSE ARCA, ,Y,N,,,ETF,USA
+UXI,UXI,ProShares Ultra Industrials,NYSE ARCA, ,Y,N,,,ETF,USA
+UXRP,UXRP,ProShares Ultra XRP ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+UYG,UYG,ProShares Ultra Financials,NYSE ARCA, ,Y,N,,,ETF,USA
+UYLD,UYLD,Angel Oak UltraShort Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+UYM,UYM,ProShares Ultra Materials,NYSE ARCA, ,Y,N,,,ETF,USA
+VAIE,VAIE,VegaShares US Equity Autocallable Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+VALG,VALG,Leverage Shares 2X Long VALE Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+VBCA,VBCA,Vanguard Target Maturity 2027 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+VBCB,VBCB,Vanguard Target Maturity 2028 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+VBCC,VBCC,Vanguard Target Maturity 2029 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+VBCD,VBCD,Vanguard Target Maturity 2030 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+VBCE,VBCE,Vanguard Target Maturity 2031 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+VBCF,VBCF,Vanguard Target Maturity 2032 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+VBCG,VBCG,Vanguard Target Maturity 2033 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+VBCH,VBCH,Vanguard Target Maturity 2034 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+VBCI,VBCI,Vanguard Target Maturity 2035 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+VBCJ,VBCJ,Vanguard Target Maturity 2036 Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+VBIL,VBIL,Vanguard 0-3 Month Treasury Bill ETF,NASDAQ,G,Y,N,,,ETF,USA
+VBND,VBND,Vident U.S. Bond Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+VBX,VBX,Corgi U.S. Small-Cap 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+VCEB,VCEB,Vanguard ESG U.S. Corporate Bond ETF,BATS, ,Y,N,,,ETF,USA
+VCHY,VCHY,Vanguard U.S. High-Yield Corporate Bond Index ETF,BATS, ,Y,N,,,ETF,USA
+VCIT,VCIT,Vanguard Intermediate-Term Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+VCLT,VCLT,Vanguard Long-Term Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+VCOB,VCOB,Voya Core Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+VCRB,VCRB,Vanguard Core Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+VCRM,VCRM,Vanguard Core Tax-Exempt Bond ETF,BATS, ,Y,N,,,ETF,USA
+VCSH,VCSH,Vanguard Short-Term Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+VEGA,VEGA,AdvisorShares STAR Global Buy-Write ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+VELL,VELL,Defiance Daily Target 2X Long VELO ETF,BATS, ,Y,N,,,ETF,USA
+VEMY,VEMY,Virtus Stone Harbor Emerging Markets High Yield Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+VERS,VERS,ProShares Metaverse ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+VETZ,VETZ,Academy Veteran Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+VGIT,VGIT,Vanguard Intermediate-Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+VGLT,VGLT,Vanguard Long-Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+VGMS,VGMS,Vanguard Multi-Sector Income Bond ETF,BATS, ,Y,N,,,ETF,USA
+VGSH,VGSH,Vanguard Short-Term Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+VGUS,VGUS,Vanguard Ultra-Short Treasury ETF,NASDAQ,G,Y,N,,,ETF,USA
+VIAG,VIAG,Leverage Shares 2X Long VIAV Daily ETF,BATS, ,Y,N,,,ETF,USA
+VIXY,VIXY,VIX Short-Term Futures ETF,BATS, ,Y,N,,,ETF,USA
+VMBS,VMBS,Vanguard Mortgage-Backed Securities ETF,NASDAQ,G,Y,N,,,ETF,USA
+VNLA,VNLA,Janus Henderson Short Duration Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+VOOX,VOOX,Corgi U.S. Large-Cap 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+VPLS,VPLS,Vanguard Core Plus Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+VRC,VRC,Corgi VRT 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+VRTL,VRTL,GraniteShares 2x Long VRT Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+VSDB,VSDB,Vanguard Short Duration Bond ETF,BATS, ,Y,N,,,ETF,USA
+VSDM,VSDM,Vanguard Short Duration Tax-Exempt Bond ETF,BATS, ,Y,N,,,ETF,USA
+VSHY,VSHY,Virtus Newfleet Short Duration High Yield Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+VSOL,VSOL,VanEck Solana ETF,NASDAQ,G,Y,N,,,ETF,USA
+VSTL,VSTL,Defiance Daily Target 2X Long VST ETF,NASDAQ,G,Y,N,,,ETF,USA
+VTC,VTC,Vanguard Total Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+VTEB,VTEB,Vanguard Tax-Exempt Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+VTEC,VTEC,Vanguard California Tax-Exempt Bond ETF,BATS, ,Y,N,,,ETF,USA
+VTEI,VTEI,Vanguard Tax-Managed Funds Vanguard Intermediate-Term Tax-Exempt Bond ETF,BATS, ,Y,N,,,ETF,USA
+VTEL,VTEL,Vanguard Long-Term Tax-Exempt Bond ETF,BATS, ,Y,N,,,ETF,USA
+VTES,VTES,Vanguard Wellington Fund Vanguard Short-Term Tax Exempt Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+VTG,VTG,Vanguard Total Treasury ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+VTIP,VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares,NASDAQ,G,Y,N,,,ETF,USA
+VUSB,VUSB,Vanguard Ultra-Short Bond ETF,BATS, ,Y,N,,,ETF,USA
+VUSI,VUSI,Voya Ultra Short Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+VWOB,VWOB,Vanguard Emerging Markets Government Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+VYLD,VYLD,"Inverse VIX Short-Term Futures ETNs due March 22, 2045",NYSE ARCA, ,Y,N,,,ETF,USA
+WABF,WABF,Western Asset Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+WANT,WANT,Direxion Daily Consumer Discretionary Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+WCPB,WCPB,Weitz Core Plus Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+WDCC,WDCC,Corgi WDC 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+WDCX,WDCX,Tradr 2X Long WDC Daily ETF,BATS, ,Y,N,,,ETF,USA
+WDE,WDE,Principal Securitized Debt ETF,BATS, ,Y,N,,,ETF,USA
+WDTE,WDTE,Defiance S&P 500 Weekly Distribution ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+WEBL,WEBL,Direxion Daily Dow Jones Internet Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+WEBS,WEBS,Direxion Daily Dow Jones Internet Bear 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+WEBX,WEBX,Corgi Chinese Internet 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+WEED,WEED,Roundhill Cannabis ETF,BATS, ,Y,N,,,ETF,USA
+WEEK,WEEK,Roundhill Weekly T-Bill ETF,BATS, ,Y,N,,,ETF,USA
+WEEL,WEEL,Peerless Option Income Wheel ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+WGMI,WGMI,CoinShares Bitcoin Mining ETF,NASDAQ,G,Y,N,,,ETF,USA
+WIP,WIP,State Street SPDR FTSE International Government Inflation-Protected Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+WLDU,WLDU,Leverage Shares 2x Long World Stock Daily ETF,BATS, ,Y,N,,,ETF,USA
+WMSB,WMSB,Weitz Multisector Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+WNTR,WNTR,YieldMax MSTR Short Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+WSDB,WSDB,Weitz Short Duration Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+WTIB,WTIB,USCF Oil Plus Bitcoin Strategy Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+WTID,WTID,MicroSectors Energy 3X Inverse Leveraged ETNs,NYSE ARCA, ,Y,N,,,ETF,USA
+WTIU,WTIU,MicroSectors Energy 3X Leveraged ETNs,NYSE ARCA, ,Y,N,,,ETF,USA
+WTLS,WTLS,WisdomTree Efficient Long/Short U.S. Equity Fund,BATS, ,Y,N,,,ETF,USA
+WTMU,WTMU,WisdomTree Core Laddered Municipal Fund,NASDAQ,G,Y,N,,,ETF,USA
+WTMY,WTMY,WisdomTree High Income Laddered Municipal Fund,NASDAQ,G,Y,N,,,ETF,USA
+WULX,WULX,Tradr 2X Long WULF Daily ETF,BATS, ,Y,N,,,ETF,USA
+WX,WX,Corgi All World 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+WXET,WXET,Teucrium 2x Daily Wheat ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+WYFL,WYFL,Defiance Daily Target 2X Long WYFI ETF,BATS, ,Y,N,,,ETF,USA
+XAGI,XAGI,Corgi AGIX 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XAPR,XAPR,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - April,BATS, ,Y,N,,,ETF,USA
+XAUG,XAUG,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - August,BATS, ,Y,N,,,ETF,USA
+XB,XB,BondBloxx B-Rated USD High Yield Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+XBAP,XBAP,Innovator U.S. Equity Accelerated 9 Buffer ETF - April,BATS, ,Y,N,,,ETF,USA
+XBB,XBB,BondBloxx BB-Rated USD High Yield Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+XBCI,XBCI,NEOS Boosted Bitcoin High Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+XBFR,XBFR,Innovator Equity Managed 10 Buffer ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+XBIL,XBIL,US Treasury 6 Month Bill ETF,NASDAQ,G,Y,N,,,ETF,USA
+XBIX,XBIX,Corgi U.S. Biotech 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XBJA,XBJA,Innovator U.S. Equity Accelerated 9 Buffer ETF - January,BATS, ,Y,N,,,ETF,USA
+XBJL,XBJL,Innovator U.S. Equity Accelerated 9 Buffer ETF - July,BATS, ,Y,N,,,ETF,USA
+XBNB,XBNB,Teucrium xETFs 2x Long Daily BNB ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+XBOC,XBOC,Innovator U.S. Equity Accelerated 9 Buffer ETF - October,BATS, ,Y,N,,,ETF,USA
+XBOX,XBOX,Roundhill Ultra Short Duration No Dividend Target ETF,BATS, ,Y,N,,,ETF,USA
+XBTY,XBTY,GraniteShares YieldBOOST Bitcoin ETF,NASDAQ,G,Y,N,,,ETF,USA
+XCCC,XCCC,BondBloxx CCC-Rated USD High Yield Corporate Bond ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+XCOM,XCOM,Corgi All Commodities 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XDEC,XDEC,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - December,BATS, ,Y,N,,,ETF,USA
+XDTE,XDTE,Roundhill S&P 500 0DTE Covered Call Strategy ETF,BATS, ,Y,N,,,ETF,USA
+XEMD,XEMD,BondBloxx JP Morgan USD Emerging Markets 1-10 Year Bond ETF,BATS, ,Y,N,,,ETF,USA
+XEUR,XEUR,Corgi Europe Equities 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XEY,XEY,GraniteShares YieldBOOST Ether ETF,NASDAQ,G,Y,N,,,ETF,USA
+XFEB,XFEB,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - February,BATS, ,Y,N,,,ETF,USA
+XFIV,XFIV,BondBloxx Bloomberg Five Year Target Duration US Treasury ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+XHLF,XHLF,BondBloxx Bloomberg Six Month Target Duration US Treasury ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+XHOA,XHOA,Corgi U.S. Real Estate 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XIDE,XIDE,FT Vest U.S. Equity Buffer & Premium Income  ETF - December,BATS, ,Y,N,,,ETF,USA
+XIJN,XIJN,FT Vest U.S. Equity Buffer & Premium Income ETF - June,BATS, ,Y,N,,,ETF,USA
+XIMR,XIMR,FT Vest U.S. Equity Buffer & Premium Income ETF - March,BATS, ,Y,N,,,ETF,USA
+XISE,XISE,FT Vest U.S. Equity Buffer & Premium Income ETF - September,BATS, ,Y,N,,,ETF,USA
+XIWC,XIWC,Corgi U.S. Micro-Cap 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XJAN,XJAN,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - January,BATS, ,Y,N,,,ETF,USA
+XJUL,XJUL,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - July,BATS, ,Y,N,,,ETF,USA
+XJUN,XJUN,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - June,BATS, ,Y,N,,,ETF,USA
+XKRE,XKRE,Corgi U.S. Regional Banks 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XLBX,XLBX,Corgi U.S. Materials 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XLEX,XLEX,Corgi U.S. Energy 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XLFX,XLFX,Corgi U.S. Financials 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XLIX,XLIX,Corgi U.S. Industrials 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XLKX,XLKX,Corgi U.S. Technology 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XLPX,XLPX,Corgi U.S. Consumer Staples 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XLUX,XLUX,Corgi U.S. Utilities 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XLVX,XLVX,Corgi U.S. Healthcare 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XLYX,XLYX,Corgi U.S. Consumer Discretionary 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XMAR,XMAR,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - March,BATS, ,Y,N,,,ETF,USA
+XMAY,XMAY,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - May,BATS, ,Y,N,,,ETF,USA
+XMPT,XMPT,VanEck CEF Muni Income ETF,BATS, ,Y,N,,,ETF,USA
+XNDX,XNDX,Tradr 2X Long XNDU Daily ETF,BATS, ,Y,N,,,ETF,USA
+XNOV,XNOV,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - November,BATS, ,Y,N,,,ETF,USA
+XOCT,XOCT,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - October,BATS, ,Y,N,,,ETF,USA
+XOMO,XOMO,YieldMax XOM Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+XOMX,XOMX,Direxion Daily XOM Bull 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+XONE,XONE,BondBloxx Bloomberg One Year Target Duration US Treasury ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+XOVL,XOVL,Defiance Daily Target 2X Long XOVR ETF,BATS, ,Y,N,,,ETF,USA
+XPAV,XPAV,Corgi U.S. Infrastructure 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XPEG,XPEG,Leverage Shares 2X Long XPEV Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+XPP,XPP,ProShares Ultra FTSE China 50,NYSE ARCA, ,Y,N,,,ETF,USA
+XQTM,XQTM,Corgi Quantum Computing 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XRPM,XRPM,Amplify XRP 3% Monthly Option Income ETF,BATS, ,Y,N,,,ETF,USA
+XRPT,XRPT,Volatility Shares Trust XRP 2X ETF,NASDAQ,G,Y,N,,,ETF,USA
+XSEM,XSEM,Corgi U.S. Semiconductors 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XSEP,XSEP,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - September,BATS, ,Y,N,,,ETF,USA
+XSVN,XSVN,BondBloxx Bloomberg Seven Year Target Duration US Treasury ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+XTAI,XTAI,Corgi Taiwan 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XTEN,XTEN,BondBloxx Bloomberg Ten Year Target Duration US Treasury ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+XTRE,XTRE,BondBloxx Bloomberg Three Year Target Duration US Treasury ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+XTWO,XTWO,BondBloxx Bloomberg Two Year Target Duration US Treasury ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+XTWY,XTWY,BondBloxx Bloomberg Twenty Year Target Duration US Treasury ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+XVO,XVO,Corgi U.S. Mid-Cap 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XVUG,XVUG,Corgi U.S. Growth 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XW,XW,Corgi Ex-U.S. Equities 2x Daily ETF,BATS, ,Y,N,,,ETF,USA
+XXRP,XXRP,Teucrium 2x Long Daily XRP ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+XYLD,XYLD,Global X S&P 500 Covered Call ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+XYLG,XYLG,Global X S&P 500 Covered Call & Growth ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+XYZG,XYZG,Leverage Shares 2X Long XYZ Daily ETF,NASDAQ,G,Y,N,,,ETF,USA
+XYZY,XYZY,YieldMax XYZ Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+YANG,YANG,Direxion Daily FTSE China Bear 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+YBIT,YBIT,YieldMax Bitcoin Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+YBMN,YBMN,Defiance BMNR Option Income ETF,NASDAQ,G,Y,N,,,ETF,USA
+YBST,YBST,GraniteShares YieldBoost Single Stock Universe ETF,NASDAQ,G,Y,N,,,ETF,USA
+YBTC,YBTC,Roundhill Bitcoin Covered Call Strategy ETF,BATS, ,Y,N,,,ETF,USA
+YBTY,YBTY,GraniteShares YieldBoost TopYielders ETF,NASDAQ,G,Y,N,,,ETF,USA
+YCL,YCL,ProShares Ultra Yen,NYSE ARCA, ,Y,N,,,ETF,USA
+YCLO,YCLO,Franklin BSP CLO ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+YCS,YCS,ProShares UltraShort Yen New,NYSE ARCA, ,Y,N,,,ETF,USA
+YDEC,YDEC,FT Vest International Equity Moderate Buffer ETF - December,BATS, ,Y,N,,,ETF,USA
+YEAR,YEAR,AB Ultra Short Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+YETH,YETH,Roundhill Ether Covered Call Strategy ETF,BATS, ,Y,N,,,ETF,USA
+YFFI,YFFI,Indexperts Yield Focused Fixed Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+YINN,YINN,Direxion Daily FTSE China Bull 3X ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+YJUN,YJUN,FT Vest International Equity Moderate Buffer ETF - June,BATS, ,Y,N,,,ETF,USA
+YMAG,YMAG,YieldMax Magnificent 7 Fund of Option Income ETFs,NYSE ARCA, ,Y,N,,,ETF,USA
+YMAR,YMAR,FT Vest International Equity Moderate Buffer ETF - March,BATS, ,Y,N,,,ETF,USA
+YMAX,YMAX,YieldMax Universe Fund of Option Income ETFs,NYSE ARCA, ,Y,N,,,ETF,USA
+YOLO,YOLO,AdvisorShares Pure Cannabis ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+YQQQ,YQQQ,YieldMax Short N100 Option Income Strategy ETF,NASDAQ,G,Y,N,,,ETF,USA
+YSEP,YSEP,FT Vest International Equity Buffer ETF - September,BATS, ,Y,N,,,ETF,USA
+YSPC,YSPC,YieldMax SPCX Option Income Strategy ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+YSPY,YSPY,GraniteShares YieldBOOST SPY ETF,NASDAQ,G,Y,N,,,ETF,USA
+YXI,YXI,ProShares Short FTSE China 50,NYSE ARCA, ,Y,N,,,ETF,USA
+YYYM,YYYM,Amplify Municipal CEF High Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ZALT,ZALT,Innovator U.S. Equity 10 Buffer ETF - Quarterly,BATS, ,Y,N,,,ETF,USA
+ZAPR,ZAPR,Innovator Equity Defined Protection ETF - 1 Yr April,BATS, ,Y,N,,,ETF,USA
+ZAUG,ZAUG,Innovator Equity Defined Protection ETF - 1 Yr August,BATS, ,Y,N,,,ETF,USA
+ZCBA,ZCBA,Global X Zero Coupon Bond 2030 ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ZCBB,ZCBB,Global X Zero Coupon Bond 2031 ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ZCBC,ZCBC,Global X Zero Coupon Bond 2032 ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ZCBE,ZCBE,Global X Zero Coupon Bond 2033 ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ZCBF,ZCBF,Global X Zero Coupon Bond 2034 ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ZCBG,ZCBG,Global X Zero Coupon Bond 2035 ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ZDEK,ZDEK,Innovator Equity Defined Protection ETF - 1 Yr December,BATS, ,Y,N,,,ETF,USA
+ZETX,ZETX,Defiance Daily Target 2x Long ZETA ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ZFEB,ZFEB,Innovator Equity Defined Protection ETF - 1 Yr February,BATS, ,Y,N,,,ETF,USA
+ZJAN,ZJAN,Innovator Equity Defined Protection ETF - 1 Yr January,BATS, ,Y,N,,,ETF,USA
+ZJUL,ZJUL,Innovator Equity Defined Protection ETF - 1 Yr July,BATS, ,Y,N,,,ETF,USA
+ZJUN,ZJUN,Innovator Equity Defined Protection ETF - 1 Yr June,BATS, ,Y,N,,,ETF,USA
+ZMAR,ZMAR,Innovator Equity Defined Protection ETF - 1 Yr March,BATS, ,Y,N,,,ETF,USA
+ZMAY,ZMAY,Innovator Equity Defined Protection ETF - 1 Yr May,BATS, ,Y,N,,,ETF,USA
+ZMUN,ZMUN,F/m Ultrashort Tax-Free Municipal ETF,NASDAQ,G,Y,N,,,ETF,USA
+ZNOV,ZNOV,Innovator Equity Defined Protection ETF - 1 Yr November,BATS, ,Y,N,,,ETF,USA
+ZOCT,ZOCT,Innovator Equity Defined Protection ETF - 1 Yr October,BATS, ,Y,N,,,ETF,USA
+ZROZ,ZROZ,PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund,NYSE ARCA, ,Y,N,,,ETF,USA
+ZSEP,ZSEP,Innovator Equity Defined Protection ETF - 1 Yr September,BATS, ,Y,N,,,ETF,USA
+ZSL,ZSL,ProShares UltraShort Silver,NYSE ARCA, ,Y,N,,,ETF,USA
+ZTAX,ZTAX,X-Square Municipal Income ETF,NYSE ARCA, ,Y,N,,,ETF,USA
+ZTEN,ZTEN,F/m 10-Year Investment Grade Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+ZTRE,ZTRE,F/m 3-Year Investment Grade Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA
+ZTWO,ZTWO,F/m 2-Year Investment Grade Corporate Bond ETF,NASDAQ,G,Y,N,,,ETF,USA

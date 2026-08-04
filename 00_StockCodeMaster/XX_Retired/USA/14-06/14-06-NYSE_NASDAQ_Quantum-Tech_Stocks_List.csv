@@ -1,0 +1,16 @@
+Ticker,Symbol,Security Name,Listing Exchange,Market Category,ETF, MarketCap ,TrailingPE,ForwardPE,Sector,Industry
+QNT,QNT,Quantinuum Inc. - Class A Common Stock,Q,G,N,"14,42,12,42,927",,,Technology,EDP Services
+QBTS,QBTS,D-Wave Quantum Inc. Common Shares,N, ,N,"8,57,06,57,735",,,Technology,EDP Services
+XNDU,XNDU,Xanadu Quantum Technologies Limited - Class B Subordinate Voting Shares,Q,G,N,"3,51,94,49,866",,,Technology,Computer Manufacturing
+QUBT,QUBT,Quantum Computing Inc. - Common Stock,Q,S,N,"2,23,95,62,421",,,Technology,Computer Software: Prepackaged Software
+QNC,QNC,Quantum eMotion Corp. Common Shares,A, ,N,"65,37,21,617",,,,
+HQ,HQ,Horizon Quantum Holdings Ltd. - Class A Ordinary Shares,Q,S,N,"56,27,17,442",,,Technology,EDP Services
+ARQQ,ARQQ,Arqit Quantum Inc. - Ordinary Shares,Q,S,N,"32,76,31,956",,,Technology,Computer Software: Prepackaged Software
+QSI,QSI,Quantum-Si Incorporated - Class A Common Stock,Q,G,N,"20,61,53,546",,,Industrials,Industrial Machinery/Components
+QTRX,QTRX,Quanterix Corporation - Common Stock,Q,G,N,"14,60,28,541",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+QTEX,QTEX,QTREX Quantum Ltd. - Ordinary Shares,Q,S,N,"6,34,02,253",,,Health Care,Medical/Dental Instruments
+QXL,QXL,Quantum X Labs Inc. - Common Stock,Q,S,N,"6,18,14,177",,,Technology,Computer Software: Prepackaged Software
+QUCY,QUCY,Quantum Cyber N.V. - Ordinary Shares,Q,S,N,"3,93,87,349",,,Health Care,Biotechnology: Pharmaceutical Preparations
+QNTM,QNTM,Quantum Biopharma Ltd. - Class B Subordinate Voting Shares,Q,S,N,"2,45,06,657",,,Health Care,Biotechnology: Pharmaceutical Preparations
+CHPX,CHPX,Global X AI Semiconductor & Quantum ETF,Q,G,Y,,,,,ETF
+QTUM,QTUM,Defiance Quantum ETF,Q,G,Y,,,,,ETF

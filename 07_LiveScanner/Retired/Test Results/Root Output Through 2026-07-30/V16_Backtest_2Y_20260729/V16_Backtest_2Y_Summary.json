@@ -1,0 +1,291 @@
+{
+  "engine": "V16",
+  "classification": "V16 binding BUY rules; vectorized historical replay",
+  "preset": "balanced",
+  "requested_history_period": "4y",
+  "measured_years": 2,
+  "holding_period_sessions": 5,
+  "analysis_start": "2024-07-29",
+  "first_signal_date": "2024-07-29",
+  "analysis_end": "2026-07-28",
+  "started_utc": "2026-07-28T21:59:51.944000+00:00",
+  "completed_utc": "2026-07-28T21:59:53.602879+00:00",
+  "elapsed_seconds": 1.66,
+  "universe": {
+    "requested_symbols": 5997,
+    "us_symbols": 3637,
+    "india_symbols": 2360,
+    "processed_symbols": 5549,
+    "symbols_with_buy_trades": 3852,
+    "coverage_status": {
+      "INSUFFICIENT_HISTORY": 447,
+      "NO_DATA": 1,
+      "PROCESSED": 5549
+    }
+  },
+  "performance": {
+    "total_trades": 24902,
+    "winning_trades": 11781,
+    "losing_trades": 13048,
+    "flat_trades": 73,
+    "win_rate_pct": 47.31,
+    "average_return_pct": -0.1418,
+    "median_return_pct": -0.3231,
+    "average_win_pct": 5.9436,
+    "average_loss_pct": -5.6371,
+    "profit_factor": 0.952,
+    "best_trade_pct": 188.4747,
+    "worst_trade_pct": -98.4838,
+    "p10_return_pct": -8.8315,
+    "p25_return_pct": -4.2067,
+    "p75_return_pct": 3.4117,
+    "p90_return_pct": 8.466,
+    "entry_cohort_max_drawdown_pct": -77.0965,
+    "winsorized_average_return_1_99_pct": -0.168,
+    "drawdown_note": "Equal-weight mean returns are compounded by entry date. This is a cohort diagnostic, not a capital-constrained portfolio backtest, because trades can overlap across symbols."
+  },
+  "signals_by_type": {
+    "Buy_Momentum_Extension": 19767,
+    "Buy_Early_Momentum": 5030,
+    "Buy_EMA20_Midrange_Recovery": 79,
+    "Buy_Pullback_Oversold_Recovery": 26
+  },
+  "trades_by_market": {
+    "US": 15805,
+    "INDIA": 9097
+  },
+  "performance_by_market": {
+    "INDIA": {
+      "trades": 9097,
+      "winning_trades": 3959,
+      "losing_trades": 5128,
+      "flat_trades": 10,
+      "win_rate_pct": 43.52,
+      "average_return_pct": -0.3246,
+      "median_return_pct": -0.8568,
+      "profit_factor": 0.8885
+    },
+    "US": {
+      "trades": 15805,
+      "winning_trades": 7822,
+      "losing_trades": 7920,
+      "flat_trades": 63,
+      "win_rate_pct": 49.49,
+      "average_return_pct": -0.0367,
+      "median_return_pct": -0.026,
+      "profit_factor": 0.9877
+    }
+  },
+  "performance_by_signal": {
+    "Buy_EMA20_Midrange_Recovery": {
+      "trades": 79,
+      "winning_trades": 38,
+      "losing_trades": 41,
+      "flat_trades": 0,
+      "win_rate_pct": 48.1,
+      "average_return_pct": 0.7868,
+      "median_return_pct": -0.0809,
+      "profit_factor": 1.4252
+    },
+    "Buy_Early_Momentum": {
+      "trades": 5030,
+      "winning_trades": 2395,
+      "losing_trades": 2625,
+      "flat_trades": 10,
+      "win_rate_pct": 47.61,
+      "average_return_pct": 0.0094,
+      "median_return_pct": -0.3236,
+      "profit_factor": 1.0033
+    },
+    "Buy_Momentum_Extension": {
+      "trades": 19767,
+      "winning_trades": 9339,
+      "losing_trades": 10365,
+      "flat_trades": 63,
+      "win_rate_pct": 47.25,
+      "average_return_pct": -0.183,
+      "median_return_pct": -0.3214,
+      "profit_factor": 0.9385
+    },
+    "Buy_Pullback_Oversold_Recovery": {
+      "trades": 26,
+      "winning_trades": 9,
+      "losing_trades": 17,
+      "flat_trades": 0,
+      "win_rate_pct": 34.62,
+      "average_return_pct": -0.9556,
+      "median_return_pct": -1.1186,
+      "profit_factor": 0.7136
+    }
+  },
+  "illustrative_cost_scenarios": {
+    "10_bps_round_trip": {
+      "average_net_return_pct": -0.2418,
+      "net_win_rate_pct": 46.56,
+      "net_profit_factor": 0.9196
+    },
+    "20_bps_round_trip": {
+      "average_net_return_pct": -0.3418,
+      "net_win_rate_pct": 45.8,
+      "net_profit_factor": 0.8883
+    },
+    "50_bps_round_trip": {
+      "average_net_return_pct": -0.6418,
+      "net_win_rate_pct": 43.47,
+      "net_profit_factor": 0.8011
+    }
+  },
+  "top_tickers_minimum_3_trades": [
+    {
+      "ticker": "RGC",
+      "trades": 6,
+      "average_return_pct": 32.8391,
+      "win_rate_pct": 50.0
+    },
+    {
+      "ticker": "ZEPP",
+      "trades": 5,
+      "average_return_pct": 29.0535,
+      "win_rate_pct": 80.0
+    },
+    {
+      "ticker": "ATLASCYCLE.NS",
+      "trades": 3,
+      "average_return_pct": 23.4715,
+      "win_rate_pct": 100.0
+    },
+    {
+      "ticker": "TRX",
+      "trades": 4,
+      "average_return_pct": 23.1995,
+      "win_rate_pct": 50.0
+    },
+    {
+      "ticker": "AHLWEST.NS",
+      "trades": 5,
+      "average_return_pct": 19.3555,
+      "win_rate_pct": 100.0
+    },
+    {
+      "ticker": "LASE",
+      "trades": 4,
+      "average_return_pct": 18.0012,
+      "win_rate_pct": 75.0
+    },
+    {
+      "ticker": "RGTI",
+      "trades": 14,
+      "average_return_pct": 17.3561,
+      "win_rate_pct": 64.29
+    },
+    {
+      "ticker": "SY",
+      "trades": 3,
+      "average_return_pct": 16.3203,
+      "win_rate_pct": 33.33
+    },
+    {
+      "ticker": "MTEN",
+      "trades": 3,
+      "average_return_pct": 15.293,
+      "win_rate_pct": 66.67
+    },
+    {
+      "ticker": "CNTX",
+      "trades": 4,
+      "average_return_pct": 14.2633,
+      "win_rate_pct": 75.0
+    },
+    {
+      "ticker": "KEEPLEARN.NS",
+      "trades": 3,
+      "average_return_pct": 14.2566,
+      "win_rate_pct": 100.0
+    },
+    {
+      "ticker": "QUBT",
+      "trades": 8,
+      "average_return_pct": 14.0655,
+      "win_rate_pct": 75.0
+    },
+    {
+      "ticker": "ELVN",
+      "trades": 3,
+      "average_return_pct": 12.5572,
+      "win_rate_pct": 100.0
+    },
+    {
+      "ticker": "WYY",
+      "trades": 3,
+      "average_return_pct": 12.3622,
+      "win_rate_pct": 33.33
+    },
+    {
+      "ticker": "REAL",
+      "trades": 10,
+      "average_return_pct": 12.2798,
+      "win_rate_pct": 80.0
+    },
+    {
+      "ticker": "SES",
+      "trades": 5,
+      "average_return_pct": 12.2117,
+      "win_rate_pct": 60.0
+    },
+    {
+      "ticker": "BLUECOAST.NS",
+      "trades": 11,
+      "average_return_pct": 11.9516,
+      "win_rate_pct": 81.82
+    },
+    {
+      "ticker": "RPEL.NS",
+      "trades": 3,
+      "average_return_pct": 11.2509,
+      "win_rate_pct": 66.67
+    },
+    {
+      "ticker": "FBRX",
+      "trades": 3,
+      "average_return_pct": 11.1069,
+      "win_rate_pct": 100.0
+    },
+    {
+      "ticker": "ROLLT.NS",
+      "trades": 3,
+      "average_return_pct": 10.5137,
+      "win_rate_pct": 66.67
+    }
+  ],
+  "audit": {
+    "status": "PASS",
+    "checks": {
+      "universe_rows_match": true,
+      "coverage_trade_total_matches": true,
+      "no_duplicate_ticker_signal_dates": true,
+      "no_same_ticker_trade_overlap": true,
+      "valid_signal_entry_exit_order": true,
+      "all_signals_within_measured_window": true,
+      "holding_period_matches": true,
+      "required_trade_fields_complete": true,
+      "return_recalculation_within_0_01_pct": true
+    },
+    "universe_rows": 5997,
+    "coverage_rows": 5997,
+    "coverage_trade_total": 24902,
+    "trade_rows": 24902,
+    "duplicate_ticker_signal_dates": 0,
+    "same_ticker_trade_overlaps": 0,
+    "invalid_signal_entry_exit_order": 0,
+    "signals_outside_measured_window": 0,
+    "holding_period_mismatches": 0,
+    "rows_missing_required_trade_fields": 0,
+    "maximum_return_recalculation_error_pct": 0.004539
+  },
+  "method_notes": [
+    "4y of daily OHLCV is requested so EMA200 and 50 completed weekly candles are warm before the two-year measured window.",
+    "Signals use only data available on each signal date; entry is the next session open and exit is the close after the configured holding period.",
+    "After a BUY, the same ticker cannot enter another trade before the prior trade's exit date, matching V16 production backtest behavior.",
+    "Yahoo adjusted OHLCV is the external data source; coverage.csv records missing and insufficient-history symbols."
+  ]
+}

@@ -1,0 +1,334 @@
+Ticker,Symbol,Security Name,Listing Exchange,Market Category,ETF,Test Issue,MarketCap,Sector,Industry,Asset Class,Strategy,Theme,Geography,Category Flags,Holding Count,Known Holding Weight %,Top Holdings,Weighted Sector Mix,Weighted Industry Mix,Holdings Classification Text,Holdings Classification Source
+GOLD1.NS,XNSE:GOLD1,KotakMutualFund-Gold,NSE,ETF,Y,N,,,ETF,Commodity,Plain,Precious Metals,India,Commodity; India; Plain; Precious Metals,0,0.0,,,,,Yahoo ETF Top Holdings
+SILVER.NS,XNSE:SILVER,BIRLASLAMC-SILVER,NSE,ETF,Y,N,,,ETF,Commodity,Plain,Precious Metals,India,Commodity; India; Plain; Precious Metals,0,0.0,,,,,Yahoo ETF Top Holdings
+ABSL10BANK.NS,XNSE:ABSL10BANK,BIRLASLAMC - ABSL10BANK,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking,India,Banking; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BANK10ADD.NS,XNSE:BANK10ADD,DSPAMC - BANK10ADD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking,India,Banking; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BANK10BETF.NS,XNSE:BANK10BETF,BFAM - BANK10BETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking,India,Banking; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BANKADD.NS,XNSE:BANKADD,DSPAMC-DSPBANK,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking,India,Banking; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BANKBEES.NS,XNSE:BANKBEES,NIPINDETFBANKBEES,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking,India,Banking; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BANKBETA.NS,XNSE:BANKBETA,UTIAMC-BANKBETA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking,India,Banking; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BANKBETF.NS,XNSE:BANKBETF,BFAM-BANKBETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking,India,Banking; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BANKETF.NS,XNSE:BANKETF,MIRAEAMC-BANKETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking,India,Banking; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BANKIETF.NS,XNSE:BANKIETF,ICICIPRAMC-IPRU5008,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking,India,Banking; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BANKPSU.NS,XNSE:BANKPSU,MIRAEAMC - BANKPSU,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking,India,Banking; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOBANK10.NS,XNSE:MOBANK10,MOTILALAMC - MOBANK10,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking,India,Banking; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+PSUBANKADD.NS,XNSE:PSUBANKADD,DSPAMC-DSPPSBKETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking,India,Banking; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+PSUBNKBEES.NS,XNSE:PSUBNKBEES,NIPINDETFPSUBANKBEES,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking,India,Banking; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+PSUBNKIETF.NS,XNSE:PSUBNKIETF,ICICIPRAMC-PSUBANKICI,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking,India,Banking; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+PVTBANIETF.NS,XNSE:PVTBANIETF,ICICIPRAMC-ICICIBANKP,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking,India,Banking; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+PVTBANK.NS,XNSE:PVTBANK,KOTAKMAMC - PVTBANK,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking,India,Banking; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+PVTBANKADD.NS,XNSE:PVTBANKADD,DSPAMC-DSPPVBKETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking,India,Banking; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BANKNIFTY1.NS,XNSE:BANKNIFTY1,KOTAKMAMC-KOTAKBKETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking; Broad Market & Core Indices,India,Banking; Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+EBANKNIFTY.NS,XNSE:EBANKNIFTY,EDELAMC - EBANKNIFTY,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking; Broad Market & Core Indices,India,Banking; Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SETFNIFBK.NS,XNSE:SETFNIFBK,SBI-ETFNiftyBank,NSE,ETF,Y,N,,,ETF,Equity,Plain,Banking; Broad Market & Core Indices,India,Banking; Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ABGSEC.NS,XNSE:ABGSEC,BIRLASLAMC - ABGSEC,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ABSLBANETF.NS,XNSE:ABSLBANETF,BIRLASLAMC-ABSLBANETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ABSLLIQUID.NS,XNSE:ABSLLIQUID,BIRLASLAMC-ABSLLIQUID,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ABSLNN50ET.NS,XNSE:ABSLNN50ET,BIRLASLAMC-ABSLNN50ET,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ABSLPSE.NS,XNSE:ABSLPSE,BIRLASLAMC-ABSLPSE,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ALPHA.NS,XNSE:ALPHA,KOTAKMAMC-KOTAKALPHA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ALPHAETF.NS,XNSE:ALPHAETF,MIRAEAMC-ALPHAETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ALPL30IETF.NS,XNSE:ALPL30IETF,ICICIPRAMC-ICICIALPLV,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+AONEGOLD.NS,XNSE:AONEGOLD,AONEAMC - AONEGOLD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+AONELIQUID.NS,XNSE:AONELIQUID,AONEAMC - AONELIQUID,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+AONESILVER.NS,XNSE:AONESILVER,AONEAMC - AONESILVER,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+AONETMMQ50.NS,XNSE:AONETMMQ50,AONEAMC - AONETMMQ50,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+AONETOTAL.NS,XNSE:AONETOTAL,AONEAMC - AONETOTAL,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+AUTOBEES.NS,XNSE:AUTOBEES,NIPPONAMC-NETFAUTO,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+AUTOIETF.NS,XNSE:AUTOIETF,ICICIPRAMC-ICICIAUTO,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BBETF0432.NS,XNSE:BBETF0432,EDELAMC-BBETF0432,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BBNPNBETF.NS,XNSE:BBNPNBETF,BARODABNP - BBNPNBETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BBNPPGOLD.NS,XNSE:BBNPPGOLD,BARODABNP-BBNPPGOLD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BFSI.NS,XNSE:BFSI,MIRAEAMC-MAFSETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BNKETFAXIS.NS,XNSE:BNKETFAXIS,AXISAMC-BNKETFAXIS,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BSE500IETF.NS,XNSE:BSE500IETF,ICICIPRAMC-ICICI500,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BSLGOLDETF.NS,XNSE:BSLGOLDETF,ABSLGoldETF-GO,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BSLSENETFG.NS,XNSE:BSLSENETFG,BIRLASLAMC-BSLSENETFG,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+CASHIETF.NS,XNSE:CASHIETF,ICICIPRAMC - CASHIETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+CHOICEGOLD.NS,XNSE:CHOICEGOLD,ChoiceAMC - CHOICEGOLD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+COMMOIETF.NS,XNSE:COMMOIETF,ICICIPRAMC-ICICICOMMO,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+CONS.NS,XNSE:CONS,KOTAKMAMC-KOTAKCONS,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+CONSUMAXIS.NS,XNSE:CONSUMAXIS,AXISAMC-CONSUMAXIS,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+CONSUMBEES.NS,XNSE:CONSUMBEES,NIPINDETFCONSUMPTION,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+CONSUMER.NS,XNSE:CONSUMER,MIRAEAMC - CONSUMER,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+CONSUMIETF.NS,XNSE:CONSUMIETF,ICICIPRAMC-ICICICONSU,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+CPSEETF.NS,XNSE:CPSEETF,CPSEETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+DEFENCE.NS,XNSE:DEFENCE,MIRAEAMC - DEFENCE,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+DIVOPPBEES.NS,XNSE:DIVOPPBEES,NIPINDETFDIVOPP,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+EBBETF0430.NS,XNSE:EBBETF0430,EDELAMC-EBBETF0430,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+EBBETF0431.NS,XNSE:EBBETF0431,EDELAMC-EBBETF0431,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+EBBETF0433.NS,XNSE:EBBETF0433,EDELAMC-EBBETF0433,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ECAPINSURE.NS,XNSE:ECAPINSURE,EDELAMC - ECAPINSURE,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+EGOLD.NS,XNSE:EGOLD,EDELAMC-EGOLD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ELIQUID.NS,XNSE:ELIQUID,EDELAMC - ELIQUID,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ELM250.NS,XNSE:ELM250,EDELAMC - ELM250,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+EMULTIMQ.NS,XNSE:EMULTIMQ,EDELAMC - EMULTIMQ,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ENEXT50.NS,XNSE:ENEXT50,EDELAMC - ENEXT50,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+EQUAL200.NS,XNSE:EQUAL200,MIRAEAMC - EQUAL200,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+EQUAL50.NS,XNSE:EQUAL50,MIRAEAMC - EQUAL50,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+EQUAL50ADD.NS,XNSE:EQUAL50ADD,DSPAMC-DSPNEWETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ESENSEX.NS,XNSE:ESENSEX,EDELAMC - ESENSEX,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ESG.NS,XNSE:ESG,MIRAEAMC-MAESGETF,NSE,ETF,Y,N,,,ETF,Equity,ESG/Sustainable,Broad Market,India,Broad Market; ESG/Sustainable; Equity; India,0,0.0,,,,,Yahoo ETF Top Holdings
+ESILVER.NS,XNSE:ESILVER,EDELAMC-Esilver,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+EVIETF.NS,XNSE:EVIETF,ICICIPRAMC - EVIETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+EVINDIA.NS,XNSE:EVINDIA,MIRAEAMC - EVINDIA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+FINIETF.NS,XNSE:FINIETF,ICICIPRAMC-ICICIFIN,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+FLEXIADD.NS,XNSE:FLEXIADD,DSPAMC - FLEXIADD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+FMCGADD.NS,XNSE:FMCGADD,DSPAMC - FMCGADD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+FMCGIETF.NS,XNSE:FMCGIETF,ICICIPRAMC-ICICIFMCG,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GILT10BETA.NS,XNSE:GILT10BETA,UTIAMC-GILT10BETA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GILT5BETA.NS,XNSE:GILT5BETA,UTIAMC-GILT5BETA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GILT5YBEES.NS,XNSE:GILT5YBEES,RELCAPAMC-NETFGILT5Y,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GOLD360.NS,XNSE:GOLD360,360ONEAMC - GOLD360,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GOLDADD.NS,XNSE:GOLDADD,DSPAMC - DSPGOLD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GOLDAXIS.NS,XNSE:GOLDAXIS,AXISAMC-GOLDAXIS,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GOLDBEES.NS,XNSE:GOLDBEES,NIPINDETFGOLDBEES,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GOLDBETA.NS,XNSE:GOLDBETA,UTIAMC -UTIGOLDBETA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GOLDBND.NS,XNSE:GOLDBND,BANDHANAMC - GOLDBND,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GOLDCASE.NS,XNSE:GOLDCASE,ZERODHAAMC-GOLDCASE,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GOLDETF.NS,XNSE:GOLDETF,MIRAEAMC-MAGOLDETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GOLDIETF.NS,XNSE:GOLDIETF,ICICIPrudGoldETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWCAPM.NS,XNSE:GROWWCAPM,GROWWAMC - GROWWCAPM,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWCHEM.NS,XNSE:GROWWCHEM,GROWWAMC - GROWWCHEM,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWDEFNC.NS,XNSE:GROWWDEFNC,GROWWAMC - GROWWDEFNC,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWEV.NS,XNSE:GROWWEV,GROWWAMC - GROWWEV,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWGOLD.NS,XNSE:GROWWGOLD,GROWWAMC - GROWWGOLD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWHOSPI.NS,XNSE:GROWWHOSPI,GROWWAMC - GROWWHOSPI,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWLIQID.NS,XNSE:GROWWLIQID,GROWWAMC - GROWWLIQID,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWLOVOL.NS,XNSE:GROWWLOVOL,GROWWAMC - GROWWLOVOL,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWMC150.NS,XNSE:GROWWMC150,GROWWAMC - GROWWMC150,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWMETAL.NS,XNSE:GROWWMETAL,GROWWAMC - GROWWMETAL,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWMOM50.NS,XNSE:GROWWMOM50,GROWWAMC - GROWWMOM50,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWN200.NS,XNSE:GROWWN200,GROWWAMC - GROWWN200,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWNET.NS,XNSE:GROWWNET,GROWWAMC - GROWWNET,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWNXT50.NS,XNSE:GROWWNXT50,GROWWAMC - GROWWNXT50,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWPOWER.NS,XNSE:GROWWPOWER,GROWWAMC - GROWWPOWER,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWPSE.NS,XNSE:GROWWPSE,GROWWAMC - GROWWPSE,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWPSUBK.NS,XNSE:GROWWPSUBK,GROWWAMC - GROWWPSUBK,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,United Kingdom,Broad Market; Equity; Plain; United Kingdom,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWRAIL.NS,XNSE:GROWWRAIL,GROWWAMC - GROWWRAIL,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWRLTY.NS,XNSE:GROWWRLTY,GROWWAMC - GROWWRLTY,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWSC250.NS,XNSE:GROWWSC250,GROWWAMC - GROWWSC250,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWSLVR.NS,XNSE:GROWWSLVR,GROWWAMC - GROWWSLVR,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GSEC10ABSL.NS,XNSE:GSEC10ABSL,BIRLASLAMC - GSEC10ABSL,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GSEC10IETF.NS,XNSE:GSEC10IETF,ICICIPRAMC-ICICI10GS,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GSEC10YEAR.NS,XNSE:GSEC10YEAR,MIRAEAMC-MAGS813ETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCBSE500.NS,XNSE:HDFCBSE500,HDFCAMC-HDFCBSE500,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCGOLD.NS,XNSE:HDFCGOLD,HDFCGoldETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCLIQUID.NS,XNSE:HDFCLIQUID,HDFCAMC-HDFCLIQUID,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCLOWVOL.NS,XNSE:HDFCLOWVOL,HDFCAMC-HDFCLOWVOL,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCMID150.NS,XNSE:HDFCMID150,HDFCAMC-HDFCMID150,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCMOMENT.NS,XNSE:HDFCMOMENT,HDFCAMC-HDFCMOMENT,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCNEXT50.NS,XNSE:HDFCNEXT50,HDFCAMC-HDFCNEXT50,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCNIF100.NS,XNSE:HDFCNIF100,HDFCAMC-HDFCNIF100,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCNIFBAN.NS,XNSE:HDFCNIFBAN,HDFCAMC-HDFCNIFBAN,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCNIFIT.NS,XNSE:HDFCNIFIT,HDFCAMC-HDFCNIFIT,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCPSUBK.NS,XNSE:HDFCPSUBK,HDFCAMCHDFCPSUBK,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,United Kingdom,Broad Market; Equity; Plain; United Kingdom,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCPVTBAN.NS,XNSE:HDFCPVTBAN,HDFCAMC-HDFCPVTBAN,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCQUAL.NS,XNSE:HDFCQUAL,HDFCAMC-HDFCQUAL,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCSENSEX.NS,XNSE:HDFCSENSEX,HDFCAMC-HDFCSENSEX,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCSILVER.NS,XNSE:HDFCSILVER,HDFCAMC-HDFCSILVER,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCSML250.NS,XNSE:HDFCSML250,HDFCAMC-HDFCSML250,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HEALTHADD.NS,XNSE:HEALTHADD,DSPAMC-HEALTHADD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HEALTHAXIS.NS,XNSE:HEALTHAXIS,AXISAMC-HEALTHAXIS,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HEALTHIETF.NS,XNSE:HEALTHIETF,ICICIPRAMC-ICICIPHARM,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HEALTHY.NS,XNSE:HEALTHY,BIRLASLAMC-HEALTHY,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HNGSNGBEES.NS,XNSE:HNGSNGBEES,NIPINDETFHANGSENGBEES,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HSBCGOLD.NS,XNSE:HSBCGOLD,HSBCAMC - HSBCGOLD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ICICIB22.NS,XNSE:ICICIB22,ICICIPRAMC-BHARATIWIN,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+INFRA.NS,XNSE:INFRA,MIRAEAMC - INFRA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+INFRABEES.NS,XNSE:INFRABEES,NIPINDETFINFRABEES,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+INFRAIETF.NS,XNSE:INFRAIETF,ICICIPRAMC-ICICIINFRA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+IT.NS,XNSE:IT,KOTAKMAMC-KOTAKIT,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ITADD.NS,XNSE:ITADD,DSPAMC - DSPIT,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ITAXIS.NS,XNSE:ITAXIS,AXISAMC-ITAXIS,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ITBEES.NS,XNSE:ITBEES,NIPINDETFIT,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ITBETA.NS,XNSE:ITBETA,UTIAMC -ITBETA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ITETF.NS,XNSE:ITETF,MIRAEAMC-ITETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ITIETF.NS,XNSE:ITIETF,ICICIPRAMC-ICICITECH,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+IVZINGOLD.NS,XNSE:IVZINGOLD,InvescoIndiaGoldETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+JETFREIGHT.NS,XNSE:JETFREIGHT,Jet Freight Logistics Limited,NSE,EQ,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+JUNIORBEES.NS,XNSE:JUNIORBEES,NIP IND ETF JUNIOR BEES,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LICMFGOLD.NS,XNSE:LICMFGOLD,LICMF LICGoldETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LICNETFGSC.NS,XNSE:LICNETFGSC,LICNAMC-LICNMFET,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LICNETFN50.NS,XNSE:LICNETFN50,LICNAMC-LICNFENGP,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LICNETFSEN.NS,XNSE:LICNETFSEN,LICNAMC-LICNFESGP,NSE,ETF,Y,N,,,ETF,Equity,ESG/Sustainable,Broad Market,India,Broad Market; ESG/Sustainable; Equity; India,0,0.0,,,,,Yahoo ETF Top Holdings
+LICNFNHGP.NS,XNSE:LICNFNHGP,LICNAMC-LICNFNHGP,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LICNMID100.NS,XNSE:LICNMID100,LICNAMC-LICNMID100,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LIQGRWBEES.NS,XNSE:LIQGRWBEES,NIPPONAMC - LIQGRWBEES,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LIQUID.NS,XNSE:LIQUID,MIRAEAMC-LIQUID,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LIQUID1.NS,XNSE:LIQUID1,KOTAKMAMC-KOTAKLIQ,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LIQUIDADD.NS,XNSE:LIQUIDADD,DSPAMC-LIQUIDADD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LIQUIDBEES.NS,XNSE:LIQUIDBEES,NIPINDETFLIQUIDBEES,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LIQUIDBETA.NS,XNSE:LIQUIDBETA,UTIAMC - LIQUIDBETA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LIQUIDBETF.NS,XNSE:LIQUIDBETF,BFAM-LIQUIDBETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LIQUIDCASE.NS,XNSE:LIQUIDCASE,ZERODHAAMC-LIQUIDCASE,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LIQUIDETF.NS,XNSE:LIQUIDETF,DSPAMC-LIQUIDETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LIQUIDIETF.NS,XNSE:LIQUIDIETF,ICICIPRAMC-ICICILIQ,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LIQUIDPLUS.NS,XNSE:LIQUIDPLUS,MIRAEAMC - LIQUIDPLUS,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,United States,Broad Market; Equity; Plain; United States,0,0.0,,,,,Yahoo ETF Top Holdings
+LIQUIDSBI.NS,XNSE:LIQUIDSBI,SBIAMC-LIQUIDSBI,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LIQUIDSHRI.NS,XNSE:LIQUIDSHRI,SHRIRAM - LIQUIDSHRI,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LOWVOL.NS,XNSE:LOWVOL,MIRAEAMC-MANV30F,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LOWVOL1.NS,XNSE:LOWVOL1,KOTAKMAMC-KOTAKLOVOL,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LTGILTBEES.NS,XNSE:LTGILTBEES,NIPINDETFLONGTERMGILT,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LTGILTCASE.NS,XNSE:LTGILTCASE,ZERODHAAMC - LTGILTCASE,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MAFANG.NS,XNSE:MAFANG,MIRAEAMC-MAFANG,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MAHKTECH.NS,XNSE:MAHKTECH,MIRAEAMC-MAHKTECH,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MAKEINDIA.NS,XNSE:MAKEINDIA,MIRAEAMC-MAMFGETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MANUFGBEES.NS,XNSE:MANUFGBEES,NIPPONAMC - MANUFGBEES,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MASPTOP50.NS,XNSE:MASPTOP50,MIRAEAMC-MASPTOP50,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+METAL.NS,XNSE:METAL,MIRAEAMC - METAL,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+METALIETF.NS,XNSE:METALIETF,ICICIPRAMC - METALIETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MID150.NS,XNSE:MID150,KOTAKMAMC - MID150,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MID150BEES.NS,XNSE:MID150BEES,NIPINDETFMIDCAP150,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MID150CASE.NS,XNSE:MID150CASE,ZERODHAAMC-MID150CASE,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MIDCAP.NS,XNSE:MIDCAP,KOTAKMAMC-KOTAKMID50,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MIDCAPADD.NS,XNSE:MIDCAPADD,DSPAMC - MIDCAPADD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MIDCAPBETA.NS,XNSE:MIDCAPBETA,UTIAMC-MIDCAPBETA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MIDCAPETF.NS,XNSE:MIDCAPETF,MIRAEAMC-MAM150ETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MIDCAPIETF.NS,XNSE:MIDCAPIETF,ICICIPRAMC-ICICIM150,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MIDQ50ADD.NS,XNSE:MIDQ50ADD,DSPAMC-DSPQ50ETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MIDSELIETF.NS,XNSE:MIDSELIETF,ICICIPruMidcapSelETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MIDSMALL.NS,XNSE:MIDSMALL,MIRAEAMC-MIDSMALL,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MNC.NS,XNSE:MNC,KOTAKMAMC-KOTAKMNC,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOALPHA50.NS,XNSE:MOALPHA50,MOTILALAMC - MOALPHA50,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOCAPITAL.NS,XNSE:MOCAPITAL,MOTILALAMC - MOCAPITAL,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MODEFENCE.NS,XNSE:MODEFENCE,MOTILALAMC - MODEFENCE,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOGOLD.NS,XNSE:MOGOLD,MOTILALAMC - MOGOLD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOGSEC.NS,XNSE:MOGSEC,MOTILALAMC-G5,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOHEALTH.NS,XNSE:MOHEALTH,MOTILALAMC-MOHEALTH,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOINFRA.NS,XNSE:MOINFRA,MOTILALAMC - MOINFRA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOIPO.NS,XNSE:MOIPO,MOTILALAMC - MOIPO,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOLOWVOL.NS,XNSE:MOLOWVOL,MOTILALAMC-MOLOWVOL,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOM100.NS,XNSE:MOM100,MotilalOsMidcap100ETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOM30IETF.NS,XNSE:MOM30IETF,ICICIPRAMC-ICICIMOM30,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOM50.NS,XNSE:MOM50,MotilalOswalM50ETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOMGF.NS,XNSE:MOMGF,MOTILALAMC - MOMGF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOMIDMTM.NS,XNSE:MOMIDMTM,MOTILALAMC - MOMIDMTM,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOMMIDCAP.NS,XNSE:MOMMIDCAP,MIRAEAMC - MOMMIDCAP,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOMNC.NS,XNSE:MOMNC,MOTILALAMC - MOMNC,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MON50EQUAL.NS,XNSE:MON50EQUAL,MOTILALAMC - MON50EQUAL,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MONEXT50.NS,XNSE:MONEXT50,MOTILALAMC - MONEXT50,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MONQ50.NS,XNSE:MONQ50,MOTILALAMC-MONQ50,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOPSE.NS,XNSE:MOPSE,MOTILALAMC - MOPSE,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOQUALITY.NS,XNSE:MOQUALITY,MOTILALAMC-MOQUALITY,NSE,ETF,Y,N,,,ETF,Equity,Factor,Broad Market,India,Broad Market; Equity; Factor; India,0,0.0,,,,,Yahoo ETF Top Holdings
+MOREALTY.NS,XNSE:MOREALTY,MOTILALAMC-MOREALTY,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOSERVICE.NS,XNSE:MOSERVICE,MOTILALAMC - MOSERVICE,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOSILVER.NS,XNSE:MOSILVER,MOTILALAMC - MOSILVER,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOSMALL250.NS,XNSE:MOSMALL250,MOTILALAMC-MOSMALL250,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MOTOUR.NS,XNSE:MOTOUR,MOTILALAMC - MOTOUR,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MULTICAP.NS,XNSE:MULTICAP,MIRAEAMC - MULTICAP,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NETF.NS,XNSE:NETF,TATAAML-NETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NEXT30ADD.NS,XNSE:NEXT30ADD,DSPAMC - NEXT30ADD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NEXT50.NS,XNSE:NEXT50,MIRAEAMC-MANXT50,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NEXT50ADD.NS,XNSE:NEXT50ADD,DSPAMC - NEXT50ADD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NEXT50BETA.NS,XNSE:NEXT50BETA,UTIAMC -NEXT50BETA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NEXT50ETF.NS,XNSE:NEXT50ETF,KOTAKMAMC - NEXT50ETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NEXT50IETF.NS,XNSE:NEXT50IETF,ICICIPRAMC-ICICINXT50,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NPBET.NS,XNSE:NPBET,TATAAML-NPBET,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NV20.NS,XNSE:NV20,KOTAKMAMC-KTKNV20ETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NV20BEES.NS,XNSE:NV20BEES,NIPINDETFETFNV20,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NV20IETF.NS,XNSE:NV20IETF,ICICIPruNV20ETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+PVTBKGROWW.NS,XNSE:PVTBKGROWW,GROWWAMC - PVTBKGROWW,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+QUAL30IETF.NS,XNSE:QUAL30IETF,ICICIPRAMC-ICICIQTY30,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+QUALITY30.NS,XNSE:QUALITY30,KOTAKMAMC - QUALITY30,NSE,ETF,Y,N,,,ETF,Equity,Factor,Broad Market,India,Broad Market; Equity; Factor; India,0,0.0,,,,,Yahoo ETF Top Holdings
+SBIBPB.NS,XNSE:SBIBPB,SBIAMC - SBIBPB,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SBIETFCON.NS,XNSE:SBIETFCON,SBIAMC-SBIETFCON,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SBIETFIT.NS,XNSE:SBIETFIT,SBIAMC-SBIETFIT,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SBIETFPB.NS,XNSE:SBIETFPB,SBIAMC-SBIETFPB,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SBIETFQLTY.NS,XNSE:SBIETFQLTY,SBIAMC-SBIETFQLTY,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SBILIQETF.NS,XNSE:SBILIQETF,SBIAMC - SBILIQETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SBIMIDMOM.NS,XNSE:SBIMIDMOM,SBIAMC - SBIMIDMOM,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SBINEQWETF.NS,XNSE:SBINEQWETF,SBIAMC - SBINEQWETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SBINMID150.NS,XNSE:SBINMID150,SBIAMC - SBINMID150,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SBISILVER.NS,XNSE:SBISILVER,SBIAMC - SBISILVER,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SBISMLETF.NS,XNSE:SBISMLETF,SBIAMC - SBISMLETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SBIVALETF.NS,XNSE:SBIVALETF,SBIAMC - SBIVALETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SELECTIPO.NS,XNSE:SELECTIPO,MIRAEAMC - SELECTIPO,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SENSEXADD.NS,XNSE:SENSEXADD,DSPAMC-DSPSENXETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SENSEXAXIS.NS,XNSE:SENSEXAXIS,AXISAMC-SENSEXAXIS,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SENSEXBETA.NS,XNSE:SENSEXBETA,UTIAMC-SENSEXBETA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SENSEXETF.NS,XNSE:SENSEXETF,MIRAEAMC-SENSEXETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SENSEXIETF.NS,XNSE:SENSEXIETF,ICICIPruSensexETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SETF10GILT.NS,XNSE:SETF10GILT,SBIAMC-SETF10GILT,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SETFGOLD.NS,XNSE:SETFGOLD,SBI-ETFGold,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SHARIABEES.NS,XNSE:SHARIABEES,NIPINDETFSHARIAHBEES,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SILVER1.NS,XNSE:SILVER1,KOTAKMAMC-KOTAKSILVE,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SILVER360.NS,XNSE:SILVER360,360ONEAMC - SILVER360,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SILVERADD.NS,XNSE:SILVERADD,DSPAMC-DSPSILVETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SILVERAG.NS,XNSE:SILVERAG,MIRAEAMC-MASILVER,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SILVERAXIS.NS,XNSE:SILVERAXIS,AXISAMC-SILVERAXIS,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SILVERBEES.NS,XNSE:SILVERBEES,NIPPONAMC-SILVERBEES,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SILVERBETA.NS,XNSE:SILVERBETA,UTIAMC-SILVERBETA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SILVERBND.NS,XNSE:SILVERBND,BANDHANAMC - SILVERBND,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SILVERCASE.NS,XNSE:SILVERCASE,ZERODHAAMC - SILVERCASE,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SILVERIETF.NS,XNSE:SILVERIETF,ICICIPRAMC-ICICISILVE,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SMALL250.NS,XNSE:SMALL250,MIRAEAMC - SMALL250,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SMALLADD.NS,XNSE:SMALLADD,DSPAMC - SMALLADD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SMALLCAP.NS,XNSE:SMALLCAP,MIRAEAMC-SMALLCAP,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SMALLGROWW.NS,XNSE:SMALLGROWW,GROWWAMC - SMALLGROWW,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SMALLIETF.NS,XNSE:SMALLIETF,ICICIPRAMC - SMALLIETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SML100CASE.NS,XNSE:SML100CASE,ZERODHAAMC - SML100CASE,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SNXT30BEES.NS,XNSE:SNXT30BEES,NIPPONAMC - SNXT30BEES,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SNXT50BETA.NS,XNSE:SNXT50BETA,UTIAMC-SNXT50BETA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+TATAGOLD.NS,XNSE:TATAGOLD,TATAAML-TATAGOLD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+TATSILV.NS,XNSE:TATSILV,TATAAML-TATSILV,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+TECH.NS,XNSE:TECH,BIRLASLAMC-TECH,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+TNIDETF.NS,XNSE:TNIDETF,TATAAML-TNIDETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+TOP100CASE.NS,XNSE:TOP100CASE,ZERODHAAMC-TOP100CASE,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+TOP10ADD.NS,XNSE:TOP10ADD,DSPAMC - TOP10ADD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+TOP15IETF.NS,XNSE:TOP15IETF,ICICIPRAMC - TOP15IETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+TOP20.NS,XNSE:TOP20,MIRAEAMC - TOP20,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+TWCGOLDETF.NS,XNSE:TWCGOLDETF,WEALTH - TWCGOLDETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+UNIONGOLD.NS,XNSE:UNIONGOLD,UNIONAMC - UNIONGOLD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+VAL30IETF.NS,XNSE:VAL30IETF,ICICIPRAMC - VAL30IETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market,India,Broad Market; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ABSLMSCIN.NS,XNSE:ABSLMSCIN,BIRLASLAMC - ABSLMSCIN,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+AONENIFTY.NS,XNSE:AONENIFTY,AONEAMC - AONENIFTY,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+BSLNIFTY.NS,XNSE:BSLNIFTY,ABSLNiftyETF-GO,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+ENIFTY.NS,XNSE:ENIFTY,EDELAMC - ENIFTY,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GROWWNIFTY.NS,XNSE:GROWWNIFTY,GROWWAMC - GROWWNIFTY,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCNIFTY.NS,XNSE:HDFCNIFTY,HDFCAMC-HDFCNIFTY,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+IDFNIFTYET.NS,XNSE:IDFNIFTYET,BANDHANAMC-IDFNIFTYET,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+IVZINNIFTY.NS,XNSE:IVZINNIFTY,InvescoMF-NiftyETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+LOWVOLIETF.NS,XNSE:LOWVOLIETF,ICICIPruNiftyLowvol30,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MON100.NS,XNSE:MON100,MotilalOsNASDAQ100ETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,United States,Broad Market & Core Indices; Equity; Plain; United States,0,0.0,,,,,Yahoo ETF Top Holdings
+MONIFTY100.NS,XNSE:MONIFTY100,MOTILALAMC - MONIFTY100,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MONIFTY500.NS,XNSE:MONIFTY500,MOTILALAMC-MONIFTY500,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MSCI360.NS,XNSE:MSCI360,360ONEAMC - MSCI360,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MSCIADD.NS,XNSE:MSCIADD,DSPAMC - MSCIADD,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+MSCIINDIA.NS,XNSE:MSCIINDIA,KOTAKMAMC - MSCIINDIA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NIF100BEES.NS,XNSE:NIF100BEES,NIPINDETFNIFTY100,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NIF100IETF.NS,XNSE:NIF100IETF,ICICIPruNifty100ETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NIFTY1.NS,XNSE:NIFTY1,KotakNiftyETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NIFTY100EW.NS,XNSE:NIFTY100EW,KOTAKMAMC - NIFTY100EW,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NIFTYADD.NS,XNSE:NIFTYADD,DSPAMC - DSPNIFTY,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NIFTYAXIS.NS,XNSE:NIFTYAXIS,AXISAMC-NIFTYAXIS,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NIFTYBEES.NS,XNSE:NIFTYBEES,NIPINDETFNIFTYBEES,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NIFTYBETA.NS,XNSE:NIFTYBETA,UTIAMC-NIFTYBETA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NIFTYBETF.NS,XNSE:NIFTYBETF,BFAM-NIFTYBETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NIFTYCASE.NS,XNSE:NIFTYCASE,ZERODHAAMC - NIFTYCASE,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NIFTYETF.NS,XNSE:NIFTYETF,MIRAEAMC-MAN50ETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NIFTYIETF.NS,XNSE:NIFTYIETF,ICICIPruNiftyETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+NIFTYQLITY.NS,XNSE:NIFTYQLITY,BIRLASLAMC-NIFTYQLITY,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SETFNIF50.NS,XNSE:SETFNIF50,SBI-ETFNifty50,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+SETFNN50.NS,XNSE:SETFNN50,SBI-ETFNiftyNext50,NSE,ETF,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+GSEC5IETF.NS,XNSE:GSEC5IETF,ICICIPRAMC-ICICI5GSEC,NSE,ETF,Y,N,,,ETF,Equity,Plain,Digital Infrastructure,India,Digital Infrastructure; Equity; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+DIVIDEND.NS,XNSE:DIVIDEND,MIRAEAMC - DIVIDEND,NSE,ETF,Y,N,,,ETF,Equity,Dividend/Income,Dividend & Income,India,Dividend & Income; Dividend/Income; Equity; India,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCGROWTH.NS,XNSE:HDFCGROWTH,HDFCAMC-HDFCGROWTH,NSE,ETF,Y,N,,,ETF,Equity,Factor,Growth & Momentum,India,Equity; Factor; Growth & Momentum; India,0,0.0,,,,,Yahoo ETF Top Holdings
+MOMENTUM.NS,XNSE:MOMENTUM,BIRLASLAMC-MOMENTUM,NSE,ETF,Y,N,,,ETF,Equity,Factor,Growth & Momentum,India,Equity; Factor; Growth & Momentum; India,0,0.0,,,,,Yahoo ETF Top Holdings
+MOMENTUM30.NS,XNSE:MOMENTUM30,KOTAKMAMC - MOMENTUM30,NSE,ETF,Y,N,,,ETF,Equity,Factor,Growth & Momentum,India,Equity; Factor; Growth & Momentum; India,0,0.0,,,,,Yahoo ETF Top Holdings
+MOMENTUM50.NS,XNSE:MOMENTUM50,MOTILALAMC - MOMENTUM50,NSE,ETF,Y,N,,,ETF,Equity,Factor,Growth & Momentum,India,Equity; Factor; Growth & Momentum; India,0,0.0,,,,,Yahoo ETF Top Holdings
+MOMOMENTUM.NS,XNSE:MOMOMENTUM,MOTILALAMC-MOMOMENTUM,NSE,ETF,Y,N,,,ETF,Equity,Factor,Growth & Momentum,India,Equity; Factor; Growth & Momentum; India,0,0.0,,,,,Yahoo ETF Top Holdings
+HEALTHCARE.NS,XNSE:HEALTHCARE,MIRAEAMC - HEALTHCARE,NSE,ETF,Y,N,,,ETF,Equity,Plain,Healthcare Broad,India,Equity; Healthcare Broad; India; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+INTERNET.NS,XNSE:INTERNET,MIRAEAMC - INTERNET,NSE,ETF,Y,N,,,ETF,Equity,Plain,Internet & E-Commerce,India,Equity; India; Internet & E-Commerce; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+CHEMICAL.NS,XNSE:CHEMICAL,KOTAKMAMC - CHEMICAL,NSE,ETF,Y,N,,,ETF,Equity,Plain,Materials & Chemicals,India,Equity; India; Materials & Chemicals; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+PSUBANK.NS,XNSE:PSUBANK,KotakMahindraMutualFun,NSE,ETF,Y,N,,,ETF,Equity,Plain,Memory & Storage; Banking,India,Banking; Equity; India; Memory & Storage; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+PHARMABEES.NS,XNSE:PHARMABEES,NIPPONAMC-NETFPHARMA,NSE,ETF,Y,N,,,ETF,Equity,Plain,Pharmaceuticals,India,Equity; India; Pharmaceuticals; Plain,0,0.0,,,,,Yahoo ETF Top Holdings
+QGOLDHALF.NS,XNSE:QGOLDHALF,QuantumGoldFund-Exchan,NSE,ETF,Y,N,,,ETF,Equity,Plain,Quantum Computing,India,Equity; India; Plain; Quantum Computing,0,0.0,,,,,Yahoo ETF Top Holdings
+QNIFTY.NS,XNSE:QNIFTY,QuantumNiftyETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Quantum Computing; Broad Market & Core Indices,India,Broad Market & Core Indices; Equity; India; Plain; Quantum Computing,0,0.0,,,,,Yahoo ETF Top Holdings
+ENERGY.NS,XNSE:ENERGY,MIRAEAMC - ENERGY,NSE,ETF,Y,N,,,ETF,Equity,Plain,Traditional Energy,India,Equity; India; Plain; Traditional Energy,0,0.0,,,,,Yahoo ETF Top Holdings
+MOENERGY.NS,XNSE:MOENERGY,MOTILALAMC - MOENERGY,NSE,ETF,Y,N,,,ETF,Equity,Plain,Traditional Energy,India,Equity; India; Plain; Traditional Energy,0,0.0,,,,,Yahoo ETF Top Holdings
+OILIETF.NS,XNSE:OILIETF,ICICIPRAMC - OILIETF,NSE,ETF,Y,N,,,ETF,Equity,Plain,Traditional Energy,India,Equity; India; Plain; Traditional Energy,0,0.0,,,,,Yahoo ETF Top Holdings
+HDFCVALUE.NS,XNSE:HDFCVALUE,HDFCAMC-HDFCVALUE,NSE,ETF,Y,N,,,ETF,Equity,Factor,Value & Quality,India,Equity; Factor; India; Value & Quality,0,0.0,,,,,Yahoo ETF Top Holdings
+MOVALUE.NS,XNSE:MOVALUE,MOTILALAMC-MOVALUE,NSE,ETF,Y,N,,,ETF,Equity,Factor,Value & Quality,India,Equity; Factor; India; Value & Quality,0,0.0,,,,,Yahoo ETF Top Holdings
+VALUE.NS,XNSE:VALUE,MIRAEAMC - VALUE,NSE,ETF,Y,N,,,ETF,Equity,Factor,Value & Quality,India,Equity; Factor; India; Value & Quality,0,0.0,,,,,Yahoo ETF Top Holdings
+VALUEAXIS.NS,XNSE:VALUEAXIS,AXISAMC-VALUEAXIS,NSE,ETF,Y,N,,,ETF,Equity,Factor,Value & Quality,India,Equity; Factor; India; Value & Quality,0,0.0,,,,,Yahoo ETF Top Holdings

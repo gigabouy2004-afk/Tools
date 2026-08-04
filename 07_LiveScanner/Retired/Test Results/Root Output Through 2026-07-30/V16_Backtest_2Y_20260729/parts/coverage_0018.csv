@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+CECO,US,CECO Environmental Corp. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+SEI,US,"Solaris Energy Infrastructure, Inc. Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+MTH,US,Meritage Homes Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+PRIM,US,Primoris Services Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+CNX,US,CNX Resources Corporation Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+VCYT,US,"Veracyte, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+CRC,US,California Resources Corporation Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+SAIC,US,Science Applications International Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+UEC,US,Uranium Energy Corp. Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+DLB,US,Dolby Laboratories Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+UCTT,US,"Ultra Clean Holdings, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+MMED,US,"MiniMed Group, Inc. - Common Stock",Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,99,2026-03-06,2026-07-28,0,0
+FCN,US,"FTI Consulting, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+MARA,US,"MARA Holdings, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+OTF,US,Blue Owl Technology Finance Corp. Common Stock,,PROCESSED,,282,2025-06-12,2026-07-28,282,0
+EPAM,US,"EPAM Systems, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CRSP,US,CRISPR Therapeutics AG - Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+MGY,US,Magnolia Oil & Gas Corporation Class A Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+SXT,US,Sensient Technologies Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+SYNA,US,Synaptics Incorporated - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+AUGO,US,Aura Minerals Inc. - Common Shares,,PROCESSED,,260,2025-07-16,2026-07-28,260,0
+FELE,US,"Franklin Electric Co., Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+CBT,US,Cabot Corporation Common Stock,Industrials,PROCESSED,,1001,2022-07-29,2026-07-28,500,7
+SRAD,US,Sportradar Group AG - Class A Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+MANE,US,"Veradermics, Incorporated Common Stock",Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,120,2026-02-04,2026-07-28,0,0
+TPC,US,Tutor Perini Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+SKY,US,"Champion Homes, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+CSW,US,"CSW Industrials, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+AZZ,US,AZZ Inc.,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+SITE,US,"SiteOne Landscape Supply, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+BETA,US,"Beta Technologies, Inc. Class A Common Stock",Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,182,2025-11-04,2026-07-28,0,0
+KNF,US,Knife Riv Holding Co. Common Stock,Industrials,PROCESSED,,788,2023-06-06,2026-07-28,501,8
+INSW,US,"International Seaways, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+CELC,US,Celcuity Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+TREX,US,"Trex Company, Inc. Common Stock",Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+OII,US,"Oceaneering International, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+LIF,US,"Life360, Inc. - Common Stock",Technology,PROCESSED,,536,2024-06-06,2026-07-28,501,5
+CAI,US,"Caris Life Sciences, Inc. - Common Stock",Health Care,PROCESSED,,278,2025-06-18,2026-07-28,278,0
+ALHC,US,"Alignment Healthcare, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+SIM,US,"Grupo Simec, S.A.B. de C.V. American Depositary Shares",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CENX,US,Century Aluminum Company - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+EQPT,US,EquipmentShare.com Inc - Class A Common Stock,Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,128,2026-01-23,2026-07-28,0,0
+WHD,US,"Cactus, Inc. Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+CVCO,US,"Cavco Industries, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+BRC,US,Brady Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+BILL,US,"BILL Holdings, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+VKTX,US,"Viking Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+DOO,US,BRP Inc. - Common Subordinate Voting Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+ACLS,US,"Axcelis Technologies, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+MDU,US,"MDU Resources Group, Inc. Common Stock (Holding Company)",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,15

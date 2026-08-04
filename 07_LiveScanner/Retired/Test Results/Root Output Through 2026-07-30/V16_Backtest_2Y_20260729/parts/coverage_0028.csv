@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+NEXA,US,Nexa Resources S.A. Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+MPLT,US,"MapLight Therapeutics, Inc. - Common Stock",Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,188,2025-10-27,2026-07-28,0,0
+FTRE,US,Fortrea Holdings Inc. - Common Stock,Health Care,PROCESSED,,780,2023-06-16,2026-07-28,501,1
+FLNG,US,FLEX LNG Ltd. Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+BHC,US,Bausch Health Companies Inc. Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+AVEX,US,AEVEX Corp. Class A Common Stock,Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,70,2026-04-17,2026-07-28,0,0
+FORTY,US,Formula Systems (1985) Ltd. - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CYD,US,China Yuchai International Limited Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+PRCH,US,"Porch Group, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+AMBQ,US,"Ambiq Micro, Inc. Common Stock",Technology,PROCESSED,,250,2025-07-30,2026-07-28,250,0
+IMCR,US,Immunocore Holdings plc - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SFL,US,SFL Corporation Ltd,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+WOLF,US,"Wolfspeed, Inc. Common Stock New",Technology,PROCESSED,,208,2025-09-29,2026-07-28,208,0
+AMSC,US,American Superconductor Corporation - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+CMPS,US,COMPASS Pathways Plc - American Depository Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+RXRX,US,"Recursion Pharmaceuticals, Inc. - Class A Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PLPC,US,Preformed Line Products Company - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+TSHA,US,"Taysha Gene Therapies, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+HROW,US,"Harrow, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+MAZE,US,"Maze Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,373,2025-01-31,2026-07-28,373,1
+PUMP,US,ProPetro Holding Corp. Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+PRGS,US,Progress Software Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+LIME,US,"Neutron Holdings, Inc. - Common Stock",Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,19,2026-07-01,2026-07-28,0,0
+BW,US,"Babcock & Wilcox Enterprises, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+TRIP,US,"TripAdvisor, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+NTLA,US,"Intellia Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+VOYG,US,"Voyager Technologies, Inc. Class A Common Stock",Industrials,PROCESSED,,283,2025-06-11,2026-07-28,283,0
+DSGR,US,"Distribution Solutions Group, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+INVA,US,"Innoviva, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+ANAB,US,"AnaptysBio, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+VIR,US,"Vir Biotechnology, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+EYE,US,"National Vision Holdings, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+AIP,US,"Arteris, Inc.  - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+IDT,US,IDT Corporation Class B Common Stock,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+PLTK,US,Playtika Holding Corp. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LZB,US,La-Z-Boy Incorporated Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+BRUN,US,Boost Run Inc. - Class A Common Stock,Technology,PROCESSED,,394,2024-12-30,2026-07-28,394,5
+VET,US,Vermilion Energy Inc. Common (Canada),Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+ADNT,US,Adient plc Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+ENOV,US,Enovis Corporation Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+HLMN,US,Hillman Solutions Corp. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+RYZ,US,Ryerson Holding Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+GBX,US,"Greenbrier Companies, Inc. (The) Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+TIC,US,"TIC Solutions, Inc. Common Stock",Consumer Discretionary,PROCESSED,,362,2025-02-18,2026-07-28,362,0
+REX,US,REX American Resources Corporation,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+AMPX,US,"Amprius Technologies, Inc. Common Stock",Miscellaneous,PROCESSED,,969,2022-09-15,2026-07-28,501,11
+DXC,US,DXC Technology Company Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SKYT,US,"SkyWater Technology, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+ALNT,US,Allient Inc. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+SEPN,US,"Septerna, Inc. - Common Stock",Health Care,PROCESSED,,438,2024-10-25,2026-07-28,438,4

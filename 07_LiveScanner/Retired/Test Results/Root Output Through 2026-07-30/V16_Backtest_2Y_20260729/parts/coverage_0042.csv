@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+SNDL,US,SNDL Inc. - Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+INDP,US,"Indaptus Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ELMD,US,"Electromed, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+RPAY,US,Repay Holdings Corporation - Class A Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ABAT,US,American Battery Technology Company - Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+API,US,"Agora, Inc. - ADS",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+TLS,US,Telos Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TWIN,US,"Twin Disc, Incorporated - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+PALI,US,"Palisade Bio, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GASS,US,"StealthGas, Inc. - common stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+SHIP,US,Seanergy Maritime Holdings Corp. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+FATE,US,"Fate Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+VNDA,US,Vanda Pharmaceuticals Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+CPHI,US,"China Pharma Holdings, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CIX,US,CompX International Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FWDI,US,"Forward Industries, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+PRLD,US,Prelude Therapeutics Incorporated - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+LYEL,US,"Lyell Immunopharma, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SUPX,US,SuperX AI Technology Limited - Ordinary Shares,,PROCESSED,,571,2024-04-17,2026-07-28,501,5
+HLLY,US,Holley Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ZIP,US,"ZipRecruiter, Inc. Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DVLT,US,Datavault AI Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MTC,US,"MMTec, Inc. - Common Shares",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CARL,US,"Carlsmed, Inc. - Common Stock",Health Care,PROCESSED,,255,2025-07-23,2026-07-28,255,0
+NNDM,US,Nano Dimension Ltd. - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+XPOF,US,"Xponential Fitness, Inc. Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+MKTW,US,"MarketWise, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PNRG,US,PrimeEnergy Resources Corporation - Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+MVST,US,"Microvast Holdings, Inc. - Common Stock",Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+OFLX,US,"Omega Flex, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+HBB,US,Hamilton Beach Brands Holding Company Class A Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+ELDN,US,"Eledon Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+TTRX,US,Turn Therapeutics Inc. - Common Stock,Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,201,2025-10-08,2026-07-28,0,0
+ESOA,US,Energy Services of America Corporation - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+OABI,US,"OmniAb, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FHTX,US,Foghorn Therapeutics Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+LEGO,US,Legato Merger Corp. IV Ordinary Shares,Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,93,2026-03-16,2026-07-28,0,0
+LODE,US,Comstock Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+ALMU,US,"Aeluma, Inc. - Common Stock",Technology,PROCESSED,,856,2023-02-28,2026-07-28,501,9
+HSAI,US,Hesai Group - American Depositary Share,Industrials,PROCESSED,,868,2023-02-09,2026-07-28,501,9
+NMRA,US,"Neumora Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,719,2023-09-14,2026-07-28,501,0
+BKTI,US,BK Technologies Corporation Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+VRXA,US,Veraxa Biotech AG - Ordinary Shares,Health Care,PROCESSED,,457,2024-09-30,2026-07-28,457,0
+ALCO,US,"Alico, Inc. - Common Stock",,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+VOXR,US,Vox Royalty Corp. - common stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+IKT,US,"Inhibikase Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+AMRN,US,Amarin Corporation plc - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+MSB,US,Mesabi Trust Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+SHMD,US,SCHMID Group N.V. - Class A Ordinary Shares,Technology,PROCESSED,,561,2024-05-01,2026-07-28,501,4
+BCYC,US,Bicycle Therapeutics plc - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1

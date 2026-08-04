@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+GSAT,US,"Globalstar, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+CORT,US,Corcept Therapeutics Incorporated - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+HL,US,Hecla Mining Company Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+APGE,US,"Apogee Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,762,2023-07-14,2026-07-28,501,9
+CYTK,US,"Cytokinetics, Incorporated - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+VSAT,US,"ViaSat, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+VIAV,US,Viavi Solutions Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+KRYS,US,"Krystal Biotech, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+GIL,US,"Gildan Activewear, Inc. Class A Sub. Vot. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+PNR,US,Pentair plc. Ordinary Share,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+WULF,US,TeraWulf Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+VMI,US,"Valmont Industries, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+VICR,US,Vicor Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+HSIC,US,"Henry Schein, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+GME,US,GameStop Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+WLK,US,Westlake Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+AYI,US,Acuity Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+CACI,US,"CACI International, Inc. Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+HMY,US,Harmony Gold Mining Company Limited,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+DOCU,US,"DocuSign, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+TKR,US,Timken Company (The) Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+ALSN,US,"Allison Transmission Holdings, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+AAOI,US,"Applied Optoelectronics, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+SOLS,US,Solstice Advanced Materials Inc. - Common Stock,Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,193,2025-10-20,2026-07-28,0,0
+MSGS,US,Madison Square Garden Sports Corp. Class A Common Stock (New),Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+BSY,US,"Bentley Systems, Incorporated - Class B Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+SWKS,US,"Skyworks Solutions, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LEVI,US,Levi Strauss & Co Class A Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+SIMO,US,"Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+MANH,US,"Manhattan Associates, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+YMM,US,Full Truck Alliance Co. Ltd. American Depositary Shares (each representing 20 Class A Ordinary Shares),Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+BRKR,US,Bruker Corporation - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+KYMR,US,"Kymera Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+HALO,US,"Halozyme Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+ESI,US,Element Solutions Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+FCFS,US,"FirstCash Holdings, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+OSCR,US,"Oscar Health, Inc. Class A Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+ALGM,US,"Allegro MicroSystems, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+LLYVK,US,"Liberty Live Holdings, Inc. - Series C Liberty Live Group Common Stock",Consumer Discretionary,PROCESSED,,747,2023-08-04,2026-07-28,501,19
+GGB,US,Gerdau S.A. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+HBM,US,Hudbay Minerals Inc. Ordinary Shares (Canada),Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+OSK,US,Oshkosh Corporation (Holding Company)Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+KTOS,US,"Kratos Defense & Security Solutions, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,20
+MTCH,US,"Match Group, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SYRE,US,"Spyre Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+IT,US,"Gartner, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1001,2022-07-29,2026-07-28,500,4
+SARO,US,"StandardAero, Inc. Common Stock",Industrials,PROCESSED,,455,2024-10-02,2026-07-28,455,0
+GKOS,US,Glaukos Corporation Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+NCLH,US,Norwegian Cruise Line Holdings Ltd. Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+POWL,US,"Powell Industries, Inc. - Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,18

@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+FPS,US,"Forgent Power Solutions, Inc. Class A Common Stock",Energy,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,119,2026-02-05,2026-07-28,0,0
+SKM,US,"SK Telecom Co., Ltd. Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+APTV,US,Aptiv PLC Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+GDDY,US,GoDaddy Inc. Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+AXSM,US,"Axsome Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+GGG,US,Graco Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+DRS,US,"Leonardo DRS, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+TRMB,US,Trimble Inc. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+NIO,US,"NIO Inc. American depositary shares, each  representing one Class A ordinary share",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+AVY,US,Avery Dennison Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+GWRE,US,"Guidewire Software, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+DKNG,US,DraftKings Inc. - Class A Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+EMBJ,US,Embraer S.A. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+MOH,US,Molina Healthcare Inc Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ALLE,US,Allegion plc Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+SANM,US,Sanmina Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+AA,US,Alcoa Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+FIG,US,"Figma, Inc. Class A Common Stock",Technology,PROCESSED,,249,2025-07-31,2026-07-28,249,0
+CLX,US,Clorox Company (The) Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+AEIS,US,"Advanced Energy Industries, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,23
+ABVX,US,Abivax SA - American Depositary Shares,Health Care,PROCESSED,,693,2023-10-20,2026-07-28,501,8
+BAX,US,Baxter International Inc. Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BMRN,US,BioMarin Pharmaceutical Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RMBS,US,"Rambus, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+WTS,US,"Watts Water Technologies, Inc. Class A Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+SMMT,US,Summit Therapeutics Inc.  - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+PODD,US,Insulet Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+OC,US,Owens Corning Inc Common Stock New,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+TECH,US,Bio-Techne Corp - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+HUBS,US,"HubSpot, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+ARW,US,"Arrow Electronics, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+SPXC,US,"SPX Technologies, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+DPZ,US,Domino's Pizza Inc - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+CART,US,Maplebear Inc. - Common Stock,Consumer Discretionary,PROCESSED,,716,2023-09-19,2026-07-28,501,10
+SCI,US,Service Corporation International Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+TIMB,US,TIM S.A. American Depositary Shares (Each representing 5 Common Shares),Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+WMS,US,"Advanced Drainage Systems, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+HII,US,"Huntington Ingalls Industries, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+JKHY,US,"Jack Henry & Associates, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+CRL,US,"Charles River Laboratories International, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+ARWR,US,"Arrowhead Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+AR,US,Antero Resources Corporation Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+FROG,US,JFrog Ltd. - Ordinary shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+RDY,US,Dr. Reddy's Laboratories Ltd Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+LFUS,US,"Littelfuse, Inc. - Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+CGNX,US,Cognex Corporation - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+DCI,US,"Donaldson Company, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+SUZ,US,Suzano S.A. American Depositary Shares (each representing One Ordinary Share),Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+PAYP,US,PayPay Corporation - American Depository Shares,Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,95,2026-03-12,2026-07-28,0,0
+GMED,US,"Globus Medical, Inc. Class A Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7

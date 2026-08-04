@@ -1,0 +1,109 @@
+Ticker,Symbol,Security Name,Listing Exchange,Market Category,ETF,Test Issue,MarketCap,Sector,Industry,Asset Class,Strategy,Theme,Geography,Category Flags
+AVEM,AVEM,Avantis Emerging Markets Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+AVSE,AVSE,Avantis Responsible Emerging Markets Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,ESG/Sustainable,Broad Market,Emerging Markets,Broad Market; ESG/Sustainable; Emerging Markets; Equity
+AVXC,AVXC,Avantis Emerging Markets ex-China Equity ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets; China,Broad Market; China; Emerging Markets; Equity; Plain
+BBEM,BBEM,JPMorgan BetaBuilders Emerging Markets Equity ETF,BATS, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+BCEM,BCEM,Baron Emerging Markets Select ETF,NYSE, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+BGEG,BGEG,Baillie Gifford Emerging Markets ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+BKEM,BKEM,BNY Mellon Emerging Markets Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+BREE,BREE,MFS Blended Research Emerging Markets Equity ETF,NYSE, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+DEHP,DEHP,Dimensional Emerging Markets High Profitability ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+DEXC,DEXC,Dimensional Emerging Markets ex China Core Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets; China,Broad Market; China; Emerging Markets; Equity; Plain
+DFEM,DFEM,Dimensional Emerging Markets Core Equity 2 ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+DFSE,DFSE,Dimensional Emerging Markets Sustainability Core 1 ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+DGS,DGS,WisdomTree Emerging Market SmallCap Fund,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+ECOW,ECOW,Pacer Emerging Markets Cash Cows 100 ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+EFFE,EFFE,Harbor Osmosis Emerging Markets Resource Efficient ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+ELD,ELD,WisdomTree Emerging Markets Local Debt Fund,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+EMC,EMC,Global X Emerging Markets Great Consumer ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets; Global,Broad Market; Emerging Markets; Equity; Global; Plain
+EMCR,EMCR,Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,ESG/Sustainable,Broad Market,Emerging Markets,Broad Market; ESG/Sustainable; Emerging Markets; Equity
+EMDM,EMDM,First Trust Bloomberg Emerging Market Democracies ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+EMEM,EMEM,Sophus Capital Emerging Market ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets; United States,Broad Market; Emerging Markets; Equity; Plain; United States
+EMEQ,EMEQ,Nomura Focused Emerging Markets Equity ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+EMES,EMES,Harbor Emerging Markets Select ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+EMFI,EMFI,Pictet Emerging Markets Debt ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+EMGF,EMGF,iShares Emerging Markets Equity Factor ETF,BATS, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+EMKT,EMKT,Lazard Emerging Markets Opportunities ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+EMM,EMM,Global X Emerging Markets ex-China ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets; Global; China,Broad Market; China; Emerging Markets; Equity; Global; Plain
+EMMF,EMMF,WisdomTree Emerging Markets Multifactor Fund,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+EMOP,EMOP,AB Emerging Markets Opportunities ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+EMSF,EMSF,Matthews Emerging Markets Sustainable Future Active ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Active; ESG/Sustainable,Broad Market,Emerging Markets,Active; Broad Market; ESG/Sustainable; Emerging Markets; Equity
+EPEM,EPEM,Harbor Emerging Markets Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+FDEM,FDEM,Fidelity Emerging Markets Multifactor ETF,BATS, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+FEM,FEM,First Trust Emerging Markets AlphaDEX Fund,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+FEMR,FEMR,Fidelity Enhanced Emerging Markets ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+FFEM,FFEM,Fidelity Fundamental Emerging Markets ETF,BATS, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+FNDE,FNDE,Schwab Fundamental Emerging Markets Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+FRDM,FRDM,Freedom 100 Emerging Markets ETF,BATS, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+FTHF,FTHF,First Trust Emerging Markets Human Flourishing ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+GEM,GEM,Goldman Sachs ActiveBeta Emerging Markets Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Active,Broad Market,Emerging Markets,Active; Broad Market; Emerging Markets; Equity
+GSEE,GSEE,Goldman Sachs MarketBeta Emerging Markets Equity ETF,BATS, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+JEMA,JEMA,JPMorgan ActiveBuilders Emerging Markets Equity ETF,NASDAQ,G,Y,N,,,ETF,Equity,Active,Broad Market,Emerging Markets,Active; Broad Market; Emerging Markets; Equity
+JHEM,JHEM,John Hancock Multifactor Emerging Markets ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+JPEM,JPEM,JPMorgan Diversified Return Emerging Markets Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+KEMQ,KEMQ,KraneShares Emerging Markets Consumer Technology Index ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+MEM,MEM,Matthews Emerging Markets Equity Active ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Active,Broad Market,Emerging Markets,Active; Broad Market; Emerging Markets; Equity
+MEMA,MEMA,Man Active Emerging Markets Alternative ETF,NASDAQ,G,Y,N,,,ETF,Equity,Active,Broad Market,Emerging Markets,Active; Broad Market; Emerging Markets; Equity
+MEMS,MEMS,Matthews Emerging Markets Discovery Active ETF,NASDAQ,G,Y,N,,,ETF,Equity,Active,Broad Market,Emerging Markets,Active; Broad Market; Emerging Markets; Equity
+MEMX,MEMX,Matthews Emerging Markets ex China Active ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Active,Broad Market,Emerging Markets; China,Active; Broad Market; China; Emerging Markets; Equity
+MFEM,MFEM,PIMCO RAFI Dynamic Multi-Factor Emerging Markets Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+NTSE,NTSE,WisdomTree Emerging Markets Efficient Core Fund,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+NUEM,NUEM,Nuveen ESG Emerging Markets Equity ETF,BATS, ,Y,N,,,ETF,Equity,ESG/Sustainable,Broad Market,Emerging Markets,Broad Market; ESG/Sustainable; Emerging Markets; Equity
+OAEM,OAEM,OneAscent Emerging Markets ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+PCY,PCY,Invesco Emerging Markets Sovereign Debt ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+PEMX,PEMX,Putnam Emerging Markets ex-China ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets; China,Broad Market; China; Emerging Markets; Equity; Plain
+PXH,PXH,Invesco RAFI Emerging Markets ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+RFEM,RFEM,First Trust RiverFront Dynamic Emerging Markets ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+RISE,RISE,Pictet Emerging Markets Rising Economies ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+RNEM,RNEM,Emerging Markets Equity Select ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+ROAM,ROAM,Hartford Multifactor Emerging Markets ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+RWEM,RWEM,Rayliant Wilshire NxtGen Emerging Markets Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+SCHE,SCHE,Schwab Emerging Markets Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+SEEM,SEEM,SEI Select Emerging Markets Equity ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+SPEM,SPEM,State Street SPDR Portfolio Emerging Markets ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+STXE,STXE,Strive Emerging Markets Ex-China ETF,NYSE, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets; China,Broad Market; China; Emerging Markets; Equity; Plain
+TEMD,TEMD,Templeton Emerging Markets Debt ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+TEMR,TEMR,T. Rowe Price Emerging Markets Equity Research ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+TLTE,TLTE,FlexShares Morningstar Emerging Markets Factor Tilt Index Fund,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+VEXC,VEXC,Vanguard Emerging Markets Ex-China ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets; China,Broad Market; China; Emerging Markets; Equity; Plain
+VWO,VWO,Vanguard FTSE Emerging Markets ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+XC,XC,WisdomTree True Emerging Markets Fund,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+XCNY,XCNY,State Street SPDR S&P Emerging Markets ex-China ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets; China,Broad Market; China; Emerging Markets; Equity; Plain
+XSOE,XSOE,WisdomTree Emerging Markets Ex-State Owned Enterprises Fund,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,Emerging Markets,Broad Market; Emerging Markets; Equity; Plain
+AVEE,AVEE,Avantis Emerging Markets Small Cap Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,Emerging Markets,Broad Market & Core Indices; Emerging Markets; Equity; Plain
+DBEM,DBEM,Xtrackers MSCI Emerging Markets Hedged Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,Emerging Markets,Broad Market & Core Indices; Emerging Markets; Equity; Plain
+EEMA,EEMA,iShares MSCI Emerging Markets Asia ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,Emerging Markets; Asia Pacific,Asia Pacific; Broad Market & Core Indices; Emerging Markets; Equity; Plain
+EEMS,EEMS,iShares MSCI Emerging Markets Small Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,Emerging Markets,Broad Market & Core Indices; Emerging Markets; Equity; Plain
+EEMV,EEMV,iShares MSCI Emerging Markets Min Vol Factor ETF,BATS, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,Emerging Markets,Broad Market & Core Indices; Emerging Markets; Equity; Plain
+EMCS,EMCS,Xtrackers MSCI Emerging Markets Select ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,Emerging Markets,Broad Market & Core Indices; Emerging Markets; Equity; Plain
+EMSC,EMSC,Sophus Capital Emerging Market Small Cap ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,Emerging Markets; United States,Broad Market & Core Indices; Emerging Markets; Equity; Plain; United States
+EMXC,EMXC,iShares MSCI Emerging Markets ex China ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,Emerging Markets; China,Broad Market & Core Indices; China; Emerging Markets; Equity; Plain
+EWX,EWX,State Street SPDR S&P Emerging Markets Small Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,Emerging Markets,Broad Market & Core Indices; Emerging Markets; Equity; Plain
+FEMS,FEMS,First Trust Emerging Markets Small Cap AlphaDEX Fund,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,Emerging Markets,Broad Market & Core Indices; Emerging Markets; Equity; Plain
+IEMG,IEMG,iShares Core MSCI Emerging Markets ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,Emerging Markets,Broad Market & Core Indices; Emerging Markets; Equity; Plain
+KEMX,KEMX,KraneShares MSCI Emerging Markets ex China Index ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,Emerging Markets; China,Broad Market & Core Indices; China; Emerging Markets; Equity; Plain
+QEMM,QEMM,State Street SPDR MSCI Emerging Markets StrategicFactors ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,Emerging Markets,Broad Market & Core Indices; Emerging Markets; Equity; Plain
+REMG,REMG,Russell Investments Emerging Markets Equity ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,Emerging Markets; United States,Broad Market & Core Indices; Emerging Markets; Equity; Plain; United States
+EMDV,EMDV,ProShares MSCI Emerging Markets Dividend Growers ETF,BATS, ,Y,N,,,ETF,Equity,Dividend/Income,Broad Market & Core Indices; Dividend & Income,Emerging Markets,Broad Market & Core Indices; Dividend & Income; Dividend/Income; Emerging Markets; Equity
+SDEM,SDEM,Global X MSCI SuperDividend Emerging Markets ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Dividend/Income,Broad Market & Core Indices; Dividend & Income,Emerging Markets; Global,Broad Market & Core Indices; Dividend & Income; Dividend/Income; Emerging Markets; Equity; Global
+EQLT,EQLT,iShares MSCI Emerging Markets Quality Factor ETF,BATS, ,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Value & Quality,Emerging Markets,Broad Market & Core Indices; Emerging Markets; Equity; Factor; Value & Quality
+EVLU,EVLU,iShares MSCI Emerging Markets Value Factor ETF,BATS, ,Y,N,,,ETF,Equity,Factor,Broad Market & Core Indices; Value & Quality,Emerging Markets,Broad Market & Core Indices; Emerging Markets; Equity; Factor; Value & Quality
+NSI,NSI,National Security Emerging Markets Index ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Defense & Military,Emerging Markets,Defense & Military; Emerging Markets; Equity; Plain
+AGEM,AGEM,abrdn Emerging Markets Dividend Active ETF,NASDAQ,G,Y,N,,,ETF,Equity,Dividend/Income; Active,Dividend & Income,Emerging Markets,Active; Dividend & Income; Dividend/Income; Emerging Markets; Equity
+DEM,DEM,WisdomTree Emerging Markets High Dividend Fund,NYSE ARCA, ,Y,N,,,ETF,Equity,Dividend/Income,Dividend & Income,Emerging Markets,Dividend & Income; Dividend/Income; Emerging Markets; Equity
+DIEM,DIEM,Franklin Emerging Market Core Dividend Tilt Index ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Dividend/Income,Dividend & Income,Emerging Markets,Dividend & Income; Dividend/Income; Emerging Markets; Equity
+DVYE,DVYE,iShares Emerging Markets Dividend Index Fund Exchange Traded Fund,NYSE ARCA, ,Y,N,,,ETF,Equity,Dividend/Income,Dividend & Income,Emerging Markets,Dividend & Income; Dividend/Income; Emerging Markets; Equity
+EDIV,EDIV,State Street SPDR S&P Emerging Markets Dividend ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Dividend/Income,Dividend & Income,Emerging Markets,Dividend & Income; Dividend/Income; Emerging Markets; Equity
+VEM,VEM,Virtus Emerging Markets Dividend ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Dividend/Income,Dividend & Income,Emerging Markets; United States,Dividend & Income; Dividend/Income; Emerging Markets; Equity; United States
+DGRE,DGRE,WisdomTree Emerging Markets Quality Dividend Growth Fund,NASDAQ,G,Y,N,,,ETF,Equity,Dividend/Income; Factor,Dividend & Income; Growth & Momentum,Emerging Markets,Dividend & Income; Dividend/Income; Emerging Markets; Equity; Factor; Growth & Momentum
+EEMO,EEMO,Invesco S&P Emerging Markets Momentum ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Factor,Growth & Momentum,Emerging Markets,Emerging Markets; Equity; Factor; Growth & Momentum
+PIE,PIE,Invesco Dorsey Wright Emerging Markets Momentum ETF,NASDAQ,G,Y,N,,,ETF,Equity,Factor,Growth & Momentum,Emerging Markets,Emerging Markets; Equity; Factor; Growth & Momentum
+TEMX,TEMX,Touchstone Sands Capital Emerging Markets ex-China Growth ETF,BATS, ,Y,N,,,ETF,Equity,Factor,Growth & Momentum,Emerging Markets; China,China; Emerging Markets; Equity; Factor; Growth & Momentum
+UEVM,UEVM,VictoryShares Emerging Markets Value Momentum ETF,NASDAQ,G,Y,N,,,ETF,Equity,Factor,Growth & Momentum; Value & Quality,Emerging Markets,Emerging Markets; Equity; Factor; Growth & Momentum; Value & Quality
+EMIF,EMIF,iShares Emerging Markets Infrastructure ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Infrastructure,Emerging Markets,Emerging Markets; Equity; Infrastructure; Plain
+EMQQ,EMQQ,EMQQ The Emerging Markets Internet ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Internet & E-Commerce,Emerging Markets,Emerging Markets; Equity; Internet & E-Commerce; Plain
+EEMX,EEMX,State Street SPDR MSCI Emerging Markets Fossil Fuel Reserves Free ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Traditional Energy; Broad Market & Core Indices,Emerging Markets,Broad Market & Core Indices; Emerging Markets; Equity; Plain; Traditional Energy
+AVES,AVES,Avantis Emerging Markets Value ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Factor,Value & Quality,Emerging Markets,Emerging Markets; Equity; Factor; Value & Quality
+DFEV,DFEV,Dimensional Emerging Markets Value ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Factor,Value & Quality,Emerging Markets,Emerging Markets; Equity; Factor; Value & Quality
+EELV,EELV,Invesco S&P Emerging Markets Low Volatility ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Factor,Value & Quality,Emerging Markets,Emerging Markets; Equity; Factor; Value & Quality
+QLVE,QLVE,FlexShares Emerging Markets  Quality Low Volatility Index Fund,NYSE ARCA, ,Y,N,,,ETF,Equity,Factor,Value & Quality,Emerging Markets,Emerging Markets; Equity; Factor; Value & Quality

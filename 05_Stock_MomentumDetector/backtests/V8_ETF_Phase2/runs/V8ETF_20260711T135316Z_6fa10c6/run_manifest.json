@@ -1,0 +1,52 @@
+{
+  "Run_ID": "V8ETF_20260711T135316Z_6fa10c6",
+  "Started_UTC": "2026-07-11T13:53:16.996336+00:00",
+  "Completed_UTC": "2026-07-11T13:53:20.393236+00:00",
+  "Purpose": "V8 ETF Phases 2A-2C direct mapping API/data-quality backtest",
+  "Sample_Stocks": [
+    "NVDA",
+    "AAPL",
+    "MSFT",
+    "TSLA",
+    "AMZN"
+  ],
+  "Provider": "TRADINGVIEW_PUBLIC_STOCK_ETF_PAGE",
+  "Provider_Mode": "ONE_DIRECT_STOCK_PAGE_PER_PRODUCTION_LOOKUP",
+  "Top10_Proof": {
+    "Method": "WEIGHT_GT_100_DIV_11_NON_LEVERAGED_US_ETF",
+    "Threshold_Pct": 9.090909090909092,
+    "Conservative": true
+  },
+  "Validation_Max_Staleness_Days": 60,
+  "Production_Request_Count": 5,
+  "Production_Per_Stock": 1.0,
+  "Validation_Request_Count": 13,
+  "Validation_Requests_Are_Production_Reachable": false,
+  "Returned_Mapping_Count": 13,
+  "Validation_Pass_Count": 13,
+  "Validation_Failure_Count": 0,
+  "Production_Latency_Ms": {
+    "Median": 155.66609999223147,
+    "P95": 212.5075599993579,
+    "Maximum": 226.15529999893624
+  },
+  "Validation_Latency_Ms": {
+    "Median": 111.13320000004023,
+    "P95": 137.92383999971204
+  },
+  "Git_Commit": "6fa10c6ee71ec01f8ec28e66d9055bac0fc98204",
+  "Git_Worktree_Dirty": true,
+  "Python": "3.14.4 (tags/v3.14.4:23116f9, Apr  7 2026, 14:10:54) [MSC v.1944 64 bit (AMD64)]",
+  "Source_Hashes": {
+    "ETF_Context_V8.py": "e2ff7ad493d72bdd804c2830fe7e4f539e0a416f2b952d9d483cf66ec6359db2",
+    "Momentum_Detector_V8.py": "37493e4a97da1b3eb578fdddfe60b3ca96ba750e95703a14c7f5eb932a9b9ee2",
+    "Message_Map": "1379ae11a923822426e752470e3e8bb6e5d981ddd643a2b8244b12074dd59cf8"
+  },
+  "Known_Limitations": [
+    "The selected source is a public TradingView stock-to-funds page, not a documented developer API contract.",
+    "Only the first 100 direct exposure rows rendered by the source are available.",
+    "The conservative proof omits valid top-ten holdings at or below 100/11 percent rather than guessing rank.",
+    "The provider's reverse page does not publish a holdings as-of date; the separate validation page does.",
+    "Validation holdings-page requests are test-only and are not reachable from Momentum_Detector_V8.py."
+  ]
+}

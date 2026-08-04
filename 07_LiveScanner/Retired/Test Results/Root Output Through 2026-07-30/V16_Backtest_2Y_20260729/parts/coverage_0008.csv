@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+GPN,US,Global Payments Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MTSI,US,"MACOM Technology Solutions Holdings, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+FTAI,US,FTAI Aviation Ltd. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+FIS,US,"Fidelity National Information Services, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+ENTG,US,"Entegris, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+STRL,US,"Sterling Infrastructure, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+EXE,US,Expand Energy Corporation - Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+ROL,US,"Rollins, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+ULTA,US,"Ulta Beauty, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+IOT,US,Samsara Inc. Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+SNA,US,Snap-On Incorporated Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+SN,US,"SharkNinja, Inc. Ordinary Shares",Consumer Discretionary,PROCESSED,,751,2023-07-31,2026-07-28,501,7
+USFD,US,US Foods Holding Corp. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+CTSH,US,Cognizant Technology Solutions Corporation - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+STE,US,STERIS plc (Ireland) Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+RBA,US,"RB Global, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+VTRS,US,Viatris Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+PKG,US,Packaging Corporation of America Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+GH,US,"Guardant Health, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+BCE,US,"BCE, Inc. Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+YPF,US,YPF Sociedad Anonima Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+AMCR,US,Amcor plc Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+SNX,US,TD SYNNEX Corporation Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+LYB,US,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+LEN,US,Lennar Corporation Class A Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+SQM,US,Sociedad Quimica y Minera S.A. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+RS,US,"Reliance, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+IFF,US,"International Flavors & Fragrances, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+IP,US,International Paper Company Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+AS,US,"Amer Sports, Inc. Ordinary Shares",Consumer Discretionary,PROCESSED,,623,2024-02-01,2026-07-28,501,9
+WIT,US,Wipro Limited Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+DD,US,"DuPont de Nemours, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+CF,US,"CF Industries Holdings, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+PAAS,US,Pan American Silver Corp. Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+DKS,US,Dick's Sporting Goods Inc Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+MGA,US,"Magna International, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+LSCC,US,Lattice Semiconductor Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+RBC,US,RBC Bearings Incorporated Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+FTV,US,Fortive Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+LII,US,"Lennox International, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+ARXS,US,"Arxis, Inc. - Class A Common Stock",Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,71,2026-04-16,2026-07-28,0,0
+AKAM,US,"Akamai Technologies, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+NBIX,US,"Neurocrine Biosciences, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+BBY,US,"Best Buy Co., Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+MAIR,US,Madison Air Solutions Corporation Class A Common Stock,Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,71,2026-04-16,2026-07-28,0,0
+FLUT,US,Flutter Entertainment plc Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+SITM,US,SiTime Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+TOST,US,"Toast, Inc. Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+PR,US,Permian Resources Corporation Class A Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+PFGC,US,Performance Food Group Company Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11

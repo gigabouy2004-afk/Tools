@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+GAUZ,US,Gauzy Ltd. - Ordinary Shares,Miscellaneous,PROCESSED,,536,2024-06-06,2026-07-28,501,0
+YJ,US,Yunji Inc. - American Depository Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EVGN,US,Evogene Ltd. - Ordinary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+IMNN,US,"Imunon, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+TGL,US,Treasure Global Inc. - Common Stock,Consumer Discretionary,PROCESSED,,993,2022-08-11,2026-07-28,501,0
+ILAG,US,Intelligent Living Application Group Inc. - Ordinary Shares,Consumer Discretionary,PROCESSED,,1001,2022-07-29,2026-07-27,500,0
+BQ,US,Boqii Holding Limited Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AIM,US,AIM ImmunoTech Inc. Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CSAI,US,"Cloudastructure, Inc. - Class A Common Stock",Technology,PROCESSED,,374,2025-01-30,2026-07-28,374,0
+NVNO,US,enVVeno Medical Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AMST,US,Amesite Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CVKD,US,"Cadrenal Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,882,2023-01-20,2026-07-28,501,1
+POM,US,POMDOCTOR LIMITED - American Depositary Shares,Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,201,2025-10-08,2026-07-28,0,0
+AIDX,US,"20/20 Biolabs, Inc. - Common Stock",Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,110,2026-02-19,2026-07-28,0,0
+MWG,US,Multi Ways Holdings Limited Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,832,2023-04-03,2026-07-28,501,0
+TANH,US,Tantech Holdings Ltd. - Class A Common Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NDRA,US,ENDRA Life Sciences Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BNZI,US,"Banzai International, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PMCB,US,"PharmaCyte  Biotech, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AUUD,US,Auddia Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GELS,US,Gelteq Limited - Ordinary Shares,Health Care,PROCESSED,,436,2024-10-29,2026-07-28,436,0
+ACXP,US,"Acurx Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GDC,US,GD Culture Group Limited - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+EJH,US,E-Home Household Service Holdings Limited - Ordinary shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GCDT,US,Green Circle Decarbonize Technology Limited Ordinary Shares,Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,135,2026-01-13,2026-07-28,0,0
+LIQT,US,"LiqTech International, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+VCIG,US,VCI Global Limited - Ordinary Share,Consumer Discretionary,PROCESSED,,825,2023-04-13,2026-07-28,501,0
+IOTR,US,iOThree Limited - Ordinary Shares,Consumer Discretionary,PROCESSED,,325,2025-04-10,2026-07-28,325,0
+HCAI,US,"Huachen AI Parking Management Technology Holding Co., Ltd. - Class A Ordinary Shares",Consumer Discretionary,PROCESSED,,370,2025-02-05,2026-07-28,370,0
+ACON,US,"Aclarion, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PULM,US,"Pulmatrix, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+PCSA,US,"Processa Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GMM,US,Global Mofy AI Limited  - Class A Ordinary Shares,Technology,PROCESSED,,702,2023-10-09,2026-07-28,501,0
+JAGX,US,"Jaguar Health, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+XBIO,US,"Xenetic Biosciences, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DPU,US,Top KingWin Ltd - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,822,2023-04-18,2026-07-28,501,0
+DSS,US,"DSS, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BCAB,US,"BioAtla, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AZI,US,Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,479,2024-08-28,2026-07-28,479,0
+MSGY,US,Masonglory Limited - Ordinary Shares,,PROCESSED,,266,2025-07-08,2026-07-28,266,0
+SILO,US,"Silo Pharma, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ADIL,US,"Adial Pharmaceuticals, Inc - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ORKT,US,Orangekloud Technology Inc. - Class A Ordinary Shares,Technology,PROCESSED,,503,2024-07-25,2026-07-28,501,0
+KITT,US,"Nauticus Robotics, Inc. - Common stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GLXG,US,Galaxy Payroll Group Limited - Class A Ordinary Shares,Industrials,PROCESSED,,469,2024-09-12,2026-07-28,469,0
+VVOS,US,"Vivos Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CURX,US,Curanex Pharmaceuticals Inc - Common Stock,Health Care,PROCESSED,,231,2025-08-26,2026-07-28,231,0
+SNOA,US,"Sonoma Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SOAR,US,"Volato Group, Inc. Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TDIC,US,Dreamland Limited - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,255,2025-07-23,2026-07-28,255,0

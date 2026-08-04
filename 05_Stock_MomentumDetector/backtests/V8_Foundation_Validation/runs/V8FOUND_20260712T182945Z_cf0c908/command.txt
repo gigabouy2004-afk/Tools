@@ -1,0 +1,1 @@
+python Backtest_Momentum_Detector_V8_Foundation.py --config config/V8_Foundation_Validation_Config.json --output-root backtests/V8_Foundation_Validation/runs

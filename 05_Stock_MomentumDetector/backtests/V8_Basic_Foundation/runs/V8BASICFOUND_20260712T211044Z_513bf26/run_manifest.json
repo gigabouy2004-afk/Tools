@@ -1,0 +1,38 @@
+{
+  "Run_ID": "V8BASICFOUND_20260712T211044Z_513bf26",
+  "Engine_Version": "V8_BASIC_FOUNDATION_2",
+  "Configuration_ID": "V8_BASIC_CALC_EMA_MACD_RSI_ADX_ATR_OBV_AROON_20260713",
+  "Indicator_Set_ID": "V1_V3_RAW_INDICATORS_1",
+  "Indicator_Authority": "CALCULATION_ONLY",
+  "Stocks": 20,
+  "Dates": 4,
+  "Rows": 80,
+  "Eligible_Rows": 25,
+  "State_Counts": {
+    "FOUNDATION_ELIGIBLE_BULLISH_POSITIVE_MACD": 25,
+    "FOUNDATION_NOT_ELIGIBLE_BELOW_OR_AT_EMA": 27,
+    "FOUNDATION_NOT_ELIGIBLE_MACD_EARLY_RECOVERY_BELOW_ZERO": 3,
+    "FOUNDATION_NOT_ELIGIBLE_MACD_NEGATIVE_WEAKENING": 3,
+    "FOUNDATION_NOT_ELIGIBLE_MACD_POSITIVE_PULLBACK": 22
+  },
+  "Eligible_Directional": {
+    "D1_Positive": 19,
+    "D5_Positive": 23,
+    "D8_Positive": 18
+  },
+  "Forbidden_Output_Fields_Present": [],
+  "Foundation_Regression_Rows": 80,
+  "Foundation_Regression_Failures": 0,
+  "Started_UTC": "2026-07-12T21:10:44.049477+00:00",
+  "Completed_UTC": "2026-07-12T21:10:50.429577+00:00",
+  "Git_Commit": "513bf2607c9f7934cac5b8708fcd0b61fdcdeb58",
+  "Git_Worktree_Dirty": true,
+  "Source_Run": "D:\\Tools\\Stock_MomentumDetector\\backtests\\V8_Foundation_Validation\\runs\\V8FOUND_20260712T182945Z_cf0c908",
+  "Source_Run_Checksums_SHA256": "be7ba6e0f85f53d2681ddaf128ee6b86211c9344fac280ac05fe6f017f376259",
+  "Decision_Scope": "FOUNDATION_ONLY_NO_SCORE",
+  "Known_Limitations": [
+    "Purposeful 20-stock technology sample in one calendar quarter.",
+    "No transaction costs, stops, position sizing, or intraday evidence.",
+    "This run validates the basic Foundation baseline and does not approve later indicators."
+  ]
+}

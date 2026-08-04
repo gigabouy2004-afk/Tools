@@ -1,0 +1,13 @@
+# Frozen backtest evidence is checksum-addressed and must retain exact bytes.
+backtests/V8_Beta_Release1/runs/** -text
+backtests/V8_ETF_Phase2/runs/** -text
+backtests/V8_Comprehensive/runs/** -text
+backtests/V8_Directional_Persistence/runs/** -text
+backtests/V8_MACD_Research/runs/** -text
+backtests/V8_Foundation_Validation/runs/** -text
+backtests/V8_Basic_Foundation/runs/** -text
+backtests/V8_RSI_Base/** -text
+backtests/V8_V1_V3_Indicator_Baseline/runs/** -text
+backtests/V8_V1_V3_Composite_Score_Expanded/runs/** -text
+backtests/V8_Basic_Health_Score/runs/** -text
+backtests/V8_MACD_Foundation_Comparison_Expanded/runs/** -text

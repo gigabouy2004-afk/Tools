@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+FEED,US,"ENvue Medical, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NXTS,US,Nexentis Technologies Inc. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CDTG,US,CDT Environmental Technology Investment Holdings Limited - ordinary shares,Industrials,PROCESSED,,569,2024-04-19,2026-07-28,501,0
+FLYE,US,"Fly-E Group, Inc. - Common Stock",Industrials,PROCESSED,,536,2024-06-06,2026-07-28,501,0
+ICON,US,Icon Energy Corp. - Common stock,Consumer Discretionary,PROCESSED,,512,2024-07-12,2026-07-28,501,0
+SVRE,US,SaverOne 2014 Ltd. - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+OCG,US,Oriental Culture Holding LTD - Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GCTK,US,"GlucoTrack, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GOVX,US,"GeoVax Labs, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RBNE,US,Robin Energy Ltd. - Common Stock,Consumer Discretionary,PROCESSED,,324,2025-04-11,2026-07-28,324,0
+IVDA,US,"Iveda Solutions, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RAYA,US,Erayak Power Solution Group Inc. - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,906,2022-12-14,2026-07-28,501,1
+UPC,US,Universe Pharmaceuticals Inc - Class A Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SNYR,US,Synergy CHC Corp. - Common Stock,Health Care,PROCESSED,,440,2024-10-23,2026-07-28,440,0
+SPRC,US,SciSparc Ltd. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GRI,US,"GRI Bio, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FTFT,US,Future FinTech Group Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SLXN,US,Silexion Therapeutics Corp - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DCOY,US,Decoy Therapeutics Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+WCT,US,Wellchange Holdings Company Limited - Class A Ordinary shares,Technology,PROCESSED,,455,2024-10-02,2026-07-28,455,0
+PHGE,US,BiomX Inc. COmmon Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+OGEN,US,Oragenics Inc. Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SUGP,US,SU Group Holdings Limited - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,629,2024-01-24,2026-07-28,501,0
+CDT,US,CDT Equity Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TNON,US,"Tenon Medical, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GWAV,US,"Greenwave Technology Solutions, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AMIX,US,"Autonomix Medical, Inc. - Common Stock",Health Care,PROCESSED,,626,2024-01-29,2026-07-28,501,0
+XXII,US,"22nd Century Group, Inc - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NEXR,US,Nexera Technologies Ltd - Ordinary Shares,Consumer Discretionary,PROCESSED,,982,2022-08-26,2026-07-28,501,0
+BNRG,US,Brenmiller Energy Ltd - Ordinary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AZTR,US,Azitra Inc Common Stock,Health Care,PROCESSED,,780,2023-06-16,2026-07-28,501,0
+EZGO,US,EZGO Technologies Ltd. - Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LNKS,US,Linkers Industries Limited - Class A Ordinary Shares,Technology,PROCESSED,,410,2024-12-05,2026-07-28,410,0
+MI,US,NFT Limited Class A Ordinary Share,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BBLG,US,Bone Biologics Corp - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MYSZ,US,"My Size, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PAVS,US,Paranovus Entertainment Technology Ltd. - Class A Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SHPH,US,"Shuttle Pharmaceuticals Holdings, Inc. - common stock",Health Care,PROCESSED,,979,2022-08-31,2026-07-28,501,0
+CLDI,US,"Calidi Biotherapeutics, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+VMAR,US,Vision Marine Technologies Inc. - Common Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+IVF,US,"INVO Fertility, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RPGL,US,Republic Power Group Limited - Class A Ordinary Shares,Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,197,2025-10-14,2026-07-28,0,0
+MTNB,US,"Matinas Biopharma Holdings, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+VTAK,US,"Catheter Precision, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+VIVK,US,"Vivakor, Inc. - Common Stock",,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+IPW,US,iPower Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TRNR,US,Interactive Strength Inc. - Common Stock,Technology,PROCESSED,,814,2023-04-28,2026-07-28,501,0
+CMND,US,Clearmind Medicine Inc. - Common Shares,Health Care,PROCESSED,,926,2022-11-15,2026-07-28,501,0
+RUBI,US,Rubico Inc. - Common Stock,Consumer Discretionary,PROCESSED,,247,2025-08-04,2026-07-28,247,0
+DAIC,US,"CID HoldCo, Inc. - Common Stock",Technology,PROCESSED,,276,2025-06-23,2026-07-28,276,0

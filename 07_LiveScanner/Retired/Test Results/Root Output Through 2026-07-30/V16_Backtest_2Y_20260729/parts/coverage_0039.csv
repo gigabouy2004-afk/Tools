@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+BTQ,US,BTQ Technologies Corp. - Common Stock,,PROCESSED,,209,2025-09-26,2026-07-28,209,0
+CTEV,US,Claritev Corporation Class A Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+GOGO,US,Gogo Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NRC,US,NRC Health - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+GAU,US,Galiano Gold Inc.,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+QNC,US,Quantum eMotion Corp. Common Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,107,2026-02-24,2026-07-28,0,0
+PROK,US,ProKidney Corp. - Class A Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+CLMB,US,"Climb Global Solutions, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+MAGN,US,Magnera Corporation Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AIAI,US,AIAI Holdings Corporation - Class A common stock,Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,51,2026-05-14,2026-07-28,0,0
+MTW,US,"Manitowoc Company, Inc. (The) Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+GMTL,US,Guardian Metal Resources PLC ADS,Basic Materials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,89,2026-03-20,2026-07-28,0,0
+OFIX,US,Orthofix Medical Inc.  - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+ELMT,US,The Elmet Group Co. - Common Stock,Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,66,2026-04-23,2026-07-28,0,0
+IDR,US,"Idaho Strategic Resources, Inc. Common Stock",Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+SPIR,US,"Spire Global, Inc. Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+ZKH,US,"ZKH Group Limited American Depositary Shares, each representing thirty-five (35) Class A Ordinary Shares",Consumer Discretionary,PROCESSED,,654,2023-12-15,2026-07-28,501,0
+IBEX,US,IBEX Limited - Common Share,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+VALN,US,Valneva SE - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+SOPH,US,SOPHiA GENETICS SA - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+BWMN,US,Bowman Consulting Group Ltd. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+CLPT,US,ClearPoint Neuro Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+IPI,US,"Intrepid Potash, Inc Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+CABA,US,"Cabaletta Bio, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+LXFR,US,Luxfer Holdings PLC Ordinary Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+QTTB,US,Q32 Bio Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+ABTC,US,American Bitcoin Corp. - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PRTA,US,Prothena Corporation plc - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CMDB,US,Costamare Bulkers Holdings Limited Common Stock,Consumer Discretionary,PROCESSED,,311,2025-05-01,2026-07-28,311,2
+BLW,US,Blackrock Limited Duration Income Trust,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+VMD,US,"Viemed Healthcare, Inc. - Common Shares",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+BLND,US,"Blend Labs, Inc. Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+KYTX,US,"Kyverna Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,617,2024-02-09,2026-07-28,501,6
+VREX,US,Varex Imaging Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+QMCO,US,Quantum Corporation - Common Stock,Technology,PROCESSED,,1001,2022-07-29,2026-07-28,500,2
+FSTR,US,L.B. Foster Company - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+ASPN,US,"Aspen Aerogels, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TITN,US,Titan Machinery Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+OVID,US,Ovid Therapeutics Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+SRTA,US,"Strata Critical Medical, Inc. - Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+MATV,US,"Mativ Holdings, Inc. Common Stock",Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+ERII,US,"Energy Recovery, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ACTG,US,Acacia Research Corporation - Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+DCTH,US,"Delcath Systems, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+EVMN,US,"Evommune, Inc. Common Stock",Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,180,2025-11-06,2026-07-28,0,0
+OCGN,US,"Ocugen, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+ITRG,US,Integra Resources Corp. Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+PBYI,US,Puma Biotechnology Inc - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+SGMT,US,Sagimet Biosciences Inc. - Series A Common Stock,Health Care,PROCESSED,,762,2023-07-14,2026-07-28,501,1
+PACB,US,"Pacific Biosciences of California, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1

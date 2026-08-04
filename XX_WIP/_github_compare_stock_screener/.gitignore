@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Runtime logs
+*.log
+
+# Local/generated screener artifacts
+*_output.csv
+*_report.html
+*_test.html
+screener_output.csv
+screener_report.html
+screener_run_audit.csv
+semiconductor_bucket_validation_review.csv
+batch_smoke_output.csv
+batch_smoke_report.html
+tech_semis_output.csv
+tech_sample_output.csv
+
+# Uploaded source lists can contain large or local-only market universes.
+uploads/

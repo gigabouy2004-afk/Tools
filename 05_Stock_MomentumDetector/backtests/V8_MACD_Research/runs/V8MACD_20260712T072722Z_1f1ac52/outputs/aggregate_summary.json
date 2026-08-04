@@ -1,0 +1,13 @@
+{
+  "Run_ID": "V8MACD_20260712T072722Z_1f1ac52",
+  "Source_Run": "V8FULL_20260711T194644Z_3ed85d1_20260713",
+  "Quarter": "2026Q2",
+  "Same_Date_Comparison": "2026-04-30",
+  "Variants_Tested": 5,
+  "Total_Episodes": 122,
+  "Signal_Rule": "CLOSE_GT_EMA200_AND_MACD_LINE_GT_SIGNAL_AND_MACD_LINE_GT_ZERO_EPISODE_START",
+  "Primary_Outcome": "D1_CLOSE_GREATER_THAN_D_CLOSE",
+  "Descriptive_Leader": "FIB_FAST_8_21_5",
+  "Production_Score_Changed": false,
+  "Conclusion_Limit": "SAME_QUARTER_RESEARCH_NOT_OUT_OF_SAMPLE_PROOF"
+}

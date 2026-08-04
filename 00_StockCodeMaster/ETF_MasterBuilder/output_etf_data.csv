@@ -1,0 +1,9 @@
+ETF_Code,Security Name,Beta,Alpha,Sharpe Ratio (3years),Daily Trading Volume,Portfolio Holdings,AUM,Expense Ratio,Current traded Price (LTP),Liquidity (3 month),Number of holdings,Ratings - MorningStar,Risk Rating,ETF Category
+ORBX,Global X Space Tech ETF,0.0,,,27999,"SPCX, ASTS, RKLB, VSAT, IRDM, SESGL, MDA, PL, FLY, GSAT, LUNR, YSS, RDW, AVIO, BKSY",55103696,,48.74,95949,39,,,Industrials
+MARS,Roundhill Space & Technology ETF,0.0,,,41985,"SPCX, RKLB, ASTS, VSAT, PL, GSAT, IRDM, MDA.TO, LUNR, FLY",74903600,,28.72,181981,10,,,Miscellaneous Sector
+NASA,Tema Space Innovators ETF,0.0,,,1718045,"RKLB, ECHO, ASTS, VSAT, MDA, FLY, VNP, LUNR, FTC, PL, 3491, YSS, VOYG, BKSY",1586640896,,26.61,6355588,42,,,Large Blend
+UFO,Procure Space ETF,1.86,,0.3815695,540843,"VSAT, ASTS, PL, SPCX, SIRI, TRMB, GRMN, RKLB, ECHO, MDA.TO",850630912,,47.67,1406881,10,,,Miscellaneous Sector
+DIPR,Corgi Space & Satellite Communi,0.0,,,2748,"LMT, RKLB, MRCY, VSAT, ASTS, IRDM, MDA, GRMN, ECHO, PL, GSAT, MTSI, RDW, VOYG, BWXT",3728458,,24.3645,6321,31,,,Industrials
+ROKT,State Street SPDR S&P Kensho Final Frontiers ETF,1.43,,0.3910948,25167,"DCO, IRDM, HEI, RTX, ESE, BA, MOG.A, HXL, TDY, SPIR, LMT, NOC, PL, LHX, OII",248353792,,114.094,54404,38,,,Industrials
+WAR,U.S. Global Technology and Aerospace & Defense ETF,0.0,,,18732,"AXON, ALAB, MILDEF, MU, DRO, LUNR, KRMN, RYCEY, EOS, THEON, TER, LSCC, NVDA, PLTR, BESI",41334488,,31.7268,29067,31,,,Technology
+ARKX,ARK Space & Defense Innovation ETF,1.67,,0.3011238,914133,"SPCX, LHX, DE, KTOS, RKLB, AMD, AVAV, GOOG, AMZN, TER, IRDM, ACHR, TSLA, 6301, PLTR",933603136,,32.3,1312252,37,,,Technology

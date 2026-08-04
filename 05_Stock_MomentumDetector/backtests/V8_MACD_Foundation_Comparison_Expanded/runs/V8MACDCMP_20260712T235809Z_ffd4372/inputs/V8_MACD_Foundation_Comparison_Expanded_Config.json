@@ -1,0 +1,23 @@
+{
+  "Experiment_ID": "V8_MACD_FOUNDATION_COMPARISON_EXPANDED_20260713",
+  "Purpose": "Compare MACD 12/26/9 and 8/21/5 before any sector-context fork, with false-positive priority",
+  "Source_Run": "backtests/V8_Basic_Health_Score/runs/V8HEALTH_20260712T232546Z_9a1689f",
+  "MACD_Variants": {
+    "STANDARD_12_26_9": {
+      "Fast": 12,
+      "Slow": 26,
+      "Signal": 9
+    },
+    "FIBONACCI_8_21_5": {
+      "Fast": 8,
+      "Slow": 21,
+      "Signal": 5
+    }
+  },
+  "Forward_Horizons_Sessions": [1, 3],
+  "Selected_Stages": ["FOUNDATION", "HEALTH_QUALIFIED"],
+  "False_Positive_Definition": "SELECTED_AND_FORWARD_RETURN_LESS_THAN_OR_EQUAL_TO_ZERO",
+  "False_Negative_Definition": "NOT_SELECTED_AND_FORWARD_RETURN_GREATER_THAN_ZERO",
+  "No_Indicator_Or_Score_Tuning_During_Run": true,
+  "Chart_Lookback_Sessions": 100
+}

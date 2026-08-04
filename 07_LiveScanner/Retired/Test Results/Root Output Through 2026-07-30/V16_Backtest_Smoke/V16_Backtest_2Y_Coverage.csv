@@ -1,0 +1,11 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+RELIANCE.NS,INDIA,Reliance Industries Limited,,PROCESSING_ERROR,AttributeError: 'DatetimeIndex' object has no attribute 'ge',988,2022-07-28,2026-07-27,0,0
+AAPL,US,Apple Inc. - Common Stock,Technology,PROCESSING_ERROR,AttributeError: 'DatetimeIndex' object has no attribute 'ge',1002,2022-07-29,2026-07-28,0,0
+AMZN,US,,,PROCESSING_ERROR,AttributeError: 'DatetimeIndex' object has no attribute 'ge',1002,2022-07-29,2026-07-28,0,0
+GOOGL,US,Alphabet Inc. - Class A Common Stock,Technology,PROCESSING_ERROR,AttributeError: 'DatetimeIndex' object has no attribute 'ge',1002,2022-07-29,2026-07-28,0,0
+JPM,US,,,PROCESSING_ERROR,AttributeError: 'DatetimeIndex' object has no attribute 'ge',1002,2022-07-29,2026-07-28,0,0
+META,US,"Meta Platforms, Inc. - Class A Common Stock",Technology,PROCESSING_ERROR,AttributeError: 'DatetimeIndex' object has no attribute 'ge',1002,2022-07-29,2026-07-28,0,0
+MSFT,US,Microsoft Corporation - Common Stock,Technology,PROCESSING_ERROR,AttributeError: 'DatetimeIndex' object has no attribute 'ge',1002,2022-07-29,2026-07-28,0,0
+NVDA,US,NVIDIA Corporation - Common Stock,Technology,PROCESSING_ERROR,AttributeError: 'DatetimeIndex' object has no attribute 'ge',1002,2022-07-29,2026-07-28,0,0
+TSLA,US,"Tesla, Inc.  - Common Stock",Industrials,PROCESSING_ERROR,AttributeError: 'DatetimeIndex' object has no attribute 'ge',1002,2022-07-29,2026-07-28,0,0
+XOM,US,ExxonMobil Holdings Corporation Common Stock,Energy,PROCESSING_ERROR,AttributeError: 'DatetimeIndex' object has no attribute 'ge',1002,2022-07-29,2026-07-28,0,0

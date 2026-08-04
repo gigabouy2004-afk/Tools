@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+AKTS,US,"Aktis Oncology, Inc. - Common stock",Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,137,2026-01-09,2026-07-28,0,0
+OI,US,"O-I Glass, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ICFI,US,"ICF International, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+NICM,US,Nicola Mining Inc. - American Depositary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,73,2026-04-14,2026-07-28,0,0
+CXM,US,"Sprinklr, Inc. Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+HLIT,US,Harmonic Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+NBR,US,Nabors Industries Ltd.,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+DMC,US,Del Monte Corporation Ordinary Shares,,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+PBT,US,Permian Basin Royalty Trust Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+CCEC,US,Capital Clean Energy Carriers Corp. - Common Share,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+VTOL,US,"Bristow Group, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+AI,US,"C3.ai, Inc. Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+SBET,US,"Sharplink, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NVAX,US,"Novavax, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+AMN,US,AMN Healthcare Services Inc,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SID,US,Companhia Siderurgica Nacional S.A. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+GIC,US,Global Industrial Company Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+AVBP,US,"ArriVent BioPharma, Inc. - Common Stock",Health Care,PROCESSED,,627,2024-01-26,2026-07-28,501,7
+UVV,US,Universal Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+RES,US,"RPC, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+BV,US,"BrightView Holdings, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+DCH,US,Dauch Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+LGIH,US,"LGI Homes, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NWPX,US,"NWPX Infrastructure, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+TRAX,US,"First Tracks Biotherapeutics, Inc. - Ordinary Shares",Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,79,2026-04-06,2026-07-28,0,0
+KMTS,US,"Kestra Medical Technologies, Ltd. - Common Stock",Health Care,PROCESSED,,350,2025-03-06,2026-07-28,350,0
+SLSR,US,Solaris Resources Inc. Common Shares,,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+ABSI,US,Absci Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+PCT,US,"PureCycle Technologies, Inc. - Common stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+ROCK,US,"Gibraltar Industries, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NSSC,US,"NAPCO Security Technologies, Inc. - Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+WINA,US,Winmark Corporation - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+AVLN,US,Avalyn Pharma Inc. - common stock,Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,61,2026-04-30,2026-07-28,0,0
+BORR,US,Borr Drilling Limited Common Shares,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+INBX,US,"Inhibrx Biosciences, Inc. - Common Stock",Health Care,PROCESSED,,542,2024-05-29,2026-07-28,501,7
+NRP,US,Natural Resource Partners LP Limited Partnership,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+POET,US,POET Technologies Inc. - Common Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+UPBD,US,"Upbound Group, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ATEC,US,"Alphatec Holdings, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+FBYD,US,"Falcon's Beyond Global, Inc. - Class A Common Stock",Consumer Discretionary,PROCESSED,,703,2023-10-06,2026-07-28,501,3
+AMPL,US,"Amplitude, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+RDWR,US,Radware Ltd. - Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+GHM,US,Graham Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+ASTE,US,"Astec Industries, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+IMTX,US,Immatics N.V. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+CNMD,US,CONMED Corporation Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LZ,US,"LegalZoom.com, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+ARDX,US,"Ardelyx, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+CMP,US,Compass Minerals Intl Inc Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+MNKD,US,MannKind Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8

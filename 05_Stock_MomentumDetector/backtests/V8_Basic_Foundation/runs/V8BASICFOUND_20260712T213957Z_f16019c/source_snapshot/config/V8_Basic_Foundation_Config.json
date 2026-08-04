@@ -1,0 +1,35 @@
+{
+  "Configuration_ID": "V8_BASIC_FOUNDATION_RSI_PLACEHOLDER_30_65_20260713",
+  "Schema_Version": "V8_BASIC_FOUNDATION_5",
+  "Purpose": "Evaluate EMA/MACD Foundation first and prove a variable-driven RSI cutoff using placeholder 30-65 limits that are explicitly not approved for operational trading",
+  "EMA_Period": 200,
+  "MACD": {
+    "Fast": 8,
+    "Slow": 21,
+    "Signal": 5
+  },
+  "Minimum_History_Bars": 300,
+  "Indicator_Set_ID": "V1_V3_RAW_INDICATORS_RSI_GATE_1",
+  "Indicator_Authority": "CONFIGURABLE_RSI_GATE_OTHER_CALCULATION_ONLY",
+  "Indicators": {
+    "RSI_Period": 14,
+    "ADX_Period": 14,
+    "ATR_Period": 14,
+    "OBV_EMA_Period": 20,
+    "Aroon_Period": 14
+  },
+  "Indicator_Rules": {
+    "RSI": {
+      "Lower_Limit": 30.0,
+      "Upper_Limit": 65.0,
+      "Rule_Type": "LOWER_UPPER_RANGE",
+      "Boundary_Mode": "INCLUSIVE",
+      "Authority": "CONFIGURABLE_CONTINUATION_GATE",
+      "Limit_Status": "PLACEHOLDER_FUNCTIONAL_TEST_ONLY",
+      "Operational_Use_Approved": false
+    }
+  },
+  "Price_Adjustment": "UNADJUSTED_OHLC",
+  "Eligibility_Rule": "CLOSE_ABOVE_EMA_AND_MACD_LINE_ABOVE_SIGNAL_AND_ZERO",
+  "Decision_Scope": "FOUNDATION_THEN_CONFIGURABLE_RSI_NO_SCORE"
+}

@@ -1,0 +1,2 @@
+ticker,market,security_name,sector,signal_date,signal_close,entry_date,entry_price,exit_date,exit_price,holding_sessions,return_pct,output_signal,setup_type,stoch_k,stoch_d,effective_buy_stoch_max,relative_volume_ratio,volume_history_percentile,average_daily_turnover_20,ema50_distance_atr,extreme_extension_review
+HTCR,US,"Heartcore Enterprises, Inc. - Common Stock",Technology,2025-01-06,40.0092,2025-01-07,40.0092,2025-01-14,27.5808,5,-31.0638,Buy_Momentum_Extension,MOMENTUM_CONTINUATION,50.4808,68.4358,80.0,0.83,,1295006.21,2.969,False

@@ -1,0 +1,147 @@
+INSTITUTIONAL PORTFOLIO-DRIVEN ETF CLASSIFICATION FRAMEWORK
+System Design: Layer A (Single-Stock Reference) x Layer B (Cumulative Weight Aggregation)
+
+================================================================================
+1. SYSTEM OVERVIEW & ARCHITECTURE
+================================================================================
+Traditional ticker-name parsing or high-level sector categorization creates major 
+blind spots (e.g., missing heavy High-Bandwidth Memory exposure in an ETF named 
+simply "AI Semiconductor"). This framework establishes an automated, bottom-up 
+classification engine that uses 100% of underlying portfolio weights to derive 
+an ETF's precise thematic identity.
+
+The system pipeline operates across two distinct programmatic layers:
+- LAYER A (Single-Stock Reference Ledger): A granular, localized reference catalog 
+  mapping individual security tickers (NYSE, NASDAQ, NSE) to their primary 
+  vertical and exact functional capability tags.
+- LAYER B (ETF Portfolio Accumulation Engine): The operational matrix layer that 
+  ingests the full portfolio line items, processes their allocation weights, 
+  pulls corresponding Layer A tags, and generates a combined thematic profile.
+
+================================================================================
+2. SYSTEM GUARDRAILS: DISQUALIFIERS & EXCLUSION MATRIX
+================================================================================
+To maximize processing efficiency and eliminate numerical noise from the bottom-up 
+matrix, raw ETF entries must be evaluated against these hard filter conditions 
+BEFORE pipeline extraction occurs. Any match drops the ETF instantly:
+
+A. Hard Structural Disqualifiers (Asset Class Exclusions)
+- Currency & FX Overlay Trackers: Pure cash baskets or foreign exchange pairs.
+  * Tokens: \bcurrency\b, \bforex\b, \bbaht\b, \byen\b, \beuro\b
+- Crypto & Digital Assets: Synthetic or spot token investment trusts.
+  * Tokens: \bcrypto\b, \bbitcoin\b, \bethereum\b, \bbtc\b, \beth\b
+- Real Estate / Property Baskets: Broad commercial/residential property complexes
+  (bypassed unless explicitly matched to individual Layer A datacenter REITs).
+  * Tokens: \breit\b, \breits\b, \breal estate\b, \bhousing\b
+
+B. Operational & Mathematical Disqualifiers (Thematic Noise Filters)
+- Leveraged & Inverse Vectors: Derivative multi-multiplier or short funds that 
+  distort underlying asset allocation tracking through swap options.
+  * Tokens: \b2x\b, \b3x\b, \binverse\b, \bshort\b, \bleveraged\b, \bultra\b, \bbear\b, \bbull\b
+- Multi-Asset Allocation Swaps: Balanced profiles, target-date, or tactical asset 
+  allocation frameworks that mix multi-asset categories.
+  * Tokens: \bmulti-asset\b, \bmulti asset\b, \ballocation\b, \btarget date\b, \bbalanced fund\b
+
+================================================================================
+3. SYSTEM INPUT/OUTPUT PIPELINE ARCHITECTURE
+================================================================================
+The classification engine acts as a deterministic data transformation pipeline, 
+converting raw market directory scrapes into highly structured data blocks.
+
+A. Pipeline Input Contracts
+1. Raw Stock Input File (Tickers_Master.csv)
+   - Source: Scraped company directories from NASDAQ, NYSE, and National Stock Exchange (NSE).
+   - Core Attributes: Ticker/Symbol (e.g., NVDA, RKLB, RELIANCE.NS), Security Name, 
+     and Exchange Description.
+2. Raw ETF Portfolio Holdings File (ETF_Holdings_Raw.csv)
+   - Source: Full line-item portfolio composition exports.
+   - Core Attributes: ETF_Ticker, Stock_Ticker (constituent component matches), 
+     and Weight_Percentage (representing 100% of internal allocations).
+
+B. Pipeline Output Contracts (Downstream Consumables)
+1. Fully Qualified Stock File (Tickers_Master_FullyQualified.csv)
+   - Role: Serves as the immutable Layer A Asset Catalog.
+   - Injected Vectors: Maps every stock code to its explicit, non-overlapping 
+     Layer A Vertical and multi-label Layer A Functional Capabilities.
+2. Fully Classified ETF File (ETF_Master_FullyClassified.csv)
+   - Role: Serves as the definitive Layer B Downstream Execution File.
+   - Injected Vectors: Contains the universal guardrails (Asset Class, Management Style, 
+     Geography), Data Coverage Ratio, and the cumulative Weighted Capability Profile Matrix.
+
+================================================================================
+4. LAYER A: STOCK-LEVEL QUALIFICATION & MAPPING SCHEMA
+================================================================================
+To prevent classification collisions or overwrites (particularly within the highly 
+connected computing-to-energy layers), every asset is mapped strictly to its 
+functional role at the stock level:
+
+A. The Physical Semiconductor Stack
+- Semiconductor: Core silicon designers, architectural layout IPs, broad baseline 
+  indices (e.g., NVDA, AMD, SOXX, SMH).
+- WFE (Wafer Fab Equipment): Wafer Fab Equipment makers, lithography specialists, 
+  advanced chip manufacturing tools (e.g., ASML, AMAT, LRCX).
+- Memory & Storage: High-Bandwidth Memory (HBM) modules, volatile DRAM, 
+  non-volatile Flash arrays (e.g., MU, SK Hynix [000660], WDC).
+- Connectivity & Comm: High-speed interconnect chips, networking fabrics, 
+  enterprise routing silicon (e.g., AVGO, CSCO, MRVL).
+
+B. The AI Infrastructure & Energy Collision Layer
+- Datacenter Facility: Hyperscale real estate, data center co-location complexes, 
+  physical server hubs (e.g., EQIX, DLR).
+- Power & Cooling Solutions: Enterprise liquid cooling systems, power distribution 
+  hardware, localized server rack modules (e.g., VRT, ETN).
+- BYOG Energy Solutions: "Bring Your Own Grid" on-site clean power generation 
+  equipment feeding localized server racks directly (e.g., BE, FCEL).
+- Nuclear Energy: Traditional utilities, legacy grid-scale baseload operators 
+  (e.g., CEG, VST, PEG).
+- Uranium Mining & Fuel: Raw extraction, conversion plants, fuel rod manufacturing, 
+  and enrichment technologies (e.g., CCJ, LEU, BWXT).
+- SMR Datacenter Co-Location: Next-generation factory-built modular reactors 
+  designed to deploy directly at hyper-dense compute campuses (e.g., OKLO, SMR, NNE).
+
+C. Defense, Space, & Automation Niche Core
+- Defense & Military: Kinetic weapon systems, tactical munitions, command & control 
+  edge software platforms (e.g., LMT, RTX, GD, PLTR).
+- Space: Reusable launch systems, rocket propulsion systems, commercial satellite 
+  constellations (e.g., SPCX, RKLB, FLY, ASTS).
+- Cybersecurity: Endpoint defense architectures, zero-trust cloud network shields 
+  (e.g., CRWD, PANW, FTNT).
+- Robotics & Automation: Automated industrial manufacturing machinery, computer-vision 
+  hardware, logistical automation systems (e.g., ISRG, SYM, FANUY).
+
+================================================================================
+5. LAYER B: ETF CUMULATIVE EXTRACTION LOGIC
+================================================================================
+To extract the combined thematic fingerprint of an ETF, the aggregation layer 
+calculates a Weighted Thematic Intensity Vector across 100% of the active holdings:
+
+   Theme Intensity Score = Sum( Weight_i x IsMember(i, Tag) )
+
+Programmatic Data Flow:
+1. Ingest & Clean: Read the raw full portfolio file. Strip percentage symbols, 
+   clean the tickers, and ensure total weights sum up cleanly to evaluate the 
+   exact distribution.
+2. Tag Lookup Extraction: For every constituent symbol processed, retrieve its 
+   mapped functional capability tags from the Layer A registry.
+3. Linear Weight Distribution: Accumulate the exact portfolio weight of that row 
+   into its matched theme slots. If a stock carries multiple tags (e.g., PLTR = 
+   Defense & Military and AI Software & Services), its weight is attributed 
+   fully to each specific vector tracking bucket.
+4. Data Coverage Safeguard: Calculate a Data Coverage Ratio (Mapped Weight / 
+   Total Portfolio Weight) to flag any ETFs containing large tails of unmapped 
+   regional entities or cash distortions, maintaining perfect data hygiene.
+5. Matrix Output Construction: Format the final output into a clean, descending 
+   string showing the calculated percentages of every matched underlying capability:
+   * System Output Example (CHPX): Semiconductor (91.2%); Memory & Storage (22.0%); 
+     WFE (17.5%); AI Hardware & Infrastructure (17.6%)
+
+================================================================================
+6. UNIVERSAL OPERATIONAL REGIONS & SCHEMA GUARDRAILS
+================================================================================
+Every ETF is systematically classified across three core, hardcoded operational 
+parameters before theme analysis to guarantee structural consistency:
+- Asset Class (Mutually Exclusive): Equity, Fixed Income, or Commodity.
+- Management Style (Mutually Exclusive): Passive (index-tracking) or Active.
+- Geography Mapping: United States, India (auto-detected via .NS or XNSE targets), 
+  LATAM, Asia Pacific ex Japan, China (ex mainland), Global, Developed ex-US, 
+  Emerging Markets, or Regional/Country-Specific.

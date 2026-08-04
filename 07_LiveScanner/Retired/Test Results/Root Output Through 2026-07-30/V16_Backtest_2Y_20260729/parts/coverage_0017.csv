@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+VRNS,US,"Varonis Systems, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+MTRN,US,Materion Corporation,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+ZETA,US,Zeta Global Holdings Corp. Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+CLF,US,Cleveland-Cliffs Inc. Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+BB,US,BlackBerry Limited Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+OGC,US,OceanaGold Corporation Common Shares,,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+ENPH,US,"Enphase Energy, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TVTX,US,"Travere Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+MTN,US,"Vail Resorts, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+KVYO,US,"Klaviyo, Inc. Series A Common Stock",Technology,PROCESSED,,715,2023-09-20,2026-07-28,501,4
+ESAB,US,ESAB Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+BC,US,Brunswick Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+UNF,US,Unifirst Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+TKC,US,Turkcell Iletisim Hizmetleri AS Common Stock,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+BCPC,US,Balchem Corporation - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+PEGA,US,Pegasystems Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+FTDR,US,"Frontdoor, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+PAGP,US,"Plains GP Holdings, L.P. - Class A Shares representing limited partner interests",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,20
+HESM,US,Hess Midstream LP Class A Representing Limited Partner Interests,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+AMTM,US,"Amentum Holdings, Inc. Common Stock",Consumer Discretionary,PROCESSED,,461,2024-09-24,2026-07-28,461,3
+HRB,US,"H&R Block, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+GNTX,US,Gentex Corporation - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+G,US,Genpact Limited Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+BTG,US,B2Gold Corp Common shares (Canada),Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+SPHR,US,Sphere Entertainment Co. Class A Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+CE,US,Celanese Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+WFG,US,West Fraser Timber Co. Ltd Common stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+RGTI,US,"Rigetti Computing, Inc.  - Common stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+QLYS,US,"Qualys, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+GLNG,US,Golar LNG Limited - Common Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+ADT,US,ADT Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+INDV,US,"Indivior Pharmaceuticals, Inc.  - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+OMAB,US,Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary Shares each representing 8 Series B shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+VVV,US,Valvoline Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+RELY,US,"Remitly Global, Inc. - Common stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+IRDM,US,Iridium Communications Inc - Common Stock,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+SHC,US,Sotera Health Company - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+HRI,US,Herc Holdings Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+CMBT,US,CMB.TECH NV Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+DFTX,US,"Definium Therapeutics, Inc.  - Common Shares",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+LPX,US,Louisiana-Pacific Corporation Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+GBTG,US,"Global Business Travel Group, Inc. Class A Common Stock",Consumer Discretionary,PROCESSED,,988,2022-08-18,2026-07-28,501,6
+KNSA,US,"Kiniksa Pharmaceuticals International, plc - Class A Ordinary Shares",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+ALH,US,Alliance Laundry Holdings Inc. Common Stock,Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,200,2025-10-09,2026-07-28,0,0
+RDNT,US,"RadNet, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+ANDG,US,Andersen Group Inc. Class A Common Stock,Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,152,2025-12-17,2026-07-28,0,0
+RXO,US,"RXO, Inc. Common Stock",Consumer Discretionary,PROCESSED,,939,2022-10-27,2026-07-28,501,1
+UFPI,US,"UFP Industries, Inc. - Common Stock",Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SLGN,US,Silgan Holdings Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+WSC,US,WillScot Holdings Corporation - Class A Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0

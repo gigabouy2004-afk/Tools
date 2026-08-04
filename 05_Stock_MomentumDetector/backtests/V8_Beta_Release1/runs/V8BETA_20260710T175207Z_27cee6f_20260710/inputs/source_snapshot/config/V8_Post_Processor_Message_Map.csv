@@ -1,0 +1,7 @@
+Processor,Rule_Code,Priority,Template,Enabled,Version
+Beta,BETA_UNAVAILABLE,100,Active momentum confirmed. Beta context unavailable ({status_detail}).,TRUE,1
+Beta,BETA_WEAK_FIT,90,"Active momentum confirmed. Beta {beta} versus {benchmark}, but benchmark fit is weak (R-squared {r2}); treat Beta as descriptive only.",TRUE,1
+Beta,BETA_DEFENSIVE,80,"Active momentum confirmed. Beta {beta} versus {benchmark} indicates defensive market sensitivity (R-squared {r2}); 126-day residual momentum is {residual_126d}%.",TRUE,1
+Beta,BETA_BALANCED,80,"Active momentum confirmed. Beta {beta} versus {benchmark} indicates balanced market sensitivity (R-squared {r2}); 126-day residual momentum is {residual_126d}%.",TRUE,1
+Beta,BETA_HIGH_SENSITIVITY,80,"Active momentum confirmed. Beta {beta} versus {benchmark} indicates high market sensitivity (R-squared {r2}); 126-day residual momentum is {residual_126d}%.",TRUE,1
+Beta,BETA_VERY_HIGH_SENSITIVITY,80,"Active momentum confirmed. Beta {beta} versus {benchmark} indicates very high market sensitivity (R-squared {r2}); 126-day residual momentum is {residual_126d}%.",TRUE,1

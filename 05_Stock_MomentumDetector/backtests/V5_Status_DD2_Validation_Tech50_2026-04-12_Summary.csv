@@ -1,0 +1,10 @@
+Metric,Value
+Rows Validated,47
+Rows Skipped,3
+D_Action_Status=Actionable Momentum Candidate,5
+D_Action_Status=Avoid,42
+Validation_Result=FLAG_REVIEW,40
+Validation_Result=PASS,5
+Validation_Result=PASS_AVOID,2
+Status_String_Check=OK,47
+Reason_String_Check=OK,47

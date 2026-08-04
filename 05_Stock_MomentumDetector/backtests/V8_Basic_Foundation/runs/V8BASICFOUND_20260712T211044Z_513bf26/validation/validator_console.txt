@@ -1,0 +1,17 @@
+{
+  "Validation_Status": "PASS",
+  "Checks": {
+    "Exactly_20_Stocks": true,
+    "Exactly_4_Dates": true,
+    "Exactly_80_Rows": true,
+    "Complete_Grid": true,
+    "Foundation_Only_Schema": true,
+    "No_Score_Output": true,
+    "Calculation_Only_Authority": true,
+    "Independent_Formula_And_Outcome_Recompute": true,
+    "Foundation_Regression_Unchanged": true,
+    "Checksums": true
+  },
+  "Rows_Recomputed": 80,
+  "Failures": []
+}

@@ -1,0 +1,368 @@
+Continue from the current Crossover handover state, but do not start the next bug fix on the old feature branch.
+
+For the next code change, create a fresh branch from main:
+
+fix/crossover-prebull-zero-line-gate
+
+READ THIS HANDOVER FIRST BEFORE TOUCHING CODE:
+Library/crossover_engine_handover_2026-05-26.md
+
+Also read the active local action log:
+Current_Crossover_ActionPlan.txt
+
+Critical current-state warning:
+The latest local restart found the repo on fix/crossover-bull-zone-prebear-gate at commit 684e06e, with main/origin main at ea545b8. The working tree still contains unrelated uncommitted/generated output artifacts. Check:
+
+git status --short --branch
+git diff --stat
+
+Critical workflow warning:
+No code change should be made until a fresh branch is created from main for the next issue. Before code changes, update both:
+
+Library/crossover_engine_handover_2026-05-26.md
+D:\Tools\Github_StartPoint.txt
+
+The active next issue is the Pre-Bull zero-line gate.
+
+User-observed problem:
+Physical validation found selected PRE_BULL_CROSSOVER rows where 1D MACD is above the zero line. This means selected Pre-Bull is still too permissive for above-zero 1D MACD rows.
+
+Restart analysis:
+- The latest visible output sequence is around 2026-05-27 01:02-01:17 local filesystem time, plus an earlier V2 output around 2026-05-26 23:54. No visible artifact matched 2026-05-26 03:00.
+- Latest fix4 output:
+  fix4_current_technology_first100_live_engine.csv
+  PRE_BULL_CROSSOVER=4: EMR, HUBB, CLS, NEE
+  PRE_BEAR_CROSSOVER=1: ADSK
+  Independent current Yahoo recalculation with engine default MACD 8,21,5 showed EMR/HUBB/CLS/NEE below zero at restart check time.
+- Earlier V2 output:
+  screener_output_v2.csv
+  Selected Pre-Bull rows included AIP, KLIC, SLAB, CAN.
+  Independent recalculation showed AIP/KLIC/SLAB above zero on 1D MACD while selected as PRE_BULL_CROSSOVER.
+
+Likely rule gap:
+The daily bull profile allows BULL_RECOVERY and BULL_WEAKENING as transition-zone Pre-Bull candidates, and route classification only treats above-zero MACD/signal as daily bull zone when EMA200 route is also BULL_ZONE. So above-zero 1D MACD rows can still receive ROUTE_1D_TRANSITION_ZONE_PRE_BULL_ALLOWED and be selected.
+
+Candidate fix direction:
+Selected PRE_BULL_CROSSOVER should require 1D fast Crossover MACD below zero. Above-zero 1D MACD rows should become CROSSOVER_WATCH / STATUS_QUO with an explicit reason code such as SIGNAL_1D_ABOVE_ZERO_PRE_BULL_WATCH_ONLY, unless a separate pullback/re-entry state is defined later.
+
+Implementation update:
+- Branch created from main:
+  fix/crossover-prebull-zero-line-gate
+- Cardinal Crossover zero-line rule:
+  Selected PRE_BULL_CROSSOVER evaluation requires 1D fast Crossover MACD below zero.
+  Selected PRE_BEAR_CROSSOVER evaluation requires 1D fast Crossover MACD above zero.
+  The 1D MACD zero-line side identifies which selected Crossover path is eligible.
+- Selected Pre-Bull now requires 1D fast Crossover MACD below zero.
+- Above-zero 1D fast MACD bullish setups are demoted to CROSSOVER_WATCH / STATUS_QUO.
+- Reason code:
+  SIGNAL_1D_ABOVE_ZERO_PRE_BULL_WATCH_ONLY
+- Selected Pre-Bear now requires 1D fast Crossover MACD above zero.
+- Below-zero 1D fast MACD bearish setups are demoted to CROSSOVER_WATCH / STATUS_QUO.
+- Reason code:
+  SIGNAL_1D_BELOW_ZERO_PRE_BEAR_WATCH_ONLY
+- V2 stage selection has directional Crossover options:
+  Crossover = both Pre-Bull and Pre-Bear.
+  Pre-Bull Crossover = Crossover engine active, selected state PRE_BULL_CROSSOVER only.
+  Pre-Bear Crossover = Crossover engine active, selected state PRE_BEAR_CROSSOVER only.
+- Audit columns added:
+  MACD_1D_Value
+  MACD_1D_Signal
+- Selected Pre-Bear alignment gate from fix/crossover-bull-zone-prebear-gate was re-applied because this branch starts from main.
+- Compile passed:
+  python -m py_compile stock_screener.py column_renderer.py backtest_strategy_family.py web_app_v2.py html_formatter.py
+- Focused 10-symbol validation:
+  AIP, KLIC, SLAB, and ADANIGREEN.NS are STATUS_QUO with above-zero 1D MACD.
+  EMR is the only selected Pre-Bull in that sample and has 1D MACD below zero.
+  ADSK is selected Pre-Bear in that sample and has 1D MACD above zero.
+  Zero-line selected-candidate violations: none.
+  Directional selection validation:
+  Pre-Bull only selected EMR.
+  Pre-Bear only selected ADSK.
+  Broad/both Crossover selected EMR and ADSK.
+  Synthetic transition-zone test returned STATUS_QUO / CROSSOVER_WATCH with SIGNAL_1D_ABOVE_ZERO_PRE_BULL_WATCH_ONLY.
+
+FINAL OFFLINE HANDOVER - 2026-05-27
+
+Continue from local branch:
+
+main
+
+This Codex session is closed. User will continue using the engine offline without Codex.
+
+Current local main state:
+- main is ahead of origin/main by 4 commits.
+- Latest local commits:
+  08d9817 Ignore generated validation artifacts
+  2d1f2a9 Document crossover zero-line merge validation
+  2036534 Merge crossover zero-line routing fix
+  5c243ac Gate crossover direction by daily MACD zero line
+
+Current running server at handover:
+- python web_app_v2.py
+- PID observed: 12884
+- URL: http://127.0.0.1:8001
+
+If the server is not running later, restart from:
+
+D:\Tools\Stock_Screener_2026_v2
+
+with:
+
+python web_app_v2.py
+
+Final Crossover implementation:
+- V2 website has three Crossover choices:
+  Crossover = both Pre-Bull and Pre-Bear.
+  Pre-Bull Crossover = selected PRE_BULL_CROSSOVER only.
+  Pre-Bear Crossover = selected PRE_BEAR_CROSSOVER only.
+- Cardinal zero-line rule:
+  Selected PRE_BULL_CROSSOVER requires fast 1D MACD below zero.
+  Selected PRE_BEAR_CROSSOVER requires fast 1D MACD above zero.
+- Audit columns:
+  MACD_1D_Value
+  MACD_1D_Signal
+
+Post-merge validation on main passed:
+- Compile.
+- V2 web stage mapping.
+- V2 page HTTP 200 and contains Pre-Bull Crossover / Pre-Bear Crossover.
+- Focused Crossover zero-line checks.
+- April 2026 Technology backtests with independent Codex price checks.
+- Non-Crossover smoke for Divergence and Momentum Trading, with no Crossover leakage.
+
+Workspace cleanup:
+- Generated validation/debug artifacts were removed.
+- .gitignore now ignores generated debug/backtest/output artifacts.
+- One tracked file may remain by design:
+  debug_sector_crossover_fresh6_summary_all.csv
+
+Before any future development:
+
+git status --short --branch
+git log --oneline -5
+
+Critical runtime warning:
+Several wrong observations came from stale web_app_v2.py Python processes. Before validating UI behavior, stop all web_app_v2.py processes and restart the server from the project folder:
+
+Get-CimInstance Win32_Process -Filter "name = 'python.exe'" |
+  Where-Object { $_.CommandLine -like '*web_app_v2.py*' } |
+  ForEach-Object { Stop-Process -Id $_.ProcessId -Force }
+
+python web_app_v2.py
+
+Read this recap first:
+Library/crossover_engine_regime_stack_recap_2026-05-26.md
+
+Also read the design baseline:
+Library/crossover_engine_design_baseline.md
+
+Current goal:
+Continue from the handover state, not from the older recap alone.
+
+Immediate current state:
+- Latest committed Crossover branch update:
+  See git log -1. The active branch includes the Technology first-100 Pre-Bear guard and should be merged into local main after tested commits.
+- Read this new fixed-date backtest documentation:
+  Library/fixed_date_backtest_intraday_loader.md
+- Critical backtest correction:
+  Fixed-date Crossover replay must not use the live/rolling intraday loader.
+  It now downloads explicit 1D and 1H historical ranges around --cutoff-date and --forward-date, derives 4H from 1H, and writes history diagnostics.
+  ISRG validation for cutoff 2026-02-04 and forward date 2026-02-18 now correctly sees:
+  1D BEAR_CONFIRMED / BELOW_SIGNAL
+  4H BEAR_CONFIRMED / BELOW_SIGNAL
+  1H BULL_RECOVERY / ABOVE_SIGNAL, 1H bullish cross bars ago 4
+  Forward return +4.65%
+- Use backtest_strategy_family.py fixed-date mode as the validation instrument before tuning live Crossover rules:
+  python backtest_strategy_family.py --mode universe --family CROSSOVER --symbols ISRG --sample-size 1 --cutoff-date 2026-02-04 --forward-date 2026-02-18 --include-non-candidates
+- Latest Crossover rule correction:
+  MACD route/timing now declares PRE_BULL_CROSSOVER / PRE_BEAR_CROSSOVER.
+  Support, ER/regime, participation, and structure now contribute to CrossoverQualityScore and CrossoverConfidence instead of acting as binary hard blockers after route/timing are confirmed.
+  Quality score model:
+  MACD route/timing 60 points, support 10, regime 10, participation 10, structure 10.
+  Confidence: HIGH >= 90, MEDIUM >= 70, LOW < 70.
+- Latest Technology first-100 correction:
+  First 100 symbols from D:\Tools\StockCodeMaster\USA\00-NYSE_NASDAQ_Common_Stocks_Sector-Technology.csv were replayed with seed 2026-04-15 and forwards 2026-04-22 / 2026-04-30.
+  Initial output was STATUS_QUO=93, PRE_BULL_CROSSOVER=1, PRE_BEAR_CROSSOVER=6.
+  Codex raw-data review agreed with FTNT Pre-Bull but found most Pre-Bear selections were weak daily bull-zone deterioration warnings that failed forward validation.
+  Implemented guard:
+  Daily bull-zone Pre-Bear is demoted to CROSSOVER_WATCH / STATUS_QUO when support contradicts or CrossoverQualityScore is below 70.
+  Reason code: SIGNAL_DAILY_BULL_ZONE_PRE_BEAR_QUALITY_INSUFFICIENT.
+  Replay after guard was STATUS_QUO=99, PRE_BULL_CROSSOVER=1, PRE_BEAR_CROSSOVER=0.
+  FTNT remains selected and directionally valid.
+  Detailed note:
+  Library/technology_first100_crossover_codex_review_2026-04-15.md
+- Validation after correction:
+  SYM on 2026-05-19 -> PRE_BULL_CROSSOVER, BULL_CROSSOVER_SCORED, LOW confidence, CrossoverQualityScore 60.0, forward returns +9.31% to 2026-05-21 and +15.92% to 2026-05-22.
+  SBIN.NS on 2026-05-25 -> PRE_BULL_CROSSOVER, PRE_BULL_CROSSOVER_SCORED, MEDIUM confidence, CrossoverQualityScore 70.0.
+- Crossover timing profile UI is now merged into feature/crossover-engine-regime-stack:
+  Strict = 3 lower-timeframe bars.
+  Balanced = 6 lower-timeframe bars.
+  Exploratory = 9 lower-timeframe bars.
+  Custom = numeric Crossover freshness bars.
+  This profile only affects Crossover via ScreenerFilters.crossover_freshness_bars.
+  Divergence and Momentum Trading / Setup do not consume this value.
+  Smoke validation confirmed DIVERGENCE and MOMENTUM_TRADING outputs were unchanged between freshness 3 and 9.
+  TradingView validation confirmed freshness 6 sector-probe candidates were valid Crossover transitions.
+- V2 Max symbols was changed to Max candidates.
+- Candidate-quota runs should display/export selected candidates only, not STATUS_QUO audit rows.
+- V2 NSE symbol loading now delegates to StockScreener.load_universe(), matching V1 NSE .NS handling.
+- V2 sidebar was changed to a sticky viewport-bound left panel with its own scroll and collapsible lower filter sections.
+- Crossover watch/no-crossover reason codes were added.
+- ADANIGREEN.NS must NOT be PRE_BULL_CROSSOVER. It should be STATUS_QUO / NO_CROSSOVER / SIGNAL_1D_ALREADY_BULL_CONFIRMED.
+- Full NSE scans remain slow because yfinance price downloads are still sequential; fast-profile and early 1D ineligibility shortcuts were added but do not solve full universe performance completely.
+
+Older goal retained for context:
+Continue tuning the new Crossover regime stack after the UI/recency pass. The Crossover freshness field is wired into the engine. Next work should inspect reason codes, decide whether suspect/watch states should be exposed or stay internal, and rerun validations before changing thresholds.
+
+Do not rewrite large sections. Work incrementally and validate after each threshold/rule change.
+
+also Useful branch/commit info:
+
+Branch: feature/crossover-engine-regime-stack
+Latest commit: see git log -1
+Prior safe baseline: feature/unified-engine-v2
+Baseline commit: b7d9ff3 Document crossover engine design baseline
+Open/reference branches:
+feature/crossover-engine-regime-stack = active Crossover regime/timing/scoring branch.
+feature/crossover-timing-profile-eval = side/reference branch for timing-profile UI regression comparison.
+feature/unified-engine-v2 = older safe baseline/design branch.
+Open item:
+If Divergence or Momentum Trading / Setup regress from shared timing/profile assumptions, split timing into stage-specific profiles instead of using one universal timing profile.
+Key files:
+
+stock_screener.py
+column_renderer.py
+web_app_v2.py
+backtest_strategy_family.py
+Current_Crossover_ActionPlan.txt
+Library/crossover_engine_handover_2026-05-26.md
+Library/crossover_engine_regime_stack_recap_2026-05-26.md
+Library/crossover_engine_design_baseline.md
+Library/webpage_ui_processing_v2.md
+v2_crossover_regime_stack_6lb_2d_details.csv
+v2_crossover_regime_stack_6lb_2d_summary.md
+Additional local context folders:
+
+Project folder:
+D:\Tools\Stock_Screener_2026_v2
+
+Committed engine design docs inside project:
+D:\Tools\Stock_Screener_2026_v2\Library
+
+Important design files:
+D:\Tools\Stock_Screener_2026_v2\Library\crossover_engine_design_baseline.md
+D:\Tools\Stock_Screener_2026_v2\Library\crossover_engine_regime_stack_recap_2026-05-26.md
+D:\Tools\Stock_Screener_2026_v2\Library\webpage_ui_processing_v2.md
+D:\Tools\Stock_Screener_2026_v2\Library\unified_stock_scanner_engine_design.md
+D:\Tools\Stock_Screener_2026_v2\Library\technical_signal_processing_engine.md
+D:\Tools\Stock_Screener_2026_v2\Library\unified_engine_recap_and_action_plan_2026-05-24.md
+
+Use the Library folder as the captured base design / technical-analysis approach reference for this engine unless a newer external folder is specified.
+
+Latest local validation:
+
+python -m py_compile stock_screener.py column_renderer.py backtest_strategy_family.py web_app_v2.py html_formatter.py
+
+Important separate housekeeping task:
+Create enriched engine-wide baseline universe CSVs for NSE and NYSE/NASDAQ so company name, exchange, sector, industry, instrument type, market cap, and liquidity metadata are loaded locally instead of via per-scan Yahoo profile lookups. This is NOT Crossover-specific. Suggested separate branch:
+
+housekeeping/enriched-universe-baseline
+
+Focused symbol check after recency/materiality gating:
+
+AFBI -> STATUS_QUO / internal CROSSOVER_SUSPECT
+ADEA -> STATUS_QUO / internal NO_CROSSOVER
+ACTG -> STATUS_QUO / internal CROSSOVER_SUSPECT
+ACLS -> STATUS_QUO / internal NO_CROSSOVER
+
+Regenerated web artifact context:
+
+symbols_file=uploads\NYSE_NASDAQ_Common_Stocks_Filtered.csv
+max_symbols=50
+stage_families=CROSSOVER
+crossover_freshness=3
+Result: 50 displayed rows, 0 clean crossover candidates, 17 CROSSOVER_SUSPECT, 11 CROSSOVER_WATCH, 22 NO_CROSSOVER.
+
+
+Created the evaluation branch and implemented the timing-profile view.
+
+Branch: feature/crossover-timing-profile-eval
+Commit: 2023a00 Add crossover timing profile evaluation view
+
+Implemented in V2:
+
+Strict: 3 bars
+Balanced: 6 bars
+Exploratory: 9 bars
+Custom: uses numeric Crossover freshness bars
+Validation done:
+
+Compile passed for web_app_v2.py, stock_screener.py, backtest_strategy_family.py.
+Profile mapping verified:
+STRICT -> 3
+BALANCED -> 6
+EXPLORATORY -> 9
+CUSTOM -> numeric value
+Regression smoke check:
+DIVERGENCE output unchanged between freshness 3 and 9.
+MOMENTUM_TRADING output unchanged between freshness 3 and 9.
+Added branch note:
+
+Library/crossover_timing_profile_eval_branch_2026-05-26.md
+Started V2 locally and verified the page renders the new timing-profile selector.
+
+URL:
+http://127.0.0.1:8001
+
+Remaining dirty files are generated/debug artifacts plus the older CSV output file; I left them uncommitted.
+
+
+crossover_timing_profile_eval_branch_2026-05-26.md
+Document · MD
+Open in
+
+Edited 3 files
++166
+-46
+Undo
+Review
+web_app_v2.py
+ui_text.json
+Library/crossover_timing_profile_eval_branch_2026-05-26.md
+
+
+
+
+10:51 PM
+
+2026-06-01 Current Stock Screener V2 restart point:
+
+Repository:
+D:\Tools\Stock_Screener_2026_v2
+
+Active branch:
+refactor/prebull-route-matrix
+
+Current Pre-Bull Crossover implementation:
+- Route hard gates are under CROSSOVER_PRE_BULL.
+- Selected Pre-Bull requires 1D MACD and Signal below zero.
+- EMA200 reclaim tolerance is calibrated from the USA master universe at 2.4203 percent.
+- Selected Pre-Bull requires lower-timeframe close confirmation.
+- Confirmation scoring is classification-specific for Pre-Bull and exposes candle/intraday acceptance diagnostics.
+
+Latest useful validations:
+- NEE accepted as valid early Pre-Bull after calibrated EMA200 reclaim handling.
+- GDS demoted after lower-timeframe close confirmation was tightened.
+- IONR technically valid early Pre-Bull but weak on ADX/CMF/structure.
+- April 13 2026 replay selected PM, CEG, MMM, ECL, NTAP; only CEG and NTAP were positive on at least one of April 14 or April 15.
+
+Current open item:
+Confirmation scoring improves transparency but is not predictive enough. Next work should add market/sector relative strength, resistance headroom, overhead supply, and event/context filters.
+
+Updated local docs:
+- Library\crossover_engine_handover_2026-05-26.md
+- Library\engine_route_indicator_hierarchy.md
+- Library\current_v2_status_baseline_2026-05-31.md
+- Library\engine_backlog.md
+- Library\github_start_point_branch_copy.md
+- Current_Crossover_ActionPlan.txt

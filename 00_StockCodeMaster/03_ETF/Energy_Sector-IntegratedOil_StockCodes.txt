@@ -1,0 +1,51 @@
+XXOMExxonMobil Holdings Corporation
+CVXChevron Corporation
+SHELShell PLC
+TTETotalEnergies SE
+PBR.APetroleo Brasileiro S.A. Petrobras
+PBRPetroleo Brasileiro S.A. Petrobras
+BPBP p.l.c.
+CNQCanadian Natural Resources Limited
+EQNREquinor ASA
+EOGEOG Resources, Inc.
+SUSuncor Energy Inc.
+IMOImperial Oil Limited
+OXYOccidental Petroleum Corporation
+CVECenovus Energy Inc
+DVNDevon Energy Corporation
+ECEcopetrol S.A.
+EQTEQT Corporation
+EXEExpand Energy Corporation
+YPFYPF Sociedad Anonima
+PRPermian Resources Corporation
+OVVOvintiv Inc. (DE)
+APAAPA Corporation
+HESMHess Midstream LP
+NFGNational Fuel Gas Company
+SMSM Energy Company
+CHRDChord Energy Corporation
+MTDRMatador Resources Company
+CRCCalifornia Resources Corporation
+CRGYCrescent Energy Company
+BTEBaytex Energy Corp
+BKVBKV Corporation
+MNRMach Natural Resources LP
+KOSKosmos Energy Ltd.
+TBNTamboran Resources Corporation
+INRInfinity Natural Resources, Inc.
+SOCSable Offshore Corp.
+GFRGreenfire Resources Ltd.
+REPXRiley Exploration Permian, Inc.
+TXOTXO Partners, L.P.
+FTWPresidio Production Company
+REIRing Energy, Inc.
+AMPYAmplify Energy Corp.
+EPSNEpsilon Energy Ltd.
+PROPPrairie Operating Co.
+INDOIndonesia Energy Corporation Limited
+EONREON Resources Inc.
+SKYQSky Quarry Inc.
+BRNBarnwell Industries, Inc.
+TPETTrio Petroleum Corp.
+
+XOM,CVX,SHEL,TTE,PBR.A,PBR,BP,CNQ,EQNR,EOG,SU,IMO,OXY,CVE,DVN,EC,EQT,EXE,YPF,PR,OVV,APA,HESM,NFG,SM,CHRD,MTDR,CRC,CRGY,BTE,BKV,MNR,KOS,TBN,INR,SOC,GFR,REPX,TXO,FTW,REI,AMPY,EPSN,PROP,INDO,EONR,SKYQ,BRN,TPET

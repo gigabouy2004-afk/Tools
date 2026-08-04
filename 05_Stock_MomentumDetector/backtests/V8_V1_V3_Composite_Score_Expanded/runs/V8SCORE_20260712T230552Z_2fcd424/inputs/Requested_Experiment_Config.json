@@ -1,0 +1,41 @@
+{
+  "Experiment_ID": "V8_V1_V3_COMPOSITE_SCORE_EXPANDED_20260713",
+  "Purpose": "Validate the combined V1-V3 indicator Score across a larger technology and industrial sample without changing historical values",
+  "Price_Start": "2021-01-01",
+  "Price_End_Exclusive": "2026-06-01",
+  "Signal_Dates": [
+    "2023-03-15",
+    "2023-06-15",
+    "2023-10-27",
+    "2024-01-31",
+    "2024-04-19",
+    "2024-08-05",
+    "2024-11-06",
+    "2025-03-10",
+    "2025-04-09",
+    "2025-08-01",
+    "2026-02-05",
+    "2026-05-07"
+  ],
+  "Sector_Stocks": {
+    "Technology": [
+      "NVDA", "GOOGL", "AAPL", "MSFT", "AVGO", "META", "MU", "AMD", "ASML", "INTC",
+      "AMAT", "LRCX", "ORCL", "KLAC", "PLTR", "DELL", "PANW", "TXN", "IBM", "MRVL",
+      "WDC", "APH", "STX", "QCOM", "CRWD", "ADI", "SAP", "APP", "ETN", "SHOP",
+      "VRT", "CRM", "FTNT", "CDNS", "NOW", "ASX", "DDOG", "SNOW", "NET", "SNPS",
+      "NTES", "ADBE", "DASH", "EMR", "COHR", "NOK", "INTU", "NXPI", "MSI", "UMC"
+    ],
+    "Industrials": [
+      "TSLA", "CAT", "TM", "RTX", "GLW", "TMO", "DE", "BA", "UNP", "DHR",
+      "PH", "LMT", "PWR", "HWM", "CMI", "GD", "UPS", "ADP", "JCI", "CSX",
+      "RACE", "ITW", "CP", "TER", "TDG", "CNI", "NOC", "CRH", "HON", "NSC",
+      "FIX", "GM", "CTAS", "GWW", "CARR", "KEYS", "RKLB", "F", "ROK", "LHX",
+      "NUE", "HEI", "MT", "GRMN", "WAB", "AXON", "ODFL", "HMC", "VMC", "PYPL"
+    ]
+  },
+  "Profiles": ["V1", "V2", "V3"],
+  "Forward_Horizons_Sessions": [1, 5, 8],
+  "Minimum_Successful_Stocks_Per_Sector": 45,
+  "Universe_Selection_Note": "Purposeful current master-list sample; not point-in-time constituent evidence",
+  "No_Tuning_During_Run": true
+}

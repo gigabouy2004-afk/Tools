@@ -1,0 +1,12 @@
+Metric,Value
+Rows Validated,19
+Rows Skipped,1
+D_Action_Status=Actionable Momentum Candidate,1
+D_Action_Status=Avoid,11
+D_Action_Status=Downgraded - Wait,1
+D_Action_Status=Rejected - Distribution Risk,6
+Validation_Result=FLAG_REVIEW,17
+Validation_Result=PASS,1
+Validation_Result=PASS_AVOID,1
+Status_String_Check=OK,19
+Reason_String_Check=OK,19

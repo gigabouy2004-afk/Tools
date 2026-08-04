@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+AIBZ,US,Bitzero Holdings Inc. - Common Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,34,2026-06-09,2026-07-28,0,0
+EH,US,EHang Holdings Limited - ADS,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+EOLS,US,"Evolus, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+DMAC,US,DiaMedica Therapeutics Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+STRO,US,"Sutro Biopharma, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+UPB,US,"Upstream Bio, Inc. - Common Stock",Health Care,PROCESSED,,448,2024-10-11,2026-07-28,448,6
+CMPX,US,"Compass Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+MOVE,US,"Corvex, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+FTW,US,Presidio Production Company Class A Common Stock,Energy,PROCESSED,,458,2024-09-27,2026-07-28,458,4
+MRAM,US,"Everspin Technologies, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+BMBL,US,Bumble Inc. - common stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SPCE,US,"Virgin Galactic Holdings, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PERI,US,Perion Network Ltd - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TMCR,US,The Metals Royalty Company Inc. - Common Stock,Basic Materials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,77,2026-04-08,2026-07-28,0,0
+ABEO,US,Abeona Therapeutics Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+RCKT,US,"Rocket Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MRLN,US,"Merlin, Inc. - Common Stock",Technology,PROCESSED,,413,2024-12-02,2026-07-28,413,0
+RR,US,Richtech Robotics Inc. - Class B Common Stock,Industrials,PROCESSED,,673,2023-11-17,2026-07-28,501,4
+SLP,US,"Simulations Plus, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+XPER,US,Xperi Inc. Common Stock,Technology,PROCESSED,,966,2022-09-20,2026-07-28,501,1
+NATR,US,"Nature's Sunshine Products, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+LXEO,US,"Lexeo Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,683,2023-11-03,2026-07-28,501,2
+FENC,US,Fennec Pharmaceuticals Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ATNI,US,"ATN International, Inc. - Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+XRX,US,Xerox Holdings Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ZNTL,US,"Zentalis Pharmaceuticals, Inc. - common stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+NC,US,"NACCO Industries, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+STRT,US,STRATTEC SECURITY CORPORATION - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+GRRR,US,Gorilla Technology Group Inc. - Ordinary shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+PESI,US,"Perma-Fix Environmental Services, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+CMCL,US,Caledonia Mining Corporation Plc Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+MTRX,US,Matrix Service Company - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+CUVL,US,Clinuvel Pharmaceuticals Limited - American Depositary Shares,Miscellaneous,PROCESSED,,1001,2022-07-29,2026-07-27,500,0
+CV,US,"CapsoVision, Inc. - Common Stock",Health Care,PROCESSED,,269,2025-07-02,2026-07-28,269,1
+AKBA,US,"Akebia Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+XFOR,US,"X4 Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NPWR,US,NET Power Inc. Class A Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LAB,US,Standard BioTools Inc. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ORGO,US,Organogenesis Holdings Inc.  - Class A,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+OSS,US,"One Stop Systems, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+ISSC,US,"Innovative Solutions and Support, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+MPTI,US,"M-tron Industries, Inc. Common Stock",Technology,PROCESSED,,957,2022-10-03,2026-07-28,501,12
+CATX,US,"Perspective Therapeutics, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+OPTX,US,"Syntec Optics Holdings, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+UXIN,US,Uxin Limited - American Depositary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SOHU,US,Sohu.com Limited  - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+CEPL,US,"Capstone Energy Plus, Inc. - Common Stock",Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,15,2026-07-08,2026-07-28,0,0
+BUUU,US,BUUU Group Limited - Class A Ordinary Share,Consumer Discretionary,PROCESSED,,239,2025-08-14,2026-07-28,239,0
+VELO,US,"Velo3D, Inc. - Common stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SEG,US,Seaport Entertainment Group Inc. Common Stock,Consumer Discretionary,PROCESSED,,500,2024-07-30,2026-07-28,500,3

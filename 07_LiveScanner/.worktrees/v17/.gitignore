@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.log
+*.xlsx
+*.xls
+output/
+Retired/Test Results/
+Retired/Generated/
+.pytest_cache/
+.venv/
+venv/

@@ -1,0 +1,10 @@
+{
+  "Validation_Status": "PASS",
+  "Rows_Checked": 1200,
+  "Expected_Rows": 1200,
+  "Validated_V1_Reference_Parity": true,
+  "Foundation_DMI_Component_Score_Total_And_Outcome_Parity": true,
+  "Research_Only_Guard_Checked": true,
+  "Checksums_Checked": 117,
+  "Failures": []
+}

@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+GRO,US,Brazil Potash Corp. Common Shares,Industrials,PROCESSED,,415,2024-11-27,2026-07-28,415,0
+TYGO,US,"Tigo Energy, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+AARD,US,"Aardvark Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,364,2025-02-13,2026-07-28,364,0
+OGI,US,Organigram Global Inc. - Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+HOVR,US,New Horizon Aircraft Ltd. - Class A Ordinary Shares,Industrials,PROCESSED,,832,2023-04-03,2026-07-28,501,4
+CAAS,US,"China Automotive Systems, Inc. - Ordinary Share",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CVRX,US,"CVRx, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MXCT,US,"MaxCyte, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BOOM,US,DMC Global Inc. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+IFRX,US,InflaRx N.V. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+STIM,US,"Neuronetics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+PMN,US,ProMIS Neurosciences Inc. - Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ZENA,US,"ZenaTech, Inc. - Common Stock",Technology,PROCESSED,,456,2024-10-01,2026-07-28,456,2
+VTVT,US,vTv Therapeutics Inc. - Class A Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+GNLX,US,Genelux Corporation - Common Stock,Health Care,PROCESSED,,878,2023-01-26,2026-07-28,501,1
+ENGN,US,enGene Therapeutics Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+HUHU,US,HUHUTECH International Group Inc. - Ordinary Shares,Telecommunications,PROCESSED,,441,2024-10-22,2026-07-28,441,0
+BEBE,US,TGE Value Creative Solutions Corp Class A Ordinary Shares,Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,117,2026-02-06,2026-07-27,0,0
+TLSA,US,Tiziana Life Sciences Ltd - Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+CIGL,US,Concorde International Group Ltd - Class A Ordinary Shares,,PROCESSED,,318,2025-04-22,2026-07-28,318,0
+ZJK,US,"ZJK Industrial Co., Ltd. - Class A Ordinary Shares",Industrials,PROCESSED,,457,2024-09-30,2026-07-28,457,0
+SPRB,US,"Spruce Biosciences, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+JYNT,US,The Joint Corp. - Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+OPRX,US,OptimizeRx Corporation - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+BNC,US,CEA Industries Inc. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GPRO,US,"GoPro, Inc. - Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+INSG,US,Inseego Corp. - Common Stock,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+VANI,US,"Vivani Medical, Inc.  - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GUTS,US,"Fractyl Health, Inc. - Common Stock",Health Care,PROCESSED,,622,2024-02-02,2026-07-28,501,0
+BRLT,US,"Brilliant Earth Group, Inc. - Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+WSBK,US,"Winchester Bancorp, Inc. - Common Stock",,PROCESSED,,310,2025-05-02,2026-07-28,310,0
+ANIX,US,"Anixa Biosciences, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+MBOT,US,Microbot Medical Inc.  - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+BGM,US,BGM Group Ltd. - Class A Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+WYY,US,WidePoint Corporation Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+NCSM,US,"NCS Multistage Holdings, Inc. - Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+BWEN,US,"Broadwind, Inc. - Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+MVIS,US,"MicroVision, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CPIX,US,Cumberland Pharmaceuticals Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+XGN,US,Exagen Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+FBIO,US,"Fortress Biotech, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+PODC,US,"PodcastOne, Inc. - Common Stock",Technology,PROCESSED,,723,2023-09-08,2026-07-28,501,1
+WSHP,US,WeShop Holdings Limited - Class A Ordinary Shares,Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,174,2025-11-14,2026-07-28,0,0
+VATE,US,INNOVATE Corp. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SEER,US,"Seer, Inc. - Class A Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CODA,US,"Coda Octopus Group, Inc. - Common stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+RYDE,US,Ryde Group Ltd. Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,600,2024-03-06,2026-07-28,501,0
+AMCI,US,AMC Robotics Corporation - Common Stock,Consumer Discretionary,PROCESSED,,879,2023-01-25,2026-07-28,501,0
+SJT,US,San Juan Basin Royalty Trust Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+SCOR,US,"comScore, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0

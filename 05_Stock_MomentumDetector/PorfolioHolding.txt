@@ -1,0 +1,1 @@
+python 'D:\Tools\Stock_MomentumDetector\Momentum_Detector_V5.py' --tickers ASTS,BLZE,FCEL,PLTR,OUST,BB,PANW,TOST,TENB,ZD,FROG,HLIT,NNE,PDYN,QBTS,EXTR,MXL,QNT --output 'PortfolioHolding-Detector.csv'

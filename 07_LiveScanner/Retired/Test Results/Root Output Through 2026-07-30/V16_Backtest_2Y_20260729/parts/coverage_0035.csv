@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+FOXF,US,Fox Factory Holding Corp. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RSKD,US,Riskified Ltd. Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SOC,US,Sable Offshore Corp. Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+REPX,US,"Riley Exploration Permian, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+SB,US,"Safe Bulkers, Inc Common Stock ($0.001 par value)",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+KODK,US,Eastman Kodak Company Common New,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+MNPR,US,Monopar Therapeutics Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+DRUG,US,Bright Minds Biosciences Inc. - common stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+SIBN,US,"SI-BONE, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EFOR,US,"Everforth, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DSGN,US,"Design Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+HOV,US,"Hovnanian Enterprises, Inc. Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+CLYM,US,"Climb Bio, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+CADL,US,"Candel Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+CTMX,US,"CytomX Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+CSTL,US,"Castle Biosciences, Inc. - Common stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+KOPN,US,Kopin Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+ZVRA,US,"Zevra Therapeutics, Inc.  - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+SDHC,US,Smith Douglas Homes Corp. Class A Common Stock,Consumer Discretionary,PROCESSED,,637,2024-01-11,2026-07-28,501,0
+PSIX,US,"Power Solutions International, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+HZO,US,"MarineMax, Inc.  (FL) Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+PKE,US,Park Aerospace Corp. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+FTH,US,"Faeth Therapeutics, Inc.  - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SXC,US,"SunCoke Energy, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RIGL,US,"Rigel Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+AURA,US,"Aura Biosciences, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+PD,US,"PagerDuty, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+HSHP,US,Himalaya Shipping Ltd. Common Shares,Consumer Discretionary,PROCESSED,,833,2023-03-31,2026-07-28,501,7
+JBI,US,"Janus International Group, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+SSYS,US,"Stratasys, Ltd. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+SSII,US,SS Innovations International Inc. - Common Stock,Health Care,PROCESSED,,494,2024-08-07,2026-07-28,494,1
+RPD,US,"Rapid7, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+KRNT,US,Kornit Digital Ltd. - Ordinary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+MTA,US,Metalla Royalty & Streaming Ltd. Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+GMRS,US,GMR Solutions Inc. Class A Common Stock,Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,52,2026-05-13,2026-07-28,0,0
+ONT,US,"Onterris, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+NGNE,US,Neurogene Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+BBOT,US,"BridgeBio Oncology Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,617,2024-02-09,2026-07-28,501,1
+OCS,US,Oculis Holding AG - Ordinary shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+HYLN,US,Hyliion Holdings Corp. Class A Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+OMER,US,Omeros Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+SWIM,US,"Latham Group, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+CASS,US,"Cass Information Systems, Inc - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+SABR,US,Sabre Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+SWBI,US,"Smith & Wesson Brands, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+CBLL,US,"CeriBell, Inc. - Common Stock",Health Care,PROCESSED,,448,2024-10-11,2026-07-28,448,1
+SGP,US,"SpyGlass Pharma, Inc. - Common Stock",Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,118,2026-02-06,2026-07-28,0,0
+CARS,US,Cars.com Inc. Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+OBE,US,Obsidian Energy Ltd. Common Shares,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+GYRE,US,"Gyre Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0

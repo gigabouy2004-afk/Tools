@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+FNUC,US,Frontier Nuclear and Minerals Inc. - Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ASTI,US,"Ascent Solar Technologies, Inc - Common Stock",Technology,PROCESSED,,984,2022-08-24,2026-07-28,501,0
+ZEO,US,Zeo Energy Corporation - Class A Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SPHL,US,Springview Holdings Ltd - Ordinary shares,Consumer Discretionary,PROCESSED,,443,2024-10-18,2026-07-28,443,0
+ANGH,US,Anghami Inc. - Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MOBX,US,"Mobix Labs, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+XOS,US,"Xos, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+WKHS,US,"Workhorse Group, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BOSC,US,B.O.S. Better Online Solutions - Ordinary Shares,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+VYNE,US,VYNE Therapeutics Inc. - Common Stock,Health Care,PROCESSED,,995,2022-07-29,2026-07-17,494,0
+ARAY,US,Accuray Incorporated - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GRML,US,Greenland Mines Ltd - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+KYNB,US,"Kyntra Bio, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SJ,US,Scienjoy Holding Corporation - Class A Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EPOW,US,E-Power Inc. - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NCI,US,Neo-Concept International Group Holdings Limited - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,567,2024-04-23,2026-07-28,501,0
+PRPL,US,"Purple Innovation, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1001,2022-07-29,2026-07-28,500,0
+ATNM,US,"Actinium Pharmaceuticals, Inc. (Delaware) Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CCEL,US,"Cryo-Cell International, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+HKIT,US,Hitek Global Inc. - Class A Ordinary Share,Technology,PROCESSED,,833,2023-03-31,2026-07-28,501,0
+BTAI,US,"BioXcel Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ACCL,US,Acco Group Holdings Limited - Class A Ordinary Shares,Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,194,2025-10-17,2026-07-28,0,0
+EONR,US,EON Resources Inc. Class A Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NTRP,US,"NextTrip, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TAOX,US,Tao Synergies Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+ELSE,US,"Electro-Sensors, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+HBIO,US,"Harvard Bioscience, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FUSE,US,Fusemachines Inc. - Common stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NIXX,US,"Nixxy, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+PSTV,US,"PLUS THERAPEUTICS, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LGPS,US,LogProstyle Inc. Common Shares,Consumer Discretionary,PROCESSED,,337,2025-03-25,2026-07-28,337,0
+YSXT,US,"YSX Tech. Co., Ltd  - Class A Ordinary Shares",Consumer Discretionary,PROCESSED,,401,2024-12-18,2026-07-28,401,0
+QCLS,US,"Q/C Technologies, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+UCAR,US,U Power Limited - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,820,2023-04-20,2026-07-28,501,0
+QUCY,US,Quantum Cyber N.V. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+BLIV,US,BeLive Holdings - ordinary shares,Technology,PROCESSED,,328,2025-04-04,2026-07-27,328,0
+IGC,US,"IGC Pharma, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PLRZ,US,Polyrizon Ltd. - Ordinary Shares,Health Care,PROCESSED,,436,2024-10-29,2026-07-28,436,0
+EVAX,US,Evaxion A/S - American Depositary Share,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+USEA,US,United Maritime Corporation - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AWRE,US,"Aware, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CLPS,US,CLPS Incorporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+INLX,US,"Intellinetics, Inc. Common Stock",Technology,PROCESSED,,1001,2022-07-29,2026-07-27,500,0
+RMTI,US,"Rockwell Medical, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+GWH,US,"ESS Tech, Inc. Common Stock",Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BRNS,US,Barinthus Biotherapeutics plc - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NRSN,US,NeuroSense Therapeutics Ltd. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CTSO,US,Cytosorbents Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TRSG,US,Tungray Technologies Inc - Class A Ordinary Shares,Industrials,PROCESSED,,568,2024-04-19,2026-07-27,500,0
+EXYN,US,"Exyn Technologies, Inc. - Common Stock",Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,50,2026-05-15,2026-07-28,0,0

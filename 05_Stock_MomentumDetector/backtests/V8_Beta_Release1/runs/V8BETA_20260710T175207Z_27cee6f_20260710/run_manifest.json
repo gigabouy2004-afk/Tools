@@ -1,0 +1,71 @@
+{
+  "Run_ID": "V8BETA_20260710T175207Z_27cee6f_20260710",
+  "Started_UTC": "2026-07-10T17:52:07.624153+00:00",
+  "Completed_UTC": "2026-07-10T17:53:11.335618+00:00",
+  "Replay_Mode": "HISTORICAL_DAILY_EOD_EPISODE_START",
+  "Engine_File": "Momentum_Detector_V8.py",
+  "Engine_SHA256": "52df5ae76ebb1282e9d2b9d58b256899c9ef9c70eaeb8da36dc5d32eb21d5bb5",
+  "Beta_Module_SHA256": "69938ba5d62d4ae32c0f0d72c8c16f25234c36bbfb64a90c4d7a42c99263dc07",
+  "Message_Map_SHA256": "328c0179fd619980af7f69b2b8c32c26ea4c3b01ccfb4a3159c516fa2680f8f8",
+  "Git_Commit": "27cee6f1f0a7122612d5f035aec7e5a9ba998147",
+  "Git_Worktree_Dirty": true,
+  "Python": "3.14.4 (tags/v3.14.4:23116f9, Apr  7 2026, 14:10:54) [MSC v.1944 64 bit (AMD64)]",
+  "Pandas": "2.3.3",
+  "YFinance": "1.3.0",
+  "Random_Seed": 20260710,
+  "Requested_Period": "10y",
+  "Requested_Tickers": [
+    "NET",
+    "CSX",
+    "ILMN",
+    "ICHR",
+    "PL",
+    "CVV",
+    "ETN",
+    "ACA",
+    "MATX"
+  ],
+  "Completed_Tickers": [
+    "ACA",
+    "CSX",
+    "CVV",
+    "ETN",
+    "ICHR",
+    "ILMN",
+    "MATX",
+    "NET",
+    "PL"
+  ],
+  "Active_Trigger": {
+    "Final_Decision": "MOMENTUM_ACTIVE",
+    "Minimum_Score": 85,
+    "CLI_Filter_Used": false
+  },
+  "Beta_Parameters": {
+    "Window_Returns": 252,
+    "Minimum_Observations": 200,
+    "Weak_Fit_R2": 0.1,
+    "Benchmark": "SPY"
+  },
+  "Row_Counts": {
+    "Signals": 784,
+    "Daily_Decisions": 17236,
+    "Random_Validation_Sample": 50,
+    "Random_Validation_Expected": 50,
+    "Failures": 0
+  },
+  "Offline_Traceability": {
+    "Source_Snapshot": "inputs/source_snapshot",
+    "Stored_Prices": "inputs/prices",
+    "Stored_Benchmarks": "inputs/benchmarks",
+    "Random_Sample": "validation/random_round_01_sample.csv",
+    "Expected_Values": "validation/random_round_01_expected.csv",
+    "Checksum_File": "checksums.sha256"
+  },
+  "Forward_Return_Convention": "Signal at day D close; hypothetical entry at D+1 open; horizon N exits at D+N close.",
+  "Known_Limitations": [
+    "Daily replay cannot reconstruct historical intraday, pre-market, post-market, analyst, EPS, or event messages.",
+    "This pilot is an episode-start observational study, not a portfolio simulation and not investment advice.",
+    "Sector and industry labels are the stored master-library snapshot, not point-in-time classifications."
+  ]
+}

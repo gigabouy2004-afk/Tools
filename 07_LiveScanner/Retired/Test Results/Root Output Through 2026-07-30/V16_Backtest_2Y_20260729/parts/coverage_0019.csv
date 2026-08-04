@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+LIVN,US,LivaNova PLC - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+MMSI,US,"Merit Medical Systems, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+NVST,US,Envista Holdings Corporation Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+WBI,US,WaterBridge Infrastructure LLC Class A Shares Representing Limited Liability Company Interests,Energy,PROCESSED,,216,2025-09-17,2026-07-28,216,0
+MDA,US,MDA Space Ltd. Common Shares,Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,95,2026-03-12,2026-07-28,0,0
+LEGN,US,Legend Biotech Corporation - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+IPGP,US,IPG Photonics Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+KBR,US,"KBR, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+DLO,US,DLocal Limited - Class A Common Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+ACAD,US,ACADIA Pharmaceuticals Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+SEB,US,Seaboard Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+OCTV,US,Octave Intelligence plc - Class B Ordinary Shares,Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,46,2026-05-21,2026-07-28,0,0
+ALM,US,Almonty Industries Inc. - Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+DIOD,US,Diodes Incorporated - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+MEOH,US,Methanex Corporation - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+EWTX,US,"Edgewise Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+PHI,US,PLDT Inc. Sponsored ADR,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+BMI,US,"Badger Meter, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+VNT,US,Vontier Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+CNR,US,"Core Natural Resources, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+LASR,US,"nLIGHT, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+HCC,US,"Warrior Met Coal, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+RHI,US,Robert Half Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TNGX,US,"Tango Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+EXLS,US,"ExlService Holdings, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+ATMU,US,Atmus Filtration Technologies Inc. Common Stock,Consumer Discretionary,PROCESSED,,794,2023-05-26,2026-07-28,501,16
+PII,US,Polaris Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+GEO,US,Geo Group Inc (The) REIT,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+BOX,US,"Box, Inc. Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+POWI,US,"Power Integrations, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+PI,US,"Impinj, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+WAY,US,Waystar Holding Corp. - Common Stock,Technology,PROCESSED,,535,2024-06-07,2026-07-28,501,2
+STNG,US,Scorpio Tankers Inc. Common Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+DK,US,"Delek US Holdings, Inc. Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+BFH,US,"Bread Financial Holdings, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+DORM,US,"Dorman Products, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+CAAP,US,Corporacion America Airports SA Common Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+MIR,US,"Mirion Technologies, Inc. Class A Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+GFF,US,Griffon Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+CON,US,"Concentra Group Holdings Parent, Inc. Common Stock",Health Care,PROCESSED,,503,2024-07-25,2026-07-28,501,4
+LBRT,US,Liberty Energy Inc. Class A common stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+ONDS,US,Ondas Inc - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+PARR,US,"Par Pacific Holdings, Inc.  Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+ACHR,US,Archer Aviation Inc. Class A Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+PTEN,US,"Patterson-UTI Energy, Inc. - Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+SMG,US,Scotts Miracle-Gro Company (The) Common Stock,Industrials,PROCESSED,,1001,2022-07-29,2026-07-28,500,7
+EXTR,US,"Extreme Networks, Inc. - Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+BDC,US,Belden Inc Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+KFY,US,Korn Ferry Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+ICUI,US,"ICU Medical, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7

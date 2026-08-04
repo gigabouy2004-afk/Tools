@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+UPLD,US,"Upland Software, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LEXX,US,Lexaria Bioscience Corp. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FRTT,US,Fort Technology Inc. - Common Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,35,2026-06-08,2026-07-28,0,0
+FLUX,US,"Flux Power Holdings, Inc. - Common Stock",Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+DSY,US,Big Tree Cloud Holdings Limited - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,888,2023-01-11,2026-07-28,501,0
+AUID,US,authID Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+KALA,US,"KALA BIO, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+MYSE,US,"Myseum.AI, Inc. - Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+VNRX,US,VolitionRX Limited Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AIMD,US,"Ainos, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SMSI,US,"Smith Micro Software, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EBON,US,Ebang International Holdings Inc. - Class A Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SVRN,US,OceanPal Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RCON,US,"Recon Technology, Ltd. - Class A Ordinary Shares",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PHIO,US,Phio Pharmaceuticals Corp. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CLIK,US,Click Holdings Limited - Ordinary Share,Consumer Discretionary,PROCESSED,,450,2024-10-09,2026-07-28,450,0
+AIFA,US,"All In FutureTech Alliance, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+COSM,US,Cosmos Health Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+MMA,US,Mixed Martial Arts Group Limited Ordinary Shares,Consumer Discretionary,PROCESSED,,584,2024-03-28,2026-07-28,501,0
+BNGO,US,"Bionano Genomics, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+COCP,US,"Cocrystal Pharma, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SKK,US,SKK Holdings Limited - Class A Ordinary Shares,Industrials,PROCESSED,,451,2024-10-08,2026-07-28,451,0
+AIRI,US,Air Industries Group Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AEON,US,"AEON Biopharma, Inc. Class A Common Stock",Health Care,PROCESSED,,894,2023-01-03,2026-07-28,501,0
+BLRX,US,BioLineRx Ltd. - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+THH,US,TryHard Holdings Limited - Ordinary Shares,Consumer Discretionary,PROCESSED,,230,2025-08-27,2026-07-28,230,0
+JBDI,US,JBDI Holdings Limited - Ordinary Shares,,PROCESSED,,480,2024-08-27,2026-07-28,480,0
+LNAI,US,Lunai Bioworks Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CODX,US,"Co-Diagnostics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+TAOP,US,Taoping Inc. - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CISO,US,"CISO Global, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PMI,US,"Picard Medical, Inc. Common Stock",Health Care,PROCESSED,,227,2025-08-29,2026-07-27,227,0
+GFAI,US,"Guardforce AI Co., Limited - Ordinary Shares",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+EDUC,US,Educational Development Corporation - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+XCUR,US,"Exicure, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+PRZO,US,ParaZero Technologies Ltd. - Ordinary Shares,Industrials,PROCESSED,,753,2023-07-27,2026-07-28,501,3
+INAB,US,"IN8bio, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PDC,US,Perpetuals.com Ltd - American Depositary Shares,Technology,PROCESSED,,755,2023-07-25,2026-07-28,501,0
+CHOW,US,ChowChow Cloud International Holdings Limited Ordinary Shares,Technology,PROCESSED,,217,2025-09-16,2026-07-28,217,0
+IDAI,US,T Stamp Inc. - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+PETZ,US,"TDH Holdings, Inc. - Common Shares",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BFRG,US,"Bullfrog AI Holdings, Inc. - Common Stock",Health Care,PROCESSED,,866,2023-02-13,2026-07-28,501,0
+INTS,US,"Intensity Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,771,2023-06-30,2026-07-28,501,0
+UUU,US,"Universal Safety Products, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+PBM,US,Psyence Biomedical Ltd. - Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FEMY,US,Femasys Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CLWT,US,Euro Tech Holdings Company Limited - Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LSH,US,Lakeside Holding Limited - Common Stock,,PROCESSED,,521,2024-06-28,2026-07-28,501,0
+ADVB,US,Advanced Biomed Inc. - Common Stock,Health Care,PROCESSED,,350,2025-03-06,2026-07-28,350,0
+CCTG,US,CCSC Technology International Holdings Limited - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,633,2024-01-18,2026-07-28,501,0

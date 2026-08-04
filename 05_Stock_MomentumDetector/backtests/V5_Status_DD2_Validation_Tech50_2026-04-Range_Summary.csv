@@ -1,0 +1,14 @@
+Metric,Value
+Rows Validated,987
+Rows Skipped,3
+D_Action_Status=Actionable Momentum Candidate,127
+D_Action_Status=Avoid,840
+D_Action_Status=Downgraded - Wait,3
+D_Action_Status=Watchlist Candidate,17
+Validation_Result=FLAG_REVIEW,716
+Validation_Result=OBSERVE_CONTINUED,14
+Validation_Result=PASS,110
+Validation_Result=PASS_AVOID,144
+Validation_Result=PASS_WATCHLIST_NO_CONFIRMATION,3
+Status_String_Check=OK,987
+Reason_String_Check=OK,987

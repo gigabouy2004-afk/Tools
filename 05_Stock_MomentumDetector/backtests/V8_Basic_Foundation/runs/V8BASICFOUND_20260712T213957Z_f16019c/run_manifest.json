@@ -1,0 +1,50 @@
+{
+  "Run_ID": "V8BASICFOUND_20260712T213957Z_f16019c",
+  "Engine_Version": "V8_BASIC_FOUNDATION_5",
+  "Configuration_ID": "V8_BASIC_FOUNDATION_RSI_PLACEHOLDER_30_65_20260713",
+  "Indicator_Set_ID": "V1_V3_RAW_INDICATORS_RSI_GATE_1",
+  "Indicator_Authority": "CONFIGURABLE_RSI_GATE_OTHER_CALCULATION_ONLY",
+  "RSI_Limit_Status": "PLACEHOLDER_FUNCTIONAL_TEST_ONLY",
+  "RSI_Operational_Use_Approved": false,
+  "Stocks": 20,
+  "Dates": 4,
+  "Rows": 80,
+  "Eligible_Rows": 25,
+  "Indicator_Module_Executed_Rows": 25,
+  "Indicator_Module_Not_Run_Rows": 55,
+  "RSI_Allows_Further_Processing_Rows": 12,
+  "RSI_Stops_Further_Processing_Rows": 13,
+  "RSI_Status_Counts": {
+    "RSI_ABOVE_CONFIGURED_RANGE": 13,
+    "RSI_NOT_EVALUATED_FOUNDATION_INELIGIBLE": 55,
+    "RSI_WITHIN_CONFIGURED_RANGE": 12
+  },
+  "State_Counts": {
+    "FOUNDATION_ELIGIBLE_BULLISH_POSITIVE_MACD": 25,
+    "FOUNDATION_NOT_ELIGIBLE_BELOW_OR_AT_EMA": 27,
+    "FOUNDATION_NOT_ELIGIBLE_MACD_EARLY_RECOVERY_BELOW_ZERO": 3,
+    "FOUNDATION_NOT_ELIGIBLE_MACD_NEGATIVE_WEAKENING": 3,
+    "FOUNDATION_NOT_ELIGIBLE_MACD_POSITIVE_PULLBACK": 22
+  },
+  "Eligible_Directional": {
+    "D1_Positive": 19,
+    "D5_Positive": 23,
+    "D8_Positive": 18
+  },
+  "Forbidden_Output_Fields_Present": [],
+  "Foundation_Regression_Rows": 80,
+  "Foundation_Regression_Failures": 0,
+  "Started_UTC": "2026-07-12T21:39:57.494564+00:00",
+  "Completed_UTC": "2026-07-12T21:40:00.080077+00:00",
+  "Git_Commit": "f16019ce183f4dbc78c03579701a6b50186a1d5c",
+  "Git_Worktree_Dirty": true,
+  "Source_Run": "D:\\Tools\\Stock_MomentumDetector\\backtests\\V8_Foundation_Validation\\runs\\V8FOUND_20260712T182945Z_cf0c908",
+  "Source_Run_Checksums_SHA256": "be7ba6e0f85f53d2681ddaf128ee6b86211c9344fac280ac05fe6f017f376259",
+  "Decision_Scope": "FOUNDATION_ONLY_NO_SCORE",
+  "Known_Limitations": [
+    "Purposeful 20-stock technology sample in one calendar quarter.",
+    "No transaction costs, stops, position sizing, or intraday evidence.",
+    "This run functionally validates the Foundation-to-RSI sequence; it does not establish that RSI 30-65 improves trading outcomes.",
+    "ADX, ATR, OBV and Aroon remain calculation-only and have no configured continuation rule."
+  ]
+}

@@ -1,0 +1,1 @@
+python Backtest_Momentum_Detector_V8.py --config config/V8_Comprehensive_Backtest_Config.json --output-root backtests/V8_Comprehensive/runs

@@ -1,0 +1,94 @@
+{
+  "Configuration_ID": "V8_V1_V3_HISTORICAL_INDICATOR_BASELINE_20260713",
+  "Schema_Version": "V8_V1_V3_BASELINE_1",
+  "Purpose": "Reproduce and assess only the indicator values present in Momentum Detector V1-V3",
+  "Limit_Status": "RESEARCH_CANDIDATE_NOT_OPERATIONAL",
+  "Operational_Use_Approved": false,
+  "Minimum_History_Bars": 300,
+  "EMA_Period": 200,
+  "MACD": {
+    "Fast": 12,
+    "Slow": 26,
+    "Signal": 9
+  },
+  "Foundation_Rule": "CLOSE_ABOVE_EMA_AND_MACD_LINE_ABOVE_SIGNAL_AND_ZERO",
+  "DMI_Dominance_Required": true,
+  "Indicators": {
+    "RSI_Period": 14,
+    "ADX_Period": 14,
+    "ATR_Period": 14,
+    "OBV_EMA_Period": 20,
+    "Aroon_Period": 14
+  },
+  "Indicator_Rules": {
+    "RSI": {
+      "Minimum": 55.0,
+      "Preferred_Lower": 56.0,
+      "Preferred_Upper": 68.0,
+      "Maximum": 75.0,
+      "Score_Below_Minimum": 0,
+      "Score_Minimum_To_Preferred": 5,
+      "Score_Preferred_Range": 10,
+      "Score_Preferred_To_Maximum": 5,
+      "Score_Above_Maximum": -10
+    },
+    "ADX": {
+      "Minimum": 20.0,
+      "Preferred_Lower": 26.0,
+      "Preferred_Upper": 40.0,
+      "High_Upper": 60.0,
+      "Score_Below_Minimum": 0,
+      "Score_Minimum_Or_High": 5,
+      "Score_Preferred_Range": 10,
+      "Score_Above_High": -5
+    },
+    "OBV": {
+      "EMA_Period": 20,
+      "Cross_Lookback_Sessions": 3,
+      "Score_Fresh_Cross": 10,
+      "Score_Price_Up_OBV_Down": -5,
+      "Score_Otherwise": 0
+    },
+    "ATR": {
+      "Period": 14,
+      "Authority": "CALCULATION_ONLY"
+    },
+    "Aroon": {
+      "Period": 14,
+      "Strong_Up_Minimum_Exclusive": 70.0,
+      "Strong_Down_Maximum_Exclusive": 30.0,
+      "Moderate_Up_Minimum_Exclusive": 50.0,
+      "Moderate_Down_Maximum_Exclusive": 50.0,
+      "Bearish_Up_Maximum_Exclusive": 30.0,
+      "Bearish_Down_Minimum_Exclusive": 70.0,
+      "Score_Strong": 10,
+      "Score_Moderate": 5,
+      "Score_Bearish": -5,
+      "Score_Otherwise": 0
+    },
+    "Opening_Structure": {
+      "Rule": "CURRENT_OPEN_GREATER_THAN_PREVIOUS_OPEN",
+      "Score_Pass": 5,
+      "Score_Fail": 0
+    }
+  },
+  "Profiles": {
+    "V1": {
+      "Minimum_Momentum_Score": 20,
+      "Use_Opening_Structure": false,
+      "Use_Aroon": false
+    },
+    "V2": {
+      "Minimum_Momentum_Score": 20,
+      "Use_Opening_Structure": false,
+      "Use_Aroon": false
+    },
+    "V3": {
+      "Minimum_Momentum_Score": 25,
+      "Use_Opening_Structure": true,
+      "Use_Aroon": true
+    }
+  },
+  "Price_Adjustment": "UNADJUSTED_OHLC",
+  "Forward_Horizons_Sessions": [1, 5, 8]
+}

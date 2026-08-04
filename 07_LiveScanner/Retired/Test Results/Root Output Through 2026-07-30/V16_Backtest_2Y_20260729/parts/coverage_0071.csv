@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+DXYZ,US,Destiny Tech100 Inc. Common Stock,,PROCESSED,,586,2024-03-26,2026-07-28,501,3
+DYNC,US,Dynamix Corporation - Class A Ordinary Share,,PROCESSED,,408,2024-12-09,2026-07-28,408,3
+DTSQ,US,DT Cloud Star Acquisition Corporation - Ordinary Shares,,PROCESSED,,466,2024-09-16,2026-07-27,466,0
+DRDB,US,Roman DBDR Acquisition Corp. II - Ordinary shares,,PROCESSED,,372,2025-02-03,2026-07-28,372,1
+MZYX,US,MOZAYYX Acquisition Corp. Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,68,2026-04-21,2026-07-28,0,0
+DMAA,US,Drugs Made In America Acquisition Corp. - Ordinary Shares,,PROCESSED,,357,2025-02-25,2026-07-28,357,0
+SIMA,US,SIM Acquisition Corp. I - Class A Ordinary Shares,Miscellaneous,PROCESSED,,477,2024-08-30,2026-07-28,477,0
+NTWO,US,Newbury Street II Acquisition Corp - Class A Ordinary Shares,,PROCESSED,,394,2024-12-27,2026-07-27,394,0
+NOEM,US,CO2 Energy Transition Corp. - Common Stock,,PROCESSED,,383,2025-01-16,2026-07-28,383,0
+NHIC,US,NewHold Investment Corp III - Class A Ordinary shares,,PROCESSED,,320,2025-04-17,2026-07-28,320,1
+ALOV,US,"Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Class A Ordinary Shares",,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,93,2026-03-16,2026-07-28,0,0
+DGAC,US,Disciplined Growth Acquisition Corporation Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,8,2026-07-17,2026-07-28,0,0
+OIM,US,OneIM Acquisition Corp. - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,97,2026-03-09,2026-07-27,0,0
+OHAC,US,Oceanhawk Acquisition Corp. - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,36,2026-06-05,2026-07-28,0,0
+TDAC,US,Translational Development Acquisition Corp. - Ordinary Shares,,PROCESSED,,364,2025-02-13,2026-07-28,364,1
+OTAI,US,Starlink AI Acquisition Corporation Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,21,2026-06-29,2026-07-28,0,0
+ORIQ,US,Origin Investment Corp I - Ordinary Shares,,PROCESSED,,221,2025-09-09,2026-07-27,221,0
+ONCH,US,1RT Acquisition Corp. - Class A Ordinary Share,,PROCESSED,,219,2025-09-12,2026-07-28,219,0
+SHOT,US,RMG ML Sports Holdings - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,8,2026-07-17,2026-07-28,0,0
+ALUB,US,Alussa Energy Acquisition Corp. II Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,140,2026-01-06,2026-07-28,0,0
+CAQ,US,Cambridge Acquisition Corp. - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,83,2026-03-30,2026-07-28,0,0
+PACH,US,Pioneer Acquisition I Corp - Class A Ordinary Shares,,PROCESSED,,237,2025-08-15,2026-07-27,237,0
+PAII,US,Pyrophyte Acquisition Corp. II Class A Ordinary Shares,,PROCESSED,,220,2025-09-11,2026-07-28,220,0
+ARCI,US,Archimedes Tech SPAC Partners III Co. - Ordinary Share,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,93,2026-03-16,2026-07-28,0,0
+CRAC,US,Crown Reserve Acquisition Corp. I - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,158,2025-12-09,2026-07-28,0,0
+COPL,US,Copley Acquisition Corp Ordinary Shares,,PROCESSED,,289,2025-06-02,2026-07-27,289,0
+APXT,US,Apex Treasury Corporation - Class A Ordinary Share,Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,173,2025-11-17,2026-07-28,0,0
+PDCC,US,Pearl Diver Credit Company Inc. Common Stock,,PROCESSED,,508,2024-07-18,2026-07-28,501,0
+PLUN,US,Plutonian Acquisition Corp II Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,26,2026-06-18,2026-07-27,0,0
+PLMK,US,Plum Acquisition Corp. IV - Class A Ordinary Shares,,PROCESSED,,373,2025-01-31,2026-07-28,373,1
+PGAC,US,Pantages Capital Acquisition Corporation - Class A Ordinary Shares,,PROCESSED,,376,2025-01-28,2026-07-28,376,0
+SUMA,US,SUMA Acquisition Corporation - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,69,2026-04-20,2026-07-28,0,0
+SVCC,US,Stellar V Capital Corp. - Class A Ordinary Shares,,PROCESSED,,338,2025-03-24,2026-07-28,338,0
+XCBE,US,X3 Acquisition Corp. Ltd. - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,94,2026-03-13,2026-07-28,0,0
+AACO,US,Abony Acquisition Corp. I - Class A Ordinary Share,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,73,2026-04-14,2026-07-28,0,0
+ANSC,US,Agriculture & Natural Solutions Acquisition Corporation - Class A Ordinary Shares,,PROCESSED,,643,2024-01-03,2026-07-28,501,1
+RDAC,US,Rising Dragon Acquisition Corp. - Ordinary Shares,,PROCESSED,,413,2024-12-02,2026-07-28,413,0
+RACD,US,Research Alliance Corporation IV - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,12,2026-07-13,2026-07-28,0,0
+GSHR,US,Gesher Acquisition Corp. II - Class A Ordinary Shares,,PROCESSED,,304,2025-05-12,2026-07-28,304,0
+CLBR,US,Colombier Acquisition Corp. III Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,84,2026-03-27,2026-07-28,0,0
+CHPG,US,ChampionsGate Acquisition Corporation - Class A Ordinary Share,,PROCESSED,,276,2025-06-20,2026-07-27,276,0
+GSRF,US,GSR IV Acquisition Corp. - Class A ordinary share,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,192,2025-10-20,2026-07-27,0,0
+ALDF,US,Aldel Financial II Inc. - Class A Ordinary Shares,,PROCESSED,,404,2024-12-13,2026-07-28,404,0
+POLE,US,Andretti Acquisition Corp. II - Class A Ordinary Shares,,PROCESSED,,437,2024-10-28,2026-07-28,437,0
+PWRL,US,Powerlaw Corp. - Common Stock,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,43,2026-05-27,2026-07-28,0,0
+CCIX,US,Churchill Capital Corp IX - Ordinary Shares,Technology,PROCESSED,,519,2024-06-21,2026-07-17,494,3
+CAPN,US,Cayson Acquisition Corp - Ordinary Shares,,PROCESSED,,439,2024-10-24,2026-07-28,439,0
+HCAC,US,Hall Chadwick Acquisition Corp. - Class A Ordinary Shares,Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,126,2026-01-27,2026-07-28,0,0
+HCIC,US,Hennessy Capital Investment Corp. VIII - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,83,2026-03-30,2026-07-28,0,0
+VACI,US,Viking Acquisition Corp. I Class A Ordinary Shares,Telecommunications,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,170,2025-11-20,2026-07-28,0,0

@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+VHUB,US,"VenHub Global, Inc. - Common Stock",Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,123,2026-01-30,2026-07-28,0,0
+HLP,US,Hongli Group Inc. - Class A Ordinary Shares,Industrials,PROCESSED,,835,2023-03-29,2026-07-28,501,0
+MAIA,US,"MAIA Biotechnology, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LFVN,US,Lifevantage Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+FXHO,US,UTime Limited - Class A Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BARK,US,"BARK, Inc. Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+SPRO,US,"Spero Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+NEXM,US,NexMetals Mining Corp. - Common Stock,,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ZEPP,US,"Zepp Health Corporation American depositary shares, each representing sixteen Class A ordinary shares",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+DTI,US,Drilling Tools International Corporation  - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+MCHX,US,"Marchex, Inc. - Class B Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BODI,US,"The Beachbody Company, Inc. - Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+ENLV,US,Enlivex Ltd. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GNTA,US,Genenta Science S.p.A. - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ALPS,US,ALPS Group Inc - Ordinary Share,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,184,2025-10-31,2026-07-28,0,0
+TEAD,US,Teads Holding Co. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+AEYE,US,"AudioEye, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+ODYS,US,Odysight.ai Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LINK,US,"Interlink Electronics, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SPAI,US,Safe Pro Group Inc. - Common Stock,Health Care,PROCESSED,,479,2024-08-28,2026-07-28,479,3
+CSPI,US,CSP Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CYPH,US,Cypherpunk Technologies Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GANX,US,"Gain Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+DLHC,US,DLH Holdings Corp. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ATRA,US,"Atara Biotherapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+IDN,US,"Intellicheck, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+BYRN,US,"Byrna Technologies, Inc. - Common Stock",Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+SEAT,US,Vivid Seats Inc. - Class A common stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+WKEY,US,WISeKey International Holding Ltd - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+RNTX,US,"Rein Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+OM,US,"Outset Medical, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NTIC,US,Northern Technologies International Corporation - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ACET,US,"Adicet Bio, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NRT,US,North European Oil Royality Trust Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+GOSS,US,"Gossamer Bio, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+TISI,US,"Team, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+VTIX,US,Virtuix Holdings Inc. - Class A Common Stock,Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,126,2026-01-27,2026-07-28,0,0
+AIRG,US,"Airgain, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NNOX,US,NANO-X IMAGING LTD - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+DTCX,US,"Datacentrex, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+LONA,US,"LeonaBio, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ACRV,US,"Acrivon Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,926,2022-11-15,2026-07-28,501,0
+BLUW,US,Blue Water Acquisition Corp. III - Class A Ordinary Shares,,PROCESSED,,249,2025-07-31,2026-07-28,249,0
+CLNN,US,Clene Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+LSE,US,"Leishen Energy Holding Co., Ltd. - Class A Ordinary Shares",Consumer Discretionary,PROCESSED,,400,2024-12-19,2026-07-28,400,0
+TELO,US,"Telomir Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,617,2024-02-09,2026-07-28,501,0
+GOAI,US,Eva Live Inc. - Common Stock,Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,125,2026-01-28,2026-07-28,0,0
+ROLR,US,"High Roller Technologies, Inc. Common Stock",Consumer Discretionary,PROCESSED,,440,2024-10-23,2026-07-28,440,0
+KNDI,US,"Kandi Technologies Group, Inc. - Ordinary Shares",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RGS,US,Regis Corporation - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2

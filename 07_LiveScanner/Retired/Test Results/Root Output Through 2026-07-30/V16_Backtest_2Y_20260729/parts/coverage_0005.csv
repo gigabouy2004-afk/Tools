@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+DVN,US,Devon Energy Corporation Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+EBAY,US,eBay Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+MT,US,Arcelor Mittal NY Registry Shares NEW,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+WPM,US,Wheaton Precious Metals Corp Common Shares (Canada),Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+PYPL,US,"PayPal Holdings, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+AZO,US,"AutoZone, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+EW,US,Edwards Lifesciences Corporation Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+HUM,US,Humana Inc. Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+XYZ,US,"Block, Inc. Class A Common Stock,",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+HEI,US,Heico Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+FLEX,US,Flex Ltd. - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+CBRS,US,Cerebras Systems Inc. - Class A Common Stock,Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,51,2026-05-14,2026-07-28,0,0
+FER,US,Ferrovial N.V. - Ordinary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,21
+GRMN,US,Garmin Ltd. Common Stock (Switzerland),Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+MCHP,US,Microchip Technology Incorporated - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+INFY,US,Infosys Limited American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+WAB,US,Westinghouse Air Brake Technologies Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+ADSK,US,"Autodesk, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+FERG,US,Ferguson Enterprises Inc. Common Stock,Miscellaneous,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+VIK,US,Viking Holdings Ltd Ordinary Shares,Consumer Discretionary,PROCESSED,,561,2024-05-01,2026-07-28,501,13
+TTWO,US,"Take-Two Interactive Software, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+IDXX,US,"IDEXX Laboratories, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+CRWV,US,"CoreWeave, Inc. - Class A Common Stock",Technology,PROCESSED,,334,2025-03-28,2026-07-28,334,1
+BDX,US,"Becton, Dickinson and Company Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+WDS,US,"Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+LYV,US,"Live Nation Entertainment, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+CRDO,US,Credo Technology Group Holding Ltd - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,21
+JD,US,"JD.com, Inc. - American Depositary Shares",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+AXON,US,"Axon Enterprise, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+MSCI,US,MSCI Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+DHI,US,"D.R. Horton, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+RKLB,US,Rocket Lab Corporation - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+FNV,US,Franco-Nevada Corporation,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+PAYX,US,"Paychex, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+AU,US,AngloGold Ashanti PLC Ordinary Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+CLS,US,"Celestica, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+RVMD,US,"Revolution Medicines, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+SYY,US,Sysco Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+CCJ,US,Cameco Corporation Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+NTRA,US,"Natera, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+RBLX,US,Roblox Corporation Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+A,US,"Agilent Technologies, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+HMC,US,"Honda Motor Company, Ltd. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+BIDU,US,"Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+TEVA,US,Teva Pharmaceutical Industries Limited American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+KVUE,US,Kenvue Inc. Common Stock,Consumer Discretionary,PROCESSED,,810,2023-05-04,2026-07-28,501,6
+VOD,US,Vodafone Group Plc - American Depositary Shares each representing ten Ordinary Shares,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+ALNY,US,"Alnylam Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1001,2022-07-29,2026-07-28,500,9
+WAT,US,Waters Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+ESLT,US,Elbit Systems Ltd. - Ordinary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14

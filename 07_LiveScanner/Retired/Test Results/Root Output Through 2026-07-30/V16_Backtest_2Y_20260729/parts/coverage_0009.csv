@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+ULS,US,UL Solutions Inc. Class A Common Stock,Health Care,PROCESSED,,574,2024-04-12,2026-07-28,501,11
+ZBH,US,"Zimmer Biomet Holdings, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ITT,US,ITT Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+NVR,US,"NVR, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+APG,US,APi Group Corporation Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+KSPI,US,Joint Stock Company Kaspi.kz - American Depository Shares,,PROCESSED,,632,2024-01-19,2026-07-28,501,0
+OVV,US,Ovintiv Inc. (DE),Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+BR,US,"Broadridge Financial Solutions, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+PKX,US,POSCO HOLDINGS INC. American Depositary Shares (Each representing 1/4th of a share of Common Stock),Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+STLA,US,Stellantis N.V. Common Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BALL,US,Ball Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+CDW,US,CDW Corporation - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AMKR,US,"Amkor Technology, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+DINO,US,HF Sinclair Corporation Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+TIGO,US,Millicom International Cellular S.A. - Common Stock,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,27
+RGLD,US,"Royal Gold, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,21
+GPC,US,Genuine Parts Company Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+IEX,US,IDEX Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+SSNC,US,"SS&C Technologies Holdings, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+NDSN,US,Nordson Corporation - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+BBIO,US,"BridgeBio Pharma, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+CLH,US,"Clean Harbors, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+WCC,US,"WESCO International, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+NXT,US,Nextpower Inc. - Class A Common Stock,Industrials,PROCESSED,,868,2023-02-09,2026-07-28,501,12
+VNOM,US,"Viper Energy, Inc.  - Class A Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+JAZZ,US,Jazz Pharmaceuticals plc - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+TU,US,Telus Corporation Ordinary Shares,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+BWXT,US,"BWX Technologies, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+CDE,US,"Coeur Mining, Inc. Common Stock",Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+ASND,US,Ascendis Pharma A/S - Ordinary Share,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+TXT,US,Textron Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+GEN,US,Gen Digital Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+RBRK,US,"Rubrik, Inc. Class A Common Stock",Technology,PROCESSED,,565,2024-04-25,2026-07-28,501,3
+TSCO,US,Tractor Supply Company - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+MAS,US,Masco Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+WSE,US,Wise Group plc - Class A Ordinary Shares,Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,54,2026-05-11,2026-07-28,0,0
+SMCI,US,"Super Micro Computer, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+J,US,Jacobs Solutions Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+QNT,US,Quantinuum Inc. - Class A Common Stock,Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,37,2026-06-04,2026-07-28,0,0
+TTMI,US,"TTM Technologies, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,21
+DVA,US,DaVita Inc. Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+MEDP,US,"Medpace Holdings, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+WSO,US,"Watsco, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+RTO,US,Rentokil Initial plc American Depositary Shares (each representing five (5) Ordinary Shares),Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+ONTO,US,Onto Innovation Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+TLK,US,"PT Telekomunikasi Indonesia, Tbk",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+LOGI,US,Logitech International S.A. - Registered Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+IREN,US,IREN Limited - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+SGI,US,Somnigroup International Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+NTNX,US,"Nutanix, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7

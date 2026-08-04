@@ -1,0 +1,56 @@
+{
+  "Run_ID": "V8FOUND_20260712T182945Z_cf0c908",
+  "Stocks_Tested": 20,
+  "Dates_Tested": 4,
+  "Total_Rows": 80,
+  "Quarter": "2026Q2",
+  "MACD": {
+    "Fast": 8,
+    "Slow": 21,
+    "Signal": 5
+  },
+  "Foundation_Status_Counts": {
+    "FOUNDATION_VALID": 25,
+    "FOUNDATION_TREND_VALID_MACD_RESET": 28,
+    "FOUNDATION_INVALID_BELOW_EMA200": 27,
+    "FOUNDATION_INSUFFICIENT_DATA": 0
+  },
+  "Decision_Counts": {
+    "MOMENTUM_ACTIVE": 5,
+    "MOMENTUM_PRESENT_WAIT_CONFIRMATION": 30,
+    "REJECT": 45
+  },
+  "Foundation_Qualified_Directional": {
+    "D1_Positive": 19,
+    "D5_Positive": 23,
+    "D8_Positive": 18
+  },
+  "Foundation_Qualified_Rows": 25,
+  "Active_Directional": {
+    "D1_Positive": 4,
+    "D5_Positive": 5,
+    "D8_Positive": 4
+  },
+  "Active_Rows": 5,
+  "Valid_Row_Regression_Failures": 0,
+  "Invalid_Row_Short_Circuit_Failures": 0,
+  "ETF_Stocks_Queried": 20,
+  "ETF_Returned_Mappings": 21,
+  "ETF_Accepted_Same_Quarter_Mappings": 7,
+  "Active_ETF_Outcome_Rows": 2,
+  "Score_Invariance_Failures": 0,
+  "Started_UTC": "2026-07-12T18:29:45.583708+00:00",
+  "Completed_UTC": "2026-07-12T18:31:19.585763+00:00",
+  "Git_Commit": "cf0c9086d3614fb44d60602e9f47379961a417fb",
+  "Git_Branch": "main",
+  "Git_Worktree_Dirty": true,
+  "Config_SHA256": "8dab39a0c130ae2b3beb01da35dd0e97187d4ce5ec838270fef7228873b12db1",
+  "Historical_Replay_Mode": "DAILY_EOD_WITHOUT_HISTORICAL_INTRADAY_OR_EXTENDED_HOURS",
+  "ETF_Historical_Evidence_Rule": "VALIDATED_HOLDINGS_DATE_MUST_MATCH_SIGNAL_CALENDAR_QUARTER",
+  "Known_Limitations": [
+    "Daily EOD replay cannot reconstruct historical hourly, live-quote, or extended-hours state.",
+    "The 20-stock technology seed is purposeful and is not a random market-wide sample.",
+    "ETF mappings are accepted only when the independently reported holdings date is in 2026Q2.",
+    "Four dates in one quarter validate implementation and directional behavior, not all market regimes."
+  ]
+}

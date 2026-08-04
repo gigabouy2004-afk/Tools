@@ -1,0 +1,64 @@
+{
+  "engine": "V16",
+  "classification": "V16 binding BUY rules; vectorized historical replay",
+  "preset": "balanced",
+  "requested_history_period": "2y",
+  "measured_years": 2,
+  "holding_period_sessions": 5,
+  "analysis_start": "2025-09-22",
+  "analysis_end": "2026-07-23",
+  "started_utc": "2026-07-28T21:37:18.925670+00:00",
+  "completed_utc": "2026-07-28T21:37:20.136571+00:00",
+  "elapsed_seconds": 1.21,
+  "universe": {
+    "requested_symbols": 1,
+    "us_symbols": 1,
+    "india_symbols": 0,
+    "processed_symbols": 1,
+    "symbols_with_buy_trades": 1,
+    "coverage_status": {
+      "PROCESSED": 1
+    }
+  },
+  "performance": {
+    "total_trades": 7,
+    "winning_trades": 2,
+    "losing_trades": 5,
+    "flat_trades": 0,
+    "win_rate_pct": 28.57,
+    "average_return_pct": -0.626,
+    "median_return_pct": -1.4328,
+    "average_win_pct": 2.7432,
+    "average_loss_pct": -1.9737,
+    "profit_factor": 0.556,
+    "best_trade_pct": 3.4139,
+    "worst_trade_pct": -3.1086,
+    "p10_return_pct": -3.0162,
+    "p25_return_pct": -2.3801,
+    "p75_return_pct": 0.753,
+    "p90_return_pct": 2.6091,
+    "entry_cohort_max_drawdown_pct": -6.0723,
+    "drawdown_note": "Equal-weight mean returns are compounded by entry date. This is a cohort diagnostic, not a capital-constrained portfolio backtest, because trades can overlap across symbols."
+  },
+  "signals_by_type": {
+    "Buy_Momentum_Extension": 6,
+    "Buy_Early_Momentum": 1
+  },
+  "trades_by_market": {
+    "US": 7
+  },
+  "top_tickers_minimum_3_trades": [
+    {
+      "ticker": "AAPL",
+      "trades": 7,
+      "average_return_pct": -0.626,
+      "win_rate_pct": 28.57
+    }
+  ],
+  "method_notes": [
+    "Four years of daily OHLCV are requested so EMA200 and 50 completed weekly candles are warm before the two-year measured window.",
+    "Signals use only data available on each signal date; entry is the next session open and exit is the close after the configured holding period.",
+    "After a BUY, the same ticker cannot enter another trade before the prior trade's exit date, matching V16 production backtest behavior.",
+    "Yahoo adjusted OHLCV is the external data source; coverage.csv records missing and insufficient-history symbols."
+  ]
+}

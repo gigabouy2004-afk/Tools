@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+AEMD,US,"Aethlon Medical, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FCUV,US,Focus Universal Inc. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+VIVS,US,"VivoSim Labs, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FCHL,US,Fitness Champs Holdings Limited - Ordinary Shares,Consumer Discretionary,PROCESSED,,225,2025-09-04,2026-07-28,225,0
+BTTC,US,Black Titan Corp - Ordinary Shares,Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,205,2025-10-02,2026-07-28,0,0
+UK,US,Ucommune International Ltd  - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BDRX,US,Biodexa Pharmaceuticals plc - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PPBT,US,Purple Biotech Ltd. - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+VBIO,US,"Valion Bio, Inc. - Common stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SCNI,US,Scinai Immunotherapeutics Ltd. - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BJDX,US,"Bluejay Diagnostics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FGL,US,Founder Group Limited - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,440,2024-10-23,2026-07-28,440,0
+PFSA,US,"Profusa, Inc. - Common Stock",Health Care,PROCESSED,,263,2025-07-11,2026-07-28,263,0
+NUWE,US,"Nuwellis, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ONFO,US,Onfolio Holdings Inc. - Common Stock,Technology,PROCESSED,,982,2022-08-26,2026-07-28,501,0
+CISS,US,C3is Inc. - Common Stock,Consumer Discretionary,PROCESSED,,782,2023-06-14,2026-07-28,501,0
+IMCC,US,IM Cannabis Corp. - Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+KUST,US,"Kustom Entertainment, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ZNB,US,Zeta Network Group - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+LBGJ,US,Li Bang International Corporation Inc. - Class A Ordinary Shares,Industrials,PROCESSED,,440,2024-10-23,2026-07-28,440,0
+INLF,US,INLIF LIMITED - Class A Ordinary shares,Industrials,PROCESSED,,392,2025-01-02,2026-07-28,392,0
+WOK,US,WORK Medical Technology Group LTD - Class A Ordinary Shares,Health Care,PROCESSED,,482,2024-08-23,2026-07-28,482,0
+BEAG,US,Bold Eagle Acquisition Corp. - Class A Ordinary Shares,,PROCESSED,,403,2024-12-16,2026-07-28,403,0
+AEAQ,US,Activate Energy Acquisition Corp. - Class A Ordinary Share,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,127,2026-01-26,2026-07-28,0,0
+GTEN,US,"Gores Holdings X, Inc. - Class A ordinary shares",,PROCESSED,,275,2025-06-23,2026-07-27,275,0
+GRAF,US,Graf Global Corp. Class A ordinary shares,,PROCESSED,,486,2024-08-16,2026-07-27,486,1
+VHCP,US,Vine Hill Capital Investment Corp. II - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,117,2026-02-09,2026-07-28,0,0
+VII,US,Viking Acquisition Corp. II Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,6,2026-07-20,2026-07-27,0,0
+GPAC,US,General Purpose Acquisition Corp. - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,128,2026-01-23,2026-07-28,0,0
+GPAT,US,GP-Act III Acquisition Corp. - Class A Ordinary Share,,PROCESSED,,519,2024-07-02,2026-07-28,501,0
+BCSS,US,Bain Capital GSS Investment Corp. Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,170,2025-11-20,2026-07-28,0,0
+INAC,US,Indigo Acquisition Corp. - Ordinary Shares,,PROCESSED,,250,2025-07-30,2026-07-28,250,0
+ILLU,US,Illumination Acquisition Corp I - Class A Ordinary Shares,Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,67,2026-04-21,2026-07-27,0,0
+SBXD,US,SilverBox Corp IV Class A Ordinary Shares,,PROCESSED,,452,2024-10-07,2026-07-28,452,0
+SBXE,US,SilverBox Corp V Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,128,2026-01-23,2026-07-28,0,0
+SCII,US,SC II Acquisition Corp. - Class A ordinary share,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,131,2026-01-20,2026-07-28,0,0
+BIXI,US,Bitcoin Infrastructure Acquisition Corp Ltd. - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,150,2025-12-19,2026-07-28,0,0
+GCGR,US,General Catalyst Global Resilience Merger Corp. - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,26,2026-06-22,2026-07-28,0,0
+FVAV,US,Fortress Value Acquisition Corp. V - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,105,2026-02-26,2026-07-28,0,0
+FVN,US,Future Vision II Acquisition Corporation - Ordinary Shares,,PROCESSED,,432,2024-11-04,2026-07-28,432,0
+AEXA,US,American Exceptionalism Acquisition Corp. A Class A Ordinary Shares,,PROCESSED,,209,2025-09-26,2026-07-28,209,0
+AFJK,US,"Aimei Health Technology Co., Ltd - Ordinary Share",,PROCESSED,,631,2024-01-22,2026-07-28,501,1
+ITHA,US,ITHAX Acquisition Corp III - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,131,2026-01-20,2026-07-28,0,0
+IRAB,US,Iris Acquisition Corp II Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,107,2026-02-24,2026-07-28,0,0
+IRHO,US,Iron Horse Acquisitions II Corp. - Common Stock,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,118,2026-02-06,2026-07-28,0,0
+JACS,US,Jackson Acquisition Company II Class A Ordinary Shares,,PROCESSED,,374,2025-01-30,2026-07-28,374,0
+FSHP,US,Flag Ship Acquisition Corp. - Ordinary Shares,,PROCESSED,,487,2024-08-15,2026-07-27,487,0
+FRNM,US,"Freenome, Inc. - Common stock",,PROCESSED,,532,2024-06-12,2026-07-28,501,1
+BKHA,US,Black Hawk Acquisition Corporation - Class A Ordinary Shares,Health Care,PROCESSED,,553,2024-05-13,2026-07-28,501,0
+TVA,US,Texas Ventures Acquisition III Corp - Class A Ordinary Share,,PROCESSED,,300,2025-05-16,2026-07-28,300,0

@@ -1,0 +1,2 @@
+ticker,signal_date,signal_close,entry_date,entry_price,exit_date,exit_price,return_pct,signal_score,output_signal,setup_type
+RELIANCE.NS,2025-10-28,1480.06,2025-10-29,1483.14,2025-11-04,1466.32,-1.13,10,Buy_Momentum_Extension,MOMENTUM_CONTINUATION_EXTENDED

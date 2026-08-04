@@ -1,0 +1,15 @@
+{
+  "Configuration_ID": "V8_BASIC_FOUNDATION_8_21_5_20260713",
+  "Schema_Version": "V8_BASIC_FOUNDATION_1",
+  "Purpose": "Minimal V8 Foundation eligibility without post-Foundation indicators, scores, benchmarks, ETF, or external context",
+  "EMA_Period": 200,
+  "MACD": {
+    "Fast": 8,
+    "Slow": 21,
+    "Signal": 5
+  },
+  "Minimum_History_Bars": 300,
+  "Price_Adjustment": "UNADJUSTED_OHLC",
+  "Eligibility_Rule": "CLOSE_ABOVE_EMA_AND_MACD_LINE_ABOVE_SIGNAL_AND_ZERO",
+  "Decision_Scope": "FOUNDATION_ONLY_NO_SCORE"
+}

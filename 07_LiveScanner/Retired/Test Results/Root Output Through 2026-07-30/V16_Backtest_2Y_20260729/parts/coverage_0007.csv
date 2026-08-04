@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+TECK,US,Teck Resources Ltd Ordinary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+XYL,US,Xylem Inc. Common Stock New,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+MTZ,US,"MasTec, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+HAL,US,Halliburton Company Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+OTIS,US,Otis Worldwide Corporation Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+TCOM,US,Trip.com Group Limited - American Depositary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+ECHO,US,EchoStar Corporation - Common stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+AER,US,AerCap Holdings N.V. Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+FISV,US,"Fiserv, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1001,2022-07-29,2026-07-28,500,9
+ATI,US,ATI Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+CW,US,Curtiss-Wright Corporation Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,23
+ZM,US,"Zoom Communications, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+MTD,US,"Mettler-Toledo International, Inc. Common Stock",Industrials,PROCESSED,,1001,2022-07-29,2026-07-28,500,5
+PHG,US,Koninklijke Philips N.V. NY Registry Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+WSM,US,"Williams-Sonoma, Inc. Common Stock (DE)",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+NVT,US,nVent Electric plc Ordinary Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+SYM,US,Symbotic Inc. - Class A Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+VRSK,US,"Verisk Analytics, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+WST,US,"West Pharmaceutical Services, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+HUBB,US,Hubbell Inc Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+XPO,US,"XPO, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+ROIV,US,Roivant Sciences Ltd. - Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+MDB,US,"MongoDB, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+P,US,"Everpure, Inc. Class A common stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+OKTA,US,"Okta, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+ASTS,US,"AST SpaceMobile, Inc. - Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+WWD,US,"Woodward, Inc. - Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+VRSN,US,"VeriSign, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+ZS,US,"Zscaler, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+CPAY,US,"Corpay, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+RIVN,US,"Rivian Automotive, Inc. - Class A Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+MRNA,US,"Moderna, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+PHM,US,"PulteGroup, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+INSM,US,Insmed Incorporated - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+INCY,US,Incyte Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,17
+MKSI,US,MKS Inc. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+BNTX,US,BioNTech SE - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+FFIV,US,"F5, Inc. - Common Stock",Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+TEAM,US,Atlassian Corporation  - Class A Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+LH,US,Labcorp Holdings Inc. Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+DGX,US,Quest Diagnostics Incorporated Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+BSP,US,Bending Spoons S.p.A. - Ordinary Shares,Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,19,2026-07-01,2026-07-28,0,0
+INIO,US,INNIO N.V. - Ordinary Shares,Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,35,2026-06-08,2026-07-28,0,0
+UTHR,US,United Therapeutics Corporation - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+HPQ,US,HP Inc. Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SW,US,Smurfit WestRock plc Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+VIV,US,Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share),Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+VLTO,US,Veralto Corp Common Stock,Industrials,PROCESSED,,705,2023-10-04,2026-07-28,501,2
+FSLR,US,"First Solar, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+DOW,US,Dow Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1

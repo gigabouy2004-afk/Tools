@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+NPK,US,"National Presto Industries, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+ODTX,US,"Odyssey Therapeutics, Inc. - Common Stock",Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,55,2026-05-08,2026-07-28,0,0
+HMH,US,HMH Holding Inc. - Common Stock,Consumer Discretionary,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,81,2026-04-01,2026-07-28,0,0
+LYTS,US,LSI Industries Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+WOOF,US,"Petco Health and Wellness Company, Inc. - Class A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+KDK,US,"Kodiak AI, Inc. - Common Stock",Technology,PROCESSED,,210,2025-09-25,2026-07-28,210,0
+ADSE,US,ADS-TEC ENERGY PLC - Ordinary Shares,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+TBPH,US,"Theravance Biopharma, Inc. - Ordinary Shares",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+UAMY,US,United States Antimony Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,15
+RERE,US,ATRenew Inc. American Depositary Shares (every three of which representing two Class A ordinary shares),Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+AMPH,US,"Amphastar Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+HQ,US,Horizon Quantum Holdings Ltd. - Class A Ordinary Shares,Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,89,2026-03-20,2026-07-28,0,0
+JKS,US,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+WGO,US,"Winnebago Industries, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MATW,US,Matthews International Corporation - Class A Common Stock,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+EVEX,US,"Eve Holding, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+SMP,US,"Standard Motor Products, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+INR,US,"Infinity Natural Resources, Inc. Class A Common Stock",Energy,PROCESSED,,373,2025-01-31,2026-07-28,373,1
+KELYB,US,"Kelly Services, Inc. - Class B Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GLAS,US,Glass House Brands Inc. Subordinate Voting Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+MOV,US,Movado Group Inc. Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+DBVT,US,DBV Technologies S.A. - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+MTAL,US,Metals Acquisition Corp. II Class A Ordinary Shares,Basic Materials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,72,2026-04-15,2026-07-28,0,0
+NX,US,Quanex Building Products Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SLDB,US,Solid Biosciences Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+MITK,US,"Mitek Systems, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+MTUS,US,Metallus Inc. Common Shares,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+LXU,US,"LSB Industries, Inc. Common Stock",Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+AVR,US,Anteris Technologies Global Corp. - Common Stock,Health Care,PROCESSED,,404,2024-12-13,2026-07-28,404,5
+YALA,US,"Yalla Group Limited American Depositary Shares, each representing one Class A Ordinary Share",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+TRNS,US,"Transcat, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+CYRX,US,"CryoPort, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+APOG,US,"Apogee Enterprises, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+HSTM,US,"HealthStream, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+IPX,US,IperionX Limited - American Depositary Share,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+BLZE,US,"Backblaze, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+GFR,US,Greenfire Resources Ltd. Common Shares,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+NEWP,US,New Pacific Metals Corp. Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+DQ,US,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+LPTH,US,"LightPath Technologies, Inc. - Class A Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+ACRS,US,"Aclaris Therapeutics, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+VTEX,US,VTEX Class A Common Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+METC,US,"Ramaco Resources, Inc. - Class A Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+FEIM,US,"Frequency Electronics, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+BBNX,US,"Beta Bionics, Inc. - Common Stock",Health Care,PROCESSED,,374,2025-01-30,2026-07-28,374,0
+KRO,US,Kronos Worldwide Inc Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+OGG,US,Osisko Gold Group Inc. Common Shares,,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+DSP,US,Viant Technology Inc. - common stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+CODI,US,D/B/A Compass Diversified Holdings Shares of Beneficial Interest,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+KRT,US,Karat Packaging Inc. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,6

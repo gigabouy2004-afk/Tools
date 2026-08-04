@@ -1,0 +1,156 @@
+ENGINE_NAME,PMDE vNext
+VERSION,V_NEXT
+RUN_TIMESTAMP,20260514_161655
+INPUT_FILE,D:/Tools/StockCodeMaster/02_NASDAQ_Sector_Technology_Semicoductor.csv
+FILE_SYMBOL_COUNT,101
+HARDCODED_SYMBOL_COUNT,0
+FALLBACK_SYMBOL_COUNT,0
+BASELINE_SYMBOL_COUNT,0
+BASELINE_WATCH_SYMBOL_COUNT,0
+INPUT_SYMBOL_COUNT,101
+RESOLVED_SYMBOL_SOURCE,INPUT_SOURCES
+INPUT_WARNINGS,
+ENGINE_MODE,QUICK_SETUP
+SUPPORTED_ENGINE_MODES,FULL_BASELINE|QUICK_CROSSOVER|QUICK_SETUP
+FORCE_L2_ASSESSMENT,True
+MACD_FAST,8
+MACD_SLOW,21
+MACD_SIGNAL,5
+SETUP_PRICE_LOOKBACK_X,5
+SETUP_PRICE_MIN_ADVANCE_PCT,0.5
+SETUP_PRIMARY_TIMEFRAME,1d
+SETUP_BRIDGE_TIMEFRAME,4h
+SETUP_TRIGGER_TIMEFRAME,1h
+SETUP_MACD_HISTOGRAM_RISING_STREAK,2
+SETUP_REQUIRE_EMA200_BULL_ZONE,True
+SETUP_REJECT_EXTENDED_UP,True
+SETUP_REJECT_GAP_UP,False
+SETUP_REJECT_HIGH_ATRP,False
+SETUP_RSI_MIN,45
+SETUP_RSI_MAX,78
+SETUP_RSI_HEADROOM_FULL_SCORE_PCT,35
+SETUP_RSI_HEADROOM_MIN_SCORE_PCT,10
+SETUP_OUTPUT_ONLY_CONFIRMED,True
+QUICK_CROSSOVER_OUTPUT_ONLY_PROBABLES,True
+QUICK_CROSSOVER_INCLUDE_BASELINE_WATCHLIST,True
+QUICK_CROSSOVER_INCLUDE_INPUT_SYMBOLS,True
+QUICK_CROSSOVER_UPDATE_BASELINE,True
+QUICK_CROSSOVER_BASELINE_STATES,PRE_BULL_CROSSOVER|PRE_BEAR_CROSSOVER
+QUICK_CROSSOVER_STATES,PRE_BULL_CROSSOVER|PRE_BEAR_CROSSOVER|EARLY_RECOVERY_INSIDE_BEAR_STRUCTURE
+USE_LIVE_PRICE_FOR_DAILY,True
+LIVE_PRICE_INTERVAL,1m
+LIVE_PRICE_PERIOD,1d
+LIVE_PRICE_PREPOST,False
+DATA_PERIOD_1D,5y
+DATA_PERIOD_4H,60d
+DATA_PERIOD_1H,30d
+ACTIVE_GENERIC_FACTS,EMA200|PRICE_CONTEXT|SESSION_CONTEXT
+
+TOTAL_SYMBOLS,101
+SUCCESS_COUNT,0
+FAILED,101
+FILTERED_OUT,0
+RUN_MODE,QUICK_SETUP
+
+Symbol,L1_State,L2_Hypothesis,Final_State,PMDE_Explanation
+AAOI,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+ADI,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+AIP,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+ALAB,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+ALGM,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+ALMU,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+AMAT,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+AMBA,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+AMBQ,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+AMD,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+AMKR,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+AOSL,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+ARM,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+ASTI,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+ASX,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+ATOM,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+AVGO,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+AXTI,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+BEEM,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+CAN,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+CRDO,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+CRUS,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+CSIQ,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+DIOD,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+DQ,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+DVLT,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+EBON,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+ENPH,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+FORM,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+FSLR,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+FTCI,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+GCTS,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+GFS,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+GSIT,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+HIMX,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+ICG,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+ICHR,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+IMOS,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+INDI,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+INTC,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+IPGP,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+IPWR,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+JKS,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+KLIC,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+KOPN,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+LAES,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+LASR,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+LEDS,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+LPTH,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+LSCC,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+MCHP,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+MCHPP,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+MOBX,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+MOBXW,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+MPWR,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+MRAM,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+MRVL,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+MTSI,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+MU,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+MX,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+MXL,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+NVDA,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+NVEC,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+NVTS,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+NXPI,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+ON,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+OSIS,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+PENG,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+PLAB,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+POET,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+POWI,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+PRSO,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+PXLW,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+Q,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+QRVO,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+QUIK,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+RMBS,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+SEDG,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+SELX,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+SHLS,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+SIMO,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+SITM,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+SKYT,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+SMTC,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+SMTK,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+SPCB,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+SPWR,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+SPWRW,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+SQNS,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+STM,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+SWKS,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+SYNA,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+TSEM,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+TSM,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+TXN,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+TYGO,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+UCTT,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+UMC,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+VIAV,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+VLN,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined
+WOLF,FAILED,FAILED,FAILED,name 'rsi_headroom' is not defined

@@ -1,0 +1,32 @@
+Ticker,Symbol,Security Name,Listing Exchange,Market Category,ETF,Test Issue,MarketCap,Sector,Industry,Asset Class,Strategy,Theme,Geography,Category Flags
+DRGN,DRGN,Themes China Generative Artificial Intelligence ETF,BATS, ,Y,N,,,ETF,Equity,Plain,AI & Machine Learning,China,AI & Machine Learning; China; Equity; Plain
+ASHR,ASHR,Xtrackers Harvest CSI 300 China A-Shares ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,China,Broad Market; China; Equity; Plain
+BCHI,BCHI,GMO Beyond China ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,China,Broad Market; China; Equity; Plain
+CAS,CAS,Simplify China A Shares PLUS Income ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Dividend/Income,Broad Market,China; United States,Broad Market; China; Dividend/Income; Equity
+CNQQ,CNQQ,Rayliant-ChinaAMC Transformative China Tech ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market,China,Broad Market; China; Equity; Plain
+CQQQ,CQQQ,Invesco China Technology ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,China,Broad Market; China; Equity; Plain
+CXSE,CXSE,WisdomTree China ex-State-Owned Enterprises Fund,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market,China,Broad Market; China; Equity; Plain
+FCA,FCA,First Trust China AlphaDEX Fund,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market,China,Broad Market; China; Equity; Plain
+FLCH,FLCH,Franklin FTSE China ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,China,Broad Market; China; Equity; Plain
+FXI,FXI,iShares China Large-Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,China,Broad Market; China; Equity; Plain
+GXC,GXC,State Street SPDR S&P China ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,China,Broad Market; China; Equity; Plain
+JCHI,JCHI,JPMorgan Active China ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Active,Broad Market,China,Active; Broad Market; China; Equity
+KCAI,KCAI,KraneShares China Alpha Index ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,China,Broad Market; China; Equity; Plain
+MAGC,MAGC,Roundhill China Magnificent Seven ETF,BATS, ,Y,N,,,ETF,Equity,Plain,Broad Market,China,Broad Market; China; Equity; Plain
+MCH,MCH,Matthews China Active ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Active,Broad Market,China,Active; Broad Market; China; Equity
+MCHS,MCHS,Matthews China Innovators Active ETF,NASDAQ,G,Y,N,,,ETF,Equity,Active,Broad Market,China,Active; Broad Market; China; Equity
+NBCE,NBCE,Neuberger China Equity ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market,China,Broad Market; China; Equity; Plain
+PGJ,PGJ,Invesco Golden Dragon China ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market,China,Broad Market; China; Equity; Plain
+ASHS,ASHS,Xtrackers Harvest CSI 500 China A-Shares Small Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,China,Broad Market & Core Indices; China; Equity; Plain
+CNYA,CNYA,iShares MSCI China A ETF,BATS, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,China,Broad Market & Core Indices; China; Equity; Plain
+ECNS,ECNS,iShares MSCI China Small-Cap ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,China,Broad Market & Core Indices; China; Equity; Plain
+KBA,KBA,KraneShares Bosera MSCI China A 50 Connect Index ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,China,Broad Market & Core Indices; China; Equity; Plain
+MCHI,MCHI,iShares MSCI China ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,China,Broad Market & Core Indices; China; Equity; Plain
+TCHI,TCHI,iShares MSCI China Multisector Tech ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Broad Market & Core Indices,China,Broad Market & Core Indices; China; Equity; Plain
+KGRN,KGRN,KraneShares MSCI China Clean Technology Index ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Clean Energy; Broad Market & Core Indices,China,Broad Market & Core Indices; China; Clean Energy; Equity; Plain
+CHIQ,CHIQ,Global X MSCI China Consumer Discretionary ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Consumer Discretionary; Broad Market & Core Indices,Global; China,Broad Market & Core Indices; China; Consumer Discretionary; Equity; Global; Plain
+PCCE,PCCE,Polen Capital China Growth ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Factor,Growth & Momentum,China,China; Equity; Factor; Growth & Momentum
+CGRO,CGRO,CoreValues Alpha Greater China Growth ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Factor,Growth & Momentum; Value & Quality,China; United States,China; Equity; Factor; Growth & Momentum; United States; Value & Quality
+KURE,KURE,KraneShares MSCI All China Health Care Index ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Healthcare Broad; Broad Market & Core Indices,China,Broad Market & Core Indices; China; Equity; Healthcare Broad; Plain
+KWEB,KWEB,KraneShares CSI China Internet ETF,NYSE ARCA, ,Y,N,,,ETF,Equity,Plain,Internet & E-Commerce,China,China; Equity; Internet & E-Commerce; Plain
+SMHC,SMHC,VanEck China Semiconductor ETF,NASDAQ,G,Y,N,,,ETF,Equity,Plain,Semiconductor,China,China; Equity; Plain; Semiconductor

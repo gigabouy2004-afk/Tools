@@ -1,0 +1,469 @@
+Ticker,Symbol,Security Name,Listing Exchange,Market Category,ETF, MarketCap ,TrailingPE,ForwardPE,Sector,Industry
+TSLA,TSLA,"Tesla, Inc.  - Common Stock",Q,Q,N,"16,75,65,37,62,285.00",,,Industrials,Auto Manufacturing
+CAT,CAT,"Caterpillar, Inc. Common Stock",N, ,N,"4,20,44,41,42,296.00",,,Industrials,Construction/Ag Equipment/Trucks
+TM,TM,Toyota Motor Corporation Common Stock,N, ,N,"2,48,49,07,69,610.00",,,Industrials,Auto Manufacturing
+RTX,RTX,RTX Corporation Common Stock,N, ,N,"2,38,20,13,64,745.00",,,Industrials,Aerospace
+BA,BA,Boeing Company (The) Common Stock,N, ,N,"1,82,48,41,06,603.00",,,Industrials,Aerospace
+GLW,GLW,Corning Incorporated Common Stock,N, ,N,"1,79,58,06,88,565.00",,,Industrials,Telecommunications Equipment
+TMO,TMO,Thermo Fisher Scientific Inc Common Stock,N, ,N,"1,67,78,70,91,448.00",,,Industrials,Industrial Machinery/Components
+UNP,UNP,Union Pacific Corporation Common Stock,N, ,N,"1,58,82,12,53,044.00",,,Industrials,Railroads
+DE,DE,Deere & Company Common Stock,N, ,N,"1,56,83,77,93,293.00",,,Industrials,Industrial Machinery/Components
+HON,HON,Honeywell International Inc. - Common Stock,Q,Q,N,"1,38,57,99,37,125.00",,,Industrials,Aerospace
+LMT,LMT,Lockheed Martin Corporation Common Stock,N, ,N,"1,19,64,29,14,645.00",,,Industrials,Military/Government/Technical
+DHR,DHR,Danaher Corporation Common Stock,N, ,N,"1,16,75,38,42,630.00",,,Industrials,Industrial Machinery/Components
+PWR,PWR,"Quanta Services, Inc. Common Stock",N, ,N,"1,16,63,95,02,915.00",,,Industrials,Engineering & Construction
+PH,PH,Parker-Hannifin Corporation Common Stock,N, ,N,"1,11,34,43,68,398.00",,,Industrials,Metal Fabrications
+HWM,HWM,Howmet Aerospace Inc. Common Stock,N, ,N,"1,08,27,70,87,049.00",,,Industrials,Metal Fabrications
+CMI,CMI,Cummins Inc. Common Stock,N, ,N,"98,46,89,98,211.00",,,Industrials,Industrial Machinery/Components
+GD,GD,General Dynamics Corporation Common Stock,N, ,N,"92,34,92,04,559.00",,,Industrials,Marine Transportation
+JCI,JCI,Johnson Controls International plc Ordinary Share,N, ,N,"88,77,18,20,237.00",,,Industrials,Industrial Machinery/Components
+CSX,CSX,CSX Corporation - Common Stock,Q,Q,N,"84,89,83,64,331.00",,,Industrials,Railroads
+UPS,UPS,"United Parcel Service, Inc. Common Stock",N, ,N,"84,24,41,22,312.00",,,Industrials,Trucking Freight/Courier Services
+ADP,ADP,"Automatic Data Processing, Inc. - Common Stock",Q,Q,N,"83,88,29,00,352.00",,,Industrials,Diversified Commercial Services
+NOC,NOC,Northrop Grumman Corporation Common Stock,N, ,N,"78,18,37,47,199.00",,,Industrials,Industrial Machinery/Components
+RACE,RACE,Ferrari N.V. Common Shares,N, ,N,"77,87,31,17,033.00",,,Industrials,Auto Manufacturing
+CP,CP,Canadian Pacific Kansas City Limited Common Shares,N, ,N,"77,64,14,25,894.00",,,Industrials,Railroads
+RKLB,RKLB,Rocket Lab Corporation - Common Stock,Q,S,N,"76,06,81,36,371.00",,,Industrials,Military/Government/Technical
+CRH,CRH,CRH PLC Ordinary Shares,N, ,N,"72,33,55,12,416.00",,,Industrials,Building Materials
+ITW,ITW,Illinois Tool Works Inc. Common Stock,N, ,N,"72,12,63,61,230.00",,,Industrials,Industrial Machinery/Components
+FIX,FIX,"Comfort Systems USA, Inc. Common Stock",N, ,N,"71,89,12,70,353.00",,,Industrials,Engineering & Construction
+NSC,NSC,Norfolk Southern Corporation Common Stock,N, ,N,"70,79,65,20,995.00",,,Industrials,Railroads
+GM,GM,General Motors Company Common Stock,N, ,N,"70,54,62,84,857.00",,,Industrials,Auto Manufacturing
+CNI,CNI,Canadian National Railway Company Common Stock,N, ,N,"68,73,38,46,000.00",,,Industrials,Railroads
+CTAS,CTAS,Cintas Corporation - Common Stock,Q,Q,N,"66,12,46,20,270.00",,,Industrials,Garments and Clothing
+TDG,TDG,Transdigm Group Incorporated Common Stock,N, ,N,"66,09,69,94,699.00",,,Industrials,Military/Government/Technical
+KEYS,KEYS,Keysight Technologies Inc. Common Stock,N, ,N,"61,75,97,63,474.00",,,Industrials,Industrial Machinery/Components
+GWW,GWW,"W.W. Grainger, Inc. Common Stock",N, ,N,"60,35,53,62,805.00",,,Industrials,Office Equipment/Supplies/Services
+LHX,LHX,"L3Harris Technologies, Inc. Common Stock",N, ,N,"57,72,34,90,567.00",,,Industrials,Industrial Machinery/Components
+F,F,Ford Motor Company Common Stock,N, ,N,"57,43,25,70,284.00",,,Industrials,Auto Manufacturing
+TER,TER,"Teradyne, Inc. - Common Stock",Q,Q,N,"56,04,91,38,393.00",,,Industrials,Electrical Products
+CARR,CARR,Carrier Global Corporation Common Stock ,N, ,N,"55,76,03,15,550.00",,,Industrials,Industrial Machinery/Components
+NUE,NUE,Nucor Corporation Common Stock,N, ,N,"52,92,34,86,309.00",,,Industrials,Steel/Iron Ore
+ROK,ROK,"Rockwell Automation, Inc. Common Stock",N, ,N,"50,83,77,30,907.00",,,Industrials,Industrial Machinery/Components
+FER,FER,Ferrovial N.V. - Ordinary Shares,Q,Q,N,"49,23,96,88,547.00",,,Industrials,Military/Government/Technical
+MT,MT,Arcelor Mittal NY Registry Shares NEW,N, ,N,"48,83,38,32,547.00",,,Industrials,Steel/Iron Ore
+WAB,WAB,Westinghouse Air Brake Technologies Corporation Common Stock,N, ,N,"45,45,14,70,673.00",,,Industrials,Railroads
+GRMN,GRMN,Garmin Ltd. Common Stock (Switzerland),N, ,N,"45,01,16,74,199.00",,,Industrials,Industrial Machinery/Components
+ODFL,ODFL,"Old Dominion Freight Line, Inc. - Common Stock",Q,Q,N,"41,37,94,49,269.00",,,Industrials,Trucking Freight/Courier Services
+EME,EME,"EMCOR Group, Inc. Common Stock",N, ,N,"41,11,03,67,969.00",,,Industrials,Engineering & Construction
+HEI,HEI,Heico Corporation Common Stock,N, ,N,"41,01,91,06,898.00",,,Industrials,Aerospace
+PYPL,PYPL,"PayPal Holdings, Inc. - Common Stock",Q,Q,N,"39,94,61,47,251.00",,,Industrials,Diversified Commercial Services
+HMC,HMC,"Honda Motor Company, Ltd. Common Stock",N, ,N,"37,27,85,63,763.00",,,Industrials,Auto Manufacturing
+ESLT,ESLT,Elbit Systems Ltd. - Ordinary Shares,Q,Q,N,"36,36,95,20,517.00",,,Industrials,Military/Government/Technical
+VMC,VMC,Vulcan Materials Company (Holding Company) Common Stock,N, ,N,"35,85,84,11,244.00",,,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+MLM,MLM,"Martin Marietta Materials, Inc. Common Stock",N, ,N,"34,76,38,74,035.00",,,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+NTR,NTR,Nutrien Ltd. Common Shares,N, ,N,"34,55,66,92,106.00",,,Industrials,Agricultural Chemicals
+MTZ,MTZ,"MasTec, Inc. Common Stock",N, ,N,"34,05,46,27,079.00",,,Industrials,Water Sewer Pipeline Comm & Power Line Construction
+TS,TS,Tenaris S.A. American Depositary Shares,N, ,N,"33,83,21,59,991.00",,,Industrials,Steel/Iron Ore
+STLD,STLD,"Steel Dynamics, Inc. - Common Stock",Q,Q,N,"33,83,08,76,295.00",,,Industrials,Steel/Iron Ore
+WAT,WAT,Waters Corporation Common Stock,N, ,N,"32,69,49,07,856.00",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+TECK,TECK,Teck Resources Ltd Ordinary Shares,N, ,N,"32,37,34,67,348.00",,,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+A,A,"Agilent Technologies, Inc. Common Stock",N, ,N,"32,22,79,68,231.00",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+PAYX,PAYX,"Paychex, Inc. - Common Stock",Q,Q,N,"32,00,97,07,309.00",,,Industrials,Diversified Commercial Services
+AXON,AXON,"Axon Enterprise, Inc. - Common Stock",Q,Q,N,"31,23,16,92,796.00",,,Industrials,Ordnance And Accessories
+SYM,SYM,Symbotic Inc. - Class A Common Stock,Q,G,N,"29,85,50,82,081.00",,,Industrials,Industrial Machinery/Components
+TDY,TDY,Teledyne Technologies Incorporated Common Stock,N, ,N,"29,44,44,83,656.00",,,Industrials,Industrial Machinery/Components
+DOV,DOV,Dover Corporation Common Stock,N, ,N,"28,89,96,86,059.00",,,Industrials,Industrial Machinery/Components
+AMRZ,AMRZ,Amrize Ltd Ordinary Shares,N, ,N,"28,36,04,48,162.00",,,Industrials,Building Materials
+IR,IR,Ingersoll Rand Inc. Common Stock,N, ,N,"28,12,53,78,260.00",,,Industrials,Industrial Machinery/Components
+DOW,DOW,Dow Inc. Common Stock ,N, ,N,"28,01,88,23,402.00",,,Industrials,Major Chemicals
+NVT,NVT,nVent Electric plc Ordinary Shares ,N, ,N,"27,91,18,17,972.00",,,Industrials,Industrial Machinery/Components
+FOXA,FOXA,Fox Corporation - Class A Common Stock,Q,Q,N,"27,43,81,66,370.00",,,Industrials,Broadcasting
+STRL,STRL,"Sterling Infrastructure, Inc. - Common Stock",Q,Q,N,"27,06,62,41,935.00",,,Industrials,Military/Government/Technical
+PKX,PKX,POSCO HOLDINGS INC. American Depositary Shares (Each representing 1/4th of a share of Common Stock),N, ,N,"26,72,72,98,068.00",,,Industrials,Steel/Iron Ore
+FTAI,FTAI,FTAI Aviation Ltd. - Common Stock,Q,Q,N,"26,47,20,48,839.00",,,Industrials,Misc Corporate Leasing Services
+XYL,XYL,Xylem Inc. Common Stock New,N, ,N,"26,10,11,22,466.00",,,Industrials,Fluid Controls
+SQM,SQM,Sociedad Quimica y Minera S.A. Common Stock,N, ,N,"24,85,04,89,296.00",,,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+FOX,FOX,Fox Corporation - Class B Common Stock,Q,Q,N,"24,59,35,05,017.00",,,Industrials,Broadcasting
+JBHT,JBHT,"J.B. Hunt Transport Services, Inc. - Common Stock",Q,Q,N,"23,83,50,66,550.00",,,Industrials,Trucking Freight/Courier Services
+LYB,LYB,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),N, ,N,"23,80,21,49,161.00",,,Industrials,Major Chemicals
+FWONK,FWONK,Liberty Media Corporation - Series C Liberty Formula One Common Stock,Q,Q,N,"23,15,59,67,419.00",,,Industrials,Broadcasting
+STLA,STLA,Stellantis N.V. Common Shares,N, ,N,"22,60,03,68,929.00",,,Industrials,Auto Manufacturing
+ALB,ALB,Albemarle Corporation Common Stock,N, ,N,"22,55,97,19,390.00",,,Industrials,Major Chemicals
+ATI,ATI,ATI Inc. Common Stock,N, ,N,"22,38,59,26,493.00",,,Industrials,Steel/Iron Ore
+CRS,CRS,Carpenter Technology Corporation Common Stock,N, ,N,"21,41,42,50,344.00",,,Industrials,Steel/Iron Ore
+ENTG,ENTG,"Entegris, Inc. - Common Stock",Q,Q,N,"21,26,84,12,500.00",,,Industrials,Plastic Products
+MAIR,MAIR,Madison Air Solutions Corporation Class A Common Stock,N, ,N,"21,20,36,35,216.00",,,Industrials,Pollution Control Equipment
+FWONA,FWONA,Liberty Media Corporation - Series A Liberty Formula One Common Stock,Q,Q,N,"21,12,85,67,241.00",,,Industrials,Broadcasting
+MKSI,MKSI,MKS Inc. - Common Stock,Q,Q,N,"21,08,96,41,118.00",,,Industrials,Industrial Machinery/Components
+VLTO,VLTO,Veralto Corp Common Stock ,N, ,N,"21,06,99,61,030.00",,,Industrials,Electrical Products
+MTD,MTD,"Mettler-Toledo International, Inc. Common Stock",N, ,N,"21,01,69,15,420.00",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+DD,DD,"DuPont de Nemours, Inc. Common Stock",N, ,N,"20,83,22,00,771.00",,,Industrials,Major Chemicals
+NXT,NXT,Nextpower Inc. - Class A Common Stock,Q,Q,N,"20,79,92,38,467.00",,,Industrials,Industrial Machinery/Components
+VRSK,VRSK,"Verisk Analytics, Inc. - Common Stock",Q,Q,N,"20,59,13,92,374.00",,,Industrials,Diversified Commercial Services
+RGLD,RGLD,"Royal Gold, Inc. - Common Stock",Q,Q,N,"20,54,11,12,348.00",,,Industrials,Precious Metals
+LI,LI,Li Auto Inc. - American Depositary Shares,Q,Q,N,"20,51,58,46,935.00",,,Industrials,Auto Manufacturing
+EXPD,EXPD,"Expeditors International of Washington, Inc. Common Stock",N, ,N,"20,16,73,38,753.00",,,Industrials,Integrated Freight & Logistics
+RL,RL,Ralph Lauren Corporation Common Stock,N, ,N,"20,14,80,31,657.00",,,Industrials,Garments and Clothing
+CX,CX,"Cemex, S.A.B. de C.V. Sponsored ADR",N, ,N,"20,03,28,31,460.00",,,Industrials,Building Materials
+IFF,IFF,"International Flavors & Fragrances, Inc. Common Stock",N, ,N,"19,64,43,25,730.00",,,Industrials,Major Chemicals
+RBC,RBC,RBC Bearings Incorporated Common Stock,N, ,N,"19,40,26,59,228.00",,,Industrials,Metal Fabrications
+BWXT,BWXT,"BWX Technologies, Inc. Common Stock",N, ,N,"19,11,99,77,246.00",,,Industrials,Industrial Machinery/Components
+CF,CF,"CF Industries Holdings, Inc. Common Stock",N, ,N,"19,02,92,90,024.00",,,Industrials,Agricultural Chemicals
+CHRW,CHRW,"C.H. Robinson Worldwide, Inc. - Common Stock",Q,Q,N,"18,75,00,64,791.00",,,Industrials,Integrated Freight & Logistics
+RS,RS,"Reliance, Inc. Common Stock",N, ,N,"18,72,70,22,674.00",,,Industrials,Metal Fabrications
+RIVN,RIVN,"Rivian Automotive, Inc. - Class A Common Stock",Q,Q,N,"18,49,66,31,127.00",,,Industrials,Auto Manufacturing
+ZTO,ZTO,"ZTO Express (Cayman) Inc. American Depositary Shares, each representing one Class A ordinary share.",N, ,N,"18,22,73,98,907.00",,,Industrials,Trucking Freight/Courier Services
+ITT,ITT,ITT Inc. Common Stock ,N, ,N,"18,06,68,46,000.00",,,Industrials,Fluid Controls
+FTV,FTV,Fortive Corporation Common Stock ,N, ,N,"17,92,88,76,645.00",,,Industrials,Industrial Machinery/Components
+LII,LII,"Lennox International, Inc. Common Stock",N, ,N,"17,83,74,19,598.00",,,Industrials,Industrial Machinery/Components
+AA,AA,Alcoa Corporation Common Stock ,N, ,N,"17,68,06,21,625.00",,,Industrials,Aluminum
+CLH,CLH,"Clean Harbors, Inc. Common Stock",N, ,N,"16,24,16,99,475.00",,,Industrials,Environmental Services
+TXT,TXT,Textron Inc. Common Stock,N, ,N,"15,92,82,30,660.00",,,Industrials,Aerospace
+NIO,NIO,"NIO Inc. American depositary shares, each  representing one Class A ordinary share",N, ,N,"15,73,55,88,898.00",,,Industrials,Auto Manufacturing
+IEX,IEX,IDEX Corporation Common Stock,N, ,N,"15,62,82,78,230.00",,,Industrials,Fluid Controls
+NDSN,NDSN,Nordson Corporation - Common Stock,Q,Q,N,"15,58,42,63,773.00",,,Industrials,Industrial Machinery/Components
+XPEV,XPEV,"XPeng Inc. American depositary shares, each representing two Class A ordinary shares",N, ,N,"15,54,65,63,565.00",,,Industrials,Auto Manufacturing
+MLI,MLI,"Mueller Industries, Inc. Common Stock",N, ,N,"15,53,84,88,245.00",,,Industrials,Metal Fabrications
+BALL,BALL,Ball Corporation Common Stock,N, ,N,"15,13,74,45,383.00",,,Industrials,Containers/Packaging
+LECO,LECO,"Lincoln Electric Holdings, Inc. - Common Shares",Q,Q,N,"14,58,65,20,166.00",,,Industrials,Industrial Machinery/Components
+ARXS,ARXS,"Arxis, Inc. - Class A Common Stock",Q,Q,N,"14,57,05,81,774.00",,,Industrials,Military/Government/Technical
+CSL,CSL,Carlisle Companies Incorporated Common Stock,N, ,N,"14,10,16,74,335.00",,,Industrials,Specialty Chemicals
+SOLS,SOLS,Solstice Advanced Materials Inc. - Common Stock,Q,Q,N,"13,85,40,84,777.00",,,Industrials,Aerospace
+ONTO,ONTO,Onto Innovation Inc. Common Stock,N, ,N,"13,78,49,37,287.00",,,Industrials,Industrial Machinery/Components
+IESC,IESC,"IES Holdings, Inc. - Common Stock",Q,G,N,"13,77,49,76,994.00",,,Industrials,Engineering & Construction
+MAS,MAS,Masco Corporation Common Stock,N, ,N,"13,76,03,05,948.00",,,Industrials,Industrial Specialties
+DY,DY,"Dycom Industries, Inc. Common Stock",N, ,N,"13,57,21,59,073.00",,,Industrials,Water Sewer Pipeline Comm & Power Line Construction
+HL,HL,Hecla Mining Company Common Stock,N, ,N,"13,41,76,01,622.00",,,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+HII,HII,"Huntington Ingalls Industries, Inc. Common Stock",N, ,N,"13,35,97,39,012.00",,,Industrials,Marine Transportation
+CNH,CNH,CNH Industrial N.V. Common Shares,N, ,N,"13,24,26,71,735.00",,,Industrials,Construction/Ag Equipment/Trucks
+J,J,Jacobs Solutions Inc. Common Stock,N, ,N,"13,12,88,22,532.00",,,Industrials,Military/Government/Technical
+TRMB,TRMB,Trimble Inc. - Common Stock,Q,Q,N,"12,98,89,73,839.00",,,Industrials,Industrial Machinery/Components
+GGG,GGG,Graco Inc. Common Stock,N, ,N,"12,76,87,61,697.00",,,Industrials,Fluid Controls
+ZBRA,ZBRA,Zebra Technologies Corporation - Class A Common Stock,Q,Q,N,"12,28,41,75,463.00",,,Industrials,Industrial Machinery/Components
+SAIA,SAIA,"Saia, Inc. - Common Stock",Q,Q,N,"12,18,83,44,730.00",,,Industrials,Trucking Freight/Courier Services
+PNR,PNR,Pentair plc. Ordinary Share,N, ,N,"12,09,05,18,550.00",,,Industrials,Industrial Machinery/Components
+WLK,WLK,Westlake Corporation Common Stock,N, ,N,"11,95,38,70,675.00",,,Industrials,Major Chemicals
+TFII,TFII,TFI International Inc. Common Shares,N, ,N,"11,83,97,19,626.00",,,Industrials,Trucking Freight/Courier Services
+JHX,JHX,James Hardie Industries plc. Ordinary Shares,N, ,N,"11,55,69,00,600.00",,,Industrials,Building Materials
+XE,XE,"X-Energy, Inc. - Class A Common Stock",Q,Q,N,"11,55,31,17,981.00",,,Industrials,Metal Fabrications
+PSKY,PSKY,Paramount Skydance Corporation - Class B Common Stock,Q,Q,N,"11,54,42,70,093.00",,,Industrials,Broadcasting
+DRS,DRS,"Leonardo DRS, Inc. - Common Stock",Q,Q,N,"11,42,94,21,618.00",,,Industrials,Industrial Machinery/Components
+AAON,AAON,"AAON, Inc. - Common Stock",Q,Q,N,"11,30,46,35,097.00",,,Industrials,Industrial Machinery/Components
+CGNX,CGNX,Cognex Corporation - Common Stock,Q,Q,N,"10,85,38,76,594.00",,,Industrials,Industrial Machinery/Components
+RVTY,RVTY,"Revvity, Inc. Common Stock",N, ,N,"10,71,42,00,599.00",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+ESI,ESI,Element Solutions Inc. Common Stock,N, ,N,"10,68,94,83,848.00",,,Industrials,Major Chemicals
+JOBY,JOBY,"Joby Aviation, Inc. Common Stock",N, ,N,"10,57,41,60,659.00",,,Industrials,Aerospace
+EMBJ,EMBJ,Embraer S.A. Common Stock,N, ,N,"10,56,32,27,136.00",,,Industrials,Aerospace
+CR,CR,Crane Company Common Stock,N, ,N,"10,37,48,78,675.00",,,Industrials,Metal Fabrications
+KTOS,KTOS,"Kratos Defense & Security Solutions, Inc. - Common Stock",Q,Q,N,"10,35,95,41,516.00",,,Industrials,Military/Government/Technical
+SPXC,SPXC,"SPX Technologies, Inc. Common Stock",N, ,N,"10,16,51,64,911.00",,,Industrials,Industrial Machinery/Components
+WTS,WTS,"Watts Water Technologies, Inc. Class A Common Stock",N, ,N,"10,14,28,16,746.00",,,Industrials,Metal Fabrications
+VMI,VMI,"Valmont Industries, Inc. Common Stock",N, ,N,"9,99,78,36,128.00",,,Industrials,Metal Fabrications
+GTLS,GTLS,"Chart Industries, Inc. Common Stock",N, ,N,"9,92,25,41,419.00",,,Industrials,Metal Fabrications
+OC,OC,Owens Corning Inc Common Stock New,N, ,N,"9,73,42,63,201.00",,,Industrials,Industrial Machinery/Components
+DCI,DCI,"Donaldson Company, Inc. Common Stock",N, ,N,"9,71,91,31,273.00",,,Industrials,Pollution Control Equipment
+GGB,GGB,Gerdau S.A. Common Stock,N, ,N,"9,36,17,87,015.00",,,Industrials,Steel/Iron Ore
+VFS,VFS,VinFast Auto Ltd. - Ordinary Shares,Q,Q,N,"9,08,90,97,399.00",,,Industrials,Auto Manufacturing
+MWH,MWH,"SOLV Energy, Inc. - Class A common stock",Q,Q,N,"9,06,01,51,072.00",,,Industrials,Military/Government/Technical
+KRMN,KRMN,Karman Holdings Inc. Common Stock,N, ,N,"8,88,78,76,242.00",,,Industrials,Military/Government/Technical
+SARO,SARO,"StandardAero, Inc. Common Stock",N, ,N,"8,78,39,09,500.00",,,Industrials,Aerospace
+TX,TX,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",N, ,N,"8,72,58,95,918.00",,,Industrials,Steel/Iron Ore
+FLS,FLS,Flowserve Corporation Common Stock,N, ,N,"8,69,47,11,639.00",,,Industrials,Fluid Controls
+ICL,ICL,ICL Group Ltd. Ordinary Shares,N, ,N,"8,49,26,26,557.00",,,Industrials,Agricultural Chemicals
+AGCO,AGCO,AGCO Corporation Common Stock,N, ,N,"8,47,54,18,085.00",,,Industrials,Industrial Machinery/Components
+EMN,EMN,Eastman Chemical Company Common Stock,N, ,N,"8,43,04,50,801.00",,,Industrials,Major Chemicals
+ZWS,ZWS,Zurn Elkay Water Solutions Corporation Common Stock,N, ,N,"8,23,17,91,468.00",,,Industrials,Industrial Machinery/Components
+AVAV,AVAV,"AeroVironment, Inc. - Common Stock",Q,Q,N,"8,20,71,51,089.00",,,Industrials,Aerospace
+TKR,TKR,Timken Company (The) Common Stock,N, ,N,"8,07,87,36,788.00",,,Industrials,Metal Fabrications
+CMC,CMC,Commercial Metals Company Common Stock,N, ,N,"8,03,87,80,903.00",,,Industrials,Steel/Iron Ore
+LUNR,LUNR,"Intuitive Machines, Inc. - Class A Common Stock",Q,G,N,"7,94,29,92,540.00",,,Industrials,Industrial Machinery/Components
+OSK,OSK,Oshkosh Corporation (Holding Company)Common Stock,N, ,N,"7,91,73,69,217.00",,,Industrials,Auto Manufacturing
+ATR,ATR,"AptarGroup, Inc. Common Stock",N, ,N,"7,59,68,51,315.00",,,Industrials,Plastic Products
+MYRG,MYRG,"MYR Group, Inc. - Common Stock",Q,Q,N,"7,32,16,56,838.00",,,Industrials,Water Sewer Pipeline Comm & Power Line Construction
+TEX,TEX,Terex Corporation Common Stock,N, ,N,"7,25,51,26,000.00",,,Industrials,Construction/Ag Equipment/Trucks
+MOS,MOS,Mosaic Company (The) Common Stock,N, ,N,"7,19,83,04,731.00",,,Industrials,Agricultural Chemicals
+TFPM,TFPM,Triple Flag Precious Metals Corp. Common Shares,N, ,N,"7,13,40,33,081.00",,,Industrials,Precious Metals
+ROAD,ROAD,"Construction Partners, Inc. - Common Stock",Q,Q,N,"7,07,58,88,309.00",,,Industrials,Military/Government/Technical
+ST,ST,Sensata Technologies Holding plc Ordinary Shares,N, ,N,"7,04,47,28,308.00",,,Industrials,Industrial Machinery/Components
+SSRM,SSRM,SSR Mining Inc. - Common Stock,Q,Q,N,"7,03,01,84,289.00",,,Industrials,Precious Metals
+FSS,FSS,Federal Signal Corporation Common Stock,N, ,N,"7,01,09,89,282.00",,,Industrials,Auto Manufacturing
+HXL,HXL,Hexcel Corporation Common Stock,N, ,N,"6,92,64,78,307.00",,,Industrials,Major Chemicals
+VFC,VFC,V.F. Corporation Common Stock,N, ,N,"6,89,60,16,420.00",,,Industrials,Garments and Clothing
+MIDD,MIDD,The Middleby Corporation - Common Stock,Q,Q,N,"6,87,67,21,548.00",,,Industrials,Industrial Machinery/Components
+BRKR,BRKR,Bruker Corporation - Common Stock,Q,Q,N,"6,86,12,13,574.00",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+NPO,NPO,Enpro Inc. Common Stock,N, ,N,"6,81,82,08,273.00",,,Industrials,Metal Fabrications
+AWI,AWI,Armstrong World Industries Inc Common Stock,N, ,N,"6,81,41,18,821.00",,,Industrials,Plastic Products
+RAL,RAL,Ralliant Corporation Common Stock,N, ,N,"6,79,43,42,084.00",,,Industrials,Industrial Machinery/Components
+FLY,FLY,Firefly Aerospace Inc. - Common Stock,Q,G,N,"6,68,50,13,253.00",,,Industrials,Military/Government/Technical
+JBTM,JBTM,JBT Marel Corporation Common Stock,N, ,N,"6,62,45,87,721.00",,,Industrials,Industrial Machinery/Components
+BIO,BIO,"Bio-Rad Laboratories, Inc. Class A Common Stock",N, ,N,"6,60,04,80,531.00",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+GTES,GTES,Gates Industrial Corporation plc Ordinary Shares,N, ,N,"6,49,79,48,030.00",,,Industrials,Industrial Machinery/Components
+CE,CE,Celanese Corporation Common Stock,N, ,N,"6,48,21,52,680.00",,,Industrials,Major Chemicals
+NEU,NEU,NewMarket Corp Common Stock,N, ,N,"6,41,80,09,737.00",,,Industrials,Major Chemicals
+EXP,EXP,Eagle Materials Inc Common Stock,N, ,N,"6,36,89,36,962.00",,,Industrials,Building Materials
+PRIM,PRIM,Primoris Services Corporation Common Stock,N, ,N,"6,36,08,48,579.00",,,Industrials,Water Sewer Pipeline Comm & Power Line Construction
+ACA,ACA,"Arcosa, Inc. Common Stock ",N, ,N,"6,34,91,41,792.00",,,Industrials,Metal Fabrications
+FLR,FLR,Fluor Corporation Common Stock,N, ,N,"6,31,09,84,251.00",,,Industrials,Military/Government/Technical
+GVA,GVA,Granite Construction Incorporated Common Stock,N, ,N,"6,24,37,47,615.00",,,Industrials,Military/Government/Technical
+TV,TV,Grupo Televisa S.A.B. Common Stock,N, ,N,"6,19,57,22,904.00",,,Industrials,Broadcasting
+CENX,CENX,Century Aluminum Company - Common Stock,Q,Q,N,"6,15,22,26,762.00",,,Industrials,Aluminum
+NXST,NXST,"Nexstar Media Group, Inc. - Common Stock",Q,Q,N,"6,13,83,31,965.00",,,Industrials,Broadcasting
+VSNT,VSNT,"Versant Media Group, Inc. - Class A Common Stock",Q,Q,N,"6,08,99,22,118.00",,,Industrials,Broadcasting
+MSM,MSM,"MSC Industrial Direct Company, Inc. Common Stock",N, ,N,"6,00,94,46,893.00",,,Industrials,Industrial Machinery/Components
+LSTR,LSTR,"Landstar System, Inc. - Common Stock",Q,Q,N,"5,79,37,50,781.00",,,Industrials,Trucking Freight/Courier Services
+LOAR,LOAR,Loar Holdings Inc. Common Stock,N, ,N,"5,74,29,25,051.00",,,Industrials,Military/Government/Technical
+SNDR,SNDR,"Schneider National, Inc. Common Stock",N, ,N,"5,66,52,71,364.00",,,Industrials,Trucking Freight/Courier Services
+PRM,PRM,"Perimeter Solutions, SA Common Stock",N, ,N,"5,64,25,65,109.00",,,Industrials,Major Chemicals
+ESAB,ESAB,ESAB Corporation Common Stock,N, ,N,"5,56,45,88,477.00",,,Industrials,Industrial Machinery/Components
+AVTR,AVTR,"Avantor, Inc. Common Stock",N, ,N,"5,44,83,88,108.00",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+BCPC,BCPC,Balchem Corporation - Common Stock,Q,Q,N,"5,23,36,28,986.00",,,Industrials,Major Chemicals
+BC,BC,Brunswick Corporation Common Stock,N, ,N,"5,16,28,68,843.00",,,Industrials,Industrial Machinery/Components
+SXT,SXT,Sensient Technologies Corporation Common Stock,N, ,N,"4,93,28,91,085.00",,,Industrials,Major Chemicals
+ACHR,ACHR,Archer Aviation Inc. Class A Common Stock,N, ,N,"4,92,21,95,098.00",,,Industrials,Aerospace
+MEOH,MEOH,Methanex Corporation - Common Stock,Q,Q,N,"4,89,51,59,860.00",,,Industrials,Major Chemicals
+ALH,ALH,Alliance Laundry Holdings Inc. Common Stock,N, ,N,"4,89,27,24,142.00",,,Industrials,Industrial Machinery/Components
+UUUU,UUUU,Energy Fuels Inc Ordinary Shares (Canada),A, ,N,"4,87,60,04,585.00",,,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+WSC,WSC,WillScot Holdings Corporation - Class A Common Stock,Q,S,N,"4,79,00,24,180.00",,,Industrials,Misc Corporate Leasing Services
+MIR,MIR,"Mirion Technologies, Inc. Class A Common Stock",N, ,N,"4,72,79,34,754.00",,,Industrials,Industrial Machinery/Components
+HRI,HRI,Herc Holdings Inc. Common Stock ,N, ,N,"4,70,42,46,060.00",,,Industrials,Misc Corporate Leasing Services
+MDU,MDU,"MDU Resources Group, Inc. Common Stock (Holding Company)",N, ,N,"4,69,53,20,329.00",,,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+SIM,SIM,"Grupo Simec, S.A.B. de C.V. American Depositary Shares",A, ,N,"4,61,23,53,724.00",,,Industrials,Steel/Iron Ore
+REZI,REZI,"Resideo Technologies, Inc. Common Stock ",N, ,N,"4,59,57,86,991.00",,,Industrials,Wholesale Distributors
+KNF,KNF,Knife Riv Holding Co. Common Stock,N, ,N,"4,57,71,98,406.00",,,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+CSTM,CSTM,Constellium SE Ordinary Shares (France),N, ,N,"4,57,05,70,607.00",,,Industrials,Metal Fabrications
+SEB,SEB,Seaboard Corporation Common Stock,A, ,N,"4,55,10,01,292.00",,,Industrials,Farming/Seeds/Milling
+SMR,SMR,NuScale Power Corporation Class A Common Stock,N, ,N,"4,44,79,78,765.00",,,Industrials,Metal Fabrications
+BCO,BCO,Brinks Company (The) Common Stock,N, ,N,"4,36,74,08,957.00",,,Industrials,Integrated Freight & Logistics
+CSW,CSW,"CSW Industrials, Inc. Common Stock",N, ,N,"4,35,32,46,491.00",,,Industrials,Home Furnishings
+AIR,AIR,AAR Corp. Common Stock,N, ,N,"4,27,54,54,095.00",,,Industrials,Aerospace
+CBT,CBT,Cabot Corporation Common Stock,N, ,N,"4,26,90,91,186.00",,,Industrials,Major Chemicals
+BDC,BDC,Belden Inc Common Stock,N, ,N,"4,24,89,89,484.00",,,Industrials,Telecommunications Equipment
+SLGN,SLGN,Silgan Holdings Inc. Common Stock,N, ,N,"4,13,94,76,121.00",,,Industrials,Containers/Packaging
+VVV,VVV,Valvoline Inc. Common Stock,N, ,N,"4,10,15,60,301.00",,,Industrials,Major Chemicals
+VNT,VNT,Vontier Corporation Common Stock ,N, ,N,"4,06,56,00,000.00",,,Industrials,Industrial Machinery/Components
+THO,THO,"Thor Industries, Inc. Common Stock",N, ,N,"4,03,80,00,160.00",,,Industrials,Homebuilding
+MWA,MWA,MUELLER WATER PRODUCTS Common Stock,N, ,N,"4,03,46,06,772.00",,,Industrials,Metal Fabrications
+KBR,KBR,"KBR, Inc. Common Stock",N, ,N,"3,95,14,09,010.00",,,Industrials,Military/Government/Technical
+GFF,GFF,Griffon Corporation Common Stock,N, ,N,"3,92,75,59,613.00",,,Industrials,Building Products
+BETA,BETA,"Beta Technologies, Inc. Class A Common Stock",N, ,N,"3,89,28,54,041.00",,,Industrials,Aerospace
+KAI,KAI,Kadant Inc Common Stock,N, ,N,"3,83,65,84,527.00",,,Industrials,Industrial Machinery/Components
+CC,CC,Chemours Company (The) Common Stock,N, ,N,"3,77,52,32,384.00",,,Industrials,Major Chemicals
+LEU,LEU,Centrus Energy Corp. Class A Common Stock,N, ,N,"3,75,96,67,661.00",,,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+PVH,PVH,PVH Corp. Common Stock,N, ,N,"3,72,64,68,921.00",,,Industrials,Garments and Clothing
+HSAI,HSAI,"Hesai Group - American Depositary Share, each ADS represents one Class B ordinary share",Q,Q,N,"3,69,04,20,520.00",,,Industrials,Industrial Machinery/Components
+KTB,KTB,"Kontoor Brands, Inc. Common Stock ",N, ,N,"3,61,03,05,573.00",,,Industrials,Garments and Clothing
+ITRI,ITRI,"Itron, Inc. - Common Stock",Q,Q,N,"3,60,03,54,976.00",,,Industrials,Electrical Products
+BMI,BMI,"Badger Meter, Inc. Common Stock",N, ,N,"3,45,90,73,756.00",,,Industrials,Industrial Machinery/Components
+YSS,YSS,York Space Systems Inc. Common Stock,N, ,N,"3,44,67,24,897.00",,,Industrials,Military/Government/Technical
+SMG,SMG,Scotts Miracle-Gro Company (The) Common Stock,N, ,N,"3,41,49,88,792.00",,,Industrials,Agricultural Chemicals
+EFXT,EFXT,Enerflex Ltd Common Shares,N, ,N,"3,37,15,14,223.00",,,Industrials,Industrial Machinery/Components
+AEHR,AEHR,Aehr Test Systems - Common Stock,Q,S,N,"3,36,77,15,684.00",,,Industrials,Electrical Products
+FUL,FUL,H. B. Fuller Company Common Stock,N, ,N,"3,24,19,99,442.00",,,Industrials,Home Furnishings
+AVNT,AVNT,Avient Corporation Common Stock,N, ,N,"3,21,07,72,947.00",,,Industrials,Major Chemicals
+OLN,OLN,Olin Corporation Common Stock,N, ,N,"3,19,65,40,887.00",,,Industrials,Major Chemicals
+ATS,ATS,ATS Corporation Common Shares,N, ,N,"3,18,98,86,205.00",,,Industrials,Industrial Machinery/Components
+PSNY,PSNY,Polestar Automotive Holding UK Limited - Class A ADS,Q,G,N,"3,11,49,59,057.00",,,Industrials,Auto Manufacturing
+SXI,SXI,Standex International Corporation Common Stock,N, ,N,"3,08,79,11,894.00",,,Industrials,Industrial Machinery/Components
+USLM,USLM,"United States Lime & Minerals, Inc. - Common Stock",Q,Q,N,"3,08,24,60,558.00",,,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+CECO,CECO,CECO Environmental Corp. - Common Stock,Q,Q,N,"3,06,71,44,151.00",,,Industrials,Pollution Control Equipment
+HAYW,HAYW,"Hayward Holdings, Inc. Common Stock",N, ,N,"3,04,37,73,815.00",,,Industrials,Industrial Machinery/Components
+TTAM,TTAM,Titan America SA Common Shares,N, ,N,"3,00,41,86,367.00",,,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+KALU,KALU,Kaiser Aluminum Corporation - Common Stock,Q,Q,N,"2,92,10,46,729.00",,,Industrials,Metal Fabrications
+ATRO,ATRO,Astronics Corporation - Common Stock,Q,Q,N,"2,91,33,54,827.00",,,Industrials,Military/Government/Technical
+NN,NN,NextNav Inc. - Common stock,Q,S,N,"2,90,55,62,202.00",,,Industrials,Industrial Machinery/Components
+RDW,RDW,Redwire Corporation Common Stock,N, ,N,"2,86,64,18,870.00",,,Industrials,Military/Government/Technical
+TRN,TRN,"Trinity Industries, Inc. Common Stock",N, ,N,"2,84,27,19,260.00",,,Industrials,Railroads
+BW,BW,"Babcock & Wilcox Enterprises, Inc. Common Stock",N, ,N,"2,83,86,68,521.00",,,Industrials,Building Products
+TXG,TXG,"10x Genomics, Inc. - Common Stock",Q,Q,N,"2,75,87,57,987.00",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+WOR,WOR,"Worthington Enterprises, Inc. Common Shares",N, ,N,"2,73,37,87,432.00",,,Industrials,Steel/Iron Ore
+WDFC,WDFC,WD-40 Company - Common Stock,Q,Q,N,"2,68,87,92,982.00",,,Industrials,Major Chemicals
+AVEX,AVEX,AEVEX Corp. Class A Common Stock,N, ,N,"2,68,43,96,165.00",,,Industrials,Aerospace
+KMT,KMT,Kennametal Inc. Common Stock,N, ,N,"2,67,34,50,413.00",,,Industrials,Industrial Machinery/Components
+ARCB,ARCB,ArcBest Corporation - Common Stock,Q,Q,N,"2,58,92,79,840.00",,,Industrials,Trucking Freight/Courier Services
+HLIO,HLIO,"Helios Technologies, Inc. Common Stock",N, ,N,"2,56,90,23,871.00",,,Industrials,Metal Fabrications
+LCID,LCID,"Lucid Group, Inc. - Common Stock",Q,Q,N,"2,55,03,28,240.00",,,Industrials,Auto Manufacturing
+HUN,HUN,Huntsman Corporation Common Stock,N, ,N,"2,54,43,15,615.00",,,Industrials,Major Chemicals
+ROG,ROG,Rogers Corporation Common Stock,N, ,N,"2,50,78,97,653.00",,,Industrials,Major Chemicals
+NGVT,NGVT,Ingevity Corporation Common Stock ,N, ,N,"2,50,18,23,096.00",,,Industrials,Major Chemicals
+KWR,KWR,Quaker Houghton Common Stock,N, ,N,"2,47,05,50,323.00",,,Industrials,Major Chemicals
+ANDE,ANDE,"The Andersons, Inc. - Common Stock",Q,Q,N,"2,45,56,37,978.00",,,Industrials,Farming/Seeds/Milling
+AMBP,AMBP,Ardagh Metal Packaging S.A. Ordinary Shares,N, ,N,"2,39,37,86,842.00",,,Industrials,Containers/Packaging
+DXPE,DXPE,"DXP Enterprises, Inc. - Common Stock",Q,Q,N,"2,36,53,35,346.00",,,Industrials,Industrial Machinery/Components
+CXT,CXT,"Crane NXT, Co. Common Stock",N, ,N,"2,35,77,98,488.00",,,Industrials,Metal Fabrications
+AESI,AESI,Atlas Energy Solutions Inc. Common Stock,N, ,N,"2,34,32,28,756.00",,,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+LWLG,LWLG,"Lightwave Logic, Inc. - Common Stock",Q,S,N,"2,32,94,26,996.00",,,Industrials,Containers/Packaging
+CDNL,CDNL,Cardinal Infrastructure Group Inc. - Class A Common Stock,Q,Q,N,"2,32,50,98,432.00",,,Industrials,Military/Government/Technical
+HUBG,HUBG,"Hub Group, Inc. - Class A Common Stock",Q,Q,N,"2,31,37,43,051.00",,,Industrials,Integrated Freight & Logistics
+DCO,DCO,Ducommun Incorporated Common Stock,N, ,N,"2,30,58,27,693.00",,,Industrials,Military/Government/Technical
+COHU,COHU,"Cohu, Inc. - Common Stock",Q,Q,N,"2,27,57,38,739.00",,,Industrials,Electrical Products
+WERN,WERN,"Werner Enterprises, Inc. - Common Stock",Q,Q,N,"2,23,58,39,539.00",,,Industrials,Trucking Freight/Courier Services
+PCT,PCT,"PureCycle Technologies, Inc. - Common stock",Q,S,N,"2,21,73,87,123.00",,,Industrials,Major Chemicals
+OUST,OUST,"Ouster, Inc. - Common Stock",Q,Q,N,"2,17,96,09,247.00",,,Industrials,Industrial Machinery/Components
+VOYG,VOYG,"Voyager Technologies, Inc. Class A Common Stock",N, ,N,"2,12,69,18,456.00",,,Industrials,Military/Government/Technical
+WS,WS,"Worthington Steel, Inc. Common Shares",N, ,N,"2,05,48,62,340.00",,,Industrials,Steel/Iron Ore
+GRC,GRC,Gorman-Rupp Company (The) Common Stock,N, ,N,"2,01,45,73,336.00",,,Industrials,Fluid Controls
+BAK,BAK,Braskem SA ADR,N, ,N,"2,00,29,84,683.00",,,Industrials,Major Chemicals
+IOSP,IOSP,Innospec Inc. - Common Stock,Q,Q,N,"1,98,03,36,179.00",,,Industrials,Major Chemicals
+TSAT,TSAT,Telesat Corporation - Class A Common Shares and Class B Variable Voting Shares,Q,Q,N,"1,94,91,85,718.00",,,Industrials,Metal Fabrications
+CYD,CYD,China Yuchai International Limited Common Stock,N, ,N,"1,91,90,62,170.00",,,Industrials,Industrial Machinery/Components
+ALG,ALG,"Alamo Group, Inc. Common Stock",N, ,N,"1,85,97,48,702.00",,,Industrials,Industrial Machinery/Components
+SID,SID,Companhia Siderurgica Nacional S.A. Common Stock,N, ,N,"1,73,71,83,071.00",,,Industrials,Steel/Iron Ore
+PLPC,PLPC,Preformed Line Products Company - Common Stock,Q,Q,N,"1,73,52,44,260.00",,,Industrials,Water Sewer Pipeline Comm & Power Line Construction
+NWL,NWL,Newell Brands Inc. - Common Stock,Q,Q,N,"1,72,30,82,115.00",,,Industrials,Plastic Products
+PRLB,PRLB,"Proto Labs, Inc. Common stock",N, ,N,"1,69,96,08,634.00",,,Industrials,Metal Fabrications
+FMC,FMC,FMC Corporation Common Stock,N, ,N,"1,69,56,14,282.00",,,Industrials,Major Chemicals
+ECVT,ECVT,Ecovyst Inc. Common Stock,N, ,N,"1,63,41,40,516.00",,,Industrials,Major Chemicals
+ALMR,ALMR,"Alamar Biosciences, Inc. - Class A common stock",Q,Q,N,"1,60,66,33,291.00",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+GBX,GBX,"Greenbrier Companies, Inc. (The) Common Stock",N, ,N,"1,52,00,13,123.00",,,Industrials,Railroads
+TRS,TRS,TriMas Corporation - Common Stock,Q,Q,N,"1,43,16,74,293.00",,,Industrials,Industrial Specialties
+TNC,TNC,Tennant Company Common Stock,N, ,N,"1,40,82,65,333.00",,,Industrials,Industrial Machinery/Components
+TROX,TROX,Tronox Holdings plc Ordinary Shares (UK),N, ,N,"1,38,62,64,377.00",,,Industrials,Major Chemicals
+UAMY,UAMY,United States Antimony Corporation Common Stock,N, ,N,"1,37,78,43,788.00",,,Industrials,Metal Fabrications
+UVV,UVV,Universal Corporation Common Stock,N, ,N,"1,36,08,22,882.00",,,Industrials,Farming/Seeds/Milling
+RYZ,RYZ,Ryerson Holding Corporation Common Stock,N, ,N,"1,35,74,09,020.00",,,Industrials,Metal Fabrications
+RMIX,RMIX,"Suncrete, Inc. - Class A Common Stock",Q,G,N,"1,28,38,17,620.00",,,Industrials,Building Materials
+CMP,CMP,Compass Minerals Intl Inc Common Stock,N, ,N,"1,27,59,53,363.00",,,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+MRTN,MRTN,"Marten Transport, Ltd. - Common Stock",Q,Q,N,"1,26,54,47,484.00",,,Industrials,Trucking Freight/Courier Services
+LOMA,LOMA,Loma Negra Compania Industrial Argentina Sociedad Anonima ADS,N, ,N,"1,24,63,20,008.00",,,Industrials,Building Materials
+GHM,GHM,Graham Corporation Common Stock,N, ,N,"1,17,06,67,419.00",,,Industrials,Industrial Machinery/Components
+GPRE,GPRE,"Green Plains, Inc. - Common Stock",Q,Q,N,"1,16,88,03,604.00",,,Industrials,Major Chemicals
+GOLD,GOLD,"Gold.com, Inc. Common Stock",N, ,N,"1,16,23,10,150.00",,,Industrials,Other Specialty Stores
+ASTE,ASTE,"Astec Industries, Inc. - Common Stock",Q,Q,N,"1,15,28,50,468.00",,,Industrials,Construction/Ag Equipment/Trucks
+XPEL,XPEL,"XPEL, Inc. - Common Stock",Q,S,N,"1,15,14,97,953.00",,,Industrials,Industrial Specialties
+ROCK,ROCK,"Gibraltar Industries, Inc. - Common Stock",Q,Q,N,"1,13,24,92,067.00",,,Industrials,Steel/Iron Ore
+EYPT,EYPT,"EyePoint, Inc. - Common Stock",Q,G,N,"1,11,80,23,709.00",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+EVEX,EVEX,"Eve Holding, Inc. Common Stock",N, ,N,"1,11,59,67,887.00",,,Industrials,Aerospace
+GIC,GIC,Global Industrial Company Common Stock,N, ,N,"1,11,49,28,425.00",,,Industrials,Industrial Machinery/Components
+LNN,LNN,Lindsay Corporation Common Stock,N, ,N,"1,09,91,32,603.00",,,Industrials,Industrial Machinery/Components
+NWPX,NWPX,"NWPX Infrastructure, Inc. - Common Stock",Q,Q,N,"1,09,26,43,967.00",,,Industrials,Steel/Iron Ore
+ALNT,ALNT,Allient Inc. - Common Stock,Q,G,N,"1,08,89,66,524.00",,,Industrials,Electrical Products
+PLOW,PLOW,"Douglas Dynamics, Inc. Common Stock",N, ,N,"1,04,58,36,808.00",,,Industrials,Construction/Ag Equipment/Trucks
+SBGI,SBGI,"Sinclair, Inc. - Class A Common Stock",Q,Q,N,"1,03,26,89,464.00",,,Industrials,Broadcasting
+RR,RR,Richtech Robotics Inc. - Class B Common Stock,Q,S,N,"1,02,66,65,700.00",,,Industrials,Industrial Machinery/Components
+HTLD,HTLD,"Heartland Express, Inc. - Common Stock",Q,Q,N,"1,00,34,91,563.00",,,Industrials,Trucking Freight/Courier Services
+NPK,NPK,"National Presto Industries, Inc. Common Stock",N, ,N,"99,14,33,521.00",,,Industrials,Ordnance And Accessories
+SLI,SLI,Standard Lithium Ltd. Common Shares,A, ,N,"97,08,66,286.00",,,Industrials,Major Chemicals
+PSIX,PSIX,"Power Solutions International, Inc. - Common Stock",Q,S,N,"96,18,95,279.00",,,Industrials,Industrial Machinery/Components
+NX,NX,Quanex Building Products Corporation Common Stock,N, ,N,"89,29,53,344.00",,,Industrials,Metal Fabrications
+LOT,LOT,Lotus Technology Inc. - American Depositary Shares,Q,Q,N,"89,25,04,926.00",,,Industrials,Auto Manufacturing
+CPAC,CPAC,Cementos Pacasmayo S.A.A. American Depositary Shares (Each representing five Common Shares),N, ,N,"89,01,23,745.00",,,Industrials,Building Materials
+MYE,MYE,"Myers Industries, Inc. Common Stock",N, ,N,"88,39,11,573.00",,,Industrials,Plastic Products
+NMAX,NMAX,"Newsmax, Inc. Class B Common Stock",N, ,N,"87,03,93,187.00",,,Industrials,Broadcasting
+AEBI,AEBI,Aebi Schmidt Holding AG - Common Stock,Q,Q,N,"86,13,53,162.00",,,Industrials,Auto Manufacturing
+CVLG,CVLG,"Covenant Logistics Group, Inc. Class A Common Stock",N, ,N,"84,87,65,749.00",,,Industrials,Trucking Freight/Courier Services
+EVC,EVC,Entravision Communications Corporation Common Stock,N, ,N,"84,63,00,260.00",,,Industrials,Broadcasting
+WGO,WGO,"Winnebago Industries, Inc. Common Stock",N, ,N,"84,41,57,729.00",,,Industrials,Homebuilding
+ASPI,ASPI,ASP Isotopes Inc. - Common Stock,Q,S,N,"76,67,51,992.00",,,Industrials,Major Chemicals
+MTUS,MTUS,Metallus Inc. Common Shares,N, ,N,"75,70,01,652.00",,,Industrials,Steel/Iron Ore
+FTK,FTK,"Flotek Industries, Inc. Common Stock",N, ,N,"73,33,17,580.00",,,Industrials,Major Chemicals
+KRNT,KRNT,Kornit Digital Ltd. - Ordinary Shares,Q,Q,N,"72,45,33,358.00",,,Industrials,Industrial Machinery/Components
+TRNS,TRNS,"Transcat, Inc. - Common Stock",Q,G,N,"72,26,78,106.00",,,Industrials,Electrical Products
+JBI,JBI,"Janus International Group, Inc. Common Stock",N, ,N,"70,85,58,825.00",,,Industrials,Building Products
+EH,EH,EHang Holdings Limited - ADS,Q,G,N,"70,76,11,154.00",,,Industrials,Aerospace
+SXC,SXC,"SunCoke Energy, Inc. Common Stock",N, ,N,"68,00,98,382.00",,,Industrials,Steel/Iron Ore
+PKE,PKE,Park Aerospace Corp. Common Stock,N, ,N,"67,74,75,139.00",,,Industrials,Military/Government/Technical
+SWBI,SWBI,"Smith & Wesson Brands, Inc. - Common Stock",Q,Q,N,"67,67,49,861.00",,,Industrials,Ordnance And Accessories
+HY,HY,"Hyster-Yale, Inc. Class A common stock",N, ,N,"65,14,22,197.00",,,Industrials,Construction/Ag Equipment/Trucks
+RGR,RGR,"Sturm, Ruger & Company, Inc. Common Stock",N, ,N,"63,52,19,040.00",,,Industrials,Ordnance And Accessories
+OXM,OXM,"Oxford Industries, Inc. Common Stock",N, ,N,"60,68,12,625.00",,,Industrials,Garments and Clothing
+ASIX,ASIX,AdvanSix Inc. Common Stock ,N, ,N,"59,37,72,768.00",,,Industrials,Major Chemicals
+FEIM,FEIM,"Frequency Electronics, Inc. - Common Stock",Q,G,N,"58,54,96,237.00",,,Industrials,Electrical Products
+SWIM,SWIM,"Latham Group, Inc. - Common Stock",Q,Q,N,"57,70,77,960.00",,,Industrials,Plastic Products
+IPI,IPI,"Intrepid Potash, Inc Common Stock",N, ,N,"57,60,08,326.00",,,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+MLAB,MLAB,"Mesa Laboratories, Inc. - Common Stock",Q,Q,N,"56,07,13,271.00",,,Industrials,Industrial Machinery/Components
+MBUU,MBUU,"Malibu Boats, Inc. - Common Stock",Q,G,N,"54,78,73,779.00",,,Industrials,Marine Transportation
+KRT,KRT,Karat Packaging Inc. - Common Stock,Q,Q,N,"53,30,31,618.00",,,Industrials,Plastic Products
+MEC,MEC,"Mayville Engineering Company, Inc. Common Stock",N, ,N,"53,29,46,626.00",,,Industrials,Industrial Specialties
+ASTL,ASTL,Algoma Steel Group Inc. - Common Shares,Q,G,N,"53,14,89,707.00",,,Industrials,Steel/Iron Ore
+IIIN,IIIN,"Insteel Industries, Inc. Common Stock",N, ,N,"52,33,37,342.00",,,Industrials,Steel/Iron Ore
+TWI,TWI,"Titan International, Inc. (DE) Common Stock",N, ,N,"49,82,38,970.00",,,Industrials,Steel/Iron Ore
+ELMT,ELMT,The Elmet Group Co. - Common Stock,Q,S,N,"47,84,80,605.00",,,Industrials,Metal Fabrications
+ADUR,ADUR,Aduro Clean Technologies Inc. - Common Stock,Q,S,N,"47,53,52,578.00",,,Industrials,Major Chemicals
+MTW,MTW,"Manitowoc Company, Inc. (The) Common Stock",N, ,N,"46,07,19,963.00",,,Industrials,Construction/Ag Equipment/Trucks
+PSNYW,PSNYW,Polestar Automotive Holding UK Limited - Class C-1 ADS (ADW),Q,G,N,"45,16,54,494.00",,,Industrials,Auto Manufacturing
+CTKB,CTKB,"Cytek Biosciences, Inc. - Common Stock",Q,Q,N,"44,68,33,351.00",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+PKOH,PKOH,Park-Ohio Holdings Corp. - Common Stock,Q,Q,N,"44,50,47,404.00",,,Industrials,Industrial Specialties
+GTN,GTN,"Gray Media, Inc. Common Stock",N, ,N,"43,92,06,895.00",,,Industrials,Broadcasting
+CMCO,CMCO,Columbus McKinnon Corporation - Common Stock,Q,Q,N,"43,54,01,395.00",,,Industrials,Construction/Ag Equipment/Trucks
+TATT,TATT,TAT Technologies Ltd. - Ordinary Shares,Q,G,N,"43,03,26,076.00",,,Industrials,Aerospace
+NKLR,NKLR,Terra Innovatum Global N.V. - Ordinary shares,Q,G,N,"42,74,29,764.00",,,Industrials,Metal Fabrications
+FSTR,FSTR,L.B. Foster Company - Common Stock,Q,Q,N,"42,34,71,953.00",,,Industrials,Metal Fabrications
+FWDI,FWDI,"Forward Industries, Inc. - Common Stock",Q,S,N,"41,98,52,137.00",,,Industrials,Plastic Products
+MCFT,MCFT,"MasterCraft Boat Holdings, Inc. - Common Stock",Q,G,N,"41,16,37,019.00",,,Industrials,Marine Transportation
+GEVO,GEVO,"Gevo, Inc. - Common Stock",Q,S,N,"41,13,65,146.00",,,Industrials,Major Chemicals
+OEC,OEC,Orion S.A. Common Shares,N, ,N,"40,88,17,705.00",,,Industrials,Major Chemicals
+LAB,LAB,Standard BioTools Inc. - Common Stock,Q,Q,N,"39,23,19,960.00",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+RLGT,RLGT,"Radiant Logistics, Inc. Common Stock",A, ,N,"39,17,46,886.00",,,Industrials,Integrated Freight & Logistics
+MSB,MSB,Mesabi Trust Common Stock,N, ,N,"38,00,86,690.00",,,Industrials,Precious Metals
+PACB,PACB,"Pacific Biosciences of California, Inc. - Common Stock",Q,Q,N,"37,42,75,034.00",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+ALTO,ALTO,"Alto Ingredients, Inc. - Common Stock",Q,S,N,"36,84,41,903.00",,,Industrials,Major Chemicals
+IONR,IONR,ioneer Ltd - American Depositary Shares,Q,S,N,"35,22,20,321.00",,,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+ULH,ULH,"Universal Logistics Holdings, Inc. - Common Stock",Q,Q,N,"34,94,01,769.00",,,Industrials,Trucking Freight/Courier Services
+CUB,CUB,Lionheart Holdings - Class A Ordinary Shares,Q,G,N,"34,40,53,678.00",,,Industrials,Industrial Machinery/Components
+EVTL,EVTL,Vertical Aerospace Ltd. Ordinary Shares,N, ,N,"33,99,53,038.00",,,Industrials,Aerospace
+NAUT,NAUT,"Nautilus Biotechnology, Inc. - Common Stock",Q,S,N,"33,16,63,104.00",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+SSP,SSP,E.W. Scripps Company (The) - Class A Common Stock,Q,Q,N,"32,58,85,333.00",,,Industrials,Broadcasting
+ESOA,ESOA,Energy Services of America Corporation - Common Stock,Q,S,N,"32,37,45,431.00",,,Industrials,Water Sewer Pipeline Comm & Power Line Construction
+FWRD,FWRD,Forward Air Corporation - Common Stock,Q,Q,N,"30,91,34,825.00",,,Industrials,Integrated Freight & Logistics
+AZ,AZ,A2Z Cust2Mate Solutions Corp. - Common Shares,Q,S,N,"30,22,37,886.00",,,Industrials,Industrial Machinery/Components
+LEGO,LEGO,Legato Merger Corp. IV Ordinary Shares,A, ,N,"29,97,36,586.00",,,Industrials,Steel/Iron Ore
+TG,TG,Tredegar Corporation Common Stock,N, ,N,"28,85,38,589.00",,,Industrials,Metal Fabrications
+MPX,MPX,Marine Products Corporation Common Stock,N, ,N,"28,34,60,815.00",,,Industrials,Marine Transportation
+OFLX,OFLX,"Omega Flex, Inc. - Common Stock",Q,G,N,"28,03,19,322.00",,,Industrials,Industrial Specialties
+MASS,MASS,908 Devices Inc. - Common Stock,Q,G,N,"27,83,08,251.00",,,Industrials,Industrial Machinery/Components
+WNC,WNC,Wabash National Corporation Common Stock,N, ,N,"27,81,32,654.00",,,Industrials,Construction/Ag Equipment/Trucks
+PPIH,PPIH,"Perma-Pipe International Holdings, Inc. - Common Stock",Q,G,N,"27,29,41,973.00",,,Industrials,Pollution Control Equipment
+TWIN,TWIN,"Twin Disc, Incorporated - Common Stock",Q,Q,N,"26,61,01,158.00",,,Industrials,Industrial Machinery/Components
+USBC,USBC,"USBC, Inc. Common Stock",A, ,N,"26,34,33,624.00",,,Industrials,Industrial Machinery/Components
+LODE,LODE,Comstock Inc. Common Stock,A, ,N,"26,18,84,957.00",,,Industrials,Major Chemicals
+AIRJ,AIRJ,AirJoule Technologies Corporation - Class A Common Stock,Q,S,N,"26,05,38,776.00",,,Industrials,Industrial Machinery/Components
+INTT,INTT,inTest Corporation Common Stock,A, ,N,"24,48,83,908.00",,,Industrials,Electrical Products
+PAMT,PAMT,PAMT CORP - Common Stock,Q,G,N,"23,67,63,294.00",,,Industrials,Trucking Freight/Courier Services
+CDXS,CDXS,"Codexis, Inc. - Common Stock",Q,Q,N,"23,58,76,591.00",,,Industrials,Major Chemicals
+AP,AP,Ampco-Pittsburgh Corporation Common Stock,N, ,N,"23,18,22,467.00",,,Industrials,Fluid Controls
+POWW,POWW,Outdoor Holding Company - Common Stock,Q,S,N,"23,10,47,053.00",,,Industrials,Ordnance And Accessories
+NIU,NIU,Niu Technologies - American Depositary Shares,Q,G,N,"22,51,11,573.00",,,Industrials,Auto Manufacturing
+CMT,CMT,Core Molding Technologies Inc Common Stock,A, ,N,"22,32,05,203.00",,,Industrials,Plastic Products
+ALTG,ALTG,Alta Equipment Group Inc. Class A Common Stock,N, ,N,"21,99,40,250.00",,,Industrials,Industrial Machinery/Components
+GENC,GENC,"Gencor Industries, Inc. Common Stock",A, ,N,"21,37,09,295.00",,,Industrials,Construction/Ag Equipment/Trucks
+AIRO,AIRO,"AIRO Group Holdings, Inc. - Common Stock",Q,G,N,"21,11,08,735.00",,,Industrials,Aerospace
+SND,SND,"Smart Sand, Inc. - Common Stock",Q,Q,N,"20,61,16,340.00",,,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+QSI,QSI,Quantum-Si Incorporated - Class A Common Stock,Q,G,N,"20,51,51,850.00",,,Industrials,Industrial Machinery/Components
+DPRO,DPRO,Draganfly Inc. - Common Shares,Q,S,N,"19,21,58,240.00",,,Industrials,Aerospace
+FLX,FLX,BingEx Limited - American Depositary Shares,Q,Q,N,"18,68,46,920.00",,,Industrials,Trucking Freight/Courier Services
+FF,FF,FutureFuel Corp.  Common shares,N, ,N,"18,46,65,364.00",,,Industrials,Major Chemicals
+TGEN,TGEN,Tecogen Inc. Common Stock,A, ,N,"18,18,23,792.00",,,Industrials,Industrial Machinery/Components
+ZJK,ZJK,"ZJK Industrial Co., Ltd. - Class A Ordinary Shares",Q,S,N,"18,06,16,965.00",,,Industrials,Metal Fabrications
+LNZA,LNZA,"LanzaTech Global, Inc. - Common Stock",Q,S,N,"17,99,90,668.00",,,Industrials,Major Chemicals
+PESI,PESI,"Perma-Fix Environmental Services, Inc. - Common Stock",Q,S,N,"17,17,22,374.00",,,Industrials,Environmental Services
+VATE,VATE,INNOVATE Corp. Common Stock,N, ,N,"16,72,49,277.00",,,Industrials,Metal Fabrications
+SHIM,SHIM,Shimmick Corporation - Common Stock,Q,S,N,"16,38,98,690.00",,,Industrials,Military/Government/Technical
+AMTX,AMTX,"Aemetis, Inc - Common Stock",Q,G,N,"16,32,50,227.00",,,Industrials,Major Chemicals
+TAYD,TAYD,"Taylor Devices, Inc. - Common Stock",Q,S,N,"16,29,35,354.00",,,Industrials,Industrial Machinery/Components
+SMID,SMID,Smith-Midland Corporation - Common Stock,Q,S,N,"16,16,30,206.00",,,Industrials,Building Materials
+OWLT,OWLT,"Owlet, Inc. Class A Common Stock",N, ,N,"15,89,26,401.00",,,Industrials,Industrial Machinery/Components
+RAIL,RAIL,"Freightcar America, Inc. - Common Stock",Q,Q,N,"15,76,90,594.00",,,Industrials,Railroads
+BOOM,BOOM,DMC Global Inc. - Common Stock,Q,Q,N,"15,41,30,117.00",,,Industrials,Industrial Specialties
+FRD,FRD,Friedman Industries Inc. - Common Stock,Q,Q,N,"15,14,18,355.00",,,Industrials,Steel/Iron Ore
+GRO,GRO,Brazil Potash Corp. Common Shares,A, ,N,"15,10,72,088.00",,,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+ATLX,ATLX,Atlas Lithium Corporation - Common Stock,Q,S,N,"14,03,76,622.00",,,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+LUD,LUD,Luda Technology Group Limited Ordinary Shares,A, ,N,"13,59,13,100.00",,,Industrials,Steel/Iron Ore
+QTRX,QTRX,Quanterix Corporation - Common Stock,Q,G,N,"13,59,00,755.00",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+CODA,CODA,"Coda Octopus Group, Inc. - Common stock",Q,S,N,"13,54,26,586.00",,,Industrials,Industrial Machinery/Components
+BNC,BNC,CEA Industries Inc. - Common Stock,Q,S,N,"13,06,17,836.00",,,Industrials,Industrial Machinery/Components
+CITR,CITR,CitroTech Inc. Common Stock,A, ,N,"13,00,30,089.00",,,Industrials,Environmental Services
+ZONE,ZONE,CleanCore Solutions Inc. Class B Common Stock,A, ,N,"12,98,34,231.00",,,Industrials,Industrial Machinery/Components
+ACNT,ACNT,Ascent Industries Co. - Common Stock,Q,G,N,"12,70,18,555.00",,,Industrials,Steel/Iron Ore
+FORR,FORR,"Forrester Research, Inc. - Common Stock",Q,Q,N,"12,55,83,993.00",,,Industrials,Diversified Commercial Services
+NNBR,NNBR,"NN, Inc. - Common Stock",Q,Q,N,"12,05,87,475.00",,,Industrials,Industrial Machinery/Components
+FFAI,FFAI,Faraday Future Intelligent Electric Inc. - Class A Common Stock,Q,S,N,"11,86,66,361.00",,,Industrials,Auto Manufacturing
+ATLN,ATLN,Atlantic International Corp. - Common Stock,Q,G,N,"11,81,40,658.00",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+SAFX,SAFX,"XCF Global, Inc. - Class A Common Stock",Q,S,N,"11,72,03,417.00",,,Industrials,Major Chemicals
+SIF,SIF,"SIFCO Industries, Inc. Common Stock",A, ,N,"11,67,64,570.00",,,Industrials,Aerospace
+ZTEK,ZTEK,Zentek Ltd. - common stock,Q,S,N,"11,53,72,726.00",,,Industrials,Major Chemicals
+ARQ,ARQ,"Arq, Inc. - Common Stock",Q,G,N,"11,48,27,740.00",,,Industrials,Major Chemicals
+HOVR,HOVR,New Horizon Aircraft Ltd. - Class A Ordinary Shares,Q,S,N,"11,30,15,377.00",,,Industrials,Aerospace
+OCC,OCC,Optical Cable Corporation - Common Stock,Q,G,N,"11,26,91,190.00",,,Industrials,Telecommunications Equipment
+CBUS,CBUS,"Cibus, Inc. - Class A Common Stock",Q,S,N,"11,03,19,589.00",,,Industrials,Agricultural Chemicals
+RPID,RPID,"Rapid Micro Biosystems, Inc. - Class A Common Stock",Q,S,N,"11,02,98,566.00",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+AIIO,AIIO,Robo.ai Inc. - Class B Ordinary Shares,Q,S,N,"10,97,98,586.00",,,Industrials,Auto Manufacturing
+PSIG,PSIG,PS International Group Ltd. - Ordinary Shares,Q,S,N,"10,93,27,427.00",,,Industrials,Integrated Freight & Logistics
+KEQU,KEQU,Kewaunee Scientific Corporation - Common Stock,Q,G,N,"10,89,79,920.00",,,Industrials,Medical Specialities
+CRGO,CRGO,Freightos Limited - Ordinary shares,Q,S,N,"10,73,05,279.00",,,Industrials,Integrated Freight & Logistics
+HURC,HURC,"Hurco Companies, Inc. - Common Stock",Q,Q,N,"10,63,66,491.00",,,Industrials,Industrial Machinery/Components
+SEER,SEER,"Seer, Inc. - Class A Common Stock",Q,Q,N,"10,60,85,087.00",,,Industrials,Biotechnology: Laboratory Analytical Instruments
+GEOS,GEOS,Geospace Technologies Corporation - Common Stock,Q,Q,N,"10,36,01,244.00",,,Industrials,Industrial Machinery/Components
+BAER,BAER,"Bridger Aerospace Group Holdings, Inc. - Common Stock",Q,G,N,"10,00,01,307.00",,,Industrials,Aerospace
+EVAC,EVAC,EQV Ventures Acquisition Corp. II Class A Ordinary Shares,N, ,N, -   ,,,Industrials,Fluid Controls
+MLAC,MLAC,Mountain Lake Acquisition Corp. - Class A Ordinary Shares,Q,G,N, -   ,,,Industrials,Auto Manufacturing

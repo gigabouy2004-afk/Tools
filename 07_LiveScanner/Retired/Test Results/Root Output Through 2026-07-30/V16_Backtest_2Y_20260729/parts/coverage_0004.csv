@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+NOC,US,Northrop Grumman Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+AEM,US,Agnico Eagle Mines Limited Common Stock,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,21
+GM,US,General Motors Company Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+REGN,US,"Regeneron Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,2
+SLB,US,SLB Limited Common Shares,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+NXPI,US,NXP Semiconductors N.V. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,3
+MPWR,US,"Monolithic Power Systems, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+MSI,US,"Motorola Solutions, Inc. Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+TDG,US,Transdigm Group Incorporated Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+PCAR,US,PACCAR Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+APD,US,"Air Products and Chemicals, Inc. Common Stock",Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+LITE,US,Lumentum Holdings Inc. - Common Stock,Telecommunications,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+SE,US,"Sea Limited American Depositary Shares, each representing one Class A Ordinary Share",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+WBD,US,"Warner Bros. Discovery, Inc. - Series A Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+BE,US,Bloom Energy Corporation Class A Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+GWW,US,"W.W. Grainger, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+BSX,US,Boston Scientific Corporation Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+URI,US,"United Rentals, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+HONA,US,Honeywell Aerospace Inc. - Common Stock,Industrials,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,30,2026-06-15,2026-07-28,0,0
+FIX,US,"Comfort Systems USA, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+COHR,US,Coherent Corp. Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,22
+HPE,US,Hewlett Packard Enterprise Company Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+NOK,US,Nokia Corporation Sponsored American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,21
+TEL,US,TE Connectivity plc Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+B,US,Barrick Mining Corporation Common Shares,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,19
+VALE,US,VALE S.A.  American Depositary Shares Each Representing one common share,Basic Materials,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+IMO,US,Imperial Oil Limited Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+RELX,US,RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share),Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+COR,US,"Cencora, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,20
+TER,US,"Teradyne, Inc. - Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+STM,US,STMicroelectronics N.V. Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+F,US,Ford Motor Company Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+FANG,US,"Diamondback Energy, Inc. - Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+OXY,US,Occidental Petroleum Corporation Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,5
+KEYS,US,Keysight Technologies Inc. Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+BKR,US,Baker Hughes Company - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,21
+CARR,US,Carrier Global Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+NBIS,US,Nebius Group N.V. - Class A Ordinary Shares,Technology,PROCESSED,,442,2024-10-21,2026-07-28,442,6
+ALAB,US,"Astera Labs, Inc. - Common Stock",Technology,PROCESSED,,590,2024-03-20,2026-07-28,501,10
+AME,US,"AMETEK, Inc.",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+ARGX,US,argenx SE - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+CVE,US,Cenovus Energy Inc Common Stock,Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,10
+UMC,US,United Microelectronics Corporation (NEW) Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,11
+CAH,US,"Cardinal Health, Inc. Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,18
+NUE,US,Nucor Corporation Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+EA,US,Electronic Arts Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,13
+LHX,US,"L3Harris Technologies, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+ROK,US,"Rockwell Automation, Inc. Common Stock",Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,12
+FAST,US,Fastenal Company - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+MDLN,US,Medline Inc. - Class A common stock,Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,152,2025-12-17,2026-07-28,0,0

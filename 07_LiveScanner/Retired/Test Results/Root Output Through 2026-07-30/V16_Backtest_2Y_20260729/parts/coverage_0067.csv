@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+CYAB,US,"Cyabra, Inc. - Common Stock",Technology,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,84,2026-03-27,2026-07-28,0,0
+AKAN,US,Akanda Corp. - Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CNET,US,ZW Data Action Technologies Inc. - Common Stock,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+FRSX,US,Foresight Autonomous Holdings Ltd. - American Depositary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+XAIR,US,"Beyond Air, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NTCL,US,NETCLASS TECHNOLOGY INC - Class A Ordinary Shares,Technology,PROCESSED,,404,2024-12-13,2026-07-28,404,0
+TWAV,US,"TaoWeave, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RDHL,US,Redhill Biopharma Ltd. - American Depositary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SXTP,US,"60 Degrees Pharmaceuticals, Inc. - Common Stock",Health Care,PROCESSED,,764,2023-07-12,2026-07-28,501,0
+DXST,US,Decent Holding Inc. - Class A Ordinary Shares,Industrials,PROCESSED,,380,2025-01-22,2026-07-28,380,0
+MBIO,US,"Mustang Bio, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SMTK,US,"SmartKem, Inc. - Common Stock",Technology,PROCESSED,,540,2024-05-31,2026-07-28,501,0
+CHR,US,"Cheer Holding, Inc.  - Class A Ordinary Share",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+WBUY,US,WEBUY GLOBAL LTD. - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,694,2023-10-19,2026-07-28,501,0
+GNPX,US,"Genprex, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ELPW,US,Elong Power Holding Limited - Class A Ordinary Shares,Miscellaneous,PROCESSED,,813,2023-05-01,2026-07-28,501,0
+NXGL,US,"NexGel, Inc - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ZSTK,US,ZeroStack Corp. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SCKT,US,"Socket Mobile, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+GLMD,US,Galmed Pharmaceuticals Ltd. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+BGLC,US,BioNexus Gene Lab Corp - Common stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ATXG,US,Addentax Group Corp. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ARTL,US,"Artelo Biosciences, Inc. - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+WXM,US,WF International Limited - Ordinary Shares,Consumer Discretionary,PROCESSED,,332,2025-04-01,2026-07-28,332,0
+CAPS,US,Capstone Holding Corp. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+IZM,US,ICZOOM Group Inc. - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,845,2023-03-15,2026-07-28,501,0
+SBFM,US,Sunshine Biopharma Inc. - Common stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+NVVE,US,Nuvve Holding Corp. - Common Stock,Industrials,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+CIIT,US,"Tianci International, Inc. - Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PRFX,US,PRF Technologies Ltd. - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+HCTI,US,"Healthcare Triangle, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AGMH,US,AGM Group Holdings Inc. - Class A Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MNDR,US,Mobile-health Network Solutions - Class A Ordinary Shares,Technology,PROCESSED,,576,2024-04-10,2026-07-28,501,0
+HTCR,US,"Heartcore Enterprises, Inc. - Common Stock",Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+XRTX,US,XORTX Therapeutics Inc. - Common Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ABTS,US,Abits Group Inc - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ISPC,US,iSpecimen Inc. - Common Stock,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+RMSG,US,Real Messenger Corporation - Ordinary Shares,Technology,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+AIXI,US,XIAO-I Corporation - American Depositary Shares,Technology,PROCESSED,,849,2023-03-09,2026-07-28,501,0
+BIAF,US,"bioAffinity Technologies, Inc. - Common Stock",Health Care,PROCESSED,,978,2022-09-01,2026-07-28,501,0
+GBR,US,"New Concept Energy, Inc Common Stock",Energy,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+WLDS,US,Wearable Devices Ltd. - Ordinary Share,Telecommunications,PROCESSED,,971,2022-09-13,2026-07-28,501,0
+CYCU,US,"Cycurion, Inc. - Common Stock",Technology,PROCESSED,,362,2025-02-18,2026-07-28,362,0
+ONCO,US,"Onconetix, Inc.  - Common Stock",Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+JTAI,US,Jet.AI Inc. - Common Stock,Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+LABT,US,Lakewood-Amedex Biotherapeutics Inc. - Common Stock,Health Care,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,66,2026-04-23,2026-07-28,0,0
+HYFM,US,"Hydrofarm Holdings Group, Inc. - Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+ITP,US,"IT Tech Packaging, Inc. Common Stock",Consumer Discretionary,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+PMAX,US,Powell Max Limited - Class A Ordinary Shares,Consumer Discretionary,PROCESSED,,474,2024-09-05,2026-07-28,474,0
+VRAX,US,Virax Biolabs Group Limited - Ordinary Shares,Health Care,PROCESSED,,1002,2022-07-29,2026-07-28,501,0

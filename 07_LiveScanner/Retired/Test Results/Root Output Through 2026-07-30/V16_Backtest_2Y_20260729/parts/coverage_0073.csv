@@ -1,0 +1,51 @@
+ticker,market,security_name,sector,status,reason,history_rows,first_history_date,last_history_date,measured_sessions,buy_trades
+HVT-A,US,"Haverty Furniture Companies, Inc. Common Stock",,PROCESSED,,1001,2022-07-29,2026-07-27,500,0
+INHD,US,Inno Holdings Inc. - Common Stock,,PROCESSED,,654,2023-12-14,2026-07-27,500,0
+IPEX,US,Inflection Point Acquisition Corp. - Class A Ordinary Shares,Health Care,PROCESSED,,349,2025-03-07,2026-07-28,349,0
+JDZG,US,JIADE LIMITED - Class A Ordinary Shares,,PROCESSED,,550,2024-05-15,2026-07-27,500,0
+LAWR,US,"Robot Consulting Co., Ltd. - ADS",,PROCESSED,,258,2025-07-17,2026-07-27,258,0
+LEN-B,US,Lennar Corporation Class B,,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+MAGH,US,Magnitude International Ltd - Ordinary Shares,,PROCESSED,,240,2025-08-12,2026-07-27,240,0
+MAMK,US,MaxsMaking Inc. - Class A Ordinary Shares,,PROCESSED,,266,2025-07-07,2026-07-27,266,0
+MCTA,US,Charming Medical Limited - Class A Ordinary Shares,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,191,2025-10-21,2026-07-27,0,0
+MEDS,US,"DataMeds AI, Inc. - Common Stock",,PROCESSED,,359,2025-02-21,2026-07-28,359,0
+MET-PE,US,"MetLife, Inc. Depositary Shares",,PROCESSED,,1002,2022-07-29,2026-07-28,501,7
+MKC-V,US,"McCormick & Company, Incorporated Common Stock",,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+MOG-A,US,Moog Inc. Class A Common Stock,,PROCESSED,,1002,2022-07-29,2026-07-28,501,14
+MOG-B,US,Moog Inc. Class B Common Stock,,PROCESSED,,1001,2022-07-29,2026-07-27,500,0
+MS-PA,US,Morgan Stanley Dep Shs repstg 1/1000 Pfd Ser A,,PROCESSED,,1002,2022-07-29,2026-07-28,501,8
+MS-PF,US,Morgan Stanley Dep Shs Rpstg 1/1000th Int Prd Ser F Fxd to Flag,,PROCESSED,,1002,2022-07-29,2026-07-28,501,16
+NAN,US,Nano Labs Ltd - Class A Ordinary Shares,,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+NCL,US,Northann Corp. Common Stock,,PROCESSED,,693,2023-10-19,2026-07-27,500,0
+NLY-PF,US,Annaly Capital Management Inc 6.95% Series F,,PROCESSED,,1002,2022-07-29,2026-07-28,501,9
+NUTR,US,Nusatrip Incorporated - Common Stock,,PROCESSED,,237,2025-08-15,2026-07-27,237,0
+OST,US,"Ostin Technology Group Co., Ltd. - Class A Ordinary Shares",,PROCESSED,,1001,2022-07-29,2026-07-27,500,2
+PC,US,Premium Catering (Holdings) Limited - Ordinary Shares,,PROCESSED,,459,2024-09-25,2026-07-27,459,0
+PLTS,US,Platinum Analytics Cayman Limited - Class A Ordinary Shares,,PROCESSED,,213,2025-09-19,2026-07-27,213,0
+PWCM,US,"PowerCompute, Inc. - Common Stock",,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+QMMM,US,QMMM Holdings Limited - Class A Ordinary Shares,,PROCESSED,,506,2024-07-19,2026-07-27,500,1
+SBEV,US,"Splash Beverage Group, Inc. (NV) Common Stock",,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+SCE-PL,US,SCE TRUST VI,,PROCESSED,,1002,2022-07-29,2026-07-28,501,1
+STT-PG,US,"State Street Corporation Depositary shares, each representing a 1/4,000th ownership interest in a share of Fixed-to-Floating Rate Non-Cumulative",,PROCESSED,,1002,2022-07-29,2026-07-28,501,4
+SVA,US,"Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)",,NO_DATA,No Yahoo OHLCV rows returned,0,,,0,0
+TAP-A,US,Molson Coors Beverage Company Class A Common Stock,,PROCESSED,,1001,2022-07-29,2026-07-27,500,0
+TFC-PI,US,Truist Financial Corporation Depositary Shares,,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+UCFI,US,CN Healthy Food Tech Group Corp. - Common Stock,,PROCESSED,,611,2024-02-16,2026-07-27,500,0
+UHAL-B,US,U-Haul Holding Company Series N Non-Voting Common Stock,,PROCESSED,,929,2022-11-10,2026-07-28,501,5
+USB-PA,US,"U.S. Bancorp Depositary Shares, Each representing a 1/100th interest in a share of Series A Non-CumulativePerpetual Pfd Stock",,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+USB-PH,US,U.S. Bancorp Depositary Shares repstg 1/1000th Pfd Ser B,,PROCESSED,,1002,2022-07-29,2026-07-28,501,6
+VNO-PL,US,Vornado Realty Trust Pfd Ser L %,,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+WSO-B,US,"Watsco, Inc. Class B Common Stock",,PROCESSED,,1002,2022-07-29,2026-07-28,501,0
+20MICRONS.NS,INDIA,20 Microns Limited,,PROCESSED,,987,2022-07-28,2026-07-27,497,4
+21STCENMGM.NS,INDIA,21st Century Management Services Limited,,PROCESSED,,986,2022-07-28,2026-07-27,496,5
+360ONE.NS,INDIA,360 ONE WAM LIMITED,,PROCESSED,,987,2022-07-28,2026-07-27,497,11
+3BBLACKBIO.NS,INDIA,3B Blackbio Dx Limited,,INSUFFICIENT_HISTORY,Needs at least 206 daily rows,69,2026-04-20,2026-07-28,0,0
+3IINFOLTD.NS,INDIA,3i Infotech Limited,,PROCESSED,,987,2022-07-28,2026-07-27,497,0
+3MINDIA.NS,INDIA,3M India Limited,,PROCESSED,,986,2022-07-28,2026-07-27,496,5
+3PLAND.NS,INDIA,3P Land Holdings Limited,,PROCESSED,,987,2022-07-28,2026-07-27,497,5
+5PAISA.NS,INDIA,5Paisa Capital Limited,,PROCESSED,,987,2022-07-28,2026-07-27,497,2
+63MOONS.NS,INDIA,63 moons technologies limited,,PROCESSED,,988,2022-07-28,2026-07-27,498,10
+A2ZINFRA.NS,INDIA,A2Z Infra Engineering Limited,,PROCESSED,,987,2022-07-28,2026-07-27,497,4
+AAATECH.NS,INDIA,AAA Technologies Limited,,PROCESSED,,986,2022-07-28,2026-07-27,496,6
+AADHARHFC.NS,INDIA,Aadhar Housing Finance Limited,,PROCESSED,,548,2024-05-15,2026-07-27,498,6
+AAKASH.NS,INDIA,Aakash Exploration Services Limited,,PROCESSED,,987,2022-07-28,2026-07-27,497,0
