@@ -26,6 +26,7 @@ import sys
 import argparse
 import csv
 import re
+import importlib.util
 import urllib.request
 from io import StringIO
 from datetime import datetime
@@ -638,15 +639,40 @@ def normalize_yahoo_symbol(ticker):
     return value
 
 
+def ensure_runtime_dependencies():
+    # yfinance repair pipeline can require scipy for historical-price cleanup.
+    if importlib.util.find_spec("scipy") is None:
+        print("\n[CRITICAL DEPENDENCY MISSING] scipy is required for price history repair and benchmark calculations.", file=sys.stderr)
+        print("Install it in your active environment and re-run:", file=sys.stderr)
+        print(f"  \"{sys.executable}\" -m pip install scipy", file=sys.stderr)
+        sys.exit(1)
+
+
 def fetch_price_history_series(ticker):
     yf_symbol = normalize_yahoo_symbol(ticker)
     ticker_obj = yf.Ticker(yf_symbol)
-    history = ticker_obj.history(
-        period="max",
-        auto_adjust=True,
-        actions=True,
-        repair=True,
-    )
+    history_kwargs = {
+        "period": "max",
+        "auto_adjust": True,
+        "actions": True,
+        "repair": True,
+    }
+
+    try:
+        history = ticker_obj.history(**history_kwargs)
+    except ModuleNotFoundError as error:
+        if getattr(error, "name", "") != "scipy":
+            raise
+        print(f"  [WARN] scipy not installed; retrying price history for {yf_symbol} with repair=False")
+        history_kwargs["repair"] = False
+        try:
+            history = ticker_obj.history(**history_kwargs)
+        except Exception as retry_error:
+            print(f"  [WARN] Price history unavailable for {yf_symbol}: {retry_error}")
+            return ticker_obj, None, None
+    except Exception as error:
+        print(f"  [WARN] Price history unavailable for {yf_symbol}: {error}")
+        return ticker_obj, None, None
 
     if history is None or history.empty or "Close" not in history.columns:
         return ticker_obj, None, history
@@ -980,6 +1006,7 @@ def apply_matrix_formatting(file_path):
 
 def main():
     args = parse_arguments()
+    ensure_runtime_dependencies()
 
     output_filename = build_output_filename(args)
     try:
@@ -1151,21 +1178,60 @@ def main():
 
     try:
         with pd.ExcelWriter(output_path, engine="openpyxl") as writer:
-            price_row_df = pd.DataFrame(
-                [["", "", "", "", ""] + [str(etf_prices_summary.get(etf, "N/A")) for etf in unique_etfs]],
-                columns=["Ticker", "Company Name", "Exchange", "Market Cap", "Price"] + unique_etfs,
-            )
             matrix_export_df = final_matrix_df.rename(columns={
                 "Company Ticker": "Ticker",
                 "Listed Exchange": "Exchange",
                 "Company Market Cap": "Market Cap",
                 "Company LTP": "Price",
             })
+
+            matrix_front_columns = [
+                "Ticker",
+                "Company Name",
+                "Exchange",
+                "Market Cap",
+                "Price",
+                "ETF_Count",
+                "Total_Weight_Across_ETFs",
+            ]
+            matrix_etf_columns = [etf for etf in unique_etfs if etf in matrix_export_df.columns]
+            matrix_export_df = matrix_export_df.reindex(columns=matrix_front_columns + matrix_etf_columns)
+
+            price_row_df = pd.DataFrame(
+                [["", "", "", "", "", "", ""] + [str(etf_prices_summary.get(etf, "N/A")) for etf in matrix_etf_columns]],
+                columns=matrix_front_columns + matrix_etf_columns,
+            )
             combined_matrix_export = pd.concat([price_row_df, matrix_export_df], ignore_index=True)
+
+            raw_holdings_export_df = raw_df.rename(columns={
+                "Company Ticker": "Stock Ticker",
+                "Listed Exchange": "Exchange",
+                "Company Market Cap": "Market Cap",
+                "Company LTP": "Price",
+            })
+            raw_holdings_columns = [
+                "ETF_Code",
+                "Stock Ticker",
+                "Company Name",
+                "Exchange",
+                "Market Cap",
+                "Price",
+                "Weight",
+                "Source Ticker",
+                "Resolved Ticker",
+                "Resolution Status",
+            ]
+            raw_holdings_export_df = raw_holdings_export_df.reindex(columns=[
+                col for col in raw_holdings_columns if col in raw_holdings_export_df.columns
+            ])
+
+            print("  [LAYOUT] Matrix columns -> " + " | ".join(combined_matrix_export.columns.tolist()))
+            print("  [LAYOUT] RAW_Holdings columns -> " + " | ".join(raw_holdings_export_df.columns.tolist()))
+
             combined_matrix_export.to_excel(writer, sheet_name="Matrix", index=False)
             etf_summary_enhanced_df.to_excel(writer, sheet_name="ETF_Summary", index=False)
             stock_summary_df.to_excel(writer, sheet_name="Stock_Summary", index=False)
-            raw_df.to_excel(writer, sheet_name="RAW_Holdings", index=False)
+            raw_holdings_export_df.to_excel(writer, sheet_name="RAW_Holdings", index=False)
             if theme_selection_df is not None:
                 theme_selection_df.to_excel(writer, sheet_name="Theme Selection", index=False)
             pd.DataFrame(
