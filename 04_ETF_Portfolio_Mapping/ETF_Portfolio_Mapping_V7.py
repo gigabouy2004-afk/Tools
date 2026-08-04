@@ -33,6 +33,9 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import pandas as pd
 import yfinance as yf
+import openpyxl
+from openpyxl.formatting.rule import FormulaRule
+from openpyxl.styles import PatternFill
 
 INTL_SUFFIX_CANDIDATES = [
     ".T", ".HK", ".KS", ".KQ", ".AX", ".SW", ".PA", ".DE", ".L",
@@ -72,7 +75,16 @@ def parse_arguments():
     parser.add_argument("-f", "--file", type=str, default=None, help="Path to a file containing ETF tickers")
     parser.add_argument("--theme", type=str, help="Comma-separated theme terms")
     parser.add_argument("--classifier-file", type=str, default="D:\\Tools\\StockCodeMaster\\03_ETF\\01-07-US_ETF_Classification_Mapping.csv", help="CSV file containing ETF classification data")
-    parser.add_argument("-o", "--output-dir", type=str, default="D:/TMP", help="Output directory")
+    parser.add_argument(
+        "-o",
+        "--output",
+        "--output-file",
+        "--output-dir",
+        dest="output",
+        type=str,
+        default=None,
+        help="Output filename (or path). If not provided, file is created in current working directory.",
+    )
     
     if len(sys.argv) == 1:
         parser.print_help()
@@ -557,6 +569,38 @@ def build_output_filename(args):
         return f"{safe_theme_name(args.theme)}_Portfolio-{date_tag}.xlsx"
     return f"ETFCode_PortfolioMapping-{date_tag}.xlsx"
 
+
+def resolve_output_path(cli_output, default_filename):
+    if cli_output is None:
+        return os.path.abspath(os.path.join(os.getcwd(), default_filename))
+
+    value = str(cli_output).strip()
+    if not value:
+        raise ValueError("Output filename cannot be empty.")
+
+    # If user passes only a filename, write to current working directory.
+    candidate = value if os.path.isabs(value) else os.path.join(os.getcwd(), value)
+    output_path = os.path.abspath(candidate)
+
+    if os.path.isdir(output_path):
+        raise ValueError(f"Output must be a file name/path, not a directory: {output_path}")
+
+    base_name = os.path.basename(output_path)
+    root_name, ext = os.path.splitext(base_name)
+    if not root_name:
+        raise ValueError("Output filename is invalid.")
+
+    if not ext:
+        output_path = output_path + ".xlsx"
+    elif ext.lower() != ".xlsx":
+        raise ValueError("Output file extension must be .xlsx")
+
+    parent_dir = os.path.dirname(output_path) or os.getcwd()
+    if not os.path.exists(parent_dir):
+        raise ValueError(f"Output directory does not exist: {parent_dir}")
+
+    return output_path
+
 def print_no_etf_message():
     print("\n" + "=" * 80 + "\n [CRITICAL CONFIGURATION FAULT] ETF UNIVERSE BLANK\n" + "=" * 80)
     print("\nNo tracking ETF data sources or matching inputs were supplied.")
@@ -584,8 +628,364 @@ def is_valid_ticker_symbol(ticker_str):
         return False
     return True
 
+
+def normalize_yahoo_symbol(ticker):
+    value = str(ticker).strip().upper()
+    if value.startswith("XNSE:"):
+        return value.split(":", 1)[1] + ".NS"
+    if value.startswith("XNSE") and ":" not in value:
+        return value.replace("XNSE", "", 1) + ".NS"
+    return value
+
+
+def fetch_price_history_series(ticker):
+    yf_symbol = normalize_yahoo_symbol(ticker)
+    ticker_obj = yf.Ticker(yf_symbol)
+    history = ticker_obj.history(
+        period="max",
+        auto_adjust=True,
+        actions=True,
+        repair=True,
+    )
+
+    if history is None or history.empty or "Close" not in history.columns:
+        return ticker_obj, None, history
+
+    history.index = pd.to_datetime(history.index).tz_localize(None)
+    prices = pd.to_numeric(history["Close"], errors="coerce").dropna().sort_index()
+    if prices.empty:
+        return ticker_obj, None, history
+
+    return ticker_obj, prices, history
+
+
+def calculate_price_performance(prices):
+    if prices is None or len(prices) < 2:
+        return {}
+
+    prices = prices.dropna().sort_index()
+    last_date = pd.Timestamp(prices.index[-1])
+
+    def index_on_or_before(date_value):
+        position = prices.index.searchsorted(pd.Timestamp(date_value), side="right") - 1
+        return position if position >= 0 else None
+
+    def index_before(date_value):
+        position = prices.index.searchsorted(pd.Timestamp(date_value), side="left") - 1
+        return position if position >= 0 else None
+
+    def index_on_or_after(date_value):
+        position = prices.index.searchsorted(pd.Timestamp(date_value), side="left")
+        return position if position < len(prices) else None
+
+    def return_between(start_date, end_date=None, use_previous_close=False):
+        end_date = last_date if end_date is None else pd.Timestamp(end_date)
+
+        if use_previous_close:
+            start_index = index_before(start_date)
+        else:
+            start_index = index_on_or_before(start_date)
+
+        if start_index is None:
+            start_index = index_on_or_after(start_date)
+
+        end_index = index_on_or_before(end_date)
+        if start_index is None or end_index is None or end_index <= start_index:
+            return None
+
+        start_price = float(prices.iloc[start_index])
+        end_price = float(prices.iloc[end_index])
+        if start_price <= 0:
+            return None
+
+        return round(((end_price / start_price) - 1.0) * 100.0, 2)
+
+    week_start = last_date.normalize() - pd.Timedelta(days=last_date.weekday())
+    month_start = pd.Timestamp(last_date.year, last_date.month, 1)
+    year_start = pd.Timestamp(last_date.year, 1, 1)
+
+    previous_month_end = month_start - pd.Timedelta(days=1)
+    previous_month_start = pd.Timestamp(previous_month_end.year, previous_month_end.month, 1)
+
+    two_months_ago_end = previous_month_start - pd.Timedelta(days=1)
+    two_months_ago_start = pd.Timestamp(two_months_ago_end.year, two_months_ago_end.month, 1)
+
+    return {
+        "LTP": round(float(prices.iloc[-1]), 2),
+        "Since Yesterday (%)": round(
+            ((float(prices.iloc[-1]) / float(prices.iloc[-2])) - 1.0) * 100.0, 2
+        ),
+        "This Week (%)": return_between(week_start, use_previous_close=True),
+        "MTD (%)": return_between(month_start, use_previous_close=True),
+        previous_month_start.strftime("%b-%y (%%)"): return_between(
+            previous_month_start, previous_month_end, use_previous_close=True
+        ),
+        two_months_ago_start.strftime("%b-%y (%%)"): return_between(
+            two_months_ago_start, two_months_ago_end, use_previous_close=True
+        ),
+        "3 Month (%)": return_between(last_date - pd.DateOffset(months=3)),
+        "YTD (%)": return_between(year_start, use_previous_close=True),
+        "6 Month (%)": return_between(last_date - pd.DateOffset(months=6)),
+        "9 Month (%)": return_between(last_date - pd.DateOffset(months=9)),
+        "1 Year (%)": return_between(last_date - pd.DateOffset(years=1)),
+    }
+
+
+def compute_etf_risk_metrics(prices, benchmark_prices, risk_free_rate=0.04):
+    result = {"Beta": None, "Alpha (Ann. %)": None}
+    if prices is None or benchmark_prices is None:
+        return result
+
+    aligned = pd.concat(
+        [prices.rename("Instrument"), benchmark_prices.rename("Benchmark")],
+        axis=1,
+        join="inner",
+    ).dropna()
+
+    if len(aligned) < 30:
+        return result
+
+    aligned = aligned.iloc[-756:]
+    returns = aligned.pct_change().dropna()
+    if len(returns) < 20:
+        return result
+
+    instrument_returns = returns["Instrument"]
+    benchmark_returns = returns["Benchmark"]
+    benchmark_variance = benchmark_returns.var(ddof=1)
+    if pd.isna(benchmark_variance) or benchmark_variance == 0:
+        return result
+
+    beta = instrument_returns.cov(benchmark_returns) / benchmark_variance
+    result["Beta"] = round(float(beta), 2)
+
+    daily_rf = risk_free_rate / 252.0
+    alpha_daily = (instrument_returns - daily_rf).mean() - beta * (benchmark_returns - daily_rf).mean()
+    result["Alpha (Ann. %)"] = round(float(alpha_daily * 252.0 * 100.0), 2)
+    return result
+
+
+def get_etf_aum_usd_m(ticker_obj, info):
+    value = info.get("totalAssets")
+    if value is None:
+        try:
+            value = ticker_obj.fast_info.get("marketCap")
+        except Exception:
+            value = None
+    try:
+        return round(float(value) / 1_000_000.0, 2) if value is not None else None
+    except (TypeError, ValueError):
+        return None
+
+
+def get_latest_trading_volume(history):
+    if history is None or history.empty or "Volume" not in history.columns:
+        return None
+    volume = pd.to_numeric(history["Volume"], errors="coerce").dropna()
+    if volume.empty:
+        return None
+    return int(volume.iloc[-1])
+
+
+def build_etf_performance_row(etf_ticker, benchmark_prices):
+    ticker_obj, prices, history = fetch_price_history_series(etf_ticker)
+
+    info = {}
+    try:
+        info = ticker_obj.info or {}
+    except Exception:
+        info = {}
+
+    performance = calculate_price_performance(prices)
+    risk_metrics = compute_etf_risk_metrics(prices, benchmark_prices)
+
+    return {
+        "Ticker": str(etf_ticker).strip().upper(),
+        "Name": str(info.get("longName") or info.get("shortName") or "").strip(),
+        "AUM (USD M)": get_etf_aum_usd_m(ticker_obj, info),
+        "Last Trading Volume": get_latest_trading_volume(history),
+        "LTP": performance.pop("LTP", None),
+        **risk_metrics,
+        **performance,
+    }
+
+
+def _autosize_worksheet_columns(worksheet, min_width=10, max_width=45):
+    for column_cells in worksheet.columns:
+        max_length = max(
+            len(str(cell.value)) if cell.value is not None else 0
+            for cell in column_cells
+        )
+        worksheet.column_dimensions[column_cells[0].column_letter].width = min(max(max_length + 2, min_width), max_width)
+
+
+def _apply_dynamic_rank_rules(worksheet, column_number, first_data_row=2):
+    if worksheet.max_row < first_data_row:
+        return
+
+    red_fill = PatternFill(fill_type="solid", fgColor="FFFF0000")
+    yellow_fill = PatternFill(fill_type="solid", fgColor="FFFFFF00")
+    green_fill = PatternFill(fill_type="solid", fgColor="FF92D050")
+
+    letter = openpyxl.utils.get_column_letter(column_number)
+    data_range = f"{letter}{first_data_row}:{letter}{worksheet.max_row}"
+
+    worksheet.conditional_formatting.add(
+        data_range,
+        FormulaRule(
+            formula=[f"AND(COUNT({letter}:{letter})>=1,ISNUMBER({letter}{first_data_row}),{letter}{first_data_row}=MAX({letter}:{letter}))"],
+            fill=red_fill,
+        ),
+    )
+    worksheet.conditional_formatting.add(
+        data_range,
+        FormulaRule(
+            formula=[f"AND(COUNT({letter}:{letter})>=2,ISNUMBER({letter}{first_data_row}),{letter}{first_data_row}=LARGE({letter}:{letter},2),{letter}{first_data_row}<>MAX({letter}:{letter}))"],
+            fill=yellow_fill,
+        ),
+    )
+    worksheet.conditional_formatting.add(
+        data_range,
+        FormulaRule(
+            formula=[f"AND(COUNT({letter}:{letter})>=1,ISNUMBER({letter}{first_data_row}),{letter}{first_data_row}=MIN({letter}:{letter}))"],
+            fill=green_fill,
+        ),
+    )
+
+
+def apply_etf_performance_formatting(file_path):
+    workbook = openpyxl.load_workbook(file_path)
+    if "ETF Performance" not in workbook.sheetnames:
+        workbook.save(file_path)
+        return
+
+    worksheet = workbook["ETF Performance"]
+    if worksheet.max_row < 2:
+        workbook.save(file_path)
+        return
+
+    worksheet.conditional_formatting._cf_rules.clear()
+
+    headers = [worksheet.cell(row=1, column=i).value for i in range(1, worksheet.max_column + 1)]
+    column_numbers = {
+        str(name).strip(): index + 1
+        for index, name in enumerate(headers)
+        if name is not None
+    }
+
+    percentage_columns = [name for name in column_numbers if str(name).endswith("(%)")]
+    for column_name in percentage_columns:
+        _apply_dynamic_rank_rules(worksheet, column_numbers[column_name], first_data_row=2)
+
+    for row in range(2, worksheet.max_row + 1):
+        for name in percentage_columns:
+            worksheet.cell(row=row, column=column_numbers[name]).number_format = "0.00"
+
+        for name in ["LTP", "Beta", "Alpha (Ann. %)"]:
+            if name in column_numbers:
+                worksheet.cell(row=row, column=column_numbers[name]).number_format = "0.00"
+
+        for name in ["AUM (USD M)", "Last Trading Volume"]:
+            if name in column_numbers:
+                worksheet.cell(row=row, column=column_numbers[name]).number_format = "#,##0"
+
+    worksheet.freeze_panes = "A2"
+    worksheet.auto_filter.ref = f"A1:{openpyxl.utils.get_column_letter(worksheet.max_column)}{worksheet.max_row}"
+    _autosize_worksheet_columns(worksheet)
+    workbook.save(file_path)
+
+
+def apply_etf_summary_formatting(file_path):
+    workbook = openpyxl.load_workbook(file_path)
+    if "ETF Summary" not in workbook.sheetnames:
+        workbook.save(file_path)
+        return
+
+    worksheet = workbook["ETF Summary"]
+    if worksheet.max_row < 2:
+        workbook.save(file_path)
+        return
+
+    worksheet.conditional_formatting._cf_rules.clear()
+
+    headers = [worksheet.cell(row=1, column=i).value for i in range(1, worksheet.max_column + 1)]
+    column_numbers = {
+        str(name).strip(): index + 1
+        for index, name in enumerate(headers)
+        if name is not None
+    }
+
+    rank_columns = [
+        "Holding_Count",
+        "Total_Holding_Weight",
+        "Avg_Holding_Weight",
+        "Max_Holding_Weight",
+    ]
+    for name in rank_columns:
+        if name in column_numbers:
+            _apply_dynamic_rank_rules(worksheet, column_numbers[name], first_data_row=2)
+
+    for row in range(2, worksheet.max_row + 1):
+        if "Holding_Count" in column_numbers:
+            worksheet.cell(row=row, column=column_numbers["Holding_Count"]).number_format = "#,##0"
+        for name in ["Total_Holding_Weight", "Avg_Holding_Weight", "Max_Holding_Weight"]:
+            if name in column_numbers:
+                worksheet.cell(row=row, column=column_numbers[name]).number_format = "0.00"
+
+    worksheet.freeze_panes = "A2"
+    worksheet.auto_filter.ref = f"A1:{openpyxl.utils.get_column_letter(worksheet.max_column)}{worksheet.max_row}"
+    _autosize_worksheet_columns(worksheet)
+    workbook.save(file_path)
+
+
+def apply_matrix_formatting(file_path):
+    workbook = openpyxl.load_workbook(file_path)
+    if "Matrix" not in workbook.sheetnames:
+        workbook.save(file_path)
+        return
+
+    worksheet = workbook["Matrix"]
+    if worksheet.max_row < 2:
+        workbook.save(file_path)
+        return
+
+    worksheet.conditional_formatting._cf_rules.clear()
+
+    headers = [worksheet.cell(row=1, column=i).value for i in range(1, worksheet.max_column + 1)]
+    column_numbers = {
+        str(name).strip(): index + 1
+        for index, name in enumerate(headers)
+        if name is not None
+    }
+
+    rank_columns = ["ETF_Count", "Total_Weight_Across_ETFs"]
+    for name in rank_columns:
+        if name in column_numbers:
+            _apply_dynamic_rank_rules(worksheet, column_numbers[name], first_data_row=2)
+
+    for row in range(2, worksheet.max_row + 1):
+        if "ETF_Count" in column_numbers:
+            worksheet.cell(row=row, column=column_numbers["ETF_Count"]).number_format = "#,##0"
+        if "Total_Weight_Across_ETFs" in column_numbers:
+            worksheet.cell(row=row, column=column_numbers["Total_Weight_Across_ETFs"]).number_format = "0.00"
+
+    worksheet.freeze_panes = "A2"
+    worksheet.auto_filter.ref = f"A1:{openpyxl.utils.get_column_letter(worksheet.max_column)}{worksheet.max_row}"
+    _autosize_worksheet_columns(worksheet)
+    workbook.save(file_path)
+
 def main():
+    print("[LEGACY NOTICE] ETF_Portfolio_Mapping_V7.py is now legacy-maintenance only.")
+    print("[LEGACY NOTICE] Active feature development has moved to ETF_Portfolio_Mapping_V8.py.")
+
     args = parse_arguments()
+    output_filename = build_output_filename(args)
+    try:
+        output_path = resolve_output_path(args.output, output_filename)
+    except Exception as e:
+        print(f"[CRITICAL ERR] Output file configuration error: {e}", file=sys.stderr)
+        sys.exit(1)
+
     combined_tickers = []
     theme_selection_df = None
 
@@ -704,9 +1104,34 @@ def main():
     stock_summary_df["Max_Weight_In_One_ETF"] *= 100
     stock_summary_df = stock_summary_df.sort_values(by=["ETF_Count", "Total_Weight_Across_ETFs"], ascending=[False, False])
 
-    output_filename = build_output_filename(args)
-    output_path = os.path.abspath(os.path.join(args.output_dir, output_filename))
-    os.makedirs(args.output_dir, exist_ok=True)
+    print("\nBuilding ETF performance benchmark sheet (period returns, AUM, Volume, Alpha, Beta, LTP)...")
+    _, benchmark_prices, _ = fetch_price_history_series("SPY")
+    etf_performance_rows = []
+    for etf in unique_etfs:
+        try:
+            etf_performance_rows.append(build_etf_performance_row(etf, benchmark_prices))
+        except Exception:
+            etf_performance_rows.append({
+                "Ticker": etf,
+                "Name": "",
+                "AUM (USD M)": None,
+                "Last Trading Volume": None,
+                "LTP": None,
+                "Beta": None,
+                "Alpha (Ann. %)": None,
+            })
+
+    etf_performance_df = pd.DataFrame(etf_performance_rows)
+    performance_front = [
+        "Ticker", "Name", "AUM (USD M)", "Last Trading Volume", "LTP",
+        "Beta", "Alpha (Ann. %)", "Since Yesterday (%)", "This Week (%)", "MTD (%)",
+    ]
+    performance_back = ["3 Month (%)", "YTD (%)", "6 Month (%)", "9 Month (%)", "1 Year (%)"]
+    performance_middle = [c for c in etf_performance_df.columns if c not in performance_front + performance_back]
+    etf_performance_df = etf_performance_df.reindex(columns=performance_front + performance_middle + performance_back)
+    if "MTD (%)" in etf_performance_df.columns:
+        etf_performance_df["MTD (%)"] = pd.to_numeric(etf_performance_df["MTD (%)"], errors="coerce")
+        etf_performance_df = etf_performance_df.sort_values(by=["MTD (%)", "Ticker"], ascending=[False, True], na_position="last").reset_index(drop=True)
 
     try:
         with pd.ExcelWriter(output_path, engine="openpyxl") as writer:
@@ -723,12 +1148,17 @@ def main():
             combined_matrix_export = pd.concat([price_row_df, matrix_export_df], ignore_index=True)
             combined_matrix_export.to_excel(writer, sheet_name="Matrix", index=False)
             etf_summary_df.to_excel(writer, sheet_name="ETF Summary", index=False)
+            etf_performance_df.to_excel(writer, sheet_name="ETF Performance", index=False)
             stock_summary_df.to_excel(writer, sheet_name="Stock Summary", index=False)
             raw_df.to_excel(writer, sheet_name="Raw Holdings", index=False)
             if theme_selection_df is not None:
                 theme_selection_df.to_excel(writer, sheet_name="Theme Selection", index=False)
             if failed_etfs:
                 pd.DataFrame([{"ETF_Code": k, "Error": v} for k, v in failed_etfs.items()]).to_excel(writer, sheet_name="Failed ETFs", index=False)
+
+        apply_etf_performance_formatting(output_path)
+        apply_etf_summary_formatting(output_path)
+        apply_matrix_formatting(output_path)
         
         print("\n================================================================================")
         print("ARTIFACT EXPORT MATRIX COMPLETED SUCCESSFULLY")

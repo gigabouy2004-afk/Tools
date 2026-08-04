@@ -2,21 +2,21 @@
 # -*- coding: utf-8 -*-
 
 """
-ETF Portfolio Mapping and Analysis Engine V6 - Robust Clean Extraction Layer
+ETF Portfolio Mapping and Analysis Engine V8
 
 Input modes:
 1. Direct ETF codes:
-   python ETF_Portfolio_Mapping_V6.py -t CHPS,PSI,AIVC,SMH
+    python ETF_Portfolio_Mapping_V8.py -t CHPS,PSI,AIVC,SMH
 
 2. ETF code file:
-   python ETF_Portfolio_Mapping_V6.py -f ETF_List.txt
+    python ETF_Portfolio_Mapping_V8.py -f ETF_List.txt
 
 3. Theme/classifier mode:
-   python ETF_Portfolio_Mapping_V6.py --theme "Europe,Defence" --classifier-file ETF_Master_Classification.csv
+    python ETF_Portfolio_Mapping_V8.py --theme "Europe,Defence" --classifier-file ETF_Master_Classification.csv
 
 The script generates a pure, completely agnostic extraction layer:
 - ETF x Company weighted matrix (Sorted by ETF coverage frequency and aggregate portfolio weight)
-- ETF summary (Constituent count, total assets parsed, price tracking)
+- ETF summary and performance comparison (LTP, AUM, Volume, Alpha, Beta, multi-window returns)
 - Stock summary (Global visibility counts and weight statistics across the universe)
 - Raw holdings data dump
 """
@@ -69,13 +69,22 @@ def parse_arguments():
 
     parser = argparse.ArgumentParser(
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
-        description="ETF Portfolio Mapping Engine V6 - Generic Data Extraction"
+        description="ETF Portfolio Mapping Engine V8 - ETF Mapping + Focus Pipeline"
     )
     parser.add_argument("-t", "--tickers", type=str, help="Comma-separated ETF tickers")
     parser.add_argument("-f", "--file", type=str, default=None, help="Path to a file containing ETF tickers")
     parser.add_argument("--theme", type=str, help="Comma-separated theme terms")
     parser.add_argument("--classifier-file", type=str, default="D:\\Tools\\StockCodeMaster\\03_ETF\\01-07-US_ETF_Classification_Mapping.csv", help="CSV file containing ETF classification data")
-    parser.add_argument("-o", "--output-dir", type=str, default="D:/TMP", help="Output directory")
+    parser.add_argument(
+        "-o",
+        "--output",
+        "--output-file",
+        "--output-dir",
+        dest="output",
+        type=str,
+        default=None,
+        help="Output filename (or path). If not provided, file is created in current working directory.",
+    )
     
     if len(sys.argv) == 1:
         parser.print_help()
@@ -560,6 +569,38 @@ def build_output_filename(args):
         return f"{safe_theme_name(args.theme)}_Portfolio-{date_tag}.xlsx"
     return f"ETFCode_PortfolioMapping-{date_tag}.xlsx"
 
+
+def resolve_output_path(cli_output, default_filename):
+    if cli_output is None:
+        return os.path.abspath(os.path.join(os.getcwd(), default_filename))
+
+    value = str(cli_output).strip()
+    if not value:
+        raise ValueError("Output filename cannot be empty.")
+
+    # If user passes only a filename, write to current working directory.
+    candidate = value if os.path.isabs(value) else os.path.join(os.getcwd(), value)
+    output_path = os.path.abspath(candidate)
+
+    if os.path.isdir(output_path):
+        raise ValueError(f"Output must be a file name/path, not a directory: {output_path}")
+
+    base_name = os.path.basename(output_path)
+    root_name, ext = os.path.splitext(base_name)
+    if not root_name:
+        raise ValueError("Output filename is invalid.")
+
+    if not ext:
+        output_path = output_path + ".xlsx"
+    elif ext.lower() != ".xlsx":
+        raise ValueError("Output file extension must be .xlsx")
+
+    parent_dir = os.path.dirname(output_path) or os.getcwd()
+    if not os.path.exists(parent_dir):
+        raise ValueError(f"Output directory does not exist: {parent_dir}")
+
+    return output_path
+
 def print_no_etf_message():
     print("\n" + "=" * 80 + "\n [CRITICAL CONFIGURATION FAULT] ETF UNIVERSE BLANK\n" + "=" * 80)
     print("\nNo tracking ETF data sources or matching inputs were supplied.")
@@ -769,86 +810,6 @@ def build_etf_performance_row(etf_ticker, benchmark_prices):
     }
 
 
-def apply_etf_performance_formatting(file_path):
-    workbook = openpyxl.load_workbook(file_path)
-    if "ETF Performance" not in workbook.sheetnames:
-        workbook.save(file_path)
-        return
-
-    worksheet = workbook["ETF Performance"]
-    if worksheet.max_row < 2:
-        workbook.save(file_path)
-        return
-
-    # Rebuild formatting deterministically on each run.
-    worksheet.conditional_formatting._cf_rules.clear()
-
-    headers = [worksheet.cell(row=1, column=i).value for i in range(1, worksheet.max_column + 1)]
-    column_numbers = {
-        str(name).strip(): index + 1
-        for index, name in enumerate(headers)
-        if name is not None
-    }
-
-    percentage_columns = [name for name in column_numbers if str(name).endswith("(%)")]
-
-    red_fill = PatternFill(fill_type="solid", fgColor="FFFF0000")
-    yellow_fill = PatternFill(fill_type="solid", fgColor="FFFFFF00")
-    green_fill = PatternFill(fill_type="solid", fgColor="FF92D050")
-
-    for column_name in percentage_columns:
-        column_number = column_numbers[column_name]
-        letter = openpyxl.utils.get_column_letter(column_number)
-        data_range = f"{letter}2:{letter}{worksheet.max_row}"
-
-        # Dynamic formula rules: these recalculate when rows are inserted/deleted.
-        worksheet.conditional_formatting.add(
-            data_range,
-            FormulaRule(
-                formula=[f"AND(ISNUMBER({letter}2),{letter}2=MAX({letter}:{letter}))"],
-                fill=red_fill,
-            ),
-        )
-        worksheet.conditional_formatting.add(
-            data_range,
-            FormulaRule(
-                formula=[f"AND(ISNUMBER({letter}2),{letter}2=LARGE({letter}:{letter},2),{letter}2<>MAX({letter}:{letter}))"],
-                fill=yellow_fill,
-            ),
-        )
-        worksheet.conditional_formatting.add(
-            data_range,
-            FormulaRule(
-                formula=[f"AND(ISNUMBER({letter}2),{letter}2=MIN({letter}:{letter}))"],
-                fill=green_fill,
-            ),
-        )
-
-    for row in range(2, worksheet.max_row + 1):
-        for name in percentage_columns:
-            worksheet.cell(row=row, column=column_numbers[name]).number_format = "0.00"
-
-        for name in ["LTP", "Beta", "Alpha (Ann. %)"]:
-            if name in column_numbers:
-                worksheet.cell(row=row, column=column_numbers[name]).number_format = "0.00"
-
-        for name in ["AUM (USD M)", "Last Trading Volume"]:
-            if name in column_numbers:
-                worksheet.cell(row=row, column=column_numbers[name]).number_format = "#,##0"
-
-    worksheet.freeze_panes = "A2"
-    worksheet.auto_filter.ref = f"A1:{openpyxl.utils.get_column_letter(worksheet.max_column)}{worksheet.max_row}"
-
-    for column_cells in worksheet.columns:
-        max_length = max(
-            len(str(cell.value)) if cell.value is not None else 0
-            for cell in column_cells
-        )
-        worksheet.column_dimensions[column_cells[0].column_letter].width = min(max(max_length + 2, 10), 45)
-
-    workbook.save(file_path)
-
-
 def _autosize_worksheet_columns(worksheet, min_width=10, max_width=45):
     for column_cells in worksheet.columns:
         max_length = max(
@@ -892,13 +853,58 @@ def _apply_dynamic_rank_rules(worksheet, column_number, first_data_row=2):
     )
 
 
-def apply_etf_summary_formatting(file_path):
+def apply_etf_performance_formatting(file_path):
     workbook = openpyxl.load_workbook(file_path)
-    if "ETF Summary" not in workbook.sheetnames:
+    if "ETF Performance" not in workbook.sheetnames:
         workbook.save(file_path)
         return
 
-    worksheet = workbook["ETF Summary"]
+    worksheet = workbook["ETF Performance"]
+    if worksheet.max_row < 2:
+        workbook.save(file_path)
+        return
+
+    worksheet.conditional_formatting._cf_rules.clear()
+
+    headers = [worksheet.cell(row=1, column=i).value for i in range(1, worksheet.max_column + 1)]
+    column_numbers = {
+        str(name).strip(): index + 1
+        for index, name in enumerate(headers)
+        if name is not None
+    }
+
+    percentage_columns = [name for name in column_numbers if str(name).endswith("(%)")]
+    for column_name in percentage_columns:
+        _apply_dynamic_rank_rules(worksheet, column_numbers[column_name], first_data_row=2)
+
+    for row in range(2, worksheet.max_row + 1):
+        for name in percentage_columns:
+            worksheet.cell(row=row, column=column_numbers[name]).number_format = "0.00"
+
+        for name in ["LTP", "Beta", "Alpha (Ann. %)"]:
+            if name in column_numbers:
+                worksheet.cell(row=row, column=column_numbers[name]).number_format = "0.00"
+
+        for name in ["AUM (USD M)", "Last Trading Volume"]:
+            if name in column_numbers:
+                worksheet.cell(row=row, column=column_numbers[name]).number_format = "#,##0"
+
+    worksheet.freeze_panes = "A2"
+    worksheet.auto_filter.ref = f"A1:{openpyxl.utils.get_column_letter(worksheet.max_column)}{worksheet.max_row}"
+    _autosize_worksheet_columns(worksheet)
+    workbook.save(file_path)
+
+
+def apply_etf_summary_formatting(file_path):
+    workbook = openpyxl.load_workbook(file_path)
+    if "ETF_Summary" in workbook.sheetnames:
+        worksheet = workbook["ETF_Summary"]
+    elif "ETF Summary" in workbook.sheetnames:
+        worksheet = workbook["ETF Summary"]
+    else:
+        workbook.save(file_path)
+        return
+
     if worksheet.max_row < 2:
         workbook.save(file_path)
         return
@@ -971,11 +977,17 @@ def apply_matrix_formatting(file_path):
     _autosize_worksheet_columns(worksheet)
     workbook.save(file_path)
 
-def main():
-    print("[LEGACY NOTICE] ETF_Portfolio_Mapping_V6.py is now legacy-maintenance only.")
-    print("[LEGACY NOTICE] Active feature development has moved to ETF_Portfolio_Mapping_V8.py.")
 
+def main():
     args = parse_arguments()
+
+    output_filename = build_output_filename(args)
+    try:
+        output_path = resolve_output_path(args.output, output_filename)
+    except Exception as e:
+        print(f"[CRITICAL ERR] Output file configuration error: {e}", file=sys.stderr)
+        sys.exit(1)
+
     combined_tickers = []
     theme_selection_df = None
 
@@ -985,10 +997,8 @@ def main():
         try: combined_tickers.extend(extract_tickers_from_file(args.file))
         except Exception as e: print(f"[CRITICAL ERR] Input configuration file path failed to read: {e}", file=sys.stderr); sys.exit(1)
     if args.theme:
-        try:
-            theme_list, theme_selection_df = extract_tickers_from_theme(args.classifier_file, args.theme)
-            combined_tickers.extend(theme_list)
-        except Exception as e: print(f"[CRITICAL ERR] Thematic scanning pipeline error: {e}", file=sys.stderr); sys.exit(1)
+        print("This input flag is still WIP")
+        sys.exit(0)
 
     unique_etfs = sorted(set(combined_tickers))
     if not unique_etfs:
@@ -1066,6 +1076,7 @@ def main():
     matrix_df = matrix_df.reindex(columns=unique_etfs, fill_value=0.0)
     matrix_df["ETF_Count"] = (matrix_df[unique_etfs] > 0).sum(axis=1)
     matrix_df["Total_Weight_Across_ETFs"] = round( matrix_df[unique_etfs].sum(axis=1) * 100,2)
+    matrix_df = matrix_df[(matrix_df["ETF_Count"] > 0) & (matrix_df["Total_Weight_Across_ETFs"] > 0)]
     matrix_df = matrix_df.sort_values(by=["ETF_Count", "Total_Weight_Across_ETFs"], ascending=[False, False])
     
     final_matrix_df = matrix_df.reset_index()
@@ -1083,7 +1094,7 @@ def main():
     etf_summary_df["Max_Holding_Weight"] *= 100
     etf_summary_df["ETF_Price"] = etf_summary_df["ETF_Code"].map(etf_prices_summary)
 
-    stock_summary_df = raw_df.groupby(["Company Ticker", "Company Name"]).agg(
+    stock_summary_df = raw_df.groupby(["Company Ticker", "Company Name", "Listed Exchange"]).agg(
         ETF_Count=("ETF_Code", "nunique"),
         Total_Weight_Across_ETFs=("Weight", "sum"),
         Avg_Weight_When_Present=("Weight", "mean"),
@@ -1092,6 +1103,14 @@ def main():
     stock_summary_df["Total_Weight_Across_ETFs"] *= 100
     stock_summary_df["Avg_Weight_When_Present"] *= 100
     stock_summary_df["Max_Weight_In_One_ETF"] *= 100
+    stock_summary_df = stock_summary_df[
+        (stock_summary_df["Total_Weight_Across_ETFs"] > 0)
+        & (stock_summary_df["Max_Weight_In_One_ETF"] > 0)
+    ]
+    stock_summary_df = stock_summary_df.rename(columns={"Company Ticker": "Stock Ticker", "Listed Exchange": "Exchange"})
+    stock_summary_df = stock_summary_df[
+        ["Stock Ticker", "Company Name", "Exchange", "ETF_Count", "Total_Weight_Across_ETFs", "Avg_Weight_When_Present", "Max_Weight_In_One_ETF"]
+    ]
     stock_summary_df = stock_summary_df.sort_values(by=["ETF_Count", "Total_Weight_Across_ETFs"], ascending=[False, False])
 
     print("\nBuilding ETF performance benchmark sheet (period returns, AUM, Volume, Alpha, Beta, LTP)...")
@@ -1123,9 +1142,12 @@ def main():
         etf_performance_df["MTD (%)"] = pd.to_numeric(etf_performance_df["MTD (%)"], errors="coerce")
         etf_performance_df = etf_performance_df.sort_values(by=["MTD (%)", "Ticker"], ascending=[False, True], na_position="last").reset_index(drop=True)
 
-    output_filename = build_output_filename(args)
-    output_path = os.path.abspath(os.path.join(args.output_dir, output_filename))
-    os.makedirs(args.output_dir, exist_ok=True)
+    etf_summary_enhanced_df = etf_summary_df.merge(
+        etf_performance_df,
+        left_on="ETF_Code",
+        right_on="Ticker",
+        how="left",
+    ).drop(columns=["Ticker"], errors="ignore")
 
     try:
         with pd.ExcelWriter(output_path, engine="openpyxl") as writer:
@@ -1141,16 +1163,16 @@ def main():
             })
             combined_matrix_export = pd.concat([price_row_df, matrix_export_df], ignore_index=True)
             combined_matrix_export.to_excel(writer, sheet_name="Matrix", index=False)
-            etf_summary_df.to_excel(writer, sheet_name="ETF Summary", index=False)
-            etf_performance_df.to_excel(writer, sheet_name="ETF Performance", index=False)
-            stock_summary_df.to_excel(writer, sheet_name="Stock Summary", index=False)
-            raw_df.to_excel(writer, sheet_name="Raw Holdings", index=False)
+            etf_summary_enhanced_df.to_excel(writer, sheet_name="ETF_Summary", index=False)
+            stock_summary_df.to_excel(writer, sheet_name="Stock_Summary", index=False)
+            raw_df.to_excel(writer, sheet_name="RAW_Holdings", index=False)
             if theme_selection_df is not None:
                 theme_selection_df.to_excel(writer, sheet_name="Theme Selection", index=False)
-            if failed_etfs:
-                pd.DataFrame([{"ETF_Code": k, "Error": v} for k, v in failed_etfs.items()]).to_excel(writer, sheet_name="Failed ETFs", index=False)
+            pd.DataFrame(
+                [{"ETF_Code": k, "Error": v} for k, v in failed_etfs.items()],
+                columns=["ETF_Code", "Error"],
+            ).to_excel(writer, sheet_name="FaILED_ETF", index=False)
 
-        apply_etf_performance_formatting(output_path)
         apply_etf_summary_formatting(output_path)
         apply_matrix_formatting(output_path)
         
