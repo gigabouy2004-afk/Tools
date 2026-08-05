@@ -69,6 +69,45 @@ python .\Live_Scanner_v19.py `
 
 Run `python .\Live_Scanner_v19.py --help` for every option.
 
+## Scalable CSV backtesting
+
+`V19_Backtest_Matrix.py` evaluates the Cartesian product of codes and dates
+without producing per-date workbooks. It downloads each symbol once for the
+full requested span, reuses the exact V19 qualification calculations using
+only candles before D, and adds the adjusted D opening price and opening-gap
+flag to the same CSV row.
+
+Several codes across several explicit dates:
+
+```powershell
+python .\V19_Backtest_Matrix.py `
+  -c AAPL MSFT NVDA `
+  -d 2024-05-15 2024-06-17 2024-07-15 `
+  -o D:\path\V19_Matrix.csv
+```
+
+Codes and dates from separate files (first column is read):
+
+```powershell
+python .\V19_Backtest_Matrix.py `
+  -i D:\path\NASDAQ_Codes.csv `
+  --dates-file D:\path\Backtest_Dates.csv `
+  -o D:\path\V19_NASDAQ_Matrix.csv
+```
+
+One code over every trading date in an inclusive range:
+
+```powershell
+python .\V19_Backtest_Matrix.py `
+  -c NVDA `
+  --date-range 2022-01-01 2026-07-31 `
+  -o D:\path\NVDA_All_Dates.csv
+```
+
+The range calendar defaults to `SPY` and can be changed with
+`--calendar-symbol`. Run `python .\V19_Backtest_Matrix.py --help` for all
+input, retry, pacing, stochastic-zone and overwrite options.
+
 ## Output workbook
 
 The workbook retains the five-sheet baseline contract:
@@ -88,4 +127,5 @@ Data`; invalid extraction rows remain visible in `Review` with an error code.
 ```powershell
 python -m unittest discover -s tests -p "test_*.py" -v
 python -m py_compile .\Live_Scanner_v19.py
+python -m py_compile .\V19_Backtest_Matrix.py
 ```
