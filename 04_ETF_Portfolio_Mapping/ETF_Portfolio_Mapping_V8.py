@@ -25,6 +25,7 @@ import os
 import sys
 import argparse
 import csv
+import json
 import re
 import importlib.util
 import urllib.request
@@ -39,9 +40,39 @@ from openpyxl.formatting.rule import FormulaRule
 from openpyxl.styles import PatternFill
 
 INTL_SUFFIX_CANDIDATES = [
-    ".T", ".HK", ".KS", ".KQ", ".AX", ".SW", ".PA", ".DE", ".L",
+    ".T", ".HK", ".KS", ".KQ", ".AX", ".ST", ".SW", ".PA", ".DE", ".L",
     ".TO", ".V", ".SI", ".MI", ".AS", ".SS", ".SZ", ".NS", ".BO",
 ]
+
+FOTO_PUBLIC_API = "https://jdkfnvgkfwotjlyovbrk.supabase.co/functions/v1/fund-public-api"
+TEMA_HOLDINGS_CSV = "https://temaetfs.com/hubfs/Website/Holdings/{ticker}-holdings.csv"
+TEMA_FUND_URL = "https://temaetfs.com/{ticker}"
+
+# Yahoo can retain the former security type when a ticker is reassigned.  LAZR
+# was reassigned to Tema's Photonics & Optical ETF in 2026, but Yahoo currently
+# reports the new fund name alongside quoteType=EQUITY.  Issuer-confirmed
+# identities take precedence over that field.
+ISSUER_CONFIRMED_ETFS = {"FOTO", "EUV", "LAZR"}
+ETF_INCEPTION_DATES = {
+    "LAZR": "2026-06-30",
+}
+
+BLOOMBERG_TO_YAHOO_SUFFIX = {
+    "US": "",
+    "UW": "",
+    "UN": "",
+    "UQ": "",
+    "GR": ".DE",
+    "JP": ".T",
+    "HK": ".HK",
+    "LN": ".L",
+    "FP": ".PA",
+    "SS": ".ST",
+    "TT": ".TWO",
+    "C1": ".SS",
+    "C2": ".SZ",
+    "SZ": ".SZ",
+}
 
 CURRENCY_SYMBOLS = {
     "USD": "$",
@@ -189,9 +220,75 @@ def fetch_company_metadata(ticker, company_name=None):
         formatted_market_cap = format_market_cap(market_cap, symbol)
         formatted_price = f"{symbol}{float(price):.2f}" if price != "N/A" else "N/A"
         resolution_status = "Exact" if str(resolved_ticker).upper() == str(ticker).upper() else "Resolved"
-        return ticker, resolved_ticker, formatted_market_cap, formatted_price, location, resolution_status
+        instrument_type, classification_basis = classify_instrument(ticker, info, company_name)
+        return (
+            ticker,
+            resolved_ticker,
+            formatted_market_cap,
+            formatted_price,
+            location,
+            resolution_status,
+            instrument_type,
+            classification_basis,
+        )
     except Exception:
-        return ticker, ticker, "N/A", "N/A", "Unknown", "Unresolved"
+        instrument_type, classification_basis = classify_instrument(ticker, {}, company_name)
+        return (
+            ticker,
+            ticker,
+            "N/A",
+            "N/A",
+            "Unknown",
+            "Unresolved",
+            instrument_type,
+            classification_basis,
+        )
+
+
+def classify_instrument(ticker, yahoo_info=None, company_name=None):
+    """Classify a holding without treating Yahoo quoteType as authoritative.
+
+    Ticker reuse can leave Yahoo's security type stale.  Curated issuer evidence
+    and an explicit fund name therefore outrank quoteType.
+    """
+    cleaned_ticker = str(ticker or "").strip().upper()
+    info = yahoo_info if isinstance(yahoo_info, dict) else {}
+
+    if cleaned_ticker in ISSUER_CONFIRMED_ETFS:
+        return "ETF", "Issuer-confirmed ETF ticker"
+
+    names = " ".join(
+        str(value or "")
+        for value in [
+            company_name,
+            info.get("longName"),
+            info.get("shortName"),
+            info.get("displayName"),
+        ]
+    ).upper()
+    if re.search(r"\bETF\b", names) or "EXCHANGE TRADED FUND" in names or "EXCHANGE-TRADED FUND" in names:
+        return "ETF", "Fund name"
+
+    quote_type = str(info.get("quoteType") or "").strip().upper()
+    if quote_type == "ETF":
+        return "ETF", "Yahoo quoteType"
+    if quote_type in {"MUTUALFUND", "MONEYMARKET"}:
+        return "Fund", "Yahoo quoteType"
+    if quote_type == "EQUITY":
+        return "Stock", "Yahoo quoteType"
+    return "Unknown", "Insufficient metadata"
+
+
+def partition_holding_views(raw_holdings):
+    """Separate company, listed-stock, and nested-fund reporting views."""
+    instrument_types = raw_holdings["Instrument Type"].fillna("Unknown")
+    nested_fund_mask = instrument_types.isin(["ETF", "Fund"])
+    private_or_other_mask = instrument_types.isin(["Private Company", "Cash"])
+    return (
+        raw_holdings.loc[~nested_fund_mask].copy(),
+        raw_holdings.loc[~nested_fund_mask & ~private_or_other_mask].copy(),
+        raw_holdings.loc[nested_fund_mask].copy(),
+    )
 
 
 def _ticker_has_price_history(ticker):
@@ -240,7 +337,27 @@ def _normalize_weight(raw_weight):
         return 0.0
 
 
-def _upsert_holding(holdings_dict, ticker, name, weight):
+def _percentage_points_to_weight(raw_weight):
+    """Convert an issuer field expressed in percentage points to a fraction."""
+    try:
+        if raw_weight is None or pd.isna(raw_weight):
+            return 0.0
+        if isinstance(raw_weight, str):
+            raw_weight = raw_weight.replace("%", "").replace(",", "").strip()
+        return max(0.0, float(raw_weight) / 100.0)
+    except Exception:
+        return 0.0
+
+
+def _upsert_holding(
+    holdings_dict,
+    ticker,
+    name,
+    weight,
+    source_ticker=None,
+    instrument_type=None,
+    classification_basis=None,
+):
     t_key = str(ticker).strip().upper()
     if not t_key or t_key == "NAN":
         return
@@ -253,6 +370,9 @@ def _upsert_holding(holdings_dict, ticker, name, weight):
             "Company Ticker": t_key,
             "Company Name": str(name).strip() if name else t_key,
             "Weight": w,
+            "Source Ticker": str(source_ticker or ticker).strip().upper(),
+            "Instrument Type": instrument_type,
+            "Classification Basis": classification_basis,
         }
 
 
@@ -264,6 +384,248 @@ def _read_html_tables_with_timeout(url, timeout_seconds=8):
         return pd.read_html(StringIO(html))
     except Exception:
         return []
+
+
+def _read_url_text(url, timeout_seconds=12, accept="text/html,application/json"):
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "Mozilla/5.0",
+            "Accept": accept,
+        },
+    )
+    with urllib.request.urlopen(req, timeout=timeout_seconds) as resp:
+        return resp.read().decode("utf-8", errors="ignore")
+
+
+def _normalize_issuer_ticker(raw_ticker):
+    value = str(raw_ticker or "").strip().upper()
+    if not value or value in {"N/A", "NONE", "NAN", "CASH&OTHER"}:
+        return ""
+
+    # Normalize exchange-prefixed and Bloomberg-style labels while preserving
+    # ordinary Yahoo-compatible tickers such as BRK.B and RDS-A.
+    if ":" in value:
+        value = value.split(":", 1)[1].strip()
+    parts = value.split()
+    if len(parts) == 2 and parts[1] in BLOOMBERG_TO_YAHOO_SUFFIX:
+        value = parts[0] + BLOOMBERG_TO_YAHOO_SUFFIX[parts[1]]
+    return value if is_valid_ticker_symbol(value) else ""
+
+
+def _select_canonical_company_name(names, fallback_ticker=""):
+    candidates = []
+    for raw_name in names:
+        if raw_name is None or pd.isna(raw_name):
+            continue
+        name = str(raw_name).strip()
+        if name and name.upper() not in {"NAN", "NONE"}:
+            candidates.append(name)
+
+    if not candidates:
+        return str(fallback_ticker).strip().upper()
+
+    # Prefer readable issuer names over all-caps security descriptions and
+    # generic instrument suffixes such as "COMMON STOCK".
+    return min(
+        candidates,
+        key=lambda name: (
+            name == name.upper(),
+            "COMMON STOCK" in name.upper(),
+            len(name),
+            name.upper(),
+        ),
+    )
+
+
+def fetch_holdings_from_foto_issuer(etf_ticker):
+    """Return FOTO's issuer-reported underlying company exposures.
+
+    FOTO holds equities directly and through receive/payable total-return-swap
+    legs.  The receive leg represents the underlying equity exposure; the
+    payable leg and cash/T-bill collateral are financing instruments and must
+    not be counted as separate portfolio companies.
+    """
+    if str(etf_ticker).strip().upper() != "FOTO":
+        return []
+
+    try:
+        url = f"{FOTO_PUBLIC_API}?ticker=FOTO&view=all"
+        payload = json.loads(_read_url_text(url, accept="application/json"))
+        raw_holdings = payload.get("holdings") or []
+    except Exception:
+        return []
+
+    aggregated = {}
+    for item in raw_holdings:
+        if not isinstance(item, dict):
+            continue
+
+        name = str(item.get("security_name") or "").strip()
+        upper_name = name.upper()
+        if upper_name.startswith("PAYB "):
+            continue
+
+        raw_ticker = item.get("security_ticker")
+        receive_match = re.match(
+            r"^RECV\s+FOTO\s+TRS\s+([A-Z0-9.\-]+)\s+EQ$",
+            upper_name,
+        )
+        if receive_match:
+            raw_ticker = receive_match.group(1)
+
+        ticker = _normalize_issuer_ticker(raw_ticker)
+        if not ticker or ticker == "TLDR" or "CASH" in upper_name:
+            continue
+
+        weight = _percentage_points_to_weight(item.get("weight"))
+        if weight <= 0:
+            continue
+
+        if ticker not in aggregated:
+            aggregated[ticker] = {
+                "Company Ticker": ticker,
+                "Company Name": ticker if receive_match else (name or ticker),
+                "Weight": 0.0,
+            }
+        aggregated[ticker]["Weight"] += weight
+        if not receive_match and name:
+            aggregated[ticker]["Company Name"] = name
+
+    return list(aggregated.values())
+
+
+def fetch_holdings_from_corgi_issuer(etf_ticker):
+    """Read the complete holdings snapshot embedded in a Corgi fund page."""
+    cleaned_ticker = str(etf_ticker).strip().upper()
+    if cleaned_ticker != "EUV":
+        return []
+
+    try:
+        html = _read_url_text(f"https://corgifunds.com/{cleaned_ticker.lower()}")
+    except Exception:
+        return []
+
+    holdings_dict = {}
+    object_pattern = re.compile(r'\{[^{}]*"security_ticker"[^{}]*"weight_pct"[^{}]*\}')
+    for match in object_pattern.finditer(html):
+        try:
+            item = json.loads(match.group(0))
+        except (TypeError, ValueError, json.JSONDecodeError):
+            continue
+
+        ticker = _normalize_issuer_ticker(item.get("security_ticker"))
+        if not ticker:
+            continue
+        _upsert_holding(
+            holdings_dict,
+            ticker,
+            item.get("security_name") or ticker,
+            _percentage_points_to_weight(item.get("weight_pct")),
+        )
+
+    return list(holdings_dict.values())
+
+
+def fetch_holdings_from_tema_issuer(etf_ticker):
+    """Read Tema's complete daily holdings file for issuer-confirmed ETFs."""
+    cleaned_ticker = str(etf_ticker).strip().upper()
+    if cleaned_ticker != "LAZR":
+        return []
+
+    try:
+        csv_text = _read_url_text(
+            TEMA_HOLDINGS_CSV.format(ticker=cleaned_ticker),
+            accept="text/csv",
+        )
+        frame = pd.read_csv(StringIO(csv_text))
+    except Exception:
+        return []
+
+    holdings_dict = {}
+    for _, row in frame.iterrows():
+        is_cash = str(row.get("is_cash") or "").strip().lower() in {"1", "true", "yes", "y"}
+        if is_cash:
+            continue
+
+        source_ticker = str(row.get("ticker") or "").strip().upper()
+        name = str(row.get("proper_name") or source_ticker).strip()
+        instrument_type = "Stock"
+        classification_basis = "Tema issuer holdings"
+
+        if "SPV" in source_ticker or "SPV" in name.upper():
+            # Preserve private-company exposure in the raw/company views while
+            # avoiding a doomed Yahoo lookup for a non-exchange symbol.
+            ticker = re.sub(r"[^A-Z0-9]+", "-", source_ticker).strip("-")[:20]
+            instrument_type = "Private Company"
+        else:
+            ticker = _normalize_issuer_ticker(source_ticker)
+
+        if not ticker:
+            continue
+
+        _upsert_holding(
+            holdings_dict,
+            ticker,
+            name or ticker,
+            row.get("percent_of_nav"),
+            source_ticker=source_ticker,
+            instrument_type=instrument_type,
+            classification_basis=classification_basis,
+        )
+
+    return list(holdings_dict.values())
+
+
+def fetch_tema_fund_metrics(etf_ticker):
+    """Return current issuer metrics that Yahoo may corrupt after ticker reuse."""
+    cleaned_ticker = str(etf_ticker).strip().upper()
+    if cleaned_ticker != "LAZR":
+        return {}
+
+    try:
+        html = _read_url_text(TEMA_FUND_URL.format(ticker=cleaned_ticker.lower()))
+    except Exception:
+        return {}
+
+    def numeric_match(pattern):
+        match = re.search(pattern, html, flags=re.IGNORECASE | re.DOTALL)
+        if not match:
+            return None
+        try:
+            return float(match.group(1).replace(",", ""))
+        except (TypeError, ValueError):
+            return None
+
+    aum = numeric_match(
+        r"<span>\s*AUM\s*</span>.*?<div[^>]*class=[\"']col-details[\"'][^>]*>\s*\$([\d,.]+)"
+    )
+    nav = numeric_match(r"<span>\s*NAV\s*</span>\s*<span>\s*\$([\d,.]+)")
+    market_price = numeric_match(r"<span>\s*Market Price\s*</span>\s*<span>\s*\$([\d,.]+)")
+    as_of_match = re.search(
+        r"LAZR NAV / Market Price.*?As of\s+([A-Za-z]+\s+\d{1,2},\s+\d{4})",
+        html,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+
+    return {
+        "Name": "Tema Photonics & Optical ETF",
+        "AUM (USD M)": round(aum / 1_000_000.0, 2) if aum is not None else None,
+        "NAV": nav,
+        "Market Price": market_price,
+        "As Of": as_of_match.group(1) if as_of_match else None,
+    }
+
+
+def fetch_holdings_from_issuer(etf_ticker):
+    cleaned_ticker = str(etf_ticker).strip().upper()
+    if cleaned_ticker == "FOTO":
+        return fetch_holdings_from_foto_issuer(cleaned_ticker)
+    if cleaned_ticker == "EUV":
+        return fetch_holdings_from_corgi_issuer(cleaned_ticker)
+    if cleaned_ticker == "LAZR":
+        return fetch_holdings_from_tema_issuer(cleaned_ticker)
+    return []
 
 
 def fetch_holdings_from_fmp(etf_ticker):
@@ -419,27 +781,49 @@ def fetch_etf_market_and_holdings(etf_ticker):
     try:
         ticker_obj = yf.Ticker(cleaned_ticker)
         info = ticker_obj.info
+        instrument_type, classification_basis = classify_instrument(cleaned_ticker, info)
+        print(
+            f"  [IDENTITY] {cleaned_ticker} -> {instrument_type} "
+            f"({classification_basis}; Yahoo quoteType={info.get('quoteType') or 'N/A'})"
+        )
         current_price = info.get("currentPrice") or info.get("navPrice") or info.get("regularMarketPrice") or info.get("previousClose") or "N/A"
         if isinstance(current_price, (int, float)):
             current_price = round(current_price, 2)
         etf_currency = info.get("currency", "")
         symbol = get_currency_symbol(etf_currency)
-        formatted_etf_price = f"{symbol}{float(current_price):.4f}" if current_price != "N/A" else "Error"
+        formatted_etf_price = f"{symbol}{float(current_price):.2f}" if current_price != "N/A" else "Error"
         
         holdings_dict = {}
         source_counts = {
             "YF_funds_data": 0,
             "YF_get_holdings": 0,
             "YF_holdings": 0,
+            "Issuer": 0,
             "FMP": 0,
             "StockAnalysis": 0,
             "ETFDB": 0,
             "ETFTrends": 0,
         }
+
+        # Prefer a complete, same-day issuer snapshot when one is available.
+        # This prevents a top-10 Yahoo response from becoming the final universe
+        # and avoids blending stale rows from several different snapshots.
+        issuer_holdings = fetch_holdings_from_issuer(cleaned_ticker)
+        for holding in issuer_holdings:
+            _upsert_holding(
+                holdings_dict,
+                holding.get("Company Ticker"),
+                holding.get("Company Name"),
+                holding.get("Weight", 0.0),
+                source_ticker=holding.get("Source Ticker"),
+                instrument_type=holding.get("Instrument Type"),
+                classification_basis=holding.get("Classification Basis"),
+            )
+        source_counts["Issuer"] = len(holdings_dict)
         
         # Discovery Method A: Standard fund_data endpoint sweep
         before_count = len(holdings_dict)
-        if hasattr(ticker_obj, "funds_data") and ticker_obj.funds_data is not None:
+        if not issuer_holdings and hasattr(ticker_obj, "funds_data") and ticker_obj.funds_data is not None:
             for source_attr in ["top_holdings", "equity_holdings"]:
                 if hasattr(ticker_obj.funds_data, source_attr):
                     holdings_df = getattr(ticker_obj.funds_data, source_attr)
@@ -493,32 +877,34 @@ def fetch_etf_market_and_holdings(etf_ticker):
         source_counts["YF_holdings"] = max(0, len(holdings_dict) - before_count)
 
         # Discovery Method D: Free FMP endpoint (best-effort, no hard dependency)
-        before_count = len(holdings_dict)
-        fmp_holdings = fetch_holdings_from_fmp(cleaned_ticker)
-        for holding in fmp_holdings:
-            _upsert_holding(
-                holdings_dict,
-                holding.get("Company Ticker"),
-                holding.get("Company Name"),
-                holding.get("Weight", 0.0),
-            )
-        source_counts["FMP"] = max(0, len(holdings_dict) - before_count)
+        if not issuer_holdings:
+            before_count = len(holdings_dict)
+            fmp_holdings = fetch_holdings_from_fmp(cleaned_ticker)
+            for holding in fmp_holdings:
+                _upsert_holding(
+                    holdings_dict,
+                    holding.get("Company Ticker"),
+                    holding.get("Company Name"),
+                    holding.get("Weight", 0.0),
+                )
+            source_counts["FMP"] = max(0, len(holdings_dict) - before_count)
 
         # Discovery Method E: StockAnalysis holdings table scrape (best-effort fallback)
-        before_count = len(holdings_dict)
-        sa_holdings = fetch_holdings_from_stockanalysis(cleaned_ticker)
-        for holding in sa_holdings:
-            _upsert_holding(
-                holdings_dict,
-                holding.get("Company Ticker"),
-                holding.get("Company Name"),
-                holding.get("Weight", 0.0),
-            )
-        source_counts["StockAnalysis"] = max(0, len(holdings_dict) - before_count)
+        if not issuer_holdings:
+            before_count = len(holdings_dict)
+            sa_holdings = fetch_holdings_from_stockanalysis(cleaned_ticker)
+            for holding in sa_holdings:
+                _upsert_holding(
+                    holdings_dict,
+                    holding.get("Company Ticker"),
+                    holding.get("Company Name"),
+                    holding.get("Weight", 0.0),
+                )
+            source_counts["StockAnalysis"] = max(0, len(holdings_dict) - before_count)
 
         # Discovery Method F/G: Additional free table sources for deeper constituent coverage.
         # Only trigger when current count is still shallow to control latency.
-        if len(holdings_dict) < 15:
+        if not issuer_holdings and len(holdings_dict) < 15:
             before_count = len(holdings_dict)
             etfdb_holdings = fetch_holdings_from_etfdb(cleaned_ticker)
             for holding in etfdb_holdings:
@@ -530,7 +916,7 @@ def fetch_etf_market_and_holdings(etf_ticker):
                 )
             source_counts["ETFDB"] = max(0, len(holdings_dict) - before_count)
 
-        if len(holdings_dict) < 15:
+        if not issuer_holdings and len(holdings_dict) < 15:
             before_count = len(holdings_dict)
             etftrends_holdings = fetch_holdings_from_etftrends(cleaned_ticker)
             for holding in etftrends_holdings:
@@ -549,6 +935,7 @@ def fetch_etf_market_and_holdings(etf_ticker):
             f"YF_funds={source_counts['YF_funds_data']}, "
             f"YF_get={source_counts['YF_get_holdings']}, "
             f"YF_raw={source_counts['YF_holdings']}, "
+            f"Issuer={source_counts['Issuer']}, "
             f"FMP={source_counts['FMP']}, "
             f"StockAnalysis={source_counts['StockAnalysis']}, "
             f"ETFDB={source_counts['ETFDB']}, "
@@ -679,6 +1066,11 @@ def fetch_price_history_series(ticker):
 
     history.index = pd.to_datetime(history.index).tz_localize(None)
     prices = pd.to_numeric(history["Close"], errors="coerce").dropna().sort_index()
+    inception_date = ETF_INCEPTION_DATES.get(str(ticker).strip().upper())
+    if inception_date:
+        inception_timestamp = pd.Timestamp(inception_date)
+        history = history.loc[history.index >= inception_timestamp].copy()
+        prices = prices.loc[prices.index >= inception_timestamp]
     if prices.empty:
         return ticker_obj, None, history
 
@@ -700,10 +1092,6 @@ def calculate_price_performance(prices):
         position = prices.index.searchsorted(pd.Timestamp(date_value), side="left") - 1
         return position if position >= 0 else None
 
-    def index_on_or_after(date_value):
-        position = prices.index.searchsorted(pd.Timestamp(date_value), side="left")
-        return position if position < len(prices) else None
-
     def return_between(start_date, end_date=None, use_previous_close=False):
         end_date = last_date if end_date is None else pd.Timestamp(end_date)
 
@@ -711,9 +1099,6 @@ def calculate_price_performance(prices):
             start_index = index_before(start_date)
         else:
             start_index = index_on_or_before(start_date)
-
-        if start_index is None:
-            start_index = index_on_or_after(start_date)
 
         end_index = index_on_or_before(end_date)
         if start_index is None or end_index is None or end_index <= start_index:
@@ -824,11 +1209,15 @@ def build_etf_performance_row(etf_ticker, benchmark_prices):
 
     performance = calculate_price_performance(prices)
     risk_metrics = compute_etf_risk_metrics(prices, benchmark_prices)
+    cleaned_ticker = str(etf_ticker).strip().upper()
+    issuer_metrics = fetch_tema_fund_metrics(cleaned_ticker)
 
     return {
-        "Ticker": str(etf_ticker).strip().upper(),
-        "Name": str(info.get("longName") or info.get("shortName") or "").strip(),
-        "AUM (USD M)": get_etf_aum_usd_m(ticker_obj, info),
+        "Ticker": cleaned_ticker,
+        "Name": issuer_metrics.get("Name") or str(info.get("longName") or info.get("shortName") or "").strip(),
+        "AUM (USD M)": issuer_metrics.get("AUM (USD M)")
+        if issuer_metrics.get("AUM (USD M)") is not None
+        else get_etf_aum_usd_m(ticker_obj, info),
         "Last Trading Volume": get_latest_trading_volume(history),
         "LTP": performance.pop("LTP", None),
         **risk_metrics,
@@ -957,9 +1346,73 @@ def apply_etf_summary_formatting(file_path):
     for row in range(2, worksheet.max_row + 1):
         if "Holding_Count" in column_numbers:
             worksheet.cell(row=row, column=column_numbers["Holding_Count"]).number_format = "#,##0"
-        for name in ["Total_Holding_Weight", "Avg_Holding_Weight", "Max_Holding_Weight"]:
+        for name in [
+            "Total_Holding_Weight",
+            "Avg_Holding_Weight",
+            "Max_Holding_Weight",
+            "LTP",
+            "Beta",
+            "Alpha (Ann. %)",
+        ]:
             if name in column_numbers:
                 worksheet.cell(row=row, column=column_numbers[name]).number_format = "0.00"
+        for name in [name for name in column_numbers if str(name).endswith("(%)")]:
+            worksheet.cell(row=row, column=column_numbers[name]).number_format = "0.00"
+        if "AUM (USD M)" in column_numbers:
+            worksheet.cell(row=row, column=column_numbers["AUM (USD M)"]).number_format = "#,##0.00"
+        if "Last Trading Volume" in column_numbers:
+            worksheet.cell(row=row, column=column_numbers["Last Trading Volume"]).number_format = "#,##0"
+
+    worksheet.freeze_panes = "A2"
+    worksheet.auto_filter.ref = f"A1:{openpyxl.utils.get_column_letter(worksheet.max_column)}{worksheet.max_row}"
+    _autosize_worksheet_columns(worksheet)
+    workbook.save(file_path)
+
+
+def apply_stock_summary_formatting(file_path):
+    workbook = openpyxl.load_workbook(file_path)
+    if "Stock_Summary" not in workbook.sheetnames:
+        workbook.save(file_path)
+        return
+
+    worksheet = workbook["Stock_Summary"]
+    headers = [worksheet.cell(row=1, column=i).value for i in range(1, worksheet.max_column + 1)]
+    column_numbers = {
+        str(name).strip(): index + 1
+        for index, name in enumerate(headers)
+        if name is not None
+    }
+
+    for row in range(2, worksheet.max_row + 1):
+        if "ETF_Count" in column_numbers:
+            worksheet.cell(row=row, column=column_numbers["ETF_Count"]).number_format = "#,##0"
+        for name in ["Total_Weight_Across_ETFs", "Avg_Weight_When_Present", "Max_Weight_In_One_ETF"]:
+            if name in column_numbers:
+                worksheet.cell(row=row, column=column_numbers[name]).number_format = "0.00"
+
+    worksheet.freeze_panes = "A2"
+    worksheet.auto_filter.ref = f"A1:{openpyxl.utils.get_column_letter(worksheet.max_column)}{worksheet.max_row}"
+    _autosize_worksheet_columns(worksheet)
+    workbook.save(file_path)
+
+
+def apply_raw_holdings_formatting(file_path, sheet_name="RAW_Holdings"):
+    workbook = openpyxl.load_workbook(file_path)
+    if sheet_name not in workbook.sheetnames:
+        workbook.save(file_path)
+        return
+
+    worksheet = workbook[sheet_name]
+    headers = [worksheet.cell(row=1, column=i).value for i in range(1, worksheet.max_column + 1)]
+    column_numbers = {
+        str(name).strip(): index + 1
+        for index, name in enumerate(headers)
+        if name is not None
+    }
+
+    if "Weight" in column_numbers:
+        for row in range(2, worksheet.max_row + 1):
+            worksheet.cell(row=row, column=column_numbers["Weight"]).number_format = "0.00%"
 
     worksheet.freeze_panes = "A2"
     worksheet.auto_filter.ref = f"A1:{openpyxl.utils.get_column_letter(worksheet.max_column)}{worksheet.max_row}"
@@ -1002,6 +1455,24 @@ def apply_matrix_formatting(file_path):
     worksheet.auto_filter.ref = f"A1:{openpyxl.utils.get_column_letter(worksheet.max_column)}{worksheet.max_row}"
     _autosize_worksheet_columns(worksheet)
     workbook.save(file_path)
+
+
+def sort_etf_summary_by_mtd(etf_summary_df):
+    result = etf_summary_df.copy()
+    if "MTD (%)" not in result.columns:
+        return result
+
+    result["MTD (%)"] = pd.to_numeric(result["MTD (%)"], errors="coerce")
+    tie_breakers = ["MTD (%)"]
+    ascending = [False]
+    if "ETF_Code" in result.columns:
+        tie_breakers.append("ETF_Code")
+        ascending.append(True)
+    return result.sort_values(
+        by=tie_breakers,
+        ascending=ascending,
+        na_position="last",
+    ).reset_index(drop=True)
 
 
 def main():
@@ -1054,6 +1525,9 @@ def main():
                 "Company Ticker": holding["Company Ticker"],
                 "Company Name": holding["Company Name"],
                 "Weight": holding["Weight"],
+                "Source Ticker": holding.get("Source Ticker", holding["Company Ticker"]),
+                "Instrument Type": holding.get("Instrument Type"),
+                "Classification Basis": holding.get("Classification Basis"),
             })
 
     if not master_holdings_records:
@@ -1065,20 +1539,46 @@ def main():
     raw_df = pd.DataFrame(master_holdings_records)
     raw_df["Company Ticker"] = raw_df["Company Ticker"].astype(str).str.upper().str.strip()
     raw_df["Company Name"] = raw_df["Company Name"].fillna(raw_df["Company Ticker"]).astype(str).str.strip()
-    raw_df["Source Ticker"] = raw_df["Company Ticker"]
+    canonical_company_names = {
+        ticker: _select_canonical_company_name(group["Company Name"], ticker)
+        for ticker, group in raw_df.groupby("Company Ticker", sort=False)
+    }
+    raw_df["Company Name"] = raw_df["Company Ticker"].map(canonical_company_names)
     
-    # Filter the tickers to isolate legitimate corporate tickers
-    unique_company_tickers = sorted([t for t in raw_df["Company Ticker"].unique().tolist() if t and t != "NAN" and is_valid_ticker_symbol(t)])
+    # Private/SPV rows remain visible but are not sent through Yahoo's public-
+    # security resolver.
+    metadata_rows = raw_df.loc[~raw_df["Instrument Type"].isin(["Private Company", "Cash"])]
+    unique_company_tickers = sorted([
+        t
+        for t in metadata_rows["Company Ticker"].unique().tolist()
+        if t and t != "NAN" and is_valid_ticker_symbol(t)
+    ])
     print(f"\nParallel background threading online. Pulling fundamental layers for {len(unique_company_tickers)} stocks...")
     resolved_ticker_map = {}
     resolution_status_map = {}
+    instrument_type_map = {}
+    classification_basis_map = {}
     company_metadata = {}
     with ThreadPoolExecutor(max_workers=15) as executor:
-        future_to_ticker = {executor.submit(fetch_company_metadata, ticker): ticker for ticker in unique_company_tickers}
+        future_to_ticker = {
+            executor.submit(fetch_company_metadata, ticker, canonical_company_names.get(ticker)): ticker
+            for ticker in unique_company_tickers
+        }
         for i, future in enumerate(as_completed(future_to_ticker), 1):
-            ticker, resolved_ticker, market_cap, price, location, resolution_status = future.result()
+            (
+                ticker,
+                resolved_ticker,
+                market_cap,
+                price,
+                location,
+                resolution_status,
+                instrument_type,
+                classification_basis,
+            ) = future.result()
             resolved_ticker_map[ticker] = resolved_ticker
             resolution_status_map[ticker] = resolution_status
+            instrument_type_map[ticker] = instrument_type
+            classification_basis_map[ticker] = classification_basis
             company_metadata[resolved_ticker] = {"Market Cap": market_cap, "LTP": price, "Location": location}
             if i % 10 == 0 or i == len(unique_company_tickers):
                 print(f"  Progress: Aligned context metadata for {i}/{len(unique_company_tickers)} assets.")
@@ -1092,8 +1592,24 @@ def main():
     raw_df["Company Market Cap"] = raw_df["Resolved Ticker"].map(lambda t: company_metadata.get(t, {}).get("Market Cap", "N/A"))
     raw_df["Company LTP"] = raw_df["Resolved Ticker"].map(lambda t: company_metadata.get(t, {}).get("LTP", "N/A"))
 
+    declared_types = raw_df["Instrument Type"].fillna("").astype(str).str.strip()
+    declared_bases = raw_df["Classification Basis"].fillna("").astype(str).str.strip()
+    raw_df["Instrument Type"] = declared_types.where(
+        declared_types.ne(""),
+        raw_df["Company Ticker"].map(lambda t: instrument_type_map.get(t, "Unknown")),
+    )
+    raw_df["Classification Basis"] = declared_bases.where(
+        declared_bases.ne(""),
+        raw_df["Company Ticker"].map(lambda t: classification_basis_map.get(t, "Insufficient metadata")),
+    )
+
+    # A fund held by another fund is retained in RAW_Holdings and
+    # Nested_Funds, but must not be presented as a company in Matrix or
+    # Stock_Summary.  Look-through expansion is intentionally not automatic.
+    company_holdings_df, stock_holdings_df, nested_funds_df = partition_holding_views(raw_df)
+
     print("\nEngineering and pivoting baseline allocation tracking cross-tabulation matrix...")
-    matrix_df = raw_df.pivot_table(
+    matrix_df = company_holdings_df.pivot_table(
         index=["Company Name", "Company Ticker", "Listed Exchange", "Company Market Cap", "Company LTP"],
         columns="ETF_Code",
         values="Weight",
@@ -1121,7 +1637,7 @@ def main():
     etf_summary_df["Max_Holding_Weight"] *= 100
     etf_summary_df["ETF_Price"] = etf_summary_df["ETF_Code"].map(etf_prices_summary)
 
-    stock_summary_df = raw_df.groupby(["Company Ticker", "Company Name", "Listed Exchange"]).agg(
+    stock_summary_df = stock_holdings_df.groupby(["Company Ticker", "Company Name", "Listed Exchange"]).agg(
         ETF_Count=("ETF_Code", "nunique"),
         Total_Weight_Across_ETFs=("Weight", "sum"),
         Avg_Weight_When_Present=("Weight", "mean"),
@@ -1175,6 +1691,7 @@ def main():
         right_on="Ticker",
         how="left",
     ).drop(columns=["Ticker"], errors="ignore")
+    etf_summary_enhanced_df = sort_etf_summary_by_mtd(etf_summary_enhanced_df)
 
     try:
         with pd.ExcelWriter(output_path, engine="openpyxl") as writer:
@@ -1220,10 +1737,18 @@ def main():
                 "Source Ticker",
                 "Resolved Ticker",
                 "Resolution Status",
+                "Instrument Type",
+                "Classification Basis",
             ]
             raw_holdings_export_df = raw_holdings_export_df.reindex(columns=[
                 col for col in raw_holdings_columns if col in raw_holdings_export_df.columns
             ])
+            nested_funds_export_df = nested_funds_df.rename(columns={
+                "Company Ticker": "Stock Ticker",
+                "Listed Exchange": "Exchange",
+                "Company Market Cap": "Market Cap",
+                "Company LTP": "Price",
+            }).reindex(columns=raw_holdings_export_df.columns)
 
             print("  [LAYOUT] Matrix columns -> " + " | ".join(combined_matrix_export.columns.tolist()))
             print("  [LAYOUT] RAW_Holdings columns -> " + " | ".join(raw_holdings_export_df.columns.tolist()))
@@ -1232,6 +1757,7 @@ def main():
             etf_summary_enhanced_df.to_excel(writer, sheet_name="ETF_Summary", index=False)
             stock_summary_df.to_excel(writer, sheet_name="Stock_Summary", index=False)
             raw_holdings_export_df.to_excel(writer, sheet_name="RAW_Holdings", index=False)
+            nested_funds_export_df.to_excel(writer, sheet_name="Nested_Funds", index=False)
             if theme_selection_df is not None:
                 theme_selection_df.to_excel(writer, sheet_name="Theme Selection", index=False)
             pd.DataFrame(
@@ -1240,6 +1766,9 @@ def main():
             ).to_excel(writer, sheet_name="FaILED_ETF", index=False)
 
         apply_etf_summary_formatting(output_path)
+        apply_stock_summary_formatting(output_path)
+        apply_raw_holdings_formatting(output_path)
+        apply_raw_holdings_formatting(output_path, sheet_name="Nested_Funds")
         apply_matrix_formatting(output_path)
         
         print("\n================================================================================")
@@ -1248,7 +1777,7 @@ def main():
         print(f"  File Target Path : {output_path}")
         print(f"  Unique ETFs      : {len(unique_etfs)} parsed ({len(failed_etfs)} errors noted)")
         print(f"  List of Unique ETFs : {list(unique_etfs)} ")
-        print(f"  Unique Companies : {len(unique_company_tickers)} entities cross-mapped safely.")
+        print(f"  Public Securities: {len(unique_company_tickers)} entities cross-mapped safely.")
         print("================================================================================")
         
     except Exception as e:
